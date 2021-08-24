@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES & DESENHOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/5tX4y4SF/ANIMES-DESENHOS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1FRXTtizvgBxrErz3WFvRLwm87nvmk8qx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/ANIMESEDESENHOS.txtx</externallink>
 <fanart>https://i.postimg.cc/W1Z7Drh5/fanartanimesedesenhos.jpg</fanart>
 <info>[B][COLOR yellow]ABA COM SELEÇÃO SOMENTE DE ANIMES E DESENHOS DE TODO O GENERO E GOSTO[/COLOR][/B]</info>
 </channels>
