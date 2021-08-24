@@ -2,16 +2,16 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE [COLOR yellow]AÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/dQ4qyxDm/CINEONLINEA-O.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1L4W98OtLARl_hBpuoRFTtNXR5zbogfS4</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEA%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/YqWF87M9/fanartcineonlinea-o.jpg</fanart>
-<info>COLETÂNEA COM OS MELHORES FILMES DE AÇÃO,GRANDES SUCESSOS DO CINEMA INTERNACIONAL SERÃO ADICIONADOS QUI</info>
+<info>COLETÂNEA COM OS MELHORES FILMES DE AÇÃO,GRANDES SUCESSOS DO CINEMA INTERNACIONAL SERÃO ADICIONADOS AQUI</info>
 </channel>
 </channels>
 
 
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]ADULTO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/GmHwJM8W/CINEONLINEADULTO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1ChCP3PIGawUv8FgIHUxCKGIywyO3cYrG</externallink>
+<externallink></externallink>
 <fanart>https://i.postimg.cc/NjvHznjx/fanartcineonlineadulto.jpg</fanart>
 <info>COLETÂNEA COM OS MELHORES FILMES DE SEXO, NOVOS E ANTIGOS; NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
 </channel>
@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]AVENTURA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/GmV0MkvH/CINEONLINEAVENTURA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1jVZXrBNUMw28tb1PsdmL2H3PQjFL2W61</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEAVENTURA.txt</externallink>
 <fanart>https://i.postimg.cc/rwGrX9d2/fanartcineonlineaventura.jpg</fanart>
 <info>COLETÂNEA COM OS MELHORES FILMES DE AVENTURAS , GRANDES SUCESSOS DO CINEMA INTERNACIONAL VOCES ENCONTRARÃO AQUI</info>
 </channel>
@@ -32,7 +32,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]COMÉDIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/SKMBHJGV/CINEONLINECOMEDIA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1QcRhBczK1xB5H6DMGDB2QHIAcOKkvzal</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINECOMEDIA.txt</externallink>
 <fanart>https://i.postimg.cc/QMXWXW59/fanartcineonlinecomedia.jpg</fanart>
 <info>COLETÂNEA COM AS MELHORES COMÉDIAS DO CINEMA INTERNACIONAL,SUCESSOS DO GENERO COM OS MELHORES ARTISTAS DO GENERO SERÃO ADICIONADOS AQUI</info>
 </channel>
@@ -42,7 +42,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]DIVERSOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/QtZ2Dh4D/CINEONLINEDIVERSOS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=10p448NxUaR7FbUlTmapxP-nVwGeEozVC</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEDIVERSOS.txt</externallink>
 <fanart>https://i.postimg.cc/gJjXhFgG/fanartcineonlinediversos.jpg</fanart>
 <info>COLETÂNEA COM FILMES DE DIVERSOS GENEROS, SUCESSOS ATUAIS DO CINEMA INTERNACIONAL VOCES ENCONTRARÃO AQUI</info>
 </channel>
@@ -52,7 +52,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]DRAMA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/xCGWThhz/CINEONLINEDRAMA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1CIlww8q3NbT4Xfog35vw206NuFtp20CK</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEDRAMA.txt</externallink>
 <fanart>https://i.postimg.cc/4yhY8vCM/fanartcineonlinedrama.jpg</fanart>
 <info>COLETÂNEA COM OS MELHORES FILMES DE DRAMA, SUCESSOS ATUAIS DO GENERO DO CINEMA INTERNACIONAL VOCES ENCONTRARÃO AQUI</info>
 </channel>
@@ -62,7 +62,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]FICÇAO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/90Ws41HN/CINEONLINEFIC-O.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1oWUpiDgHTqd4XxgaIDjGhGpP_yS35gPu</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEFIC%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/BZdpJMvj/fanartcineonlinefic-o.jpg</fanart>
 <info>COLETÂNEA COM OS MELHORES FILMES DE FICÇÃO CIENTIFICA , SUCESSOS ATUAIS DO CINEMA INTERNACIONAL VOCES ENCONTRARÃO AQUI</info>
 </channel>
@@ -72,9 +72,9 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]INFANTIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Y0bZQgp2/CINEONLINEINFANTIL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1hx0yrJFHXcYt9__rPyHj6HeLldmBcWUd</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEINFANTIL.txt</externallink>
 <fanart>https://i.postimg.cc/X7d8qdZQ/fanartcineonlineinfantil.jpg</fanart>
-<info>OS MELHORES FILMES INFANTIS , NOVOS E ANTIGOS ;NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
+<info>COLETÂNEA COMOS MELHORES FILMES INFANTIS DO CINEMA INTERNACIONAL ,GRANDES SUCESSOS DO GENERO VOCES ENCONTRARÃO AQUI</info>
 </channel>
 </channels>
 
@@ -82,9 +82,9 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]NACIONAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/WpnBRRMR/CINEONLINENACIONAL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1_E9Pe6e8Z9e3ZET50UDOpVKEBEYy71kz</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINENACIONAL.txt</externallink>
 <fanart>https://i.postimg.cc/2SYxZyhm/fanartcineonlinenacional.jpg</fanart>
-<info>COLETÂNEA COM OS MELHORES FILMES DO CINEMA NACIONAL DE TODOS OS GENEROS SUCESSOS ATUAIS E ANTIGOS VOCES ENCONTRARÃO AQUI</info>
+<info>COLETÂNEA COM OS MELHORES FILMES DO CINEMA NACIONAL DE TODOS OS GENEROS SUCESSOS DO CCINEMA BRASILEIRO VOCES ENCONTRARÃO AQUI</info>
 </channel>
 </channels>
 
@@ -92,9 +92,9 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]ROMÂNCE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/pXLgR0Zm/CINEONLINEROMANCE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1eFwOsvkIDgS7bp6Tgmpmk8-Hw5hdz0zC</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINEROMANCE.txt</externallink>
 <fanart>https://i.postimg.cc/YCxzf7zF/fanartcineonlineromance.jpg</fanart>
-<info>OS MELHORES FILMES DE TERROR , NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI</info>
+<info>COLETÂNEA COM OS MELHORES  FILMES DE ROMÂNCE DO CINEMA INTERNACIONAL , SUCESSOS DE SEMPRE VOCES ENCONTRARÃO AQUI</info>
 </channel>
 </channels>
 
@@ -102,9 +102,9 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/KvpCznqJ/CINEONLINETERROR.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1N_9N2DJpLd7Tv1mu9lBZ9Nf6QSgSGxsg</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINETERROR.txt</externallink>
 <fanart>https://i.postimg.cc/3wJCtqtc/fanartcineonlineterror.jpg</fanart>
-<info>OS MELHORES FILMES DE TERROR , NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI</info>
+<info>COLETÂNEA COM OS MELHORES FILMES DE TERROR DO CINEMA INTERNACIONAL, SUCESSOS DO GENERO SERÃO ENCONTRADOS AQUI</info>
 </channel>
 </channels>
 1N_9N2DJpLd7Tv1mu9lBZ9Nf6QSgSGxsg
