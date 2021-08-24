@@ -1,0 +1,21 @@
+##################################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]CINE COLLECTION [COLOR yellow]PARTE 1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/m2ydk6V5/CINECOLLECTIONS1.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1BLr4iQcEOJQeMPXNHXy7TNf5ge196Ssy</externallink>
+<fanart>https://i.postimg.cc/43X3XjKx/fanartcinecollections1.jpg</fanart>
+<info>[B][COLOR yellow]PRIMEIRA PARTE DA COLEÇÃO  COM VARIOS VARIOS FILMES DAS MAIS FAMOSAS  FRANQUIAS DO CINEMA INTERNACIONAL, COM FILMES DE TODOS OS GENEROS[/COLOR][/B]</info></item>
+</channels>
+</channel>
+##################################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]CINE COLLECTION [COLOR yellow] PARTE 2[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/t4RBxtMC/CINECOLLECTIONS2.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Jp5C0_MIGPihEaMTzFsxgfXgsetZhXuN</externallink>
+<fanart>https://i.postimg.cc/BZj2W19w/fanartcinecollections2.jpg</fanart>
+<info>[B][COLOR yellow]SEGUNDA PARTE DA COLEÇÃO  COM VARIOS VARIOS FILMES DAS MAIS FAMOSAS  FRANQUIAS DO CINEMA INTERNACIONAL, COM FILMES DE TODOS OS GENEROS[/COLOR][/B]</info></item>
+</channels>
+</channel>
+##################################################################################################################################
