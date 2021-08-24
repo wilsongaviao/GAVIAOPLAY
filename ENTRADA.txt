@@ -1,0 +1,47 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR yellow]  GAVIÃO PLAYER  [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/DZzq8bYP/ICONEGAVIAOPLAYER.jpg</thumbnail>
+<externallink>IGNOREME</externallink>
+<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR lime]########[COLOR white]  SEJAM TODOS BEM VINDOS  [COLOR lime]########[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/DZzq8bYP/ICONEGAVIAOPLAYER.jpg</thumbnail>
+<externallink>IGNOREME</externallink>
+<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR lime]#####[/COLOR][COLOR white]  LANÇAMENTOS,SÉRIES,COLEÇÕES,FILMES,ANIMES,DESENHOS,ETÇ...  [COLOR lime] #####[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/DZzq8bYP/ICONEGAVIAOPLAYER.jpg</thumbnail>
+<externallink>IGNOREME</externallink>
+<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  CONTATO  [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/JhZFPS12/CONTATO.jpg</thumbnail>
+<externallink>IGNOREME</externallink>
+<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
+<info>[B][COLOR yellow]ENTREM EM CONTATO COMIGO ATRAVES DOS ENDEREÇOS QUE ESTAO NA IMAGEM, MUITO OBRIGADO[/COLOR][/B]</info>
+</channels>
+</channel>
+############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR yellow]ENTREM E DIVIRTAM-SE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/DZzq8bYP/ICONEGAVIAOPLAYER.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1SefNJVy9S5iFxu4Q9f0tzygpplkTMLTJ</externallink>
+<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
+<info>[B][COLOR white] É COM MUITO PRAZER RECEBEMOS  VOCE COMO USUÁRIO DESTE ADDON, ESPERAMOS QUE A SUA SATISFAÇÃO E EXPECTATIVA  SEJA COMPLETADA COM NOSSO CONTEÚDO...... VOLTE SEMPRE! ESTAREMOS SEMPRE ABERTOS AS SUAS OPINIÕES E SUGESTÕES É SO ENTRAR EM CONTATO QUE PROCURAREMOS ATENDER O MAIS RÁPIDO POSSÍVEL.[/COLOR][/B]</info>
+</channels>
+</channel>
+
