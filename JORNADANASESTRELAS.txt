@@ -1,0 +1,19 @@
+
+ 
+<item><title>[B][COLOR white]1º AO 10º FILME)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29f2eef90ba90cef47dedfc65dc3f04a39bdb23b</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWDKP3eOHf1GEglshiDpNTw_NgzLaYmQIRg&usqp=CAU</thumbnail>
+</item>
+ ######################################################################################################################################
+<item><title>[COLOR white][B]JORNADA NAS ESTRELAS 11 - UM NOVO COMEÇO[COLOR yellow](2009)[COLOR lime]torrents[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E5A38766863D75583A3B67DDBA828A568D4000D</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg</thumbnail></item>
+ ######################################################################################################################################
+<item><title>[COLOR white][B]JORNADA NAS ESTRELAS 12 - ALEM DA ESCURIDÃO[COLOR yellow](2013)[COLOR lime]torrents[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25b465795e2fdac01f27a62c5a1c8d14ce629d15</link>
+<thumbnail>https://abutretorrents.com/capas/alem-da-escuridao-star-trek-bluray-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+ ######################################################################################################################################
+<item><title>[COLOR white][B]JORNADA NAS ESTRELAS 13 - SEM FRONTEIRAS[COLOR yellow](2016)[COLOR lime]torrents[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B559F00F5A60E9418C8A556C4FF687ED45446ABA</link>
+<thumbnail>https://2.bp.blogspot.com/-vlpxdy9Unyc/W6gAc284HdI/AAAAAAAAAmg/PqDTzAZz_akuQ3kZeYIwdnkwrL_4BzyLACLcBGAs/s1600/Star%2BTrek%2BSem%2BFronteiras%2B4K%2BUltra%2BHD%2BTorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail></item>
+ 
