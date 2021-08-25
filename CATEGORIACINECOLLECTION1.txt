@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JAMES BOND 007[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lh4.googleusercontent.com/-XoX-K4cTXps/UKiMDrUxFkI/AAAAAAAAD3A/OIOnp7Og6PU/s320/5yW8y.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1bBdSzDWcdd3yV2F87XLoxFaiGpWgy35F</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/007%20(JAMESBOND).txt</externallink>
 <fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
 <info>[B][COLOR yellow]COLEANEA COM TODOS OS FILMES DO MAIS FAMOSO ESPIÃO DO CINEMA[/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
@@ -10,7 +10,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A EXPERIENCIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/ryy7j9eAdSA08brwJ3q1wEs6D_g=/290x478/smart/media/movies/covers/2012/01/b996f5e517943cc910b7331155e8bf87.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1dfU-5xIHQv_OWajeXg_oFXEfyp0V3FIF</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20EXPERIEN%C3%87IA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bTHqaM1SVXSpEELkZ471MFlt53s.jpg</fanart>
 <info>[B]]UM SER ALIENÍGENA É O RESULTADO DE UM CÓDIGO GENÉTICO DESCONHECIDO ENVIADO DO ESPAÇO E RECEBIDO POR CIENTISTAS. APÓS O NASCIMENTO DA CRIANÇA E SEU RÁPIDO DESENVOLVIMENTO, HÁ UMA ORDEM PARA MATAR A "MENINA", QUE É MEIO HUMANA E MEIO EXTRATERRESTRE, MAS ELA FOGE DO LABORATÓRIO ONDE É MANTIDA. ENQUANTO PROCURAM POR UMA CRIANÇA, ELA SE TRANSFORMA EM UMA ATRAENTE MULHER (NATASHA HENSTRIDGE), QUE DESEJA ACASALAR RAPIDAMENTE PARA PROLIFERAR A SUA ESPÉCIE.[/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
@@ -18,7 +18,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANJOS DA NOITE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/QZD-N9yNfWTEiWfGHuKUjcIjKsM=/290x478/smart/media/movies/covers/2011/06/31e688272adafd0d653fb9f7ff338edf_1.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1MWqXkoMix-zRJmXWxWtEfKESZHdwhvGs</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANJOS%20DA%20NOITE.txt</externallink>
 <fanart>https://media.fstatic.com/J29MY8kapJdjxgkBiplQAXxeCG4=/600x250/smart/media/articles/main/2014/03/cacb63a9-2844-42bb-a997-fec81ba19e3b.jpe</fanart>
 <info>[B][COLOR yellow] SAGA DE VAMPIROS SE ENVOLVEM EM UMA BATALHA ANTIGA COM SEUS INIMIGOS, OS LYCANS, UM GRUPO DE LOBISOMENS VIOLENTOS, FILMES COM MUITA AÇÃO, ROMANCE[/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
