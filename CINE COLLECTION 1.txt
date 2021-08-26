@@ -26,15 +26,15 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A SAGA CREPUSCULO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51WzVPOsmsL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1cQB84TJM9yoo1Gn-TenxZMf6aMPY8CDN</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CREPUSCULO.txt</externallink>
 <fanart>https://www.vagalume.com.br/dynimage/news3269-big.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA CONTA A HISTÓRIA DE ISABELLA SWAN (BELLA), UMA ADOLESCENTE QUE SE MUDA DE PHOENIX PARA FORKS, EM WASHINGTON, EXPERIMENTANDO UM MUNDO TOTALMENTE NOVO PARA SI AO APAIXONAR-SE POR EDWARD CULLEN, UM VAMPIRO.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIENS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/14/40/a6/1440a6f863758811ea8b954d5a555397.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1GvQUJ-K2ShvrSeQZZVNwXiqmIokNPIrA</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ALIENS.txt</externallink>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2016/10/Aliens-O-Resgate-e1491785686820.jpg</fanart>
 <info>[B][COLOR yellow]CONHEÇA O TERROR ABSOLUTO DA FICÇÃO CIENTÍFICA COM OS 6 FILMES DA FRANQUIA ALIEN, JUNTOS PELA PRIMEIRA VEZ. ESSA COLEÇÃO ESPETACULAR INCLUI “ALIEN: O OITAVO PASSAGEIRO”, “ALIENS: O RESGATE”, “ALIEN 3”, “ALIEN: A RESSURREIÇÃO”, “PROMETHEUS” E O MAIS NOVO FILME DIRIGIDO POR RIDLEY SCOTT: “ALIEN: COVENANT”, QUE IRÁ TE LEVAR O MAIS PRÓXIMO DA ORIGEM MISTERIOSA DA CRIATURA MAIS ATERRORIZANTE DO CINEMA.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -66,7 +66,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CARGA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/o6DnRqCvnG-o5CkNuYS3TBW3y-k=/290x478/smart/media/movies/covers/2014/06/carga-explosiva_t302.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CARGA%20EXPLOSIVA.txt</externallink>
 <fanart>https://cdn.fstatic.com/media/movies/photos/2016/03/carga-explosiva-o-legado_t79463.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR]FRANK MARTIN (JASON STATHAM) É UM EX-SOLDADO DO EXÉRCITO NORTE-AMERICANO, QUE AGORA TRABALHA TRANSPORTANDO CARGAS E VIVE EM UMA VILA TRANQUILA, NA COSTA DO MEDITERRÂNEO. MARTIN SEGUE SEMPRE À RISCA O LEMA DE NUNCA SABER O QUE ESTÁ TRANSPORTANDO NEM PARA QUEM É A CARGA, A FIM DE EVITAR PROBLEMAS[/B]</channels></channel>
 ######################################################################################################################################
@@ -74,7 +74,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORAÇÃO DE DRAGÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/GWyjOQsANUph-vXEzdmSqFtW8Ho=/195x289/smart/media/movies/covers/2012/01/c95c10f436d9566d903e1543a65daa29.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-l6VzBs_dYqXO_Q0wMOHLNjVuja-jyNL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CORACAODEDRAGAO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oASfjqueQdR0wpeI2Q4xW2mSaZ.jpg</fanart>
 <info>[B][COLOR yellow]AS AVENTURA DE LUKAS (JACK KANE), UM JOVEM AGRICULTOR CUJA FAMÍLIA É MORTA POR INVASORES SELVAGENS, PARTE EM UMA BUSCA ÉPICA POR VINGANÇA, FORMANDO UM TRIO IMPROVÁVEL COM UM MAJESTOSO DRAGÃO E UM ESPADACHIM MERCENÁRIO. [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -82,7 +82,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORRIDA MORTAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://infonet.com.br/wp-infonet/img/Cinema/grande-corrida_mortal.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-lODV5NA_OaPG-NGG6sDNAj0iiCQ2UhH</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CORRIDAMORTAL.txt</externallink>
 <fanart>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/04/06/19884948.jpg</fanart>
 <info>[B][COLOR yellow]JENSEN AMES (JASON STATHAM) É UM EX-PILOTO PROFISSIONAL CONDENADO POR UM TERRÍVEL ASSASSINATO. ENCARCERADO EM TERMINAL ISLAND, UMA PRISÃO DE SEGURANÇA MÁXIMA COM REGRAS PRÓPRIAS, ELE SE VÊ OBRIGADO A VOLTAR ÀS PISTAS E PARTICIPAR DE UMA COMPETIÇÃO MORTAL CUJO VENCEDOR PODE CONQUISTAR A LIBERDADE[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -90,7 +90,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DESEJO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/Of2t_XU3DvkE_wkR-IbXux-GED4=/290x478/smart/media/movies/covers/2018/11/e524ad00-53cb-012f-db6c-00505694738d.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1rEaLM5Jd6dT3G1DUayLTuDa6Yqt0n4iP</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DESEJODEMATAR%20.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/koT46pyZQYoOYEXHcMTS4Kt6WNh.jpg</fanart>
 <info>[B][COLOR yellow]EM NOVA YORK VIVE PAUL KERSEY (CHARLES BRONSON), UM HOMEM PACÍFICO QUE TEM SUA VIDA DESTROÇADA QUANDO TRÊS MARGINAIS INVADEM SEU APARTAMENTO, ESTUPRAM SUA FILHA, QUE FICA EM ESTADO GRAVÍSSIMO, E MATAM JOANNA, SUA MULHER. APÓS UMA VIAGEM A UMA CIDADE DO ARIZONA NA QUAL TODOS ANDAM ARMADOS E A CRIMINALIDADE É MÍNIMA, KERSEY DECIDE ELIMINAR QUALQUER UM QUE O AMEACE, POIS A POLÍCIA SE MOSTRA INCAPAZ DE ENCONTRAR OS CULPADOS. ASSIM KERSEY SE ARMA E COMEÇA A PATRULHAR AS RUAS, MATANDO ASSASSINOS E LADRÕES E FICANDO OBCECADO EM FAZER JUSTIÇA[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -98,7 +98,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EFEITO BORBOLETA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w500/8u1vnFy6Dml73Kb4GGgZkRQlEPk.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1jqIFlvEi7edTQpu8X6CPai1y6IEwJSTx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/EFEITOBORBOLETA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/lfb0yLlwIBYa7N0jnvkULJCKrBZ.jpg</fanart>
 <info>[B][COLOR yellow]EVAN (ASHTON KUTCHER) É UM JOVEM QUE LUTA PARA ESQUECER FATOS DE SUA INFÂNCIA. PARA TANTO ELE DECIDE REALIZAR UMA REGRESSÃO ONDE VOLTA TAMBÉM FISICAMENTE AO SEU CORPO DE CRIANÇA, TENDO CONDIÇÕES DE ALTERAR SEU PRÓPRIO PASSADO.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -106,7 +106,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ELA DANÇA,EU DANÇO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcpRdrEtvXINLCBv2lko7uxwVo.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=115vTQ1vEWW4mkjDZ3o6WNXl2PmVDfExw</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ELADANCAEUDANCO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/zIYSz2EpMwe3MpdlwGrEPuK4UZR.jpg</fanart>
 <info>[B][COLOR yellow]TYLER GAGE (CHANNING TATUM) É UM JOVEM PROBLEMÁTICO DE BALTIMORE QUE DIVIDE SEU TEMPO ENTRE ATOS DE VANDALISMO E PERFORMANCES DE STREET DANCE. NUMA DE SUAS AVENTURAS COM SEUS AMIGOS, TYLER É PRESO POR DEPREDAR A ESCOLA DE ARTES DE MARYLAND E É CONDENADO A PRESTAR 100 HORAS DE TRABALHO COMUNITÁRIO NELA.[/COLOR][/B]</channels></channel>
 
@@ -116,7 +116,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GUERRA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://1.bp.blogspot.com/-OCk-fvcs2f0/Xa81sFGwLiI/AAAAAAAAaYM/_63nRuz47OsDV6OfjiA3XR38M4Cs0_gAwCLcBGAsYHQ/s1600/Saga%2BStar%2BWars.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1pg_Ek_eLTrhzWckewQfIuKpVkN8T4tUd</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/GUERRANASESTRELAS.txt</externallink>
 <fanart>https://d1aqqgu1sbyyk.cloudfront.net/wp-content/uploads/2019/12/maxresdefault-1.jpg</fanart>
 <info>[B][COLOR yellow]UMA DAS SAGAS MAIS FAMOSAS DO CINEMA, STAR WARS FOI CRIADA PELO CINEASTA GEORGE LUCAS NA DÉCADA DE 1970. HOJE, A FRANQUIA É UM DOS FENÔMENOS MAIS POPULARES DA CULTURA GEEK – AINDA ASSIM, HÁ QUEM NUNCA TENHA VISTO UM DOS FILMES. POR ISSO, LISTAMOS AQUI TODOS OS LONGAS DE STAR WARS[/COLOR][/B]</channels></channel> 
 ######################################################################################################################################
@@ -124,7 +124,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HARRY POTTER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://cdn.fstatic.com/public/articles/files/2014/11/31a81d20-23be-41e8-a961-0615456ec87b.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1bIouW7Z_Opx_ZZhgn0yZQG-LrSz6jyqH</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HARRYPOTTER.txt</externallink>
 <fqanart>https://image.tmdb.org/t/p/original/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg</fanart>
 <info>[B][COLOR yellow]HARRY POTTER É UM JOVEM COMUM DE 11 ANOS ATÉ QUE RECEBE UMA CARTA PARA ESTUDAR NA ESCOLA DE MAGIA E BRUXARIA DE HOGWARTS, ONDE ELE DESCOBRE SER, NA VERDADE, UM BRUXO. NELA, O GAROTO CONQUISTA A AMIZADE DE HAGRID, ALÉM DE HERMIONE E RON. NO ENTANTO, ELE DESCOBRE TER UM GRANDE INIMIGO, O TERRÍVEL VOLDEMORT.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
