@@ -26,15 +26,15 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A SAGA CREPUSCULO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51WzVPOsmsL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1cQB84TJM9yoo1Gn-TenxZMf6aMPY8CDN</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CREPUSCULO.txt</externallink>
 <fanart>https://www.vagalume.com.br/dynimage/news3269-big.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA CONTA A HISTÓRIA DE ISABELLA SWAN (BELLA), UMA ADOLESCENTE QUE SE MUDA DE PHOENIX PARA FORKS, EM WASHINGTON, EXPERIMENTANDO UM MUNDO TOTALMENTE NOVO PARA SI AO APAIXONAR-SE POR EDWARD CULLEN, UM VAMPIRO.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIENS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/14/40/a6/1440a6f863758811ea8b954d5a555397.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1GvQUJ-K2ShvrSeQZZVNwXiqmIokNPIrA</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ALIENS.txt</externallink>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2016/10/Aliens-O-Resgate-e1491785686820.jpg</fanart>
 <info>[B][COLOR yellow]CONHEÇA O TERROR ABSOLUTO DA FICÇÃO CIENTÍFICA COM OS 6 FILMES DA FRANQUIA ALIEN, JUNTOS PELA PRIMEIRA VEZ. ESSA COLEÇÃO ESPETACULAR INCLUI “ALIEN: O OITAVO PASSAGEIRO”, “ALIENS: O RESGATE”, “ALIEN 3”, “ALIEN: A RESSURREIÇÃO”, “PROMETHEUS” E O MAIS NOVO FILME DIRIGIDO POR RIDLEY SCOTT: “ALIEN: COVENANT”, QUE IRÁ TE LEVAR O MAIS PRÓXIMO DA ORIGEM MISTERIOSA DA CRIATURA MAIS ATERRORIZANTE DO CINEMA.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -42,7 +42,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FOnZzQN2T9ZZNfKeSkvQNcVVdto=/290x478/smart/media/movies/covers/2019/05/MV5BNjc1ZDhmOTgtNGM5NC00NTRmLWI1OWQtMDIzZDg2ZGE1ODM3XkEyXkFqcGdeQX_6DyyZwT.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1NhcuZNOEv3RVOhLvaw67cBw6Bt6kig7z</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20BATMAN.txt</externallink>
 <fanart>https://media.fstatic.com/yOxOgVhHkN4idSSPBcCNgGvaPkY=/600x250/smart/media/articles/main/2016/08/18/602x0_1471532364-1724783869.jpg</fanart>
 <info>[B][COLOR yellow]EXCELENTE COLEÇÃO DO HOMEM MORCEGO EM SUAS AVENTURAS CONTRA O CRIME EM GOTHAN CITY, COM TODOS OS FILMES E ANIMES [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
