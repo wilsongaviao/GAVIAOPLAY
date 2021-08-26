@@ -2,15 +2,15 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]BATMAN - FILMES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/pj6AaYzNoqk5PmXtaCoxmSijWNE=/290x478/smart/media/movies/covers/2019/05/batman1989-187616_x9aoGlA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1mNabq4a3aF4HU0rLdx2ugEla3Yz_dA6o</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BATMAN%20FILMES%20.txt</externallink>
 <fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2018/01/batman-nolan.jpg</fanart>
-<info>[B][COLOR yellow]COLETANEA COM OS FILMES DO FAMOSO HEROI  O HOMEM MORCEGO VIVIDO POR BRUCE WAYNE,CONTRA SEUS  INIMIGOS[/COLOR][/B]</info></channels></channel>
+<info>[B][COLOR yellow]COLETANEA DA FRANQUIA BATMAN,COM OS FILMES DO FAMOSO HEROI  O HOMEM MORCEGO VIVIDO POR BRUCE WAYNE,CONTRA SEUS  INIMIGOS[/COLOR][/B]</info></channels></channel>
 #######################################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN - ANIMAÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FD8SCy-2FBJmzGL024glQXJQ9NQ=/290x478/smart/media/movies/covers/2017/05/bat.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1ugEphTKJYvubZnwHph7IQCOSKS8ad-Du</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BATMAN%20ANIMA%C3%87%C3%83O.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5GMtmPJaWWNqxqTOv0xmLbmg4Z9drBHB9g&usqp=CAU</fanart>
-<info>[B][COLOR yellow]COLETANEA COM VARIS FILMES EM ANIMAÇÃO DO HEROI ,BATMAN O HOMEM MORCEGO EM SUAS AVENTURAS CONTRA O CRIME EM GOTHAN CITY[/COLOR][/B]</info></channels></channel>
+<info>[B][COLOR yellow]COLETANEA COM VARIOS FILMES EM ANIMAÇÃO DO HEROI ,BATMAN O HOMEM MORCEGO EM SUAS AVENTURAS CONTRA O CRIME EM GOTHAN CITY[/COLOR][/B]</info></channels></channel>
 #######################################################################################################################################
