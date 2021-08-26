@@ -132,7 +132,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HIGHLANDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://picfiles.alphacoders.com/797/79796.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1KUjxWJ4T8n2FAXg3S3UNWjLtdDgP5UqF</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HIGHLANDER.txt</externallink>
 <fanart>https://www.einerd.com.br/wp-content/uploads/2020/06/highlander-e1593436715735-890x464.jpeg</fanart>
 <info>[B][COLOR yellow]A SAGA RETRATA A HISTÓRIA DE CONNOR MACLEOD, UM IMORTAL GUERREIRO ESCOCÊS DO SÉCULO XVI, QUE É DOUTRINADO PELO TAMBÉM IMORTAL JUAN SANCHEZ VILLA-LOBOS RAMIREZ (SEAN CONNERY) EM COMO COMBATER (E SE DEFENDER DE) OUTROS IMORTAIS, PARA NÃO PERDER, LITERALMENTE, A SUA CABEÇA, POIS AO ÚLTIMO IMORTAL UM PRÊMIO ESTARIA RESERVADO. [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
