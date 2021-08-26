@@ -26,15 +26,15 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A SAGA CREPUSCULO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51WzVPOsmsL.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CREPUSCULO.txt</externallink>
+<externallink>https://docs.google.com/uc?export=download&id=1cQB84TJM9yoo1Gn-TenxZMf6aMPY8CDN</externallink>
 <fanart>https://www.vagalume.com.br/dynimage/news3269-big.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA CONTA A HISTÓRIA DE ISABELLA SWAN (BELLA), UMA ADOLESCENTE QUE SE MUDA DE PHOENIX PARA FORKS, EM WASHINGTON, EXPERIMENTANDO UM MUNDO TOTALMENTE NOVO PARA SI AO APAIXONAR-SE POR EDWARD CULLEN, UM VAMPIRO.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIENS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/14/40/a6/1440a6f863758811ea8b954d5a555397.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ALIENS.txt</externallink>
+<externallink>https://docs.google.com/uc?export=download&id=1GvQUJ-K2ShvrSeQZZVNwXiqmIokNPIrA</externallink>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2016/10/Aliens-O-Resgate-e1491785686820.jpg</fanart>
 <info>[B][COLOR yellow]CONHEÇA O TERROR ABSOLUTO DA FICÇÃO CIENTÍFICA COM OS 6 FILMES DA FRANQUIA ALIEN, JUNTOS PELA PRIMEIRA VEZ. ESSA COLEÇÃO ESPETACULAR INCLUI “ALIEN: O OITAVO PASSAGEIRO”, “ALIENS: O RESGATE”, “ALIEN 3”, “ALIEN: A RESSURREIÇÃO”, “PROMETHEUS” E O MAIS NOVO FILME DIRIGIDO POR RIDLEY SCOTT: “ALIEN: COVENANT”, QUE IRÁ TE LEVAR O MAIS PRÓXIMO DA ORIGEM MISTERIOSA DA CRIATURA MAIS ATERRORIZANTE DO CINEMA.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -50,7 +50,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BUSCA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://ondebaixa.com/capa/busca-explosiva-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1V-qB3wXzgzaf4jwBd09dbhq61YGYiZYL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BUSCA%20EXPLOSIVA.txt</externallink>
 <fanart>https://images.justwatch.com/backdrop/166486581/s480/busca-explosiva-3</fanart>
 <info>[B][COLOR yellow] JOHN CENA, O CAMPEÃO DA WWE, DOMINA A CENA NO PAPEL DO FUZILEIRO JOHN TRITON. ONDE QUER QUE HAJA PERIGO, LÁ ESTÁ TRITON DETONANDO. E ELE NÃO JOGA SEGUINDO AS REGRAS![/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -58,7 +58,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BUSCA IMPLACAVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/706681/123520847.jpg?v=636966316633830000</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1OHjjmTH7SRJMcJC4W9jt6SKy6A5l0GQJ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BUSCA%20IMPLACAVEL.txt</externallink>
 <fanart>https://lh3.googleusercontent.com/proxy/F6WEtG5-mjVuTT00JFT1z96ku2xO9grKLurcd9uSUaE9XDj76F8SDS2XDZM58UqPzVGD1afjyxtPGH53diUwr0vZz1fsv9g_s2Tb3SWNBrmcBBMDK4e5q1SNrqcrnAEYcTnpmFbTvGELCylW</fanart>
 <info>[B][COLOR yellow]BRYAN MILLS (LIAM NEESON) É UM EX-AGENTE DO GOVERNO, QUE DEIXOU O EMPREGO PARA QUE PUDESSE PASSAR MAIS TEMPO COM KIM (MAGGIE GRACE), A FILHA QUE TEVE COM SUA EX-ESPOSA LENORE (FAMKE JANSSEN). ELE PASSA ENTÃO A TRABALHAR COM ANTIGOS COLEGAS, REALIZANDO SERVIÇOS LEVES DE SEGURANÇA PARTICULAR,NUNCA SE INTROMETA COM A FAMILIA DE NILLS,POIS ELE FARA DE TUDO PRA TE ENCONTRAR E SALVAR SUA FAMILIA[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -66,7 +66,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CARGA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/o6DnRqCvnG-o5CkNuYS3TBW3y-k=/290x478/smart/media/movies/covers/2014/06/carga-explosiva_t302.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=yGhwDUHs</externallink>
+<externallink></externallink>
 <fanart>https://cdn.fstatic.com/media/movies/photos/2016/03/carga-explosiva-o-legado_t79463.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR]FRANK MARTIN (JASON STATHAM) É UM EX-SOLDADO DO EXÉRCITO NORTE-AMERICANO, QUE AGORA TRABALHA TRANSPORTANDO CARGAS E VIVE EM UMA VILA TRANQUILA, NA COSTA DO MEDITERRÂNEO. MARTIN SEGUE SEMPRE À RISCA O LEMA DE NUNCA SABER O QUE ESTÁ TRANSPORTANDO NEM PARA QUEM É A CARGA, A FIM DE EVITAR PROBLEMAS[/B]</channels></channel>
 ######################################################################################################################################
