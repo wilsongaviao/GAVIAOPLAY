@@ -1,0 +1,33 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+##################################################################################################################
+<item><title>[COLOR white]Carga Explosiva[COLOR yellow] ( 2002 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05a9772001946acecaa3a207de2a3c48f09ba8f9$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646255e2cb8db930e32c98d3fbef871b68266e0f$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kWt1OcPgwO1ssu57wgTKmq38JYw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Frank Martin, ex-operador das Forças Especiais, vive o que parece ser uma vida tranquila ao longo do Mediterrâneo francês, alugando-se como um “transportador” mercenário que movimenta mercadorias – humanas ou não – de um lugar para outro. Nenhuma pergunta feita. Desempenhando tarefas misteriosas e às vezes perigosas em sua BMW enganada, Frank adere a um conjunto estrito de regras, que ele nunca quebra. Regra Um: Nunca mude o acordo. Regra Dois: Sem nomes – Frank não quer saber para quem está trabalhando ou o que está transportando. Regra Três: nunca olhe no pacote. O transporte mais novo de Frank não parece diferente dos inúmeros que ele fez no passado. Ele foi contratado por um americano conhecido apenas como “Wall Street” para fazer uma entrega; mas quando Frank pára ao longo do percurso, ele percebe que seu pacote está se movendo. Violando a Regra Três, Frank olha dentro da sacola, achando seu conteúdo uma linda mulher amordaçada. A firme adesão de Frank às suas outras duas regras – que compõem seu código básico de sobrevivência – também[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white] Carga Explosiva 2 [COLOR yellow]( 2005 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14a51b926c922921e8ad200ff685e7fc27b6aefb$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e81d57d4729fcf8b571577b6fd2a41d16157fffb$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mSb2FyXPAVnLsdDiHAoAdLsZcak.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Frank Martin é um ex-agente das Forças Especiais que trabalha atualmente como transportador de itens valiosos. Frank atualmente trabalha para a poderosa família Billings, como favor a um amigo. Aos poucos ele fica próximo ao pequeno Jack Billings, de 6 anos, a quem leva e traz da escola. Quando Jack é sequestrado Frank é obrigado a mais uma vez pôr suas habilidades em ação, partindo em uma tentativa de resgate.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white]Carga Explosiva 3 [COLOR yellow]( 2008 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:5175a93c910d94caaae82337582d4e7598fbe23f/link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nNbxrSyKUTMVwpnFgnKH9ZV0QZ8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Frank Martin (Jason Statham) é obrigado a conduzir Valentina (Natalya Rudakova), a filha de Leonid Vasilev (Jeroen Krabbé), o chefe da Agência de Proteção Ambiental da Ucrânia. Ela foi sequestrada por Jonas Johnson (Robert Knepper), contratado por uma empresa de gerenciamento internacional de resíduos que deseja operar na Ucrânia. Para ter Frank e Valentina sob controle, Jonas prende em seus pulsos um dispositivo que determina que não possam se afastar muito do carro que os conduz, caso contrário o bracelete explode. Contando com a ajuda do inspetor Tarconi (François Berléand), Frank busca um meio de deixar a armadilha.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white]Carga Explosiva: O Legado COLOR yellow]( 2015 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec82c6b7d59536e9bb57e074dad7fe381a332cbb$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e71b35d3acdca23a550a86413160e2999303509a$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/iti0ub1R6JBCfwJarLktNL47HC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mFK2bOh8uGGEtoAL24abyTq3Woc.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O jovem mercenário Frank Martin, um ex-soldado de Operações Especiais, vai atrás de um grupo de traficantes de seres humanos na Rússia para tentar salvar o seu pai.[/COLOR][/B]</info></item>
