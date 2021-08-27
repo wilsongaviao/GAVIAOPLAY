@@ -140,7 +140,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INDIANA JONES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR31xW0PmAVLlEn3IYqn5kzzd8sn9GEEbJNQLE5LEqEL1eh2NFf</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-bdRVOmezt6HsIq_6cKhThPAYbxSAwgM</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/INDIANAJONES.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrkJ1wMLVxT-ugT7dHRjLIkQNRUlb7pdw9RT0d-kVnmJSkDyGF</fanart>
 <info>[B][COLOR yellow]A SAGA E BASEADA NAS AVENTURAS DO PERSONAGEM HENRY JONES JR(INDIANA JONES),INDIVÍDUO COM VIDA DUPLA: ALÉM DE UM PACATO PROFESSOR DE ARQUEOLOGIA, É UM AVENTUREIRO DESTEMIDO E POUCO CONVENCIONAL, QUE CARREGA UM REVÓLVER, UM CHICOTE E SEU INSEPARÁVEL CHAPÉU [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -148,7 +148,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JASON BOURNE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmE0YjJlNzctZjdiMy00ZWZmLWIzYzYtMGIxNDNjZDkxZmQyXkEyXkFqcGdeQXVyMTE5NzI0NDM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=11iu41zHVjqwFKfz-UffG5CiVga49NSzv</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JASONBOURNE.txt</externallink>
 <fanart>https://ogimg.infoglobo.com.br/in/19774691-7a4-3d7/FT1086A/652/xJason-Bourne-2016-2.jpg.pagespeed.ic.xO2L1OgN0_.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA BOURNE É UMA SÉRIE DE FILMES ALEMÃ-AMERICANA DE AÇÃO, ESPIONAGEM E SUSPENSE. É BASEADA NO PERSONAGEM LITERÁRIO JASON BOURNE, INTERPRETADO NAS ADAPTAÇÕES POR MATT DAMON. BOURNE É HOMEM QUE SOFRE DE PERDA DE MEMÓRIA EXTREMA E QUE PRECISA DESCOBRIR QUEM ELE É.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -156,7 +156,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JOGOS VORAZES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/CQ2-36VcRm25uTNN56BhBqCMtvk=/290x478/smart/media/movies/covers/2011/12/5e20ba2d5072f9ff5661fb1ddf37deb4.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1st-LXbZVijpS1kwBkfvBGBnLEPu92cXz</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JOGOSVORAZES.txt</externallink>
 <fanart>https://cdn.fstatic.com/public/articles/files/2013/11/b8689968-f609-4c54-bef1-20a67f1ba695.jpg</fanart>
 <info>[B][COLOR yellow]A HISTÓRIA DA SAGA É ESTABELECIDA EM UM PERÍODO DISTÓPICO PÓS-APOCALÍPTICO NA NAÇÃO DE PANEM, ONDE MENINOS E MENINAS DE 12 A 18 ANOS DEVEM PARTICIPAR DOS JOGOS VORAZES, UM EVENTO ANUAL TELEVISIONADO NO QUAL OS "TRIBUTOS" PRECISAM LUTAR ATÉ A MORTE ATÉ QUE SOBRE APENAS UM, QUE É COROADO VENCEDOR. KATNISS EVERDEEN (JENNIFER LAWRENCE) VOLUNTARIA-SE PARA TOMAR O LUGAR DE SUA IRMÃ MAIS NOVA NOS JOGOS[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -164,7 +164,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]JOHN WICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/de-volta-ao-jogo_t78749.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1tTSEoGSm8krwsjG87ywUYPKXAzOsWY2a</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JHONWICK.txt</externallink>
 <fanart>https://media.fstatic.com/YRS4-XD-ED-zYeUDlIfmmKcKnVs=/full-fit-in/629x300/media/articles/main/2019/06/11/d37cdd1d-4f9b-45bf-9eb4-c3376b99c788-1807984679.jpg</fanart>
 <info>[B][COLOR yellow]JOHN WICK É UMA SÉRIE DE FILMES DE AÇÃO QUE TEM KEANU REEVES COMO PROTAGONISTA. O PERSONAGEM É CONSIDERADO O MELHOR ASSASSINO DO MUNDO, EM UMA SOCIEDADE REPLETA DE ORGANIZAÇÕES CRIMINOSAS INFLUENTES. JOHN ESTAVA APOSENTADO ATÉ QUE UMA QUESTÃO PESSOAL O FAZ VOLTAR À ATIVA[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -172,15 +172,15 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JORNADA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/af/7a/c7/af7ac705a7ed31a7c7dbe5d436fa145c.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1USSoWRyAtiRPnmvJzxaWHeXt9kN-LL7e</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JORNADANASESTRELAS.txt</externallink>
 <fanart>https://i.pinimg.com/originals/dd/c4/1a/ddc41ad6bb9725d050cbcd08984c5fa1.jpg</fanart>
-<info>[B][COLOR yellow]COLETANEA COM OS TODOS OS FILME DA SAGA QUE NARRAM AS AVENTURAS E DO CAPITÃO KIRCK E SUA TRIPULAÇÃO ,A BORDO DA NAVE INTERPRISE, PELO ESPAÇO SIDERAL[/COLOR][/B]</channels></channel>
+<info>[B][COLOR yellow]COLETANEA COM OS TODOS OS FILME DA SAGA QUE NARRAM AS AVENTURAS  DO CAPITÃO KIRCK E SUA TRIPULAÇÃO ,A BORDO DA NAVE INTERPRISE, PELO ESPAÇO SIDERAL[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JURASSIC PARK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=14n_RbGPvFYII5eYn7WJmYxckjYqIss_o</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JURASSICPARK.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/rl2mFCm04GqHOz3RjSzrXqWB3M9.jpg</fanart>
 <info>[B][COLOR yellow]JURASSIC PARK MAIS TARDE TAMBÉM CONHECIDO COMO JURASSIC WORLD, É UMA É UMA FRANQUIA DE MÍDIA DE FICÇÃO CIENTÍFICA ESTADUNIDENSE BASEADA NA HISTÓRIA CRIADA POR MICHAEL CRICHTON, ONDE UMA TENTATIVA DE CRIAR UM PARQUE TEMÁTICO ONDE VIVEM DINOSSAUROS, ACABA EM DESASTRE. COM ENREDO DE MUITA AÇÃO, FICÇÃO E AVENTURA[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -188,7 +188,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KARATE KID[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOEQmFDkDKz3pgKo25UfC236zVC.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1E_yyTOUJsTCa0I2FIb0JAYJYDDiuAHaZ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KARATEKID.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/g8Q4QfwO3curRpMqE4JUxPXfL3H.jpg</fanart>
 <info>[B][COLOR yellow]O FILME CONTA A HISTÓRIA DE UM JOVEM DANIEL LAROUSSE ,LUTADOR QUE DESEJA APRENDER CARATÊ, E PARA ISSO CONVENCE UM EXPERIENTE MESTRE A LHE DAR AULAS, QUE ACABAM POR TRANSFORMAR-SE EM LIÇÕES DE VIDA.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -196,7 +196,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LOUCADEMIA DE POLICIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwYgoX3Shl9T5Vgyrze2Pgxxm6p.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LOUCADEMIADEPOLICIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2ixS8cjAwXBpIEotWAEsa5SbZ59.jpg</fanart>
 <info>[B][COLOR yellow]LOUCADEMIA DE POLICIA É UMA SÉRIE DE FILMES DE COMÉDIA AMERICANO,A FRANQUIA ESTREOU COM ACADEMIA DE POLÍCIA (1984), QUE COMEÇOU COM A PREMISSA DE QUE UM NOVO PREFEITO HAVIA ANUNCIADO UMA POLÍTICA QUE EXIGIA O DEPARTAMENTO DE POLÍCIA PARA ACEITAR TODOS OS RECRUTAS DISPOSTOS. O FILME ACOMPANHOU UM GRUPO DE RECRUTAS DESAJUSTADOS EM SUAS TENTATIVAS DE PROVAR QUE ERAM POLICIAIS. O PERSONAGEM PRINCIPAL, CAREY MAHONEY (STEVE GUTTENBERG), ERA UM REINCIDENTE QUE FOI FORÇADO A INGRESSAR NA ACADEMIA DE POLÍCIA COMO PUNIÇÃO.[/COLOR][/B]</info></item>
 </channels>
@@ -206,7 +206,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MAD MAX[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWaYIL6S60Xt47Mud-MiGfRExtSiJuMAN729h9YIvZcUS0UPfu&usqp=CAU</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1gnca_5-WBustDxsfY472Q-GI0u_8XMIL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MADMAX.txt</externallink>
 <fanart>https://http2.mlstatic.com/mad-max-coleco-4-em-1-D_NQ_NP_676374-MLB26218531728_102017-F.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA FOCA NA HISTÓRIA DE MAX "MAD" ROCKATANSKY (GIBSON), UM POLICIAL RODOVIÁRIO QUE FAZ PARTE DE UMA FORÇA TÁTICA CHAMADA MFP (MAIN FORCE PATROL) EM UMA PONTO REMOTO DA AUSTRÁLIA DECADENTE INFESTADA POR UMA GANGUE DE PERIGOSOS MOTOCICLISTAS.E AS SUAS AVENTURAS  PELA RODOVIA E MUNDO AURALIANO POS APOCALIPTICO[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -214,7 +214,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MATRIX[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv8AdAT4P8ivqK9f3b9WyHApGMhma8HbEwvR1Akz7wLIscWD-r</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1umSWJF9ybgOFJy_2YdKQw0bxSbRhLVRu</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MATRIX.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbAZN2wr3MhIoAtmThprkS5EgIL3oYZgnZqgfx-Yv8GopPU7E0</fanart>
 <info>[B][COLOR yellow]A SAGA ACOMPANHA AS AVENTURAS DE NEO(KEANU REEVES), UM JOVEM HACKER QUE É CHAMADO PARA O MOVIMENTO DE RESISTÊNCIA LIDERADO POR MORPHEUS, NA LUTA CONTRA A DOMINAÇÃO DOS HUMANOS PELAS MÁQUINAS. ... NEO DESCOBRE QUE A RESISTÊNCIA ACREDITA QUE ELE É O ESCOLHIDO, UM MESSIAS QUE VIRÁ LIBERTAR A HUMANIDADE DA ESCRAVIDÃO DA MATRIX.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -222,7 +222,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MISSAO IMPOSSIVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN2N23/image?locale=pt-br&purposes=BoxArt&mode=scale&q=90&w=162</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1eFbf2ItSmn2qdDlP6lhcmk-MYiIfH8ih</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MISSAOIMPOSSIVEL.txt</externallink>
 <fanart>https://delfos.net.br/wp-content/uploads/2018/07/2018-07-23-miss%C3%A3oimposs%C3%ADvelefeitofallout1.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA NARRA AS MAIS LOUCAS E PERIGOSAS AVENTURAS DO ESPIÃO ETHAN HUNT(TOM CRUISE)E SUA EQUIPE BEM EQUIPADA E TREINADA , QUE FAZEM DE TUDO PARA CUMPRIREM SUAS MISSÕES [/COLOR][/B]</channels></channel> 
 ######################################################################################################################################
@@ -230,7 +230,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ESCORPIAO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1pplAn0pUm_hnR9u-h7Yu19HG8UiA1Nwp</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/OESCORPI%C3%83OREI.txt</externallink>
 <fanart>https://conteudo.imguol.com.br/c/entretenimento/e8/2017/06/14/the-rock-e-michael-clarke-duncan-em-cena-de-escorpiao-rei-1497470369818_v2_1482x1000.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA NARRA AS AVENTURAS DE MATHAYUS SEU MEIO IRMÃO JESUP E SEU AMIGO RAMA OS TRES UNICOS ARKADIANOS EM BUSCA DE JUSTIÇA, ATE MATHAYUS SE CONSAGRAR REI[/COLOR][/B]</channels></channel> 
 ######################################################################################################################################
@@ -238,7 +238,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O EXTERMINADOR DO FUTURO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://f001.backblazeb2.com/file/papocine/2016/03/20160301-01.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1l1PcFUPne0Lz2EVZvOXDjrBGMh6PQTYB</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/EXTERMINADORDOFUTURO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wh4ze6klUbeichAj603OKZwY1W5.jpg</fanart>
 <info>[B][COLOR yellow]OS FILMES DA SAGA NARRAM A GUERRA IDEOLÓGICA E BÉLICA E CIENTIFICA ENTRE OS ROBÔS DA CENTRAL DE INTELIGÊNCIA ARTIFICIAL, SKYNET, E A RESISTÊNCIA HUMANA LIDERADA POR JOHN CONNOR, O PRINCIPAL PERSONAGEM DA SAGA[/COLOR][/B]</channels></channel> 
 ######################################################################################################################################
@@ -246,7 +246,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS MERCENARIOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/30/13/20028673.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1LnA3sL0YdOIeXuV05hIHRuDcWERiOnug</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/OSMERCENARIOS.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoqONx96pQpWG1EWGmIpfMLKxhurOdUOWN1Tajv86dyz3-Ohvy</fanart>
 <info>[B][COLOR yellow]COLETANEA DE FILMES DE UM GRUPOS DE ASSASSINOS  E MERCENARIOS BEM TREINADOS E CONSIDERADOS DISPENSAVEIS PELA CIA FAZENDO SUAS JUSTIÇAS POR ONDE SÃO ENVIADO.É AÇÃO QUE VOCÊ PROCURA? ENTÃO DÁ UM PLAY E CONFIRA OS TRÊS FILMES DO ESQUADRÃO LIDERADO POR SYLVESTER STALLONE NE UM GRANDE ELENCO, EM UMA DAS FRANQUIAS MAIS EXPLOSIVAS DO CINEMA.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -254,7 +254,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ONZE HOMENS E UM SEGREDO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbSiE9xnymrcMEfiUbSM9it7hq.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=Be8wEFhH</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ONZEHOMENSUMSEGREDO.txt</externallink>
 <fanart>https://playreplay.com.br/wp-content/uploads/2016/10/onze-homens-um-segredo-relembre.jpg</fanart>
 <info>[B][COLOR yellow]HUMOR, AÇÃO, AVENTURA, CLASSE, JOGO, AMIZADE, SORTE, AZAR SÃO ALGUNS DOS INGREDIENTES QUE TORNARAM A TRILOGIA OCEAN´S NUM VERDADEIRO ÊXITO DE BILHETEIRA.
 ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DANNY OCEAN (GEORGE CLOONEY) SAI DA PRISÃO E DECIDE VINGAR-SE DO IMPLACÁVEL EMPRESÁRIO TERRY BENEDICT (ANDY GARCIA), QUE ANDAVA ARRASTANDO A ASA PARA O LADO DE SUA EX-MULHER, TESS OCEAN (JULIA ROBERTS).
@@ -264,7 +264,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O SENHOR DOS ANEIS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/32/20224832.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=GSwNZMFK</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20SENHOR%20DOS%20ANEIS.txt</externallink>
 <<info>[B]COLOR yellow]EM UMA TERRA FANTÁSTICA E ÚNICA, UM HOBBIT RECEBE DE PRESENTE DE SEU TIO UM ANEL MÁGICO E MALIGNO QUE PRECISA SER DESTRUÍDO ANTES QUE CAIA NAS MÃOS DO MAL. PARA ISSO, O HOBBIT FRODO TEM UM CAMINHO ÁRDUO PELA FRENTE, ONDE ENCONTRA PERIGO, MEDO E SERES BIZARROS. AO SEU LADO PARA O CUMPRIMENTO DESTA JORNADA, ELE AOS POUCOS PODE CONTAR COM OUTROS HOBBITS, UM ELFO, UM ANÃO, DOIS HUMANOS E UM MAGO, TOTALIZANDO NOVE SERES QUE FORMAM A SOCIEDADE DO ANEL.[/COLOR][/B]</info>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Ringstrilogyposter.jpg/250px-Ringstrilogyposter.jpg</fanart>
 </channels></channel>
@@ -273,7 +273,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PIRATAS DO CARIBE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhSHjTdjlFWk1EREvVFqzV3d566ytQMUR1e-pSUdsdwKSedTso</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=13ON7qbb3pDo2desp2f-SYARSkJE9Zle8</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PIRATASDOCARIBE.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROvA-XtW6m6fM0MDUG914Om12HlYKQAej1G-gW1nFVi9RwDF3z</fanart>
 <info>[B][COLOR yellow]SÉRIE DE FILMES DE FANTASIA COM BASE NAS AVENTURAS DO CAPITÃO JACK SPARROW, QUE OCORREM EM UM CENÁRIO HISTÓRICO FICTÍCIO; UM MUNDO GOVERNADO PELO IMPÉRIO BRITÂNICO, A COMPANHIA DAS ÍNDIAS ORIENTAIS E O IMPÉRIO ESPANHOL, COM PIRATAS REPRESENTANDO A LIBERDADE DOS PODERES GOVERNANTES.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -281,7 +281,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]QUARENTENA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/4wO6cBwV-VPCpYReY01stBqB-wY=/fit-in/290x478/smart/media/movies/covers/2010/08/7a96cb546ceef1f75e2e25ea640f5d61.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1QbpCmD1VGGXHPpNvMvisJpdmMRzfeySx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/QUARENTENA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ilhxNZplLP0sVp1lxYy0WXuEoJC.jpg</fanart>
 <info>[B][COLOR yellow]COLETANEA DE FILMES COM ENFOQUE SOBRE EPIDEMIAS, DOENÇAS CATASTRÓFICAS PARA O FUTURO DA HUMANIDADE, MOSTRANDO A ETERNA LUTA DO HOMEM  EM BUSCA DA CURA [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -289,7 +289,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAMBO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://filmesgratis.org/wp-content/uploads/2019/02/Rambo-4-torrent-download-dublado-bluray.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1GT6TY38B36h4S23Ivv0IuifqUUqjLMfA</externallink>
+<externallink></externallink>
 <fanart>https://i.pinimg.com/originals/5d/26/98/5d2698c71ed17ccaa88b509736280022.jpg</fanart>
 <info>[B][COLOR yellow] A SAGA  É UMA SÉRIE DE FILMES DE AÇÃO QUE SEGUE JOHN RAMBO, UM VETERANO DO EXÉRCITO DOS EUA, TRAUMATIZADO POR SUA EXPERIÊNCIA NA GUERRA DO VIETNÃ, E USA AS HABILIDADES QUE ADQUIRIU LÁ PARA LUTAR CONTRA POLICIAIS CORRUPTOS, TROPAS INIMIGAS E CARTÉIS DE DROGAS.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
