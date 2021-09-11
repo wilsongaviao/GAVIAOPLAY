@@ -3,7 +3,6 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4959a62ed0ed34203fe654fbe69f659ab25887a2$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://abutretorrents.com/imagens/mulan-o-filme-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-######################################################################################################################################
 <item><title>[B][COLOR white]Mulher Maravilha 1984[COLOR yellow] (2020)[COLOR lime] Ação[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad05c3f5014af41f8dfb97ef47f2a00e31d70753</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBHYbehxaSSMc0X5m5iKBvqWzCi.jpg</thumbnail><info>[B][COLOR yellow]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.[/COLOR][/B]</info></item>
