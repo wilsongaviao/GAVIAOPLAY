@@ -24,7 +24,7 @@
 <fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
 </channels>
 </channel>
-###############################################################################################################################
+##############################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  CONTATO  [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
