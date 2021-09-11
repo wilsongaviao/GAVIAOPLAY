@@ -1,0 +1,37 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEO CLIPS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/BQwn27QF/VIDEOCLIPS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Eos2g18gKJ-43z8q5rMOmKVwcfUQG29a</externallink>
+<fanart>https://i.postimg.cc/FRYFt65x/fanartvideoclips.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUSICAS( MP3)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/mrL95HRW/MUSICAS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1_oFtjy6b6rIo9D3nPRTfZkiLqnEDWgc3</externallink>https://pastebin.com/raw/rSjb5z6e
+<fanart>https://i.postimg.cc/vmbHmn82/fanartmusicas.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RADIOS ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxqNHpFX/RADIOS-ON-LINE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=154Ck8enRC_Y1ReDcwNnm0j7HKZe6FzXL</externallink>
+<fanart>https://i.postimg.cc/xd9cfHrW/FANART-RADIO-ON-LINE.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/1t4WVzWw/SHOWS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1T0-x97iZUj8C6pQ-uYt1S88abN_ojwEm</externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/CATEGORIA%20SHOWS.txt
+<fanart>https://i.postimg.cc/7Zpw9vPx/fanartshows.jpg</fanart>
+</channels>
+</channel>
+###############################################################################################################################
