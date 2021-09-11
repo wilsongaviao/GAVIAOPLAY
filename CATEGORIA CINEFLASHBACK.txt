@@ -1,0 +1,91 @@
+
+<channel>
+<channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] AÇÃO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/kXwqy6jb/CINEFLASHBACK-A-O.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=14uuQnAlq1b_PfOgLow3URgs6SNkdjFdx</externallink>
+<fanart>https://i.postimg.cc/8kndtwvy/fanartcineflashbacka-o.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇÃO DE FILMES DE AÇÃO ANTIGOS QUE FIZERAM SUCESSOS DE PUBLICOS E BILHETERIA EM SUA EPOCA[/COLOR][/B]</info>
+</channel>
+</channels>
+#######################################################################################################################
+ <channel>
+ <channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] AVENTURA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/DwZFpvDY/CINEFLASHBACK-AVENTURA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1zsyjJ-tlbVsR9wLBr6Vzk2uxXTyoOai0</externallink>
+<fanart>https://i.postimg.cc/Y0V10qkc/fanartcineflashbackaventura.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇÃO DE FILMES DE AVENTURA ANTIGOS QUE FIZERAM SUCESSOS DE PUBLICOS E BILHETERIA EM SUA EPOCA[/COLOR][/B]</info>
+</channel></channels>
+#######################################################################################################################
+<channel>
+<channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] DIVERSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/CxQ03ypM/CINEFLASHBACK-DIVERSOS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Kr3MnKB5E8K0oeFb6v3JeK8sAKcE95kp</externallink>
+<fanart>https://i.postimg.cc/vZ5W8sNj/fanartcineflashbackdiversos.jpg</fanart>
+<info>[COLOR yellow]|SELEÇÃO DE FILMES ANTIGOS  DE DIVERSAS CATEGORIAS QUE FIZERAM SUCESSOS DE PUBLICOS E BILHETERIA EM SUA EPOCA|[/COLOR]</info>
+</channel
+</channels>
+#######################################################################################################################
+<channel>
+<channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] DRAMA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/W4pBbRZ1/CINE-FLASHBACK-DRAMA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1yaQcTD7ftVR2jViRfprhSs7Zs9vUNGdz</externallink>
+<fanart>https://i.postimg.cc/y8mxmRGx/flashback-drama.jpg</fanart>
+<info>[COLOR yellow]SELEÇÃO DE FILMES DE DRAMA ANTIGOS QUE FIZERAM SUCESSOS DE PUBLICOS E BILHETERIA EM SUA EPOCA[/COLOR]</info>
+</channel>
+</channels>
+#######################################################################################################################
+<channel>
+<channels>
+<name>[B][[COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FAROESTE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/gJvPLnXr/CINEFLASHBACK-FAROESTE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1zr0lnui6yPrVip0Khg_B6EdJPZEh3eMt</externallink>
+<fanart>https://i.postimg.cc/3JsXHRnm/fanartcineflashbackfaroeste.jpg</fanart>
+<info>[COLOR yellow]SELEÇÃO DE FILMES ANTIGOS DE FAROESTE QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[/COLOR]</info>
+</channel>
+</channels>
+
+ 
+
+<channel>
+<channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] EPICO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/4dCg3z3r/CINEFLASHBACK-EPICO.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1CcYlMuwJXqaXTiqE7zWyULAg5K1FX0Xp</externallink>
+<fanart>https://i.postimg.cc/wBVLJkHQ/fanartcineflashbackepico.jpg</fanart>
+<info>[COLOR yellow]SELEÇÃO DE FILMES EPICOS ANTIGOS QUE FIZERAM SUCESSOS DE PUBLICOS E BILHETERIA EM SUA EPOCA[/COLOR]</info>
+</channel>
+</channels>
+
+
+<channel><channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FICÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/VvmPqmng/CINEFLASHBACK-FIC-O.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1tMvqwJnKq1Bbks04Gmof7XfmhX-tvq1U</externallink>
+<fanart>https://i.postimg.cc/fLqdqTV3/fanartcineflashbackfic-o.jpg</fanart>
+<info>[COLOR yellow]SELEÇÃO DE FILMES DE FICÇÃO ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
+</channel>
+</channels>
+
+ 
+<channel><channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/7PnkxJrW/CINEFLASHBACK-ROMANCE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1zj029OucBJk_O1y3n5lSI1L748FXxAHE</externallink>
+<fanart>hhttps://i.postimg.cc/9047659L/fanartcineflashbackromance.jpg</fanart>
+<info>[COLOR yellow]SELEÇÃO DE FILMES ROMANTICOS ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+ 
+<channel><channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/ncdfm8zK/CINEFLASHBACK-TERROR.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1a_3r0AWV6qyoZpX6oBYz0tqtkfVEJNjD</externallink>
+<fanart>https://i.postimg.cc/Dz9KgQF6/fanartcineflashbackterror.jpg</fanart>
+<info>[COLOR yellow]SELEÇÃO DE FILMES DE TERROR ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
+</channel>
+</channels>

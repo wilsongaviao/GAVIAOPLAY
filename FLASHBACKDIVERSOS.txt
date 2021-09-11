@@ -1,0 +1,76 @@
+
+
+<item><title>[B][COLOR white]Dirty Dancing - Ritmo Quente[COLOR yellow] ( 1987 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655421013b9cc602e59e016983c59f4c4847c4a6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaWtc1vVJsZQ1fF63ZMYWPXR1k.jpg</thumbnail>
+<info>[B][COLOR yellow]No verão de 1963, a jovem Baby (Jennifer Gray), passa as férias com os pais em um resort, Uma noite, ela segue até o alojamento dos funcionários do lugar, encantada pela música que vinha de lá. è onde encontra Johnny (Patrick Swayze), o instrutor de dança do hotel, um homem experiente e cheio de charme. Desse encontro, surge um inevitável romance entre os dois. Um romance que chega entre muitas aulas de dança e ensinamentos de amor. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow]Dirty Dancing 2 - Noites de Havana [COLOR yellow]( 2004 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fe35225b5ac7ad0ffbb3ebb9ddb3c3a87959267</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg</thumbnail>
+<info>[B][COLOR yellow] Katey Miller (Ramola Garai), jovem americana rica, muda com a família para Cuba um sno antes da revolução de Fidel Castro. Contrariando o desejo dos pais, que querem vê-la casada com um jovem do seu circulo de amizades, ela se apaixona por um garçon de hotel, o cubano Javier (Diego Luna), jovem dançarino nas horas vagas. A paixão, incentivada pelo professor de dança interpretado por Patrick Swayze, cresce durante os ensaios para o concurso de dança e o comportamento de Kattey se torna um desafio ao pai. Como pano de fundo, muito mais do que a libertação de um país, o que está no jogo; é a libertação de uma menina que, com a ajuda deste amor, se transforma em uma mulher. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]Os Embalos De Sabado A Noite[COLOR yellow] ( 1977 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BYTU74W34Z3U7NH5WROHTHLPPDEQW72L</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgE5s52w0whbZBkA0lN9vgtbPKu.jpg</thumbnail><info>[B][COLOR yellow] Tony Manero, um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie, sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony, vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]Os Embalos de Sábado Continuam[COLOR yellow] ( 1983 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57045EC64E28066EC088B217F97763D79E32C34E</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/JWUmh3cGA73KEmPGt4LBHNXXkZ.jpg</thumbnail>
+<info>[B][COLOR yellow] ony Manero, trabalha agora em uma academia de ginástica e anseia ser o dançarino principal de um grande show da Broadway. Em sua vida particular ele se vê dividido entre duas mulheres: Jackie, uma professora de dança que trabalha no mesmo lugar de Tony, e Laura, a dançarina principal do show da Broadway. Enquanto Tony, se apaixona por Laura, ela só o vê como alguém atraente que serve para fazer sexo, o que gera uma rivalidade entre eles na vida profissional. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]A Dama de vermelho[COLOR yellow] ( 1984 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f280e1a84d7ed945fe5eb25876553426966aec0b</link>
+<thumbnail>ttps://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg</thumbnail>
+<info>[B][COLOR yellow] Theodore Pierce (Gene Wilder) é um executivo casado e com filhos, que se vê em uma situação bem complicada. Ele começa a recordar que tudo começou quando conheceu Charlotte (Kelly LeBrock), uma deslumbrante modelo que o perturbou tanto que ele se viu motivado em trair Didi (Judith Ivey), sua amada esposa, apenas para ter um caso com ela. Theodore articula um plano para ir para a cama com esta sensual estranha e para complicar uma colega de escritório, Ms. Milner (Gilda Radner), acredita que Theodore está interessado nela. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[COLOR white][COLOR yellow]Duets - Vem Cantar Comigo( 2000 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8BDF4FD60B2B02CF6385F356B40C2590C9421050</link>
+<thumbnail>https://flixfilmes.org/wp-content/uploads/2020/01/2fCGdTyyCpZbVTcBvi0dB0a7kNc.jpg</thumbnail>
+<info>[B][COLOR yellow]Seis cantores amadores resolvem se inscrever no Grande Concurso de Karaokê em Omaha, Nebraska. Lá eles tem a grande chance exibir seus talentos musicais mas, à medida que o concurso avança, eles começam a enfrentar os mais diversos contratempos. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Grease - Nos Tempos Da Brilhantina [COLOR yellow]( 1978 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D47F67A2FA34CAFC81F110AEE5D55D69776C27E9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ReGmRHrW4u84CrRvsln1PfkSfJ.jpg</thumbnail>
+<info>[B][COLOR yellow]Na Califórnia na década de 50, Danny (John Travolta) e Sandy (Olivia Newton-John), um casal de estudantes, trocam juras de amor mas se separam, pois ela voltará para a Austrália. Entretanto, os planos mudam e Sandy por acaso se matricula na escola de Danny. Para fazer gênero ele infantilmente lhe dá uma esnobada, mas os dois continuam apaixonados, apesar do relacionamento ter ficado em crise. Esta trama serve como pano de fundo para retratar o comportamento dos jovens da época[/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Grease 2- No Tempo Da Brilhantina Voltaram [COLOR yellow]( 1982 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4590043A783177393BBBCDE9156010EC41B717C</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suaVe21pJPjLTaQG8YzFRLuHbH.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um colégio um concurso de talentos provoca uma disputa interna. Enquanto isto um novo aluno, que veio da Inglaterra, fica apaixonado por uma bela jovem, mas como ela sonha em ter um motoqueiro como namorado ele começa a fazer os trabalhos escolares de seus colegas para assim ganhar dinheiro para comprar sua moto e se transformar em um misterioso motoqueiro, que impressiona a todos. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Footllose- Ritmo louco [COLOR yellow]( 1984 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9994b3523595445b10e317598e148df203a97e1b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3RAC5tavbKKjzhLhFNbgprHpAV.jpg</thumbnail>
+<info>[B][COLOR yellow]Um jovem da cidade grande se muda com sua mãe para o interior. Apaixonado por dança, ele enfrenta sérios problemas quando o conservador reverendo local resolve considerar a dança como um grave pecado. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]La Bamba [COLOR yellow]( 1987 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ed20efb5eb4def405aa11deecd3805d8d171a5</link>
+<thumbnail>https://i.imgur.com/M4Yfqn3.jpg</thumbnail>
+<info>[B][COLOR yellow]Richard Stephen Valenzuela, mais conhecido como Ritchie Valens (Lou Diamond Phillips), marcou o final dos anos 50 com uma carreira meteórica, recheada de sucessos e pontuada por uma das canções mais famosas de todos os tempos: "La Bamba". [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Curtindo A Vida Adoidado[COLOR yellow]( 1986 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f155eb98f58944f45812d68744d8b5883e9a72bd</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca1D6Pz9pGxPtCSMUodM6jIfbSp.jpg</thumbnail>
+<info>[B][COLOR yellow]No último semestre do curso do colégio, estudante (Matthew Broderick) sente um incontrolável desejo de matar a aula e planeja um grande programa na cidade com a namorada (Mia Sara), seu melhor amigo (Alan Ruck) e uma Ferrari. Só que para poder realizar seu desejo ele precisa escapar do diretor (Jeffrey Jones) do colégio e de sua própria irmã (Jennifer Grey). [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Footloose - Ritmo Contagiante [COLOR yellow]( 2010 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C05F213097135AD4FA9E6801C3E48789A373E857</link>
+<thumbnail>https://1.bp.blogspot.com/-7t8sb4VHCg8/Wt56Nco8_yI/AAAAAAAAKw4/bjqasyUNhXIlIwIf-DLD_SjRG39T4ga8wCLcBGAs/s1600/Footloose%2BRitmo%2BContagiante%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info>[B][COLOR yellow]Ren MacCormack (Kenny Wormaid) vai morar com os tios em uma cidade do interior, após a morte da mãe. Apaixonado pela dança, ele enfrenta problemas com o reverendo Shawn Moore (Dennis Quaid), que baniu a dança da cidade devido a um grave acidente.
+[/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Xanadu [COLOR yellow]( 1980 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E44D86957C3FD2C3BA5585F1C07F7243BF8D705</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zCkz5n80SmVAOHLEolAO4Iav0q.jpg</thumbnail>
+<info>[B][COLOR yellow]Kira (Olivia Newton-John), deusa grega da dança, vem à Terra ajudar o artista Sonny Malone (Michael Beck) a realizar seu grande sonho de abrir uma inovadora casa noturna. O experiente dançarino Danny McGuire (Gene Kelly) também contribui na empreitada, mas tudo se complica quando Kira acaba se apaixonando por Sonny, contrariando as ordens de Zeus. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white] Ghost - Do Outro Lado da Vida [COLOR yellow]( 2004 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71C6F6120C4D437B89CA4D020F243F2A8755DF87</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlbPxCyGhXoIUkrQY0xsY61xah7.jpg</thumbnail>
+<info>[B][COLOR yellow]Sam Wheat (Patrick Swayze) e Molly Jensen (Demi Moore) formam um casal muito apaixonado que tem suas vidas destruídas, pois ao voltarem de uma apresentação de "Hamlet" são atacados e Sam é morto. No entanto, seu espírito não vai para o outro plano e decide ajudar Molly, pois ela corre o risco de ser morta e quem comanda a trama, e o mesmo que tirou sua vida, é quem Sam considerava seu melhor amigo. Para poder se comunicar com Molly ele utiliza Oda Mae Brown (Whoopi Goldberg), uma médium trambiqueira que consegue ouvi-lo, para desta maneira alertar sua esposa do perigo que corre. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Flashdance: Em Ritmo de Embalo[COLOR yellow] ( 1983 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4543d32da255629e4001a38b94b1edf10baf5d4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqacP0KZHd5FcurxKFpg3WZjuFk.jpg</thumbnail>
+<info>[B][COLOR yellow]Flashdance conta a divertida e emocionante história de Alex Owens (Jennifer Beals), uma jovem de 18 anos, bonita e altamente determinada. Owens trabalha como metalúrgica durante o dia e à noite é uma exótica dançarina em uma casa noturna. O filme traz hits clássicos dos anos 80, incluindo as canções mais conhecidas da época como "Flashdance-What A Feeling" de Irene Cara e "Maniac" na voz de Michael Sembello. Esse filme, que propagou a moda de blusas de moleton rasgadas, numa combinação com meias de lã, traça toda a luta e trajetória de Alex, po
