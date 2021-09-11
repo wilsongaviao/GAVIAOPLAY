@@ -1,0 +1,255 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] 2091 [COLOR lime] AÇÃO / FICÇÃO [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]É o ano 2091. Os sete melhores jogadores do mundo são recrutados por uma companhia poderosa para viajar até a lua de Calisto e jogar um contra o outro em um videogame extremo. Mas tudo vai mudar quando um deles descobrir a verdade sinistra que se esconde no jogo e que pode colocar em risco a própria vida.[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C164F829149C0F065B3A93A6993916D711A5C08C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76809745E4E8535612E3DCA5D95722F1A0059408</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5F6E23B88514D216B345928F36F7A80E06D964B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25C18F3B9A4BF7CD9E8ED2FD23ECAEA9C91B2F2C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9BFA620F99B41796F64F73E8D9BFC0068C37E0B7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:396841E342EBAAE255A24654C88A23C7D41DB46A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57CD001B496840B7A4F97D12AE5F3598AD98E419</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D73A4BECF6500E64E22C1D59895B10FE78A834B7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7830C3E0D707BD97965F97D7D1447955A71C3F0C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E81652B7A5FD6AA5491A586856AF7D113EA9F7B5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00668D8C829B6A3EE83BE5720F92810E04F80C08</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDF7D706DEB8183B16A539B6E074C0F5994E2E7B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] A ODISSÉIA [COLOR lime] AÇÃO / AVENTURA( 2 EPS )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A51CBCCD686EAE432A121EDC1D661BECD6891419</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Após dez anos, a Guerra de Troia chega ao fim e o herói Odisseu faz uma viagem de volta para casa. Ele enfrenta criaturas mitológicas, deuses e outros inimigos poderosos.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ALCATRAZ [COLOR lime] DRAMA / AVENTURA ( 16 EPS )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e5688ecd457c8690e595859d96137351f77f40c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/efO8ahdZZntsZcX7ybmUMP1Figu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8xBDhrgrkOIoIlzz2omctHEvRsC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando a detetive Rebecca Madsen (Sarah Jones) é designada para investigar um homicídio macabro, uma digital a leva até um suspeito improvável: Jack Sylvane (Jeffrey Pierce), um ex-detento de Alcatraz, que morreu décadas atrás. Quando suas buscas são impedidas pelo agente do governo Emerson Hauser (Sam Neill), ela procura ajuda de um especialista nos casos de Alcatraz, e entusiasta dos quadrinhos, Dr. Diego Soto (Jorge Garcia). Logo eles descobrem que Sylvane não só está vivo, mas à solta nas ruas de San Francisco, deixando um rastro de corpos, e sem envelhecer. Mas isso é apenas uma pequena parte de uma grande e sinistra conspiração que eles precisam deter a qualquer custo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ASCENSÃO: IMPÉRIO OTOMANO [COLOR lime] AÇÃO /AVENTURA ( 6 EPS ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09c72df214cc918d9833652eb9a313dce8b8d9a2$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3e47f2baa2abe08f09ff84e5838d22ccb3c9d20$nome=[B] 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/eyzWbv6zrtsRblqc90oUGyoTyl7.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ztruG6mR07igZWchQHiaFkND8Di.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O sultão otomano Maomé II empreende uma campanha épica para tomar Constantinopla, capital do Império Bizantino, definindo o curso da história por séculos.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] BARBAROS [COLOR lime] AÇÃO / AVENTURA ( 6 EPS ) [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa19c9f014775e02c50842ebc1b0872057e41b55</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Em 9 D.C., os destinos de três pessoas se cruzam na Batalha da Floresta de Teutoburgo, quando os guerreiros germânicos impedem o avanço do Império Romano.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BAND OF BROTHERS [COLOR lime] DRAMA / AÇÃO ( 10 EPS )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19de7bd285b11aa7c8f93779dd13b17bab330d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lngME02RNCzjUIkzS9eJ4b7sjeQ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Band of Brothers coloca o telespectador dentro do universo da Segunda Guerra Mundial, enquanto mostra de perto a saga da lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de para-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler. Ao início de cada episódio, há o depoimento de veteranos da Companhia Easy, cujas experiências estão traduzidas neste drama, que mostra os momentos mais importantes vividos por cada um soldados.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] COSMOS - UMA ODISSÉIA DO ESPAÇO-TEMPO [COLOR lime] DOCUMENTÁRIO ( 13 EPS )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FB1337EE885B244163DAE25BB82F29039F5419</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/47f0rqHHwWVJnEHL1JOR8SHznBZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Nu92BI6BjqsoTOzQG3BonDCi0g.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma aventura que se estende por bilhões de anos na evolução da vida e da consciência. Uma visita a um laboratório de 100 mil anos de idade. A história da mudança no estilo de vida que alterou radicalmente a existência humana e a vida do herege que encontrou Deus no livro da natureza, abrindo caminho para as estrelas.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CONSTANTINE [COLOR lime] AÇÃO / FICÇÃO ( 13 EPS )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4EC77C93FA4584AC8E49299C16881353EC4B3445</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] FIRE CHASERS [COLOR lime] DOCUMENTARIO 9 4 EPS ) [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6b7e7b8f3b13de1ffe85d9a0c701be41640e2b5$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6B7E7B8F3B13DE1FFE85D9A0C701BE41640E2B5$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dgdrKsKNBtjpkeSL5jLjZLr8aPV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3ALJw7b71VWIqlZDw4YAEB8Nq1V.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]As queimadas se espalham pela Califórnia em 2016. Cabe a um grupo de bombeiros corajosos deter as chamas, proteger as casas e salvar a população nesta série documental da gigante do streaming Netflix. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FLASH GORDON [COLOR lime] AVENTURA / FICÇÃO ( 21 EPS ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e62036f802eab5caf71a78eb286a6c20ee9208</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/r8hNPZMfo0SdYjXzr3tzNSMMafc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9dJG6tIcqvZJVNh94stXV3RzXv5.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Na trama, Steven Gordon é um jovem marcado por uma tragédia familiar: a morte de seu pai num estranho incêndio em um laboratório, que ocorrera quando o herói tinha apenas 13 anos. Passados alguns anos, Steven descobre que o incêndio tem relação com um objeto vindo do espaço. Com a ajuda da namorada Dale Arden (Gina Holden) e do cientista Hans Zarlov (Jody Racicot), Flash descobre que o acidente está ligado ao ditador intergaláctico Ming (John Ralston), que deseja destruir toda a humanidade. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR orange]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] JOGOS SAGRADOS [COLOR lime] AÇÃO / AVENTURA  ( 2 TEMP ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9$nome=[B] 1ª TEMP [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058$nome=[B] 2ª TEMP [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thu
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MOBY DICK [COLOR lime] DRAMA / AÇÃO( 4 EPS )[COLOR ycrimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1A85CF235BAF70A8E70B5B89B9DB63B3DC6F931</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bsEsjQpnlMHnnSA7XNfxceyhYbk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ipQiP30YbcwqyDeiqJmAdLYp1j3.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O único sobrevivente de um navio baleeiro perdido escreve o conto da obsessão auto-destrutiva de seu capitão para caçar a baleia branca, Moby Dick. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SECTION ZÉRO [COLOR lime] AÇÃO / FICÇÃO ( 8 EPS ) [COLOR yellow######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aacccf43c82a1269673be17c2ef0d66b5341f81</link>
+<thumbnail>https://abutretorrents.com/capas/section-zero-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kPzfY5TlKJdgkc4pQJmQC9tC4Jp.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Num futuro próximo, corporações multinacionais tomam o controle da Europa. Promethee, uma dessas corporações, deseja aumentar sua dominação ao substituir a polícia por uma milícia, o Esquadrão Negro liderado por Henry Munro. Sirius, um ex-policial atormentado pela morte da filha, se alia a Franck Vernova no esquadrão clandestino Section Zero que luta contra as milícias privadas, idealizando o retorno da força policial tradicional antes que seja tarde demais [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] PACÍFICO - O OUTRO LADO DA GUERRA [COLOR lime] DRAMA / AÇÃO ( 10 EPS )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEB826D2A8AEA40735EDDF78080A2766FF3ABC61</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tHncSe9RwRJgCAwkrOve0Cow78V.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série The Pacific abordará atuação das forças americanas e européias em operações de guerra no Pacifico. O enredo relata as histórias de três fuzileiros: Robert Leckie, John Basilone e Eugene Sledge, que lutaram contra o ataque japonês no Pacífico durante a Segunda Guerra Mundial. A base do enredo foi o livro de memórias de Eugene Sledge, “With the Old Breed“. A série conta com 10 episódios. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] PROJETO COELHO BRANCO [COLOR lime] DOCUMENTÁRIO / FICÇÃO ( 10 EPS ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C16016740F244A64EB2CDBC41FC9AFC6042A811B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txLaCiFjR22danltfowUOgnTPjM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1LZ2c0M7JNJeExT2A8MBMFKkdvy.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Kari Byron, Tory Belleci e Grant Imahara são investigadores que se unem para desvendar estranhos eventos. De avanços tecnológicos a guerras mundiais, o grupo encara casos estranhos e desafiadores em busca de respostas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] PROVA DE FOGO [COLOR lime]DRAMA / AVENTURA ( 2 EPS )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9536e294208a27f5b65fd84719815b8c21f6943a </link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uShOoDmKPCcza5EYObkWwnxVMSS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9XGouA5OuXje9NyobqpsWMwzyxR.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Numa envolvente saga de amor, guerra e aventura, Prova de Fogo narra a legendária história da colonização da fronteira americana através do olhar de três extraordinárias mulheres que viveram suas vidas no coração dos eventos que moldaram o Oeste. Atravessando cinco décadas passando pela Guerra Civil, Reconstrução e indo além, Prova de Fogo é a história de amizade, sobrevivência e triunfos de Geórgia Lawshe Woods (Angelina Jolie), Sarah Ashby McClure (Dana Delany) e Euphemia Ashby King (Annabeth Gish).[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] TEMPLÁRIOS [COLOR lime] AÇÃO AVENTURA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20FD1C2005E8859977D7ED360DA817A62854AA03</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wLt89QzlRXEOjYyEq6a0kVWimCz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1pOynsdldjk8YCoXr8aoWw0laoM.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Templários transporta-nos às origens da Ordem dos Templários, centrando-se na Península Ibérica, na Primeira e Segunda Cruzadas, e nos sucessos que, em finais do século SI e princípios do XII, proporcionaram uma nova mentalidade e a proliferação de um novo modelo: os monges guerreiros. A série centra-se especialmente na influência da Ordem na criação de uma nova nação: Portugal, assim como nas primeiras Cruzadas e o impacto que provocaram numa Península Ibérica imersa em plena Reconquista.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] TERRA DE GIGANTES [COLOR lime] AÇÃO / AVENTURA ( DUAS (TEMP ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa74265831aab384acbf21c17a75bd42ea9306e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ljbqDwgOoqYvQ6WRnuLr8QleEkH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4uYZCz2jUzI1nq3645Esx26kTX7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A história da série começa no dia 12 de junho de 1983, quando a nave espacial Spindrift fazia o voo normal entre Los Angeles e Londres, sendo atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes, doze vezes maior que a Terra.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] TROIA A QUEDA DE UMA CIDADE [COLOR lime] DRAMA / AÇÃO  ( 8 EPS )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BE16058F6540660F868E0270AF74847EA9195B4$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0237c6b05db2480a12496f7dde164c97a1af550$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7RPWQw4YfKQHFwnJXi7ZdfoE5vZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gm2J0sP5CUxh8wquhDdj2dRhPEn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Em busca da mulher prometida por Afrodite, o pastor Páris descobre sua verdadeira identidade e se apaixona por Helena de Esparta, desencadeando a Guerra de Troia.[/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] TOQUE DE RECOLHER [COLOR lime] AÇÃO / AVENTURA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADC4BB05D9A58AD2626438AF3FA9238F22F7120B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vqYapg2WJw6dga93967lACbOS6Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fAiWVBIrx8hqwkH1pI8BcKnmXqJ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um grupo de pessoas decide participar da corrida noturna mais rápida – e ilegal – do mundo. Os competidores terão de atravessar a Grã-Bretanha de Londres até a Escócia em seus veículos tunados para conquistar o prêmio final: se livrar de um governo totalitário que controla suas vidas.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] UM LUGAR CONGELADO [COLOR lime] COMÉDIA [( 7 EPS )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18EA3302EEF2CBE1D415B29B25429CE22B1D1103</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rwsYRI2aU3VPD1ZBFWtr8f8rS8M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6QqJ6duhK5pfXun03i8Ulm9Qdwm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Esta é a história sobre um policial urbano Salmander que, depois de um pouco acidentalmente matar seu cavalo da polícia na frente de milhares de crianças, mudou-se para o local mais distante ao norte na Noruega: Hellfjord. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
