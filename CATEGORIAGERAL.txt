@@ -133,7 +133,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]NOVELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/x8zNzGGM/NOVELAS.jpg</thumbnail>
-<externallink>n</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/NOVELAS.txt</externallink>
 <fanart>https://i.postimg.cc/Yqr9Lw0Z/fanartnovelas.jpg</fanart>
 <info>[B][COLOR yellow]PARA OS NOVELISTAS  AQUI ENCONTRARÃO AS NOVELAS QUE JA FIZERAM SUCESSO ESTARAO AQUI SE FALTAR A DO SEU GOS  ENTRE EM CONTATO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
@@ -142,7 +142,7 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://docs.google.com/uc?export=download&id=</thumbnail>
+<thumbnail>https://i.postimg.cc/6pN1bt3x/SERIES.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIES.txt</externallink>
 <fanart>https://i.postimg.cc/TwF576J3/series.jpg</fanart>
 <info>[B][COLOR yellow]AS MELHORES SERIES NACIONAIS E INTERNACIONAIS, ATUAIS E ANTIGAS ESTARÃO AQUI[/COLOR][/B]</info>
