@@ -1,0 +1,60 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]SER ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://docs.google.com/uc?export=download&id=1e9jguXROWZ1IfJLjCD1cdawnYLcK0eIB</externallink>
+<thumbnail>https://i.postimg.cc/SQnYPLzM/SERESPIRITA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/gkwNFjc8/fanartserespirita.jpg</fanart>
+<info>[B][COLOR yellow]AQUI ENCONTRÃO UM ESTUDO APROFUNDADO DE COMO PROCEDER UM ESPIRITA PRATICANDO OS ENSINAMENTOS DO CRISTO, ESTUDAND0 E PRATICANDO A CARIDADE,AMANDO AO PROXIMO [/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CONHEÇENDO A DOUTRINA ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/wBCfyXZR/DOUTRINAESPIRITA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=14em5GJ7rGNh9SWEAtINd8iUS_1Ms1t5N</externallink>
+<fanart>https://i.postimg.cc/kXhzKLGF/fanartdoutrinaespirita.jpg</fanart>
+<info>[B][COLOR yellow]AQUI ENCONTRÃO UM ESTUDO APROFUNDADO SOBRE A DOUTRINA DO AMOR, DA CARIDADE [/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ESTUDO DO EVANGELHO ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+[COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white][COLOR yellow]"PALESTRAS"[/COLOR][/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR]</name>
+<externallink>https://docs.google.com/uc?export=download&id=1vwEcGq04t4Pq0DzaP5MebqaKTfzaHbsk</externallink>
+<thumbnail>https://cdn.awsli.com.br/600x450/577/577582/produto/23830835/evangelho-segundo-o-espiritismo-o-e-facil-leitura-37c43569.jpg</thumbnail>
+<fanart>https://i.postimg.cc/VNy6zCwY/fanartestudodoevangelho.jpg</fanart>
+<info>[B][COLOR yellow] AQUI ENCONTRARÃO UM ESTUDO DO  NOVO TESTAMENTO DE ACORDO COM A DOUTRINA DOS ESPIRITOS[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MEDIUNIDADE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://docs.google.com/uc?export=download&id=1zW1n_nlnWvM1uNPRg9MX0JZpSuln65R0</externallink>
+<thumbnail>https://i.postimg.cc/X7rQrQXc/MEDIUNIDADE.jpg</thumbnail>
+<fanart>https://i.postimg.cc/W3nf3HxZ/fanartmediunidade.jpg</fanart>
+<<info>[B][COLOR yellow]NESSE ESPAÇO TERÃO ACESSO  SOBRE TUDO REFERENTE A MEDIUNIDADE,O QUE E SER MEDIUM,ETÇ. E TAMBEM OS PROCEDIMENTOS DE UM MÉDIUM[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES ESPIRITAS E ESPIRITUALISTAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://docs.google.com/uc?export=download&id=1uShE9pT7SAqX87Ow9UktqPvCufXIJDDD</externallink>
+<thumbnail>https://i.postimg.cc/VkY1qRkJ/FILMES-ESPIRITASEESPIRITUALISTAS.png</thumbnail>
+<fanart>https://i.postimg.cc/3RTT4WVW/fanartfilmesespiritas.jpg</fanart>
+<info>[B][COLOR yellow]AQUI ENCONTRARÃO OS FILMES ESPIRITAS E ESPIRITUALISTAS,QUE JA FORAM LANÇADOS  E TAMBEM OS QUE FOREM SENDO LANÇADOS NO CENARIO NACIONAL E INTERNACIONAL  [/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PALESTRAS ESPIRITAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://docs.google.com/uc?export=download&id=1u4ghkolCl62poUGv8i5TRqvMTTijuBHO</externallink>
+<thumbnail>https://i.postimg.cc/dQ52d8c4/PALESTRAESPIRITA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/RhhG0V7r/fanartpalestrasespiritas.jpg</fanart>
+<info>[B][COLOR yellow]AQUI ENCONTRARÃO PALESTRAS ESPIRITAS COM PALESTRANTES QUE ESTUDAM A FUNDO A DOUTRINA DO AMOR, E FALAM SOBRE OS ENSINAMENTOS DO CRISTO NA VERSÃO ESPIRITA[/COLOR][/B]</info>
+</channels>
+</channel>

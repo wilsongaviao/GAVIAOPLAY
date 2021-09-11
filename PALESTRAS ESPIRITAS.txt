@@ -1,0 +1,74 @@
+<item>
+<title>[B][COLOR white]  Não Perca A Sua Fé  - [COLOR yellow] Haroldo Dutra [/COLOR][/B]</title>
+<utube>O4ddTvznzV4</utube>
+<thumbnail>https://i.pinimg.com/236x/2c/3b/6f/2c3b6fd86c6f690df1bd1b23de43eb59.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  Livre- [COLOR yellow]se da tristeza, melancolia e supere o luto. - [COLOR yellow] Divaldo Franco[/COLOR][/B]</title>
+<utube>Rg7eLXa6VZQ</utube>
+<thumbnail>https://miro.medium.com/max/841/1*d51dKht- [COLOR yellow]BUoxAcB3gOn- [COLOR yellow]5g.png</thumbnail>
+<fanart></fanart>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white] Mediunidade e Sintonia - [COLOR yellow] Chico Xavier e Emmanuel[/COLOR][/B]</title>
+<utube>BWy538ROS6Q</utube>
+<thumbnail>https://cdn.awsli.com.br/600x450/577/577582/produto/23832124/mediunidade- [COLOR yellow]e- [COLOR yellow]sintonia- [COLOR yellow]6071dc73.jpg</thumbnail>
+<fanart></fanart>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white] A Interpretação do Evangelho à Luz da Doutrina Espírita - [COLOR yellow] Haroldo Dutra Dias [/COLOR][/B]</title>
+<utube>c6F2OtaDhRo</utube>
+<thumbnail>https://i.ytimg.com/vi/xapRFGn8gA4/hqdefault.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white] Quem é o Espírito de Verdade? - [COLOR yellow]  Paulo Neto[/COLOR][/B]</title>
+<utube>DELz- [COLOR yellow]unW8xE</utube>
+<thumbnail>https://4.bp.blogspot.com/- [COLOR yellow]qt5YG0zhaDw/UcHbs8- [COLOR yellow]MxzI/AAAAAAAAGi4/YfFiwTmCA4w/s1600/arte.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  A caminho da luz - [COLOR yellow] Haroldo Dutra Dias[/COLOR][/B]</title>
+<utube>iNIJ- [COLOR yellow]wCz1EE</utube>
+<thumbnail>http://api.ning.com/files/rPrpxosIEULsWA70j5zfkv5OG829r8rueXYP6GLk5nGgO5YVFliMI40NDWi9eUfQd7MDOOn9sLewxEs- [COLOR yellow]Bcc5DhZH6ScvCxr9/CARTAZAcaminhodaluz_Site.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  o Espírito de Verdade e Allan Kardec - [COLOR yellow] Haroldo Dutra [/COLOR][/B]</title>
+<utube>h8QfBZtFks4</utube>
+<thumbnail>https://i.ytimg.com/vi/EE- [COLOR yellow]nDU0dtAQ/maxresdefault.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  O Homem de Bem  - [COLOR yellow] Haroldo Dutra Dias [/COLOR][/B]</title>
+<utube>DwYlC20BJ9M</utube>
+<thumbnail>https://i.pinimg.com/564x/42/55/25/425525c2786ca66c472a22786e586be4.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  As Causas das Aflições  - [COLOR yellow] Haroldo Dutra Dias [/COLOR][/B]</title>
+<utube>BvcAynMjlwk</utube>
+<thumbnail>https://i.ytimg.com/vi/68P5gxAWCn4/maxresdefault.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  Nutrição e Intercâmbio Espritual - [COLOR yellow] Haroldo Dutra Dias [/COLOR][/B]</title>
+<utube>- [COLOR yellow]OgayHc0dNY</utube>
+<thumbnail>https://i.ytimg.com/vi/- [COLOR yellow]OgayHc0dNY/maxresdefault.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  O amor e a superação moral 1ª Parte - [COLOR yellow] Haroldo Dutra Dias [/COLOR][/B]</title>
+<utube>hF3lamRydqk</utube>
+<thumbnail>https://i.ytimg.com/vi/aQNVO6f4Qac/maxresdefault.jpg</thumbnail>
+</item>
+#######################################################################################################
+<item>
+<title>[B][COLOR white]  O amor e a superação da acomodação moral 2ª Parte - [COLOR yellow] Haroldo Dutra Dias [/COLOR][/B]</title>
+<utube>DwYlC20BJ9M</utube>
+<thumbnail>https://i.ytimg.com/vi/aQNVO6f4Qac/maxresdefault.jpg</thumbnail>
+</item>
+#######################################################################################################
