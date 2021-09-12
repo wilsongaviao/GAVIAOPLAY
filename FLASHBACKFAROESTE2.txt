@@ -1,0 +1,668 @@
+<item>
+<title>[COLOR silver][B]A Caravana da Morte[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QkbOXxG1ob0</link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/140/capas-caravana-da-morte.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Paixão E Sangue[/COLOR][/B] (legendado)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=njMhV6ZO6F8</link>
+<thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/paixao-e-sangue_t98227.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Preco Do Poder[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=13f0rAYQc80</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ8o3Pn2gAb3elzzLuOI7M0opmd.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Lei Do Bravo[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0a8S9JY6E7Y</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDZjYzllOTgtODQyZC00ZDExLWJhYzctMTYyN2JjY2VlODk4XkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Lenda do Revólver Dourado[/COLOR][/B][COLOR yellow][B](IMDB 7.0)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JkhqLUlkXgQ</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/qLbgT7DgHWWbNNWrfZTex3Gn18L.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Audácia de Forasteiro[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pGWi8K6QCyM</link>
+<thumbnail>https://media.fstatic.com/AMZOC3IZcr9-vKUCxXSQSYvRMRM=/fit-in/290x478/smart/media/movies/covers/2014/01/audacia-de-um-forasteiro_t91412.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Bando de Renegados [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dDGr4hHQFcM</link>
+<thumbnail>https://media.fstatic.com/MVIOimfQ8fvaUpgKbIDoBC9rMNQ=/fit-in/290x478/smart/media/movies/covers/2012/01/1f04b4554d7950dd070e39507584ac71.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Levante Dos Apaches[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ImSjKFlHFS8</link>
+<thumbnail>https://media.fstatic.com/F5z0kKrt7ZUV29iA34DlJIn2gIw=/fit-in/210x312/smart/media/movies/covers/2010/04/89b49f9397255c995d1a1a461c23aa1a.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Salvacão[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6BJssUCd8_Q</link>
+<thumbnail>https://jgdprod-us.s3.amazonaws.com/wp-content/uploads/sites/14/2015/12/05121317/salvation.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Trinity E Seus Companheiros[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IQZFZ54mEoE</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWy2A-90AraUH2jRuiQl95dkfEGqRCd1MD39RwEM_XQaUGhm4o&s</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Meu Nome e Ninguem[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kJHuIVER9dg</link>
+<thumbnail>https://media.fstatic.com/R_v97WU8a9sJuyRE-ydXlZTksvw=/fit-in/290x478/smart/media/movies/covers/2014/05/meu-nome-e-ninguem_t12973.jpg</thumbnail>
+<genre></genre>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Purgatorio[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1PKcgdtDkKs</link>
+<thumbnail>https://media.fstatic.com/tfGDulJlZkEXy5CWXbDGIi8kxNc=/fit-in/290x478/smart/media/movies/covers/2011/03/bdd42dce7190e7a74be35ea6e0ca763c.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Um Passo da Morte[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sf3Hgl1p0Rg&amp;index=16&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzRlZWQzMzYtZTE1OS00NzY1LWJjMzItN2U1ODZiM2YxM2E2XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Jesse James[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Santmc4oQuA</link>
+<thumbnail>https://media.fstatic.com/CmK9FNU-yMJ9Tqn6M4AO782GZiI=/fit-in/290x478/smart/media/movies/covers/2016/12/Jesse_James.jpg</thumbnail>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR silver][B]Por Uns Dólares a Mais[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SMAS0k3eX2E</link>
+<thumbnail>https://media.fstatic.com/cVBsq7YX1fqo-iMygEVhkq75a_g=/fit-in/290x478/smart/media/movies/covers/2017/07/por-uns-dolares-capa.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Arizona Violenta[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0BQ6mqS53aA</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWQ5OGMxMmYtNTdhNy00MDRiLWIzMzgtYjA1NWM4ZDIxZjI3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Atirando para Matar[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SQbPzlzeEEE&t</link>
+<thumbnail>https://media.fstatic.com/HWRMm_RvA8p1Z_7rI1QZKnNU-z4=/fit-in/290x478/smart/media/movies/covers/2012/04/607a77e90aa7870c6a660fa085ce5e32.jpg</thumbnail>=
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]Rapido No Gatilho[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PnS70UBh0oA</link>
+<thumbnail>https://media.fstatic.com/9UcLaMrHtggOehwgJpWQ2J879zg=/fit-in/210x312/smart/media/movies/covers/2010/07/4929f8ca435d554ec833c0866b9cf1bb.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Black Jack[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tJx8fLVYFDk</link>
+<thumbnail>https://media.fstatic.com/yPxaVhdKqHWZ0OkAQ16Af1h9KD4=/fit-in/290x478/smart/media/movies/covers/2019/02/4db6646c11de7255f1a78195a5fb6d82eb91147b.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]Rastros de Ódio [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2oSMIYYmUIg</link>
+<thumbnail>https://media.fstatic.com/IlvrW8SIx5RY-Wf_sihueqYXNn0=/fit-in/290x478/smart/media/movies/covers/2010/08/63b060d6108015da0d3618ad75dde685.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Caçada Humana[/COLOR][/B] (legendado)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OJzxvtcwrA0</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmUyNjYzNDItNWU5YS00NGVkLTlkMzctZTlmMzRjNGUxYWIxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Caminho de Oregon[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=J73ukklwycY</link>
+<thumbnail>https://media.fstatic.com/e5C848IgORhwCfVcEUUBrqsfQRo=/fit-in/290x478/smart/media/movies/covers/2014/10/the-oregon-trail_tNone.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Pistoleiro Sem Destino[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=g3dXDC_hMAA</link>
+<thumbnail>https://media.fstatic.com/HQF0WSW3krwO3BeD_S1TwswNKF0=/fit-in/290x478/smart/media/movies/covers/2017/05/62742_f1.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]Vale da vingança[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XAVxy3l60ks</link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/778/capas-vale-da-vinganca.jpg/thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Sangue Por Sangue [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rf3pIrnI5LM</link>
+<thumbnail>https://media.fstatic.com/hjqCQc3WjBO4ZtbyMiu6hNE0owU=/fit-in/290x478/smart/media/movies/covers/2017/10/capa_6737.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Honra Se Escreve Com Chumbo[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KEdN97KND-8</link>
+<thumbnail>https://media.fstatic.com/PDpoElGRsEza73c-V0M20JOg9SQ=/fit-in/210x312/smart/media/movies/covers/2012/02/d5f2afd9dcbb68f5971871968587e2d0.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Cavalgada Infernal[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id= bfX1FQqGPz4</link>
+<thumbnail>https://media.fstatic.com/AMWt-0onvNL-BXT5l7PyPRV-TuM=/fit-in/290x478/smart/media/movies/covers/2016/10/capas-cavalgada-infernal.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Django[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=y_q1dsqX3KM</link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/232/capas-django.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Django Mata em Silêncio[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1s2CCzGKXXw</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzI5MGMwY2QtNjRiNi00Y2YwLWI3MjMtMTlmMDFkYjk4MzFmXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Django, o Bastardo[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QKigwITGOLU</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE1NjQ3NDIwMV5BMl5BanBnXkFtZTcwMzcyNDcyMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Django Mata Em Silencio[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cn5PDL9RJCk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE1NjQ3NDIwMV5BMl5BanBnXkFtZTcwMzcyNDcyMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Viva Django[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=S5KYMtU8kvk</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/fs.021055/0021055_200.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Emboscada Selvagem[/COLOR][/B] (legendado)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2MTGFTO0PTU</link>
+<thumbnail>https://media.fstatic.com/uE4eA2LnqLv2ZC4HK2UjAEd_32U=/fit-in/290x478/smart/media/movies/covers/2018/04/620101.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Conquista de Apache[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6Ko2EzUdJeo</link>
+<thumbnail>https://media.fstatic.com/FgAbMCs_n3HYg0fLpFevW18nqd4=/fit-in/290x478/smart/media/movies/covers/2014/10/conquest-of-cochise_tNone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Nas Garras Da Ambição[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6Vgbxe9Ma4E</link>                                                                  
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/490/capas-nas-garras-da-ambicao.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver][B]Bufalo Bill,O Herói Do Oeste[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RWjOHs4fJik</link>
+<thumbnail>https://media.fstatic.com/ktcLixmPwsexq5NiHgfNCefc4Ps=/fit-in/290x478/smart/media/movies/covers/2015/12/buffalo-bill-l-eroe-del-far-west_tNone.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Grande Búfalo Branco [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iRxi3iN-TqA</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Dias Perigosos[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=v05naaTI7bY</link>
+<thumbnailhttps://media.fstatic.com/LgWK0hfB0N8VWCXBWeOKG69ih-E=/fit-in/290x478/smart/media/movies/covers/2014/02/cavalgada-sangrenta_t95201.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Flechas de Fogo[/COLOR][/B][COLOR yellow][B](IMDB 7.2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f9-sIU8HT38</link>
+<thumbnail>https://media.fstatic.com/ueiSTH84Ls1gMkijcBEAYCdB6_w=/fit-in/290x478/smart/media/movies/covers/2018/01/flechas-de-fogo.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Furia Apache[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pknw-Q_W02I</link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/1023/capas-furia-apache.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Dolar Furado[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=T3QBng5gG9I</link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/240/capas-dolar-furado.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Herança Sagrada[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=u_Wy2ylu9yQ/link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/350/capas-heranca-sagrada.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Hordas Selvagens[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=o_vKZlWHybk</link>
+<thumbnail>https://cdn.iset.io/assets/40625/produtos/380/thumb_400-400-capas-hordas-selvagens.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Dias De Vingança [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TioEj7Y7e2g</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hm2vmSyvShn_jshVpaGjRhvUXZt71zBfzl99J8YG4ExySx6_&s</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]Um Pistoleiro Em Sacramento[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aYbH9CT3Flk</link>
+<thumbnail>https://www.spacetrek66.com.br/imagem/index/3129327/G/um_pistoleiro_em_sacramento.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR silver][B]Billy The Kid[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=unyn9q0M4Ks</link>
+<thumbnail>https://i2.wp.com/noticiasetecnologia.com/wp-content/uploads/2019/04/Billy-The-Kid-A-Lenda.jpg?resize=375%2C544&ssl=1</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Os Soldados Búfalos[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YHbyga5IECk</link>
+<thumbnail>https://media.fstatic.com/0cAUSSB0D3LdOkV3kOvqBZikaBw=/195x289/smart/media/movies/covers/2010/03/e0421b6b64a96ca3c2fca294f79e9034.jpg/thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Rebelião de Bravos[/COLOR][/B] (legendado)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SbWvM39Dpg0</link>
+<thumbnail>https://i.pinimg.com/originals/77/0c/33/770c33664eab56dfdf27426cbe075731.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Lei Da Violencia[/COLOR][/B]</title>      
+<link>plugin://plugin.video.youtube/play/?video_id=TWDK97ymwOE</link>
+<thumbnail>https://media.fstatic.com/rjpDzelTeceYDMEzRL8iyB8NmuE=/fit-in/290x478/smart/media/movies/covers/2014/10/a-lei-do-colt_t96241.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]A Revolta Dos Seminoles[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zTCS_2ANV88</link>
+<thumbnail>https://i.pinimg.com/236x/b5/09/04/b5090498dc32e34e41884ecbf34b991e.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Lei e Ordem[/COLOR][/B][COLOR yellow][B](IMDB 6.9)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zTCS_2ANV88</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjNhMTY0MDEtMjA1OS00YTUxLWJiZTYtZTI2NmQ3MTI2ZjFlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Lutando como um Bravo[/COLOR][/B][COLOR yellow][B](IMDB 5.8)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RipjS7JTaVY</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNThlY2M1Y2MtM2Q5Zi00MjYxLThkYjUtYzY2OTk3NjI3OWQyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Máfia![/COLOR][/B][COLOR yellow][B](IMDB 5.5)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=avqrWt90c9Y</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjJlZjYwMjQtMWUwYi00MDYwLWFjOTgtZjk0M2ZkMmVkZGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Minha Vontade é Lei[/COLOR][/B][COLOR yellow][B](IMDB 7.3)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NBPvGXtBBGU</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmMwZWFjYTEtNjE3ZS00MzM0LThjMjUtMDZhYWYzNjU3ZmJmXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Montanhas Perigosas[/COLOR][/B][COLOR yellow][B](IMDB 6.6)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=h7pnA0sXEtA</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg1NjY5MDc1NF5BMl5BanBnXkFtZTcwNzAzODkxMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Na Fúria de uma Sentença[/COLOR][/B][COLOR yellow][B](IMDB 6.2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JM9bdWtbK1k</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmYyZjMwNTktMzMxOS00NGRhLWE0YzMtM2RmYTg4ZWY4NTA2XkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Na Mira de um Coração[/COLOR][/B][COLOR yellow][B](IMDB 6.8)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-Z29laTytxE</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmRmNGE4M2MtYTZjNi00MzY2LWExMzUtMzk4YTQ2MWVkYzVkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]No Tempo das Diligências[/COLOR][/B][COLOR yellow][B](IMDB 7.0)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N_W4ooBfAV4&amp;index=9&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/3UnboWC3HUdvaN8cUKqfE9eEUfi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/gV5EIvDIQbhcGRH1eJrqxO38CX7.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O caçador de recompensas[/COLOR][/B][COLOR yellow][B](IMDB 7.2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=71LghccjbsQ</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/m6IOpFjTF3iP1qrCnzCtHd2p3Ug.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/u43Zvz1ICdYfvQDqzzVsFMLLbCz.jpg</fanart>
+<info>Um ano depois de um violento assalto a um trem, a agência de detetives Pinkerton contrata um caçador de recompensas para encontrar os três assassinos restantes. Ele os rastreia para o Twin Forks, mas não tem ideia de sua identidade. As tensões surgem como apenas a sua presença na cidade atua como um catalisador.</info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]O CAVALEIRO SOLITARIO [/COLOR][/B][COLOR yellow][B](IMDB6.5)[/COLOR][/B]</title>
+<link>$doregex[vida]OCVLRSLTRIO.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+o-cavaleiro-solitario-dublado-2013-1080p_259805c87.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/tN3vqM1HnY0Uz5gaK9EXJmQTSYl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/sgcgfrlOOB6lVXbfl75YTszF4jI.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Covil da Desordem[/COLOR][/B][COLOR yellow][B](IMDB 6.2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8j1_x5r8UYE</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTUyNWIyOGQtY2FjOC00MzVlLWJkMWItMDA4YzIxOWQ3MThhXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Dollar Furado[/COLOR][/B][COLOR yellow][B](IMDB6.5)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N_W4ooBfAV4&amp;index=9&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/yHDjgCLMIsASslZ778u0UheL4vN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/cok87FFzslnyF8ySBbZXSoqjQRQ.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver]O ESTRANHO QUE NÓS AMAMOS[B][/COLOR][/B][COLOR yellow][B](IMDB 6.5)[/COLOR][/B]</title>
+<link>$doregex[vida]OESTNHQNSAMAMS.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf4</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+o-estranho-que-nos-amamos-dublado-2017-1080p_2d0b3a9b9.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/uQxfqFAqAvNK5b1wD11b2ycDAVg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/4mrReDjYVJGVSsczWgpeI6b04Zs.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Festim da Morte[/COLOR][/B][COLOR yellow][B](IMDB 5.6)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9FbT4PTnQpU</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGNmOTdmN2EtZDhkNi00NWIyLWIwMGItNDZmZjcyNWU1ZjU4XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O MATADOR[/COLOR][/B][COLOR yellow][B](IMDB 6.3)[/COLOR][/B]</title>
+<vidatvg>1xr98Ad4FrSpsTfzOY0Clhe5y80PDmc7D</vidatvg>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/vqGo24yiklzAv1xtDeRt15QrVKh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/gUZUDAHDdt9rA5BZ8AJake4eZL1.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Rastreador[/COLOR][/B][COLOR yellow][B](IMDB 6.2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JN35ObMZjuQ</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIyMTIzOTE0MV5BMl5BanBnXkFtZTcwNTE0NjcyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O REGRESSO [/COLOR][/B][COLOR yellow][B](IMDB 8.0)[/COLOR][/B]</title>
+<link>$doregex[vida]ORGRSODUB.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf2</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+o-regresso-dublado-2016-1080p_f510443bd.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/wmwrkj2r6X1uCgYWIk3Rf1Q7qt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/8jNiQwGgAL5R2xwAcJTGWOZn3Mm.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]O Triunfo de Um Homem Chamado Cavalo[/COLOR][/B][COLOR yellow][B](IMDB 5.7)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fUOgCL_0xE0</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY0MTU4NjA5Nl5BMl5BanBnXkFtZTYwMzU2Mjg5._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]OS 6 RIDICULOS [/COLOR][/B][COLOR yellow][B](IMDB 4.8)[/COLOR][/B]</title>
+<link>$doregex[vida]THRDCULOS6.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf2</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+os-6-ridiculos-the-ridiculous-6-dublado-2015-720p_49588421e.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/5cebVcIODnU0UM2g4v6OYR26eU6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/cqozAtjQEFOum8wwWV58u1jj6px.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Os bravos fora-da-lei[/COLOR][/B][COLOR yellow][B](IMDB 5.6)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=A7udl6Ubtm0&amp;index=17&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY4ODE1MjkwOV5BMl5BanBnXkFtZTcwMTU0OTMyMQ@@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]Os Renegados [/COLOR][/B][COLOR yellow][B](IMDB 6.4)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VYDIOct1HfE&amp;index=1&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/kAofXRz9NyeipauGP3rgKGam2H5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/ewyKbahzqyQomkyKebP7TKrEa2D.jpg</fanart>
+<info>Quando dois andarilhos ouvem rumores de que trabalhadores chineses que estavam construindo a ferrovia deram um golpe, fugiram com o dinheiro e agora vivem em um fazenda na Carolina do Norte, a dupla percebe que esta pode ser a grande chance de riqueza que eles esperavam.Saul, o andarilho mais jovem, planeja se aproximar do casal Zhen e Kun Hua e ganhar a confiança deles. Ele consegue e é contratado pelos chineses para trabalhar no rancho, enquanto Bill, seu parceiro, fica à espreita, aguardando uma oportunidade para atacar.E no momento em que os andarilhos estão a postos para tomar posse do dinheiro roubado, um grupo de milicianos armados chega ao rancho para recuperar o produto do roubo. Agora, não há mais lados e todos empunham suas armas para ver quem fica com a fortuna roubada! Quem realizará o Sonho Americano de riqueza e ficará vivo para desfrutá-la?</info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]OS ULTIMOS MACHÕES [/COLOR][/B][COLOR yellow][B](IMDB 6.2)[/COLOR][/B]</title>
+<link>$doregex[vida]OULTMSMCHOS.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<page>http://www.redecanais.info/os-ultimos-machoes-dublado-1976-720p_1ef783c0d.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/wlOsEUceksiMZKw4T0YM6LL47LP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/mw57LkPtALElE1MizNSP1h3nsXB.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Pelo Prazer de Matar[/COLOR][/B][COLOR yellow][B](IMDB 6.0)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vuZi_ZHuzD8</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDMzMmYyNTktOTIzZS00M2FmLWFkZGMtZDhmYzQyZTY1Zjc3XkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]POR UM PUNHADO DE DÓLARES [/COLOR][/B][COLOR yellow][B](IMDB 8.0)[/COLOR][/B]</title>
+<link>$doregex[vida]PRUMPNHDDOLRS.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/9gI4L9vURUn8Mp4nxvW9nYyM5Ag.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/mndYimxcima4Z5YxH8XngTEGi5L.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]POR UNS DÓLARES A MAIS [/COLOR][/B][COLOR yellow][B](IMDB 8.3)[/COLOR][/B]</title>
+<link>$doregex[vida]PRUNSDLRSAMS.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+por-um-punhado-de-dolares-dublado-1966-720p_91379fa0b.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/xFWkjdblpSOULhv7hP0XHMVxonn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/f61COvOzOOIwx7whPl5Yj78s9gY.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Rapido no Gatilho [/COLOR][/B][COLOR yellow][B](IMDB 6.6)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PnS70UBh0oA&amp;index=6&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmJiNzhiYzktZDU0Zi00YThmLThjMGItZWM3MmI2OGI3YTUyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/iob9MPYquOckNbhhjFUazRDlgGG.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]RASTROS DE ÓDIO [/COLOR][/B][COLOR yellow][B](IMDB 8.0)[/COLOR][/B]</title>
+<link>$doregex[vida]RSTRSDODIO.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+rastros-de-odio-dublado-1956-720p_0147eec64.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/jTfHYhpAYmUVS29RENsxBT3xaAD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/iob9MPYquOckNbhhjFUazRDlgGG.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Rio Lobo[/COLOR][/B][COLOR yellow][B](IMDB 8.0)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Uqueei_q8Ys&amp;index=3&amp;list=RDQMMYk8W2P3Ftw</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/do3t7PaWp7mWEHNWCXSKNTgEYTj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/nLoCX9VO0e7SUkHwI78nCgbEkZN.jpg</fanart>
+<info>Após a Guerra Civil, Cord McNally procura o traidor cuja perfídia causou a derrota da unidade de McNally e a perda de um amigo próximo.</info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Roy Colt & Winchester Jack[/COLOR][/B][COLOR yellow][B](IMDB 4.7)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DEI1R5tS0nQ</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTZhZmEwMDEtY2ZhNC00MWYzLTlhMTQtOWUyMWI0ODM3ZjFlXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Sangue Por Sangue[/COLOR][/B][COLOR yellow][B](IMDB 6.5)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Cver3x9_oCE</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzRmYjdkNWYtMTAxZi00NGY2LTliODgtMWE4ODhlNGQ0NzdhXkEyXkFqcGdeQXVyMTI1NDQ4NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]SEM LEI E SEM ALMA [/COLOR][/B][COLOR yellow][B](IMDB 7.2)[/COLOR][/B]</title>
+<link>$doregex[vida]SMLEIESMALM.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+sem-lei-e-sem-alma-dublado-1957-720p_2fb7063a5.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/gdVJyE70byozyUeReE41QEjBBIk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/7oN2zpB4DdlgKnTSgOBrA5lwlKR.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Sempre Estarei Contigo[/COLOR][/B][COLOR yellow][B](IMDB --)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LDV6bbbid3U</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTViNmRhNjctNDY0Yy00NjlmLThiMWItYTdkNzNhMjZiZTBkXkEyXkFqcGdeQXVyMTk3MzY2MjQ@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]SETE HOMENS E UM DESTINO [/COLOR][/B][COLOR yellow][B](IMDB 6.9)[/COLOR][/B]</title>
+<link>$doregex[vida]SETHMNSEUDSTNO.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf3</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+sete-homens-e-um-destino-dublado-2016-1080p_7a631f186.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/T3LrH6bnV74llVbFpQsCBrGaU9.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Sete Homens e Um Destino 2 - A Volta dos Sete Magníficos [/COLOR][/B][COLOR yellow][B](IMDB 5.5)[/COLOR][/B]</title>
+<vidatvg>0B4A9bu3aIM0fb1AzeHkyYldnUXc</vidatvg>19IhX5QdImB51F39puUJxVwzfjDCHwMyO
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWJjNTNhODUtZjBmZC00ZDdiLWI5ZjUtMmIxYWYxNzYyNDk3XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Sete Homens e Um Destino 3 - A Fúria dos 7 Homens (1972) [/COLOR][/B][COLOR yellow][B](IMDB 5.5)[/COLOR][/B]</title>
+<vidatvg>0B4A9bu3aIM0feEZDbzF0V3lxNXM</vidatvg>12g_iEVg-Sxjuo1BxUFrRugh1xXZ8PqKE
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU1Nzg5NDAwNl5BMl5BanBnXkFtZTcwNTM1ODE1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]Silver - A Lenda do Cavalo Prateado[/COLOR][/B][COLOR yellow][B](IMDB 5.7)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qhIjFVnFQ8I</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5NTI3MTEwMl5BMl5BanBnXkFtZTcwMTQ4MjUyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]TOMBSTONE - A JUSTIÇA ESTA CHEGANDO [/COLOR][/B][COLOR yellow][B](IMDB 7.8)[/COLOR][/B]</title>
+<link>$doregex[vida]TOMBTNEAJSTESTCGAND.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+tombstone-a-justica-esta-chegando-dublado-1993-720p_f5ac5bd62.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/xYVtxxQjY0ZT80mMu9kyz4A9QR6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/dxuhQd2sfa4lzEsRrVhiP7TAxuw.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR silver][B]TRES HOMENS EM CONFLITO [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
+<link>$doregex[vida]TSHMNSEMCFLT.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+tres-homens-em-conflito-dublado-1966-720p_27a4d7071.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/oexj5akrZi6c83ewQQSEo6zq0bR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/53p25NQY5Db0C9Zs51F4S89IcFx.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]UM MILHÃO DE MANEIRAS DE PEGAR NA PISTOLA [/COLOR][/B][COLOR yellow][B](IMDB 6.1)[/COLOR][/B]</title>
+<link>$doregex[vida]UMLHDMNRSDPGRNPSTL.mp4|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+um-milhao-de-maneiras-de-pegar-na-pistola-dublado-2014-1080p_b9cc7fdee.html</pg></rx>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/2L9O0Wzjcf8X5evaPqZRE2spB3b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/xWpPYRVAdIPmAzi6Fj93TDrZQfb.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR silver][B]Yuma[/COLOR][/B][COLOR yellow][B](IMDB 6.3)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N2PVmIem0Wg</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE4NTE4NDYyNl5BMl5BanBnXkFtZTcwNjQwMDc1NQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
