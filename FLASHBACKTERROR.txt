@@ -1,43 +1,63 @@
-############################################################################################################################
-<item><title>[COLOR white]Danca Comigo[COLOR yellow](2004)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80C1660737FFD5129D0EEDA4068FABB07050B8C7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dCrRB78hSCON6A4BnGcyScoikS0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6J5C5gbm3QV7I0DcQ9T9dvX0wkF.jpg</fanart>
-<info>[B][COLOR yellow]Há vários anos o advogado John Clark (Richard Gere), especialista em testamentos, leva uma vida rotineira do trabalho para casa e de casa para o trabalho. Apesar de amar sua mulher, Beverly (Susan Sarandon), e seus filhos, John sente que algo está faltando algo em sua vida. Por acaso vê na janela de uma academia Paulina (Jennifer Lopez), uma bela professora de dança. Esperando se aproximar dela, John se matricula na academia. Paulina rapidamente elimina qualquer possibilidade de envolvimento com John, mas isto não o faz deixar de ir às aulas, pois ele acha cada vez mais relaxante e divertido dançar[/COLOR][/B]</info></item>
-############################################################################################################################
-<item><title>[COLOR white]Uma Linda Mulher  [COLOR yellow](1990)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f590ddfbea0b1afac8fec54feec17ab3f2b1b670</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lx3rr6yufCpSPVdkfUueqHstiw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg</fanart>
-<info>[B][COLOR yellow] Magnata perdido pede ajuda uma prostituta que "trabalha" no Hollywood Boulevard e acaba contratando-a por uma semana. Neste período ela se transforma em uma elegante jovem para poder acompanhá-lo em seus compromissos sociais, mas os dois começam a se envolver e a relação patrão/empregado se modifica para um relacionamento entre homem e mulher.[/COLOR][/B]</info></item>
-############################################################################################################################
-<item><title>[COLOR white]Ghost- Do Outro Lado Da Vida[COLOR yellow](1990)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F2354655A1B9FCB4210B5A3229F06937C3518EF</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xENTjpUhi6yQrcpvejVZuN39M2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AjUEg11iZoE0KO8egc5mnczGjbP.jpg</fanart>
-<info>[B][COLOR yellow]Sam Wheat é um jovem executivo apaixonado por sua namorada, Molly. Ele acaba morto em um assalto, mas seu espírito não vai para o outro plano e descobre que Molly também corre perigo. Para salvá-la, Sam pede ajuda a uma médium que consegue ouvi-lo.[/COLOR][/B]</info></item>
-############################################################################################################################
-<item><title>[COLOR white]Quatro casamentos e um  funeral[COLOR yellow] (1994)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B49CC82C050D36C34E2471B0F0FEF9F23704068E</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wMiCfPLgpVoyGQ5veOYGDhduJ22.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vHCdNvNZt0loNXCAENaZx1Hi8Vu.jpg</fanart>
-<info>[B][COLOR yellow]Charles (Hugh Grant) é um solteirão que nunca quis nada sério com ninguém, até conhecer uma envolvente mulher, por quem se apaixona. Sua complicada situação de assumir relacionamentos pode mudar depois de três outros casamentos e um funeral, que dão título ao longa.[/COLOR][/B]</info></item>
-############################################################################################################################
-<item><title>[COLOR white]Outono em Nova York[COLOR yellow] (2000)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FBD22506EA2E7BC9AB8610B2F15C37093B063C2</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmHvrhfYfUZ58RtLaq4LOHp9q5m.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fDOsl1GU4NYXpH37RMCEGA8d08U.jpg</fanart>
-<info>[B][COLOR yellow]Will Keane (Richard Gere) é um playboy cinquentão que tem como promessa nunca ter um compromisso sério com uma mulher. Quando ele conhece Charlotte Fielding (Winona Ryder), uma jovem que tem a metade da sua idade, imagina que terá com ela outro rápido e fácil romance. Mas nada no relacionamento de ambos é fácil ou rápido. Apesar da diferença de idade, eles terminam se apaixonando perdidamente e fazendo com que Will resolva abandonar sua decisão de nunca assumir um compromisso amoroso. Mas Charlotte tem um sério motivo para recusar a proposta de ter uma relação com Will que dure para sempre: ela está morrendo.[/COLOR][/B]</info></item>
-############################################################################################################################
-<item><title>[COLOR white]Noiva Em Fuga[COLOR yellow] (1999)[/COLOR]</title>
-<utube>ObgWE0tKSs8</utube>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tdfBt3DDIeqrkJ7hRGrxO8jGavm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/s9fPVAYpRswQgXG5lutI1eP3U3R.jpg</fanart>
-<info>[B][COLOR yellow]Maggie Carpenter (Julia Roberts) possui um grave problema: não consegue se casar. Já tentou por 3 vezes, mas na hora da cerimônia algo acontece e ela sempre foge do altar. Quando a história chega aos ouvidos de Ike Graham (Richard Gere), um jornalista machista, ele a publica em sua coluna e logo em seguida acaba demitido por não ter confirmações. Decidido a recuperar o emprego, Ike parte para a cidade de Maggie a fim de provar que o conto da noiva fujona é verídico.[/COLOR][/B]</info></item>
-############################################################################################################################
-<item><title>[COLOR white]Doce Novembro[COLOR yellow](2001)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7191c64cfb8f1410b3a0a5e96e301c8bab69608d</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlPTWY3sRYCXNWDuzRzQ8GRvcxc.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lDtmwXg6nknzViEQ5SDkk4D1WEZ.jpg</fanart>
-<info>[B][COLOR yellow]Nelson Moss (Keanu Reeves) é um atarefado executivo que só pensa em seu trabalho e parece ter se esquecido o que é ser amado por alguém. Até que conhece Sara Deever (Charlize Theron), que lhe traz novamente um sentimento de romantismo à sua vida. Ela termina convencendo-o a passarem um mês juntos e depois se separarem, pois considera este um tempo suficiente para que possam resolver seus problemas emocionais. Porém, com o passar dos dias Nelson se apaixona cada vez mais por Sara e busca descobrir qual é o motivo pelo medo de compromisso que ela possui.[/COLOR][/B]</info></item>
-############################################################################################################################
+##################################################################################################################
+<item><title>[B][COLOR white]Christine, O Carro Assassino[COLOR yellow]( 720 / 1080p)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54FC650A4B1BCBA1C7678990465871B38FBA92E7$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CB76363C8F7C987F24BE61DD55C25135E924779$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626967AF7869C7E9DC76A03AAE4D7B3D4344698E$nome=[B] 3 [COLOR yellow]4k[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQgflKBffMBXkOsM0PpLl2nWFyn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1EiS5iLQRvepFRPnokEvl0TcEIf.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Arnie Cunningham compra um Plymouth Fury 1958, que ele chama de Christine. Ele então desenvolve uma obsessão doentia pelo carro, para o desespero de seu amigo atleta, Dennis Guilder. Depois do valentão Buddy Repperton desfigurar Christine, o carro se restaura perfeitamente e começa a matar Buddy e seus amigos. Determinado a acabar com as mortes, Dennis e a namorada de Arnie, Leigh Cabot, decidem destruir Christine.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Madrugada dos Mortos[COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2bf8e54065f11457c2828ada36ec484578081f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrYKXXO7z6pFe4LtQ6fz6sNvvte.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d3BTRD2Pslyr4uSvFdJEWtnrfws.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Após mais um dia de trabalho, tudo que Ana quer é tomar um banho ao lado do marido e dormir. Mas nas primeiras horas da manhã, ela é violentamente atacada por uma legião de mortos-vivos, e se descobre um pesadelo real: o mundo inteiro está tomado por zumbis. Em fuga desesperada, Ana se une a um pequeno grupo de sobreviventes, que se refugiam num shopping center enquanto o mundo lá fora se transforma literalmente no inferno.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]A Bruxa de Blair[COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae225367398d6e3e5fef5727216b5ab8e37267b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AuRS2V8LHF1aKJUUQdVzyCm9afs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yUjZjbXqqUr7a4EZl9XTNkN7pSI.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Três estudantes de cinema embrenham-se nas matas do estado de Maryland para fazer um documentário sobre a lenda da bruxa de Blair e desaparecem misteriosamente. Um ano depois, uma sacola cheia de rolos de filmes e fitas de vídeo é encontrada na mata. As imagens registradas pelo trio dão algumas pistas sobre seu macabro destino.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Bruxa de Blair 2 - O Livro das Sombras[COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18EB24B8F2413B42CE579519423EE27259AF1B68</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8vOraAVeCbZJ5PakK29HgOWooGi.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Em A Bruxa de Blair, um grupo de jovens cineastas viaja para uma floresta em busca de rodar um documentário sobre uma força maligna chamada "bruxa de Blair". Nenhum dos cineastas foi visto novamente e o videotape produzido por eles foi encontrado e visto por milhões de pessoas nos cinemas de todo o planeta. O sucesso do filme fez com que uma grande indústria de turismo fosse criada em torno de Burkittsville, Maryland, onde o videotape fora rodado. Com isso, um empresário local criou a "Caça à Bruxa de Blair", uma excursão repleta de aventura em plena floresta onde o primeiro filme fora rodado, em que os interessados em participar devem se inscrever pela internet. Entretanto, quando os primeiros turistas chegam ao local, fatos bizarros e assustadores começam a ocorrer de forma descontrolada, fazendo com que todos tentem de qualquer maneira escapar da floresta e da maldição da bruxa de Blair.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Chamas da Vingança[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6600A9350E02B7F9AC3103BA46EFB5DD36CFB168</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCQy3yOT6Ch0AzcGFdSbGdKeEpx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uPZTWjzFC1GeYDVaaqPKZgoBWgl.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Andy e Vicky participaram de experimentos secretos quando jovens. Eles se casaram e tiveram uma filha, que adquiriu uma estranha habilidade de causar incêndios com a força da mente. Logo, ela se torna alvo de uma enigmática agência.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Palhaços Assassinos do Espaço Sideral [COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec0545b88b459e242bb0f493715f9a83d54385b7</link>
+<thumbnail>https://i.imgur.com/H6C2uOx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/30Z4DjbSJEW9oZv4hAksiAmji7r.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Numa noite de sexta feira, Mike e Debbie namoram no banco de traz do carro, quando veem uma forte luz que rasga o céu e cai numa clareira. Partem para lá e encontram uma brilhante tenda de circo. São os palhaços assassinos que chegaram do outro mundo. A pequena cidade é invadida por alienígenas do espaço exterior, que estão capturando e matando o povo, e ninguém leva a sério. Por que? Pois parecem palhaços de circo. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]O Exorcista[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17486df84c89579cc2396684417dab2edd192f1e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Em Georgetown, Washington, uma atriz vai gradativamente tomando consciência que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que é também um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]A Noite do Espantalho[COLOR yellow]( 720 / 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1548223F4CE2579A3FB29C50841AB67A403DC36A$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14FED5C4382C9C3F5A46F13237B33FFC202D6605$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pPCZcaFjzonhsMkhYfblwXKgPLN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gkdclvMuFYxMoUWY9DZc4Jyon0I.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma Cidade pequena sendo aterrorizada por um espantalho,que foi acidentalmente libertado por dois jovens, esse feiticeiro tem uma variedade de armas e mágicas à sua disposição. Ele é um bruxo que foi aprisionado há muitas gerações e agora está querendo vingança e restauração de seus poderes por parte de seus ancestrais que o capturaram.e vingar de todos os descendente dos responsaveis por sua prisão. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]A Casa de Cera[COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4ab4f4f64da2588ca01ac827ba5e24edf30ef48</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nrqBT8jsr7TiePFLRU0F8e9fcrC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/25U5Q2eiTlK2y0DJsQFBaVv9W9K.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Era pra ser um final de semana de muita diversão para seis amigos, mas acabou se tornando uma aterrorizante luta pela sobrevivência. Após se perderem em uma viagem para acompanhar um dos melhores jogos da liga estudantil de futebol americano. Carly (Elisha Cuthbert), Paige (Paris Hilton) e seus amigos acabam aceitando o convite de um morador da região para pernoitar em Ambrose, a única cidade dos arredores, cuja atração mais conhecida é o Museu de Cera de Trudy, repleto de esculturas em cera bem realistas. Mas em breve eles descobrem que exite uma razão chocante para elas parecerem tão reais. Aos poucos, o sexteto vai descobrindo segredos sombrios da cidade. Alguém parece estar à espreita deles, um misterioso assassino que os fará mergulhar em uma batalha sangrenta pela vida. Não há alternativa: ou o grupo encontra uma saída de Ambrose, ou permanecerá lá pra sempre. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Uma Noite Alucinante - A Morte do Demônio[COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eb333f057a04abce578b6c7157afbd00e94782e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5CXNDTwS1Gqw7bbKDO3mREN1nAF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/47rQVqyEawvkaL0pQOhRcgoqBTL.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Cinco estudantes da Universidade de Michigan decidem passar um final de semana em uma casa isolada. Lá eles encontram o livro dos mortos, um documento que data da época da Babilônia e que está relacionado ao livro dos mortos egípcio. Enquanto vasculham a casa os amigos gravam em fita alguns encantamentos demoníacos, escritos no livro. A partir de então eles são possuídos por espiritos, um a um. O primeiro alvo é Cheryl (Ellen Sandweiss), brutalmente estuprada pelas forças do mal. Ash (Bruce Campbell), seu irmão, resolve levá-la a uma cidade próxima, mas descobre que a única ponte que leva ao local está destruída. Logo a transformação de Cheryl em demônio é concluída, resultando em seu ataque aos amigos. [/COLOR][/B]</info></item>
