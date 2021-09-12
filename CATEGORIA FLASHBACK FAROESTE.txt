@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow]FAROESTE 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/5tnzGmnB/CINEFLASHBACKFAROESTEVOL1.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1aT0O5vry11FwEbqsSlSO13g9JMB26bqN</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASHBACKFAROESTE1.txt</externallink>
 <fanart>https://i.postimg.cc/HnPBggzt/fanartcineflashbackfaroestevol1.jpg</fanart>
 </channel>
 </channels>
@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow]FAROESTE 2[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/0QjSqJBL/CINEFLASHBACKFAROESTEVOL2.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1ZDwVQlBKaBVman905zyjJ0sdxBMPVuCy</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASHBACKFAROESTE2.txt</externallink>
 <fanart>https://i.postimg.cc/0QVCYsTq/fanartcineflashbackfaroestevol2.jpg</fanart>
 </channel>
 </channels>
