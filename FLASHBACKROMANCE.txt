@@ -1,41 +1,41 @@
 ############################################################################################################################
-<item><title>[COLOR white]Danca Comigo[COLOR yellow](2004)[/COLOR]</title>
+<item><title>[B][COLOR white]Danca Comigo[COLOR yellow](2004)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80C1660737FFD5129D0EEDA4068FABB07050B8C7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dCrRB78hSCON6A4BnGcyScoikS0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6J5C5gbm3QV7I0DcQ9T9dvX0wkF.jpg</fanart>
 <info>[B][COLOR yellow]Há vários anos o advogado John Clark (Richard Gere), especialista em testamentos, leva uma vida rotineira do trabalho para casa e de casa para o trabalho. Apesar de amar sua mulher, Beverly (Susan Sarandon), e seus filhos, John sente que algo está faltando algo em sua vida. Por acaso vê na janela de uma academia Paulina (Jennifer Lopez), uma bela professora de dança. Esperando se aproximar dela, John se matricula na academia. Paulina rapidamente elimina qualquer possibilidade de envolvimento com John, mas isto não o faz deixar de ir às aulas, pois ele acha cada vez mais relaxante e divertido dançar[/COLOR][/B]</info></item>
 ############################################################################################################################
-<item><title>[COLOR white]Uma Linda Mulher  [COLOR yellow](1990)[/COLOR]</title>
+<item><title>[B][COLOR white]Uma Linda Mulher  [COLOR yellow](1990)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f590ddfbea0b1afac8fec54feec17ab3f2b1b670</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lx3rr6yufCpSPVdkfUueqHstiw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg</fanart>
 <info>[B][COLOR yellow] Magnata perdido pede ajuda uma prostituta que "trabalha" no Hollywood Boulevard e acaba contratando-a por uma semana. Neste período ela se transforma em uma elegante jovem para poder acompanhá-lo em seus compromissos sociais, mas os dois começam a se envolver e a relação patrão/empregado se modifica para um relacionamento entre homem e mulher.[/COLOR][/B]</info></item>
 ############################################################################################################################
-<item><title>[COLOR white]Ghost- Do Outro Lado Da Vida[COLOR yellow](1990)[/COLOR]</title>
+<item><title>[B][COLOR white]Ghost- Do Outro Lado Da Vida[COLOR yellow](1990)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F2354655A1B9FCB4210B5A3229F06937C3518EF</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xENTjpUhi6yQrcpvejVZuN39M2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AjUEg11iZoE0KO8egc5mnczGjbP.jpg</fanart>
 <info>[B][COLOR yellow]Sam Wheat é um jovem executivo apaixonado por sua namorada, Molly. Ele acaba morto em um assalto, mas seu espírito não vai para o outro plano e descobre que Molly também corre perigo. Para salvá-la, Sam pede ajuda a uma médium que consegue ouvi-lo.[/COLOR][/B]</info></item>
 ############################################################################################################################
-<item><title>[COLOR white]Quatro casamentos e um  funeral[COLOR yellow] (1994)[/COLOR]</title>
+<item><title>[B][COLOR white]Quatro casamentos e um  funeral[COLOR yellow] (1994)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B49CC82C050D36C34E2471B0F0FEF9F23704068E</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wMiCfPLgpVoyGQ5veOYGDhduJ22.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vHCdNvNZt0loNXCAENaZx1Hi8Vu.jpg</fanart>
 <info>[B][COLOR yellow]Charles (Hugh Grant) é um solteirão que nunca quis nada sério com ninguém, até conhecer uma envolvente mulher, por quem se apaixona. Sua complicada situação de assumir relacionamentos pode mudar depois de três outros casamentos e um funeral, que dão título ao longa.[/COLOR][/B]</info></item>
 ############################################################################################################################
-<item><title>[COLOR white]Outono em Nova York[COLOR yellow] (2000)[/COLOR]</title>
+<item><title>[B][COLOR white]Outono em Nova York[COLOR yellow] (2000)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FBD22506EA2E7BC9AB8610B2F15C37093B063C2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmHvrhfYfUZ58RtLaq4LOHp9q5m.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fDOsl1GU4NYXpH37RMCEGA8d08U.jpg</fanart>
 <info>[B][COLOR yellow]Will Keane (Richard Gere) é um playboy cinquentão que tem como promessa nunca ter um compromisso sério com uma mulher. Quando ele conhece Charlotte Fielding (Winona Ryder), uma jovem que tem a metade da sua idade, imagina que terá com ela outro rápido e fácil romance. Mas nada no relacionamento de ambos é fácil ou rápido. Apesar da diferença de idade, eles terminam se apaixonando perdidamente e fazendo com que Will resolva abandonar sua decisão de nunca assumir um compromisso amoroso. Mas Charlotte tem um sério motivo para recusar a proposta de ter uma relação com Will que dure para sempre: ela está morrendo.[/COLOR][/B]</info></item>
 ############################################################################################################################
-<item><title>[COLOR white]Noiva Em Fuga[COLOR yellow] (1999)[/COLOR]</title>
+<item><title>[B][COLOR white]Noiva Em Fuga[COLOR yellow] (1999)[/COLOR][/B]</title>
 <utube>ObgWE0tKSs8</utube>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tdfBt3DDIeqrkJ7hRGrxO8jGavm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s9fPVAYpRswQgXG5lutI1eP3U3R.jpg</fanart>
 <info>[B][COLOR yellow]Maggie Carpenter (Julia Roberts) possui um grave problema: não consegue se casar. Já tentou por 3 vezes, mas na hora da cerimônia algo acontece e ela sempre foge do altar. Quando a história chega aos ouvidos de Ike Graham (Richard Gere), um jornalista machista, ele a publica em sua coluna e logo em seguida acaba demitido por não ter confirmações. Decidido a recuperar o emprego, Ike parte para a cidade de Maggie a fim de provar que o conto da noiva fujona é verídico.[/COLOR][/B]</info></item>
 ############################################################################################################################
-<item><title>[COLOR white]Doce Novembro[COLOR yellow](2001)[/COLOR]</title>
+<item><title>[B][COLOR white]Doce Novembro[COLOR yellow](2001)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7191c64cfb8f1410b3a0a5e96e301c8bab69608d</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlPTWY3sRYCXNWDuzRzQ8GRvcxc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lDtmwXg6nknzViEQ5SDkk4D1WEZ.jpg</fanart>
