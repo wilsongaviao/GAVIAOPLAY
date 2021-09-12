@@ -1,49 +1,5 @@
 
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
+
 ##################################################################################################################
 <item><title>[COLOR white]Caminhos da Memória[COLOR yellow] ( 720p / 1080p / 4K )[COLOR lime] [COLOR crimson] NEW[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd14b6b6deebd636881302653f3236bc7589b0e4$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
