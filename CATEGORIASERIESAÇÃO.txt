@@ -2,7 +2,7 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]24 HORAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<externallink>https://docs.google.com/uc?export=download&id=1RdFofRKnh3uthgMc4LBGjYAKwjTIS9uE</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/24%20HORAS.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/71OcHSi5dV0VYHsczS5gdUeWNW6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/u1nLaddBiOQkWcGYFCtGxzHh1dw.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.[/COLOR][/B]</info></item>
@@ -11,8 +11,8 @@
 ###################################################################################################################
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CHICAGO FIRE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMmYyZmQ0MTItMDNmMy00YzkwLWI2ZjEtOWJkNWI1YzY5OTQ5XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1RFU4xsnqpfP_NiZqzhbaXu3-sklXoK09</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CHICAGO%20FIRE.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oXZvfpJdmfQ15ER1NCvjNAFEfD9.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Acompanhe o dia-a-dia intenso e os dramas dos oficiais do Departamento de Bombeiros de Chicago e paramédicos do Quartel 51. A equipe composta por bombeiros, equipe de resgate e paramédicos, irá passar por situações tensas e delicadas, arriscando suas próprias vidas para salvar pessoas em perigo, além de ter que lidar com os conflitos pessoais e os desafios que surgem por conta das diferenças entre os companheiros de equipe.[/COLOR][/B]</info></item>
 </channels>
@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CRIMINAL MINDS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1jq0P1utjgUJA3xdcjYeD5uE-8Yp8vxWE</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CRIMINAL%20MINDS%23.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/xwibxhANMDwQRSIhZ3ymYIzOjv.jpg</fanart>
 <info>[B][COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
 </channels>
@@ -32,7 +32,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CROSSING LINES[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xraj4mL476xVyevEM2dNoTfvPMS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1CuaMV4Rv_e2p-fqYzQ4RWuuUfhXSgwJG</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CROSSING%20LINES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/46CHPlDDTRNyMuSMQ64FS4nUrtM.jpg</fanart>
 <info>[B][COLOR yellow]a série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break). [/COLOR][/B]</info></item>
 </channels>
@@ -42,7 +42,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CSI - INVESTIGAÇÃO CRIMINAL [COLOR yellow] (2000)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1OOXYxrLLupCiUP78fDVGwaq0As.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=10MvdujddOdXgzBi9J2W2P4kPCENUd9xX</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CSI%20-%20INVESTIGA%C3%87%C3%83O%20CRIMINAL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg</fanart>
 <info>[B][COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
 </channels>
@@ -50,37 +50,19 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CSI - LOS ANGELES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymopoqSyHSO0BuSQzXyJEdWKNpE8i8L9gTg&usqp=CAU</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1kiK-xbwdUfK-w25QpXKYuFAEI0V4EHRr</externallink>
-<fanart>https://wwwimage-tve.cbsstatic.com/thumbnails/photos/w1920-q80/marquee/1042346/ncisla_sp_hero_landscape.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]NCSI - LOS ANGELES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0doUtM8RhXcAwHs6VmMZMQKpai.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/NCSI%20-LOS%20ANGELES.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/miZjCuLeupOQAp8Z5VjlsJC5GEc.jpg</fanart>
+<info>[B][COLOR yellow]NCIS: Los Angeles é um drama sobre o Departamento de Projetos Especiais (OSP – Office of Special Projects), uma divisão da NCIS que tem a missão de prender criminosos que significam uma ameaça à segurança da nação. Assumindo identidades falsas e utilizando a tecnologia mais avançada, esta equipe de agentes especializados vivem no mundo dos disfarces, colocando suas vidas em risco para derrotar seus alvos.[/COLOR][/B]</info></item>
 </channels>
 </channel>
-###################################################################################################################
-
-
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CSI - MIAMI[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-
-###################################################################################################################
-
-
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CSI NEW YORK[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-
 ###################################################################################################################
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EXPRESSO DO AMANHA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1336bcCIgMrn1Drp72AqcmA0ifOs8Chq1</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/EXPRESSO%20DO%20AMANHA.txt</externallink>
 <fanart>https://i.imgur.com/62y8VjH.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Quando um experimento para impedir o aquecimento global falha, uma nova era do gelo toma conta do planeta Terra. Os únicos sobreviventes estão a bordo de uma imensa máquina chamada Snowpiercer. Lá, os mais pobres vivem em condições terríveis, enquanto a classe rica é repleta de pessoas que se comportam como reis. Até o dia em que um dos miseráveis resolve mudar o status quo, descobrindo todos os segredos deste intrincado maquinário. [/COLOR][/B]</info></item>
 </channels>
@@ -89,8 +71,8 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FALLING SKIES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/38/Falling-skies-poster.JPG</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1gJ5Toa9zR8P_ZQ-YuWr3ehBQYq4g8v7N</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FALLING%20SKIES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/cNEDnuCorkvaYlaQ7XGgTgo8kgw.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série conta a história das consequências de uma invasão alienígena, que não só neutraliza a grade de energia e tecnologia do mundo, mas também destrói os militares de todos os países do mundo em um curto espaço de tempo. É mencionado que mais de 90% da população humana é morta dentro de poucos dias. Os objetivos alienígenas não são bem conhecidos pelos humanos, embora eles capturem crianças e adolescentes, colocando um tipo de "arreio" biotecnológico em suas colunas vertebrais, para que realizem trabalho escravo e, depois de algum tempo, tornem-se um deles A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. O grupo, conhecido como Second Massachusetts (uma alusão a uma milícia de Boston na Guerra Revolucionária Americana), é agora liderado pelo Capitão aposentado Weaver e pelo professor de história da Universidade de Boston, Tom Mason que, embora em busca de seu filho Ben (capturado pelos aliens), deve colocar seu amplo conhecimento da história militar em prática como um dos líderes do movimento de resistência. [/COLOR][/B]</info></item>
 </channels>
@@ -100,7 +82,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FBI[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1z0WO7ap3iDqmQTaFA3Sx2_PBe5DxG5Kl</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FBI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/uoBXmXoN1iDFbN0zFUtV5QLSqJ2.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo. Assista agora, dublada ou legendada.[/COLOR][/B]</info></item>
 </channels>
@@ -109,7 +91,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GAME OF THRONES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=10vk6VoARajcMMR8bx3GP0XLgzOFE8-vg</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/GAME%20OF%20THRONES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/tOzkMhWANgKsamETgS6HWJledgJ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.[/COLOR][/B]</info></item>
 </channels>
@@ -119,7 +101,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HAWAI 5.0[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wPa0pGeWojktA1UgdADzXeBAR6Q.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1uwfJrJgQpu0HtVk8bVtkso2WRWPVTkdH</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HAWAII%205%20%200.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.[/COLOR][/B]</info></item>
 </channels>
@@ -129,7 +111,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HOMELAND - SEGURANÇA NACIONAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmZTqevNRhyxvIyXWvnbQEY69ab.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1y0Brx0T_VJNYosO1Br31kHndySlPx9gT</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HOMELAND.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mOJi0JnZU84gGgnVJCTCzn15ZiB.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Um soldado americano a quem acreditavam ter sido morto no Iraque volta depois de oito anos de seu desaparecimento. Mas, depois de sua volta para casa, surgem suspeitas a respeito de ele ser realmente um herói americano ou parte de uma célula adormecida que planeja um ataque terrorista.[/COLOR][/B]</info></item>
 </channels>
@@ -139,7 +121,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HOUSE OF CARDS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/gFzNptp0vSAL7jOqHAb6UM2nU3y.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1AZdMS7DcuuYQjhW4zO19Q3KJaHdC4doq</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HOUSE%20OF%20CARDS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/uYgnDQFGwu4c4PgTgtx05vEDz9S.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Frank Underwood é um astuto congressista norte-americano que é traído pelo presidente que ele ajudou a eleger. Com a ajuda da esposa, de uma jornalista ambiciosa e de um outro político com problemas com alcoolismo, Underwood inicia um plano para minar adversários políticos e conquistar, em alguns anos, a presidência dos Estados Unidos. [/COLOR][/B]</info></item>
 </channels>
