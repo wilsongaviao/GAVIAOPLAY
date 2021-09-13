@@ -1,0 +1,7 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SUPERMAN E LOIS [COLOR lime] 1ª TEMPORADA - 1º/11º ep [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PNZO7CYPLB5AECO5BHPANCXOYQD6X4H5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gexsTq0ZHQ6ToI4v0NpJbpcnawm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kvxPNCNWdkGlcPjx3cYNM7D2Ebg.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,24 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SHADOWHUNTERS - CAÇADORES DE SOMBRAS [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:qnko6cyburg674hfysrkfyxmjtiwjj52</link>
+<thumbnail>https://abutretorrents.com/capa/shadowhunters-cacadores-de-sombras-1-temporada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p2kSeQt2qFMrGWg7Mj1woIZfTYP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Primeira temporada completa da série que acompanha a jornada de Clary (Katherine McNamara), jovem que descobre ser de uma linhagem de Caçadores de Sombras, seres responsáveis pela proteção do mundo sobrenatural, cheio de demônios, fadas, vampiros e lobisomens. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SHADOWHUNTERS - CAÇADORES DE SOMBRAS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF21BACC0319B64EF5061DABF3068C27768042AC</link>
+<thumbnail>https://abutretorrents.com/capas/shadowhunters-cacadores-de-sombras-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4Q6BaFT4UUnbpJ6XNAXdrzL8nwE.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa da série que acompanha a jornada de Clary (Katherine McNamara), jovem que descobre ser de uma linhagem de Caçadores de Sombras, seres responsáveis pela proteção do mundo sobrenatural, cheio de demônios, fadas, vampiros e lobisomens. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SHADOWHUNTERS - CAÇADORES DE SOMBRAS [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64579cd8cf1d57d80870519b652570c209b2c939</link>
+<thumbnail>https://4.bp.blogspot.com/-1x6kuzOChmk/WrJyFTnqPVI/AAAAAAAAJ1k/M-GYRlnWRrwqqRVSkHDL9Qp4cRRGE3_KgCLcBGAs/s1600/Ca%25C3%25A7adores%2Bde%2BSombras%2Btorrent%2Bdownload%2Bdublada%2Bbluray.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lhdyQtmsbqh46ctkthTWXdeQgzM.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Terceira temporada completa e dublada da série Shadowhunters (Caçadores de Sombras). Clary Fray é uma adolescente de 15 anos que, sem querer, presencia o acontecimento de um crime. Mas este não é um crime como outro qualquer: três adolescentes cobertos com tatuagens estranhas são os responsáveis pelo assassinato, executado com armas que Clary nunca viu antes. Antes de ela conseguir fazer alguma coisa, os três justiceiros se apresentam para ela: Jace, Alec e Isabelle são Caçadores de Sombras, responsáveis por proteger o mundo de vampiros, lobisomens e monstros que querem fazer o mal. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

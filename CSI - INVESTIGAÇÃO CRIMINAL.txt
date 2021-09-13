@@ -1,0 +1,52 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - INVESTIGAÇÃO CRIMINAL [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFF47DFCBA0E25BA3F61F33358F06C8BEBD9AF9A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vU0kHDEQ62aF7XHBkuXZ1e08zSu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vZePKXaSO3537aJTxifE3Rrwobb.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - INVESTIGAÇÃO CRIMINAL [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32472A4B6CB180D893D5317C8D45FDEFFAF37AF9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w7OWlTCf42HPZrFQLdpE1F7wpxy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i1OoRMetCTPBHpyiIn39dMEkEpE.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - INVESTIGAÇÃO CRIMINAL [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0AD2AEA924C571EDC759966DA1F1BB77AC3A7E8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zqi9YZNMR5HpkwNJR690Qd3Rlf6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3nc5v6JxJGRq24k1DnU1JQhcxsH.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - INVESTIGAÇÃO CRIMINAL [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5233ABDF27D87FAA428F883F5D833D6C4721F3C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ptpWDiuVqgWOBLxfx3z1Kupyb6n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6Rcep8QOACqehbJr1ELoF8spRVC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - INVESTIGAÇÃO CRIMINAL [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2EC6A4B9DEA27F82F1C4FD07FA69EC141A96B472</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lLFxXZtI3EBfNy6j5NjeAi60vB7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iHk8M5E1UUIBYuewQMoGQXYb0CU.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - INVESTIGAÇÃO CRIMINAL [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB09D383FEBA990EF378FC90DCBB39918DACA5E3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3kAUhUgQvVgxBAvJJdWKiedSqrI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uM8YpmbYfvvrEi6AR0qVLOs6Msm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]CSI revela as investigações de um grupo de cientistas forenses da polícia de Las Vegas. Esses peritos trabalham desvendando misteriosos crimes que são pouco comuns, a ponto de alguns parecerem impossíveis de se desvendar. O grupo é formato pelo Capitão James Brass (Paul Guilfoyle) que logo no início já é substituído por Gilbert Grissom (William Petersen), um entomologista que já integrava a equipe, pela biomédica Catherine Willows (Marg Helgenberger), pelo analista Nicholas Stokes (George Eads), pelos químicos Warrick Brown (Gary Dourdan) e Gregory Sanders (Eric Szmanda), pela física Sara Sidle (Jorja Fox) e pelo legista Albert Robbins (Robert David Hall). A série vai mostrando o cotidiano dos investigadores, que, enquanto resolvem esses casos surpreendentes, também precisam cuidar de suas vidas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

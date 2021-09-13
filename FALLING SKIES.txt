@@ -1,0 +1,41 @@
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] FALLING SKIES [COLOR yellow] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS EPISODEOS  DA SERIE EM LINKS TORRENTES , E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR crimson]####[COLOR white]FALLING SKIES -[COLOR yellow] 1ªTemporada[COLOR crimson]####[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea949528d7fef20de9a4b5a31749b9ccfe7a068</link>
+<thumbnail>https://abutretorrents.com/capas/falling-skies-1-temporada-download-torrent-2011-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]COLOR yellow]A história começa logo após uma invasão alienígena que dizimou a maior parte da população da Terra. O encrimsono segue a luta dos últimos sobreviventes. Tom Mason (Wyle), ex-professor universitário, é levado assumir o cargo de líder da resistência. Moon Bloodgood coprotagoniza Falling Skies, no papel da terapeuta Anne Glass, que trabalha com as crianças sobreviventes para ajudá-las a enfrentar o trauma. Drew Roy, Maxim Knight, Seychelle Gabriel e Will Patton coadjuvam. [/COLOR][/B]</info></item>
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR crimson]####[COLOR white]FALLING SKIES -[COLOR yellow] 2ªTemporada[COLOR crimson]####[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a52417b9f2e2cb2b521e62256d6c45464f1c7eb</link>
+<thumbnail>https://abutretorrents.com/capas/falling-skies-2-temporada-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]COLOR yellow]Produzida por ninguém menos que Steven Spielberg, Falling Skies traz em sua história a saga de um grupo de sobreviventes de uma invasão alienígena que lutam para derrotar as forças inimigas. O grupo é liderado por Tom Mason, um professor de história que perdeu a esposa e teve um de seus três filhos sequestrado durante os ataques alienígenas iniciais. Disposto a resgatar seu filho, ele se une a Anne Glass, uma pediatra, Hal, seu filho mais velho, e a Weaver, que não se conforma em ser o único sobrevive de sua família. [/COLOR][/B]</info></item>
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR crimson]####[COLOR white]FALLING SKIES -[COLOR yellow] 3ªTemporada[COLOR crimson]####[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8141e576b5794680803a45ec9039730d67751fb</link>
+<thumbnail>https://abutretorrents.com/imagens/falling-skies-3-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]COLOR yellow]O drama que conta a história de uma invasão alienígena em um futuro não tão distante retornará com uma encomenda de 10 novos episódios. A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. Tendo que lidar com as consequências da invasão alienígena, que não só neutralizou a grade de energia e tecnologia do mundo, mas também destruiu os militares de todos os países do mundo em um curto espaço de tempo. [/COLOR][/B]</info></item>
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR crimson]####[COLOR white]FALLING SKIES -[COLOR yellow] 4ªTemporada[COLOR crimson]####[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837E0C4C35EAE662198070448FFCA48435E4A94C</link>
+<thumbnail>https://abutretorrents.com/imagens/falling-skies-4-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]COLOR yellow][/COLOR]A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. Tendo que lidar com as consequências da invasão alienígena, que não só neutralizou a grade de energia e tecnologia do mundo, mas também destruiu os militares de todos os países do mundo em um curto espaço de tempo. [/B]</info></item>
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR crimson]####[COLOR white]FALLING SKIES -[COLOR yellow] 5ªTemporada[COLOR crimson]####[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DCC2402835FB6B3B3413B955FC76EDC81A0281B</link>
+<thumbnail>https://abutretorrents.com/capas/falling-skies-5-temporada-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]COLOR yellow]A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. Tendo que lidar com as consequências da invasão alienígena, que não só neutralizou a grade de energia e tecnologia do mundo, mas também destruiu os militares de todos os países do mundo em um curto espaço de tempo. [/COLOR][/B]</info></item>
+<item><title>[COLOR crimson]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

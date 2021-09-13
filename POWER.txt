@@ -1,0 +1,127 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] POWER [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D1839837B40E914E1610B3E8502DDCB4F52722F1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/doJ2ZKqyD0jX1XEfFuI5xPvXRvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kmTV2IO6JL7wla6DqHjcUeG6eMk.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um rico e bem sucedido dono de uma boate chamado Ghost quer construir um império, mas tem só um problema: Ghost leva uma vida dupla. Quando não está no clube, ele é o chefe de uma das mais lucrativas redes de droga de Nova York, e lida com uma clientela de alto nível. Seu casamento, trabalho e família ficam ameaçados quando ele tenta sair do tráfico. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] POWER [COLOR lime] 2ª TEMPORADA[COLOR white] (LEGENDADA ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EEFB350F388BC36E8487AB9D5A2667EE899840A</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/dyBRB2w0Xlgy5LJwsTcpD7FQ0rX.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aSOpS0o9LwDD9zcZvAIldmel9yv.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Power segunda temporada completa e legendada. A série narra a história de James "Ghost" St. Patrick, o rico dono de uma boate frequentada pela elite de Nova York. Ele quer construir um império e transformar o local em um sucesso ainda mais estrondoso, porém existe um grande problema: Ghost vive uma vida dupla.Além de empresário, ele também é o chefão de uma lucrativa rede de drogas da cidade, atendendo a uma clientela de alto nível. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] POWER [COLOR lime] 3ª TEMPORADA[COLOR white] (LEGENDADA )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1A54C00BA832736408536090D0AAAEFDB43A31D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rVW2v9oU5tWglq9sU7fQRPA6Q7i.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rRwsvHWUsBPHnVp3secJqb9dEnd.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Power terceira temporada completa e legendada. A série narra a história de James Ghost St. Patrick, o rico dono de uma boate frequentada pela elite de Nova York. Ele quer construir um império e transformar o local em um sucesso ainda mais estrondoso, porém existe um grande problema: Ghost vive uma vida dupla.Além de empresário, ele também é o chefão de uma lucrativa rede de drogas da cidade, atendendo a uma clientela de alto nível.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] POWER [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b30cd79af4ad56c0321a852489344cd328a1767</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rkm41GRDyvw7uLc8mdiKlX1CuVk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/YBP1t7yzQypx9I0WTpp9TAsZgc.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] POWER [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f94326c336d1dbc8d83cbf57a6876ee3d5e5afd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2PrOjkQYu1OMLw68UytEFenDa46.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/D2DL5b9HBAy9jST2ZaDJLNHEsY.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
+<title>[B][COLOR yellow]######[COLOR white] POWER [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35eb2c99b94f587eba967b504371ec57de2820c1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fb82e0f2950bee7e9b64579f396283800b7bc70</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3e87c4f25eff5259f076807470fa910d18029fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e9774ca82e23bf6ac70926b40e272af1fa618a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:580a54ff42a337791f9c18d1866bf24da010e191</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17c1097a69929dc40b8f53d6471dfd97b47d5ed6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7517bce7755930399ce99e70ac412f055cce6c76</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c0ec18847fbaa1c4a6b3162eec14e1b276fdc5d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de99dc8107be1db38b6f64fbc1dd4686650cfbd2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4d3095197517d363892edeac5cc1d93a0d85725</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12eaaf89e685cdf068a813ada0b058e11bb2c1b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6f3fee68cab943ccc151a4e61f5b25765bd3ece</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdf84d65c7fbcc951f2a6a91bc1ae066c9008aa5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:870bd1d34b9fdde0e3bad9410bd1605f16ed79e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bc66d80d54976ee6b100e495b7b143a88842f30&dn=Power.2014.S06E15.1080p.WEB.H264-XLF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2770</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kxETHkZGw6SLw6tI8SMQJwY7nw7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart></item>
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>

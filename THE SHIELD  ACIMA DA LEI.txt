@@ -1,0 +1,69 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:103365BC4F416AF6D6B0BCF331F0B0FD601D6956</link>
+<thumbnail>https://media.fstatic.com/U9pLsDAr5pd-7gNeZR_QXX2INEs=/210x312/smart/media/movies/covers/2016/03/the-shield-1a-temporada_t31063_avDO88W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]The Shield quebra a fórmula convencional dos seriados policiais ao mostrar um mundo moralmente ambíguo em que a linha entre o bem e o mal é cruzada diariamente. A série é focada na tensão entre um grupo de policiais que trazem resultados, porém são corruptos e um capitão dividido entre seu dever e suas ambições políticas.
+A série conta o dia-a-dia dos policiais do distrito fictício de Farmington, em Los Angeles, tendo como base uma delegacia improvisada dentro de uma igreja abandonada, apelidada de Barn (traduzido como estábulo ou celeiro em alguns episódios).
+Michael Chiklis estrela como o policial corrupto Vic Marckey, líder do Strike Team (nome que recebeu várias traduções em português dependendo do episódio e do canal, sendo a mais comum "tropa de choque"). O Strike Team é uma equipe de quatro ou cinco policiais voltada para o controle da ação de gangues e do tráfico de drogas. Foi inspirado por uma divisão real do Departamento de Polícia de Los Angeles.
+Apesar de ser focada nas ações do Strike Team, a série possui três outros núcleos em que a ação ocorre paralelamente, com frequentes conexões: as questões políticas, geralmente protagonizadas pelo capitão David Aceveda; os casos complexos investigados por Claudette Wyms e Dutch Wagenbach; e os casos rotineiros de policiais de rua, inicialmente representados pelos policiais Danny Sopher e Julien Lowe.
+Além do dia-a-dia de policiais, a série trata de temas da vida pessoal dos personagens, como família, sexualidade e problemas de saúde[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BF3E53E3851A9064FA55AAC1EE3607C52CD0F48</link>
+<thumbnail>https://media.fstatic.com/QjZ-5Q67nvWmPH_1R8R0UP_OmkM=/210x312/smart/media/movies/covers/2011/06/cede7758559903080ef4ff15c8d70fbb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Depois de um começo excepcional, o detetive Vic Mackey e o Capitão David Aceveda formaram uma aliança preocupante, a qual a detetive Claudette Wyms está determinada a destruir. A vida pessoal de Vic anda na maior confusão e um novo inimigo obriga a equipe arriscar tudo por causa de uma última missão que vai rechear os fundos de suas aposentadorias. The Shield - Acima da Lei é um marco na história da televisão com mais indicações ao Emmy do que qualquer outra série de TV de drama. A série venceu o Globo de Ouro na categoria de Melhor Série Drama e o astro Michael Chiklis venceu o Emmy e o Globo de Ouro na categoria de Melhor Ator de Série Drama - TV. Prepare-se para a super poderosa segunda temporada que está ainda mais eletrizante e contagiante do que a primeira.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73AFC27FFBDD4C5DA63F076F135C94F81395E425</link>
+<thumbnail>https://media.fstatic.com/NNmSPhYCu5pMGs_06jLzw2JbTn0=/210x312/smart/media/movies/covers/2011/06/ad1af3230be3e905dc3c02a3ba4d4e50.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série de TV policial volta para uma terceira temporada alucinante!
+Depois de levar a maior bolada no caso do trem, a equipe fica na surdina afim de não levantar suspeitas quando Dutch e Claudette investigam um roubo e assassinato de dois bandidos armênios. A tensão aumenta ainda mais quando Vic entra em conflito com o seu time, enquanto eles encaram a maior competição com os policiais novatos. Mas as hostilidades são rapidamente esquecidas quando o Capitão Aceveda revela que o time é o alvo de uma gangue Armênia.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:702CD5F1108B5EF601D7E13F9D56B51E239BC757</link>
+<thumbnail>https://media.fstatic.com/LM9tpd7hTHNhZNgOJTqRtzs8N4Q=/210x312/smart/media/movies/covers/2011/06/a88998e77ef6e7943aa0cb70bbdeb639.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série de TV policial super dramática retorna ainda mais eletrizante nesta quarta temporada!
+A vida dos policiais não será a mesma depois da dissolução do time, e Vic juntamente com Shane serem transferidos para a função de meros detetives. Capitão Aceveda também deixa o cargo para assumir sua nova posição no conselho da cidade. Qualquer esperança da detetive Claudette Wyms em assumir a posição de Aceveda é descartada quando uma nova capitã é escolhida: Monica Rawling. Apesar de Vic sempre entrar em atrito com Aceveda, ele logo descobre que a Capitã Rawling também tem seus próprios métodos de trabalho que vão chacoalhar as gangues nas ruas e criar muita confusão entre alguns dos detetives.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CAE3E6C2CAC28756178F15DABFF6B5C7DD3EC8A2</link>
+<thumbnail>https://media.fstatic.com/-Kr7b15ynTwW732tOO_w1PrQ3r4=/210x312/smart/media/movies/covers/2011/06/e6e33a8317cf7147fc6c1dfd2651465b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Enquanto o esquadrão enfrenta tensões raciais pela cidade, os atritos no distrito aumentam com a chegada do Tenente Jon Kavanaugh (Forest Whitaker), um persistente tira da corregedoria obcecado por tirar Vic Mackey de ação, nem que seja pressionando a ex-esposa de Vic, Corrine. Em meio a este caos, o relacionamento de trabalho entre Dutch e Claudette se deteriora, Danny se recusa a revelar quem é o pai de seu bebê e Julien está às voltas com uma nova e atraente parceira novata.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF74E4898E9E6768FDA58FE011948B0586565C71</link>
+<thumbnail>https://media.fstatic.com/XqGOidqgFYuuHGMxK_gJ79TVOtE=/210x312/smart/media/movies/covers/2011/06/205262061798610dcccbe17bf169783e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Mesmo sendo um tira experiente e empedernido, as coisas nunca foram tão difíceis para o Detetive Vic Mackey. Na empolgante Sexta Temporada de The Shield: Acima da Lei, Vic precisa desvendar um assassinato brutal e sem pistas, lidar com as constantes tentativas da Corregedoria de desacreditá-lo e com a ameaça cada vez mais presente da aposentadoria compulsória. Para piorar tudo, ele está obcecado pela idéia de encontrar o assassino de um amigo e membro da equipe. Enquanto isso, Shane se liga à máfia armênia e torna-se um perigoso adversário para Vic. Claudette luta para evitar que a delegacia seja fechada, e Dutch sofre a ira de seu arrogante parceiro novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE SHIELD - ACIMA DA LEI [COLOR lime] 7ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BA7DB30D42FB4A5B367A1189BC6FD4EB7F87161</link>
+<thumbnail>https://media.fstatic.com/THhBbjUfy0B88LQYcfS0-nmjSyU=/210x312/smart/media/movies/covers/2011/06/897ee34493afa213bfe614f54f330c91.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Num mundo moralmente ambíguo onde a linha entre o bem e o mal é trespassada todos os dias, The Shield foca a tensão existente entre um grupo policial corrupto mas efetivo e um capitão dividido entre acabar com esta Força de Intervenção e avançar com as suas próprias ambições políticas.
+Agora, após sete temporadas tirando seu fôlego, você finalmente descobrirá como acaba esta série premiada. Shane apela para um sequestro em sua perigosa dança com a máfia armênia, Dutch arrisca tudo envolvendo-se pessoalmente numa investigação de homicídio, o esquadrão se mobiliza para libertar a filha de um chefão das drogas, mas no fim, tudo depende mesmo do Detetive Vic Mackey conseguir enfrentar seu maior adversário: ele mesmo.
+Pressionado para prender Pezuela, Vic negocia um acordo de imunidade com o ICE para vencer finalmente Beltran, e os esqueletos despencam do armário. Será que Vic pagará por seus pecados afinal? A resposta está nas traições de última hora, no devastador e tenso final da série.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

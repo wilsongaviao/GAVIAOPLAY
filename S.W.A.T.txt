@@ -1,0 +1,141 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] S.W.A.T. - FORÇA DE INTERVENÇÃO [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02DAF67B4B13DA5478638989D705D00000CB508F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/oW61C2vQfAT33324CklzzuEdyxw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa da série SWAT. O trabalho de uma unidade de elite da polícia da Califórnia, a Special Weapons And Tatics, encarregada de lidar com situações de alto risco, como assaltos com reféns, criminosos fortemente armados em locais abrigados, desativação de artefatos explosivos, psicopatas, ladrões de jóias, sequestros ou confrontos armados com gangues. Esse grupo seleto, altamente treinado e bem disciplinado, era formado por policiais voluntários, especialmente equipados e treinados para poderem reduzir o risco associado a uma situação de emergência. Emissora: ABC • Episódios: 25 • Duração: 44 min. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] S.W.A.T. - FORÇA DE INTERVENÇÃO [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1acqlelS1XWQUoMYjAUzim51S19.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um tenente do Esquadrão De Armas e Táticas Especiais recebe o comando de uma unidade de párias grosseiros, mas muito bem treinados. Sua equipe é chamada para resolver crimes de alta periculosidade sempre que todas as outras opções foram usadas. Secretamente, o tenente se sente em dúvida entre ser leal á corporação ou ás ruas das quais veio. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 >> 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:517f81c1c1330a72d3c4ed3cef1b8e50e86ede25&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1acqlelS1XWQUoMYjAUzim51S19.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07 >> 12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46179164fc6acaa31b52d04d35e029ccc6462969&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1acqlelS1XWQUoMYjAUzim51S19.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13 >> 18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e120aecae0728a0415aa63c32d8358c31dd272a&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1acqlelS1XWQUoMYjAUzim51S19.jpg</fanart></item>
+############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19 >> 23 >> 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52037f326c1d49d9be5c7652ed72c07faf20b9ff&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1acqlelS1XWQUoMYjAUzim51S19.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] S.W.A.T. - FORÇA DE INTERVENÇÃO [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um tenente do Esquadrão De Armas e Táticas Especiais recebe o comando de uma unidade de párias grosseiros, mas muito bem treinados. Sua equipe é chamada para resolver crimes de alta periculosidade sempre que todas as outras opções foram usadas. Secretamente, o tenente se sente em dúvida entre ser leal á corporação ou ás ruas das quais veio. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 / 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c74722715120322152d4d51bb18cec0d5a424740</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bac2108564f75a00e3d9e1f8e52f0f65559c650</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b1e11c010ed5c56166de3acde87363b819f2061</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d6f9dd3bb06600933ab9953656dc55da02b9dbf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]061[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cae4a60ef768d6876b0e446ed5b60a40f2e01a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43506a7040cff61f720fb7c5dbab8b07e1a26b24</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c2579613c0b184030eddcfd733691f41490070b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:832350245a6761299d3da767332e6699824152d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10 / 11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfcdbafc8527c413373e19dc9019ceaf8b1cfa3f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c6a277d6efa9f56a49141656772dae77a1bf1d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c6a277d6efa9f56a49141656772dae77a1bf1d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1298a319278a5fca79edd35a33226ad4c921dc15</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f4a2c1a86cec2b1bf109bf968b4c7b4e321bc36</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fc742cd763aec5b01abfb91065956ab5675a7c6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdb0222070b1b9a50c1052c0bb7a8cbf6d3fe89c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6258ee0b9a4ab6b0b6cef9f413520969238a37c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602629f9f463099591815a51c5327585303ddef7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff457aec45f6e26f42eff5452910eaa7c9ba52f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eAvj1bJ38TnIYD94SIZVlkStlow.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] S.W.A.T. - FORÇA DE INTERVENÇÃO [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52KEMVMX7LBWQWFOMJS7LZZDGMZXVGI6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ushSkKB8aeLsyyW2c7S7CCmEmRA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gJSqr2prvTegFbL0cEWK9Qti3Vs.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um tenente do Esquadrão De Armas e Táticas Especiais recebe o comando de uma unidade de párias grosseiros, mas muito bem treinados. Sua equipe é chamada para resolver crimes de alta periculosidade sempre que todas as outras opções foram usadas. Secretamente, o tenente se sente em dúvida entre ser leal á corporação ou ás ruas das quais veio. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

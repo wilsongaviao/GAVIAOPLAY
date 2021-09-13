@@ -1,0 +1,24 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CROSSING LINES [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49A049B1BF4AC2F56B90BC2D35BFEE550F0A4184</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uDW4j09ydqOJN6R0XqrFtRsl7yX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m4kJRHRBm9UgHjqRdea9kHujzp.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A primeira temporada série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break). [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CROSSING LINES [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44D0E807D0B23B9DCC704DBA7C6DD6DF6527432B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/12F26gnDPB4ohlkYxaCBzETw2AL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jHy3weYIkoIpIEWhAASAj1JQNQ8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A Segunda temporada série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break). [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CROSSING LINES [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E867825438798B6F9773AECA087F9F52E0A3EB69</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/iyOajbKk4DXq9lw47br5fGwGJDq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xyuufk5i7pdgEcK8stvL5WbTiEN.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A terçeira e ultima temporada da série acompanha as atividades do International Criminal Court, um equivalente europeu do FBI. Sediada na Holanda, sua missão é a de investigar crimes em série que são cometidos em diversos países da Europa, levando os responsáveis à justiça. A equipe de campo é liderada pelo ex-policial de Nova Iorque Carl Hickman (William Fichtner, de Prison Break). [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

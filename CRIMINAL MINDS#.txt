@@ -1,0 +1,359 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:326f1af25e48dc7177529aeabb5c237eb37c43cf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/gFMgqkdMYlT51iAXvzqLuzF9IMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8u5kJeZUi4N1MWJTRpoUlNEygJ3.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Suspense centrado numa equipe de elite do FBI especializada em analisar os perfis dos mais temidos serial killers, antecipando seus próximos passos antes que eles voltem a atacar. Quando não há outras pistas para um caso em série, o FBI logo pede ajuda para a Unidade de Análise Comportamental em Quântico. Enquanto detetives comuns estudam as evidências de um crime, a unidade analisa o comportamento do criminoso para chegar à uma lista de suspeitos. Eles investigam o crime de dentro para fora — sem examinar as evidências no laboratório; ao invés disso, eles estudam o comportamento dos criminosos nas cenas dos crimes ou onde eles vivem ou trabalham, para descobrirem o que eles pensam. Liderando a equipe está o agente especial Jason Gideon (Mandy Patinkin, "Dead Like Me", "Chicago Hope"), o principal analista comportamental do FBI. Os experts do time de Gideon incluem o agente especial Dr. Spencer Reid (Matthew Gray Gubler), um típico gênio com um QI alto e pouca vida social; o agente especial Aaron Hotch (Thomas Gibson, "Dharma & Greg"), um homem de família capaz de ganhar a confiança das pessoas e descobrir seus segredos; o agente especial Derek Morgan (Shemar Moore, "Birds of Prey"), um especialistas em crimes obsessivos; e Elle Greenway (Lola Glaudini, "Família Soprano"), uma agente que é motivada pela agressão não-resolvida que ela sofreu há alguns anos.Cada membro da equipe une suas especialidades únicas enquanto eles apontam as motivações dos predadores e identificam seus gatilhos emocionais na tentativa de impedi-los. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc2d2b0f16f2fc9dddf790b82dc59cf90383843f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nAA8pprCMC6D5xYhW6tg0VE4Ofp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhO2zOOxY7YEfoFD1UgpiAhptAC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59defbfb83dec5b13430fe391cf6d85781cff939</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mLlH7zxGol0hn7LOkCWx9CdOvZ8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rawE8fKLIPzR8frzVl2749at3d0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 4ª TEMPORADA ( LEGENDADA)[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90e620aede12ba87635783cc4aceadf029e350b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/k4FxTegwXqZ4ootGRAc0I0LBmCe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/58H8FPDXiFjk41Z309BBXqw8loV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Nesta quarta temporada, Hotch sofre ferimentos devido a explosão de uma bomba, Reid finalmente confronta seu pai desaparecido há tempos, Prentiss revisita seu doloroso passado, Morgan tenta pegar um assassino de policiais e Rossi lida com um fã. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fb2f28f3f400c10c98d941d472111882a202f8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4X0OJLQz8SxmcSvgggy2PxrOQvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y604rdSl4x0udamhOEsphAeleim.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43066821fb99f58413863d4e320eafae1ca64bce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/o9o31fwDSPmAAennAQCWHSBv3Lb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cg6MVqnCDcFKxp31s0R7dAaFTxZ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 7ª TEMPORADA ( LEGENDADA )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:052f22194eabfd0922512cae2c9507d173101b0e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mLoFqRrmz8xicfGTGBixV3Iolyr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/srm3iogCUclVV6IS5oTrkw4OXjD.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 8ª TEMPORADA ( LEGENDADA )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f58f3a9043e4a143af12fd497950ea2dd353879</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cTvln4d7hXRp4JeXZcIwqyqF9jr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xwibxhANMDwQRSIhZ3ymYIzOjv.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 9ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6af68a935bcf187edc215a1a272acefd8c2e28e3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pH6QneYzuFygxh6OT0hUt2kCqya.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 10ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74f0c4c8f11fa4312fef56125fb81ad7b86ef31c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/es3FhTCMUTlgsoP9zAniXq77zVP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/akCmA4D5hMILS0Slrm3pp0CCWEF.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 11ª TEMPORADA ( LEGENDADA )[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c924898472a21f4acb242afcaef450a9d1d2a5d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/z3Kxhabx6hYDZWS370RmNm1zxMy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bhO2zOOxY7YEfoFD1UgpiAhptAC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um esquadrão de elite do FBI estuda as maiores mentes criminosas, antecipando seus próximos passos, antes que eles ataquem novamente. A fim de identificar as motivações dos criminosos e detê-los, cada membro da equipe usa a experiência que possui.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 12ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbc741a8066fce0e372e56c3d3a3ba587386efc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qdyuyfHBSPEN6Zvicr8kM6dBYTS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Suspense centrado numa equipe de elite do FBI especializada em analisar os perfis dos mais temidos serial killers, antecipando seus próximos passos antes que eles voltem a atacar. Quando não há outras pistas para um caso em série, o FBI logo pede ajuda para a Unidade de Análise Comportamental em Quântico. Enquanto detetives comuns estudam as evidências de um crime, a unidade analisa o comportamento do criminoso para chegar à uma lista de suspeitos. Eles investigam o crime de dentro para fora — sem examinar as evidências no laboratório; ao invés disso, eles estudam o comportamento dos criminosos nas cenas dos crimes ou onde eles vivem ou trabalham, para descobrirem o que eles pensam. Liderando a equipe está o agente especial Jason Gideon (Mandy Patinkin, "Dead Like Me", "Chicago Hope"), o principal analista comportamental do FBI. Os experts do time de Gideon incluem o agente especial Dr. Spencer Reid (Matthew Gray Gubler), um típico gênio com um QI alto e pouca vida social; o agente especial Aaron Hotch (Thomas Gibson, "Dharma & Greg"), um homem de família capaz de ganhar a confiança das pessoas e descobrir seus segredos; o agente especial Derek Morgan (Shemar Moore, "Birds of Prey"), um especialistas em crimes obsessivos; e Elle Greenway (Lola Glaudini, "Família Soprano"), uma agente que é motivada pela agressão não-resolvida que ela sofreu há alguns anos.Cada membro da equipe une suas especialidades únicas enquanto eles apontam as motivações dos predadores e identificam seus gatilhos emocionais na tentativa de impedi-los. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 13ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A BAU (Unidade de Análise Comportamental) é uma subdivisão do FBI com base em Quantico, no estado da Virginia. Quando a polícia local pede assistência para a resolução de crimes em série ou de natureza extremamente violenta, o time usa técnicas controversas como criar perfil para o suspeito, com base nas suas vítimas e nas características já conhecidas. Devido à natureza do trabalho, esses profissionais quase não têm tempo para manter uma vida pessol estável e feliz. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 / 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEDFDA08293E08EB5EC564C397F7D8CF634FF414</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCD17A76858DC17ED65C84A23D6FC0858D6F9525</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0929A92B2AA668E2B5848385BAE392AF1C828F8C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50F9DDC988D43AD31D3C7DCE04B3B47DCCB2B29A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA41AAE796E2FB12A581AA4AFAC4FD4CF9FA5E01</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:794244DAC12A5B7122AEEC565497FBBC550AB1D3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:030686CEB95FBED92557289D0A49285D0AFDEA87</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9836F50D09DEFDC5BF7DC6F194503B8B5C33B93E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:711017BA40FFFC9DFC8027FC4B4BC50828774CCD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2f15749b98c74fa399048ca7fe124c744e7f5cc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12 / 13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e5b4eabb1e318b765ff4c4a0787f39a96a8b37a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:523181d73b0ba2c98260d984cb7ec182169a367f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:024d549f4db7b96ecef1ba8d32b655230ecb52be</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf786886ff637ff70020d491dc191aa07958a7ce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:393a24e2ec6fa4bf5ae41ce3582b09a29c7881c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b88bb7aca29ea3542f5dddfb7344477fcf8d54b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:936f2db10f75196c3b5b90451b80830cba0dd8e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:923d828b3d2db2f31c3c50d30b1f1ab1fb3a59ce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]21[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05ff162a3f5aab7ba472ddc50646c60bb8a3632f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]22[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ad785920889a75a94d77373d038b1653e363b8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CRIMINAL MINDS [COLOR lime] 14ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A BAU (Unidade de Análise Comportamental) é uma subdivisão do FBI com base em Quantico, no estado da Virginia. Quando a polícia local pede assistência para a resolução de crimes em série ou de natureza extremamente violenta, o time usa técnicas controversas como criar perfil para o suspeito, com base nas suas vítimas e nas características já conhecidas. Devido à natureza do trabalho, esses profissionais quase não têm tempo para manter uma vida pessol estável e feliz. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e5dcacfa5b40dd6dc4210f2ffef2526a5b381b$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XDS5ZLH2LNAN23OEEEHS77XSKJVFWOA3$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f58022f4c229ee49f9364a4a9627fa4d87c25586$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6WACF5GCFHXET6JWJJFJMJ72JWD4EVMG$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link></link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f5a7ebd53bcf227cba3011d60ebcf95ec16711$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G322P26VHPHSE7F2GAI5MDV47FPMCZYR$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16c119dec6223f92cbd60ecfd963fea6c27a1b2e$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3ARTXWGEI7ZFS6WB3H5SY76U3BHUGZO$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e5624dca07fb8b8ffd449e08274c53cf63aded1$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PZLCJXFAP64LR76UJHQIE5GFHT3DVXWR$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c89a601886cb05804a7d0f51256a586899702600$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCNGAGEGZMCYAST5B5ISK2SYNCMXAJQA$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2847c4aea25b821f653c323ca5ed60d01e4bc45cnome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FBD4JLVCLOBB6ZJ4GI6KL3LA2APEXRC4$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3bd27d6876c52db3a3b40634674ce7695a54bc4$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2O6SPVUHNRJNWOR3IBRUM5GOO2K2KS6E$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe6c875af8f502638e2c6bbef7b06b160167e40d$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ZWIOWXY6UBGHDRMNO7PPMDLCYAWPZAN$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a58e278d5156aaa0d540f69c9338f099a852d3aa$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWHCPDKRK2VKBVKA62OJGOHQTGUFFU5K$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb34baebd63a4bab0e90f593f000c07a9741366d$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZM2LV26WHJF2WDUQ6WJ7AAGAPKLUCNTN$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8dbbfedceda708e9221b30a61c64fe9c38b247b$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DN373OO3JYI5ERBWMFGDRSP5HBYWJD3$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e5267fd4595b10e4c1c6b6a7e312a6f8ff57b8f$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZJGP7KFSWYQ4TA4NNVH4MJKN6H7K64P$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14 / 15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f11d0711c95fc338f41d5e05fee1bab588a6a589$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EOQOEOJL7BTR5A5LYC75YN2WWEKNJMJ$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CRIMINAL MINDS [COLOR lime] 15ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A BAU (Unidade de Análise Comportamental) é uma subdivisão do FBI com base em Quantico, no estado da Virginia. Quando a polícia local pede assistência para a resolução de crimes em série ou de natureza extremamente violenta, o time usa técnicas controversas como criar perfil para o suspeito, com base nas suas vítimas e nas características já conhecidas. Devido à natureza do trabalho, esses profissionais quase não têm tempo para manter uma vida pessol estável e feliz. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f327b2d52e1c9179890f285a2c91d74568259a$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YHZSPMWVFYOJC6MJB4UFULER25CWQJM2$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c30b6415e5b9c430c631e4031605490f33ff08$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G7BQWZAV4W44IMGGGHSAGFQFJEHTH7YI$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e66698c0a64361fb1f95fac365b24a76bccc238e$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ZTJRQFGINQ7WH4V7LBWLMSKO26MYI4O$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a74bed09f25d3fbb19cd1759ec3687e8a11e1e7b$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U5F62CPSLU73WGONC5M6YNUH5CQR4HT3$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80345ca87f49e680016a024f837c44c151372e24$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QA2FZKD7JHTIAALKAJHYG7CEYFITOLRE$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5181055d214e4a3819da082bdb2875b3eaf58c2$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4UMBAVOSCTSKHAM5UCBL3MUHLM7K6WGC$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:214f658b11de15c912fe133ff680c7b21e7faeab$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFHWLCYR3YK4SEX6CM77NAGHWIPH7LVL$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc7e00de9fa2a5860b7fb6edb2679eae7c0d1368$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XR7ABXU7UKSYMC37W3W3EZ46VZ6A2E3I$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09 / 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a430339e1eab7d940807d31709c58f1b86b2e059$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UQYDHHQ6VN6ZICAH2MLQTRMPDODLFYCZ$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBk45zdSRyeSSBrOXeTnjUMjOww.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

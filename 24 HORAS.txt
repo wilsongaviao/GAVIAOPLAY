@@ -1,0 +1,53 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS EPISODEOS  DA SERIE EM LINKS TORRENTES , E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]1ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43009E168F52CB811297EC47F12533D86EFAC1F5</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2019/06/24-horas-1a-temporad_t13693.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></info></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]2ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b35bb8da6c048a5cbb4a0187a88076d75975bec9</link><thumbnail>https://media.fstatic.com/KZyjebvCI5XAJac_RQN6EzGnprI=/290x478/smart/media/movies/covers/2010/07/d545765db832c8c1abe5dde6307aa894.jpg</thumbnail><info>[B][COLOR yellow]Temporada Completa com todos os episodeos em arquivos torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]3ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baa66f6fddeb9e5858320911f040abcb60e35fb2</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada Completa com todos os episodeos em arquivos torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]4ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:703D083D0D95FFF5FD4CA11D702040DB982E3446</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada Completa com todos os episodeos em arquivos torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]5ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:921bf606d6ab34dd1b81171ec1beed8605c7ac74</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada Completa com todos os episodeos em arquivos torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]6ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42B93986BA71D9E5BDEC29004DE679834EFB87C1</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/13797_background.jpg</thumbnail><info>[B][COLOR yellow]Temporada Completa com todos os episodeos em arquivos torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link>
+<item><title>[B][COLOR yellow><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]7ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:662EE6AEE8BF1D0A8337F75D101D6850089291E3</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2019/07/24-horas-7a-temporad_t13800.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]8ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9E82D70D8F0AF9155EED922F35E2748712D005CB</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/15545_background.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]24 Horas [COLOR lime]9ª Temporada [COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F23E5BD80047EACDD3576839565724FB353C837</link><thumbnail>https://http2.mlstatic.com/D_NQ_NP_764855-MLB42601341779_072020-W.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
