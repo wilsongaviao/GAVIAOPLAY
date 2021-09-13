@@ -9,7 +9,7 @@
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - LOS ANGELES[COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8df131deecaae2e7afd574a6c28d8198a3f9658</link>
 <thumbnail>https://media.fstatic.com/mZcd5vGqCjBXVYwRML4u9czu_Ks=/210x312/smart/media/movies/covers/2014/08/ncis-los-angeles-1a-temporada_t26720.jpg</thumbnail>
 <fanart>https://br.axn.com/sites/br.axn/files/widget_image_f_image/la.png</fanart>
@@ -17,7 +17,7 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - LOS ANGELES [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b39f70f2c646d751da28c493b8570e89fd7403b</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/NCIS_Los_Angeles_Season_2.jpg/190px-NCIS_Los_Angeles_Season_2.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/04/NCIS-Los-Angeles.jpg</fanart>
@@ -25,7 +25,7 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - LOS ANGELES [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de77099b20f31eaab32047957c089df0b020ec0c</link>
 <thumbnail>https://media.fstatic.com/AH1c4zl2VmEIt7L5vdIVQ_2cxHg=/210x312/smart/media/movies/covers/2014/08/ncis-los-angeles-3-temporada_t49717.jpg</thumbnail>
 <fanart>https://spinoff.com.br/wp-content/uploads/ncis-la-season-7-finale-ratings.jpg</fanart>
@@ -33,7 +33,7 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - LOS ANGELES [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de77099b20f31eaab32047957c089df0b020ec0c</link>
 <thumbnail>https://media.fstatic.com/zRlM-LlDe0kF_jGtT8DBWBgy82I=/210x312/smart/media/movies/covers/2014/08/ncis-los-angeles-4a-temporada_t60997.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-R9ExOcyJ378/WL2joDPNa9I/AAAAAAABD7k/llePpR12uSo81aJln3IKVGvalRTgy-A0ACLcB/s320/NLA-epi802-low.jpg</fanart>
@@ -41,7 +41,7 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - LOS ANGELES [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ae4b95a41a25dd6497357fff5d4c1266eec87c0</link>
 <thumbnail>https://media.fstatic.com/xnizCiCYGQ4fD-EBKNT6Eh14_1w=/210x312/smart/media/movies/covers/2016/06/ncis-los-angeles-5a-temporada_t79890.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKmvb2yyybv7jzrJUBwST1HvuNXnw7e_hdTw&usqp=CAU</fanart>
@@ -49,7 +49,7 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CSI - LOS ANGELES [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1ecd2422235d6e0aaa7f0c89d2321bbe7a452c3</link>
 <thumbnail>https://media.fstatic.com/t7wpSHmog8C9EbQRBVH1bLQSLro=/210x312/smart/media/movies/covers/2017/03/ncis-los-angeles-season-6-dvd-cover-36.jpg</thumbnail>
 <fanart>https://s2.glbimg.com/ALDx3bdxAY25cE90OLmY92uBbzk=/smart/e.glbimg.com/og/ed/f/original/2015/06/19/015.jpg</fanart>
