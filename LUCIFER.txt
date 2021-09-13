@@ -1,5 +1,5 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] LUCIFER [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] LUCIFER [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B3F49F839C39DFD2F9A17B423E7E24AAB2D783B</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ofDAFWepqnSM37NNPa1I0fTnpEj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vauFEN12Exuck3nO9WWmjB1R5cJ.jpg</fanart>
@@ -7,17 +7,17 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] LUCIFER [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67CD11B0CF92B35A99058B754C6EDECC3B5D8666</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dinyxDVbDvZPX0DtEvoKQuUFaAU.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Depois de recomeçar a vida na grande Los Angeles, a preocupação de Lúcifer agora é outra: encontrar sua mãe Charlote (Tricia Helfer), que escapou do inferno. Para isso, ele conta com a ajuda de seu próprio irmão, Amenadiel (D.B. Woodside). [/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] LUCIFER [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] LUCIFER [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D32F6B735B8F0FE4857977082E268655EF506D6F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1sBx2Ew4WFsa1YY32vlHt079O03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ak9lEYYrWpnIvXzVAR0tnDXhDFX.jpg</fanart>
@@ -25,17 +25,17 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] LUCIFER [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02B695DC953B1E7B0C5B728529988C238FA3AE4E&</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/s6oLPnsa2OTmX7BtCv8YVIRxumD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ei71J1rbGTEKTAENYOc3n0SJOd7.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Chloe tenta aceitar a revelação perturbadora de Lucifer, e um padre peculiar tenta impedir a concretização de uma profecia antiga[/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] LUCIFER [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] LUCIFER [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fae5510c71dd215176a293d33eee2ecffbdd693d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cA0PlTcuvKZpRwQQZqCPQ6Cwj1w.jpg</fanart>
@@ -43,10 +43,10 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <title>[B][COLOR yellow]######[COLOR white] LUCIFER [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-<title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd52031760d5dc5fa58ba7449de5e01408c6c9f0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aDBRtunw49UF4XmqfyNuD9nlYIu.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Entediado e infeliz como o Senhor do inferno, Lúcifer (Tom Ellis) abdica seu trono e abandona seu reinado para viver na atordoada Los Angeles. [/COLOR][/B]</info></item>
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
