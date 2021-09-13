@@ -1,45 +1,39 @@
-<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR red]######[COLOR lime] LOKI[COLOR yellow] 1ªTEMPORADA[COLOR red]######[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
-<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR lime] LOKI[COLOR yellow] 1ªTEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J4PDAFLNWSN5QYW4CRAPWAKJ6EDFA33S$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEB6DGF6SFB7AWHNLOCHVWRECTIEJIBJ$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5JLA5KYORXEXVZU6FCDFTLRN4GM5PJM$nome=[B] 3 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 ##################################################################################################################
-<item><title>[COLOR white]EP 01 -[COLOR yellow] Proposito Glorioso[/COLOR]</title>
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow] Proposito Glorioso[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9310c8d2bd0433524209f5b276ab505478ae0c4</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOJP93WpQrmSXX16lQCNulwuUVO.jpg</fanart></item>
 ##################################################################################################################
-<item><title>[COLOR white]EP 02 -[COLOR yellow] A Variante[/COLOR]</title>
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow] A Variante[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a95f5215f23e9ecdf6fd06adbcf9bd05d0ffb9f4</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOJP93WpQrmSXX16lQCNulwuUVO.jpg</fanart></item>
 ##################################################################################################################
-<item><title>[COLOR white]EP 03 - [COLOR yellow]Lamentis[/COLOR]</title>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Lamentis[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1850a67dcfc039bc564de40070933923070268a</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOJP93WpQrmSXX16lQCNulwuUVO.jpg</fanart></item>
 ##################################################################################################################
-<item><title>[COLOR white]EP 04 - [COLOR yellow]O Evento Nexus[/COLOR]</title>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]O Evento Nexus[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c4d81599c97b493e8eda09aab6dba0c2b8ea7e5</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOJP93WpQrmSXX16lQCNulwuUVO.jpg</fanart></item>
 ##################################################################################################################
-<item><title>[COLOR white]EP 05 - [COLOR yellow]Jornada Rumo Ao Misterioso[/COLOR]</title>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Jornada Rumo Ao Misterioso[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c97003d3605d8d06ae5e0087232996f325c77762</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOJP93WpQrmSXX16lQCNulwuUVO.jpg</fanart></item>
 ##################################################################################################################
-<title>[COLOR whiteEP 06][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
-##################################################################################################################
-<title>[COLOR white][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-</item>
+<item><title>[COLOR white]EP 06[COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RNL2WJR2OJBELJI2NT7TGPIGFI3CLC45</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jOJP93WpQrmSXX16lQCNulwuUVO.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
