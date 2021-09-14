@@ -1,6 +1,6 @@
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E08E72EC5CD53FB34F540A640EAF399498FF65D</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/f4NzMUpOqwzut7jML4IUZcHqkLt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ncDCKfs9IFw2tqFyvfpPoSUo6Do.jpg</fanart>
@@ -8,18 +8,18 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E08E72EC5CD53FB34F540A640EAF399498FF65D$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fa2e1790d1ccb1dc47402b60859adafe49091ca$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/f4NzMUpOqwzut7jML4IUZcHqkLt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c5Cul0tkWNRzQFeySTmAGVC9lKq.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A Segunda temporada de Supernatural, uma série de televisão americana criada por Eric Kripke, estreou em 28 de setembro de 2006, e terminou em 17 de maio de 2007 após 22 EP -isódios, nos Estados Unidos. Jared Padalecki e Jensen Ackles estrelam como Sam e Dean Winchester, respectivamente. Nesta temporada os irmãos encaram a missão deixada pelo pai de ajudar pessoas com casos sobrenaturais, enquanto tentam entender os poderes de Sam e o que Azazel planeja para ele. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E08E72EC5CD53FB34F540A640EAF399498FF65D$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2779F51539C5A4604D5737299342A56E91449703$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/owiz98MIJInEP -0eOd4io97p69UO.jpg</thumbnail>
@@ -28,37 +28,37 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E08E72EC5CD53FB34F540A640EAF399498FF65D$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:567C123C0C7925628112123E05E1F277687F877D$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2FGxAP0zwgTZjK6Ev22sox1yIKH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/w46R125ClAAddhaWbkxLiWAZ8hy.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow][/COLOR]Após a ressurreição de Dean, e o reencontro deste com seu irmão, eles encaram a existência de anjos e começam uma corrida para evitar o Apocalipse. Os Winchester têm de tomar grandes decisões como a confiança dEP -ositada em cada lado da iminente guerra, ficando literalmente entre anjos e demônios. [/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B9EE01DFD32C83FE2559BC870E47D001C5FB16E</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/g0pAERtcvBwqDvFxfDbBPzfHoyQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]sta temporada conta sobre o Apocalipse na Terra e o papel importante que cada irmão tem que desempenhar no fim dos dias que está por vir. Vários amigos se vão e inimigos mais poderosos surgem - e eles só podem contar com Bobby e Castiel. [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]esta temporada conta sobre o Apocalipse na Terra e o papel importante que cada irmão tem que desempenhar no fim dos dias que está por vir. Vários amigos se vão e inimigos mais poderosos surgem - e eles só podem contar com Bobby e Castiel. [/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79FB7558AC32B17D11B1C337A05130E090FA22DB</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4jEVEZiuJa023ZzcI0mutle6eND.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2AdujY4WEP -oE40VE7cMAchKlTZJ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A sexta temporada será misteriosa e sombria. O Céu e o Inferno foram deixados numa imensa confusão desde os acontecimentos apocalípticos da quinta temporada. E agora, monstros, anjos e demônios vagueiam num mundo sem leis e caótico. Entretanto, Dean Winchester, que decidiu abandonar a vida de caçador para sempre, encontra-se a ser tentado a voltar? antiga vida por, nada mais, nada menos, que Sam Winchester (que por sua vez conseguiu escapar do Inferno). Os dois voltam a reunir-se na caça contra as criaturas do mal mas rapidamente percebem que não são mais os mesmos, que a sua relação está completamente diferente e nada é o que parece. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 7ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 7ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:491D8663B867CEF866CB758F5B8640C59BD7B4A9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/hkgRHa2fjySdj6gA8VLHQrxUfiP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ebACdxTlKJkkDdMVcqy3Ke5rn1j.jpg</fanart>
@@ -66,17 +66,17 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 8ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5E86CDF4933BA1A2E81C2049EF1525F90158CA3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/16gx7PmtzXHadQfW9Y9GGQZS3T9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jDkZ3dsYmQy7B3Z0iBvPFbDBQvl.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A oitava temporada começa com a fuga de Dean do Purgatório, embora Castiel esteja longe de ser encontrado. Mas Dean não está sozinho! Ele retornou com um misterioso companheiro de armas, cuja razão para a fuga talvez seja mais do que Dean esperava. Enquanto isso, Sam está se reconciliando com a vida que ele descobriu quando Dean rEP -entinamente reaparece. Enquanto os rapazes lidam com sua inesperada reunião, fazem uma chocante descoberta que pode levá-los a uma profunda missão pessoal com o objetivo de acertar velhas contas. Se só eles poderiam concordar – este é um "negócio de família" ou não é? [/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 9ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 9ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD61BFA3FF6682BCEF3E79F28AA4A1D8D21DBCB3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5f2mRNqKFgtV5AWnC0OSIkYbzw0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hwbvLcASBXmYLPni5fEXQpdG1EX.jpg</fanart>
@@ -84,17 +84,17 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 10ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984201693CF8226D5E9D6299E652AC6D3E5B94C9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/y9Q90gjBX820NZw59O8HWlkZOek.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fbPWWkNijlz1PR5dp8LVbsqM7yy.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Décima temporada completa da série. Desde que era pequeno, Sam Winchester (Jared Padalecki) tentava escapar do próprio passado. Após a misteriosa morte de Mary (Samantha Smith), o pai de Sam passou a procurar vingança contra as forças do mal que mataram a esposa, destruindo qualquer ser maligno que cruze o seu caminho. Ao contrário de Sam, Dean (Jensen Ackles), irmão mais velho, sempre quis seguir os passos do pai. Sam está determinado a se livrar do negócio da família, mas sua vida está prestes a tomar os rumos que ele não desejava, quando ele fica sem escolhas a não ser unir-se ao irmão. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 11ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 11ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36A1798EE0E66ABF7AEC974EE43666A7ADA4B8C2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2RlcVP4LsRzr1g8oIU3hNq0BEwm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1XVNmTgH3ZFwaPsOkDRG6lnmiMS.jpg</fanart>
@@ -102,15 +102,13 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 12ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bbXz9rxZr7nCpqD0OOWgTIPvRoH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/u5isewFXYij1ZOfCKlOT8zCp57g.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-
+<info>[B]Sinopse:[COLOR yellow]Há 20 anos, Sam e Dean Winchester perderam sua mãe em um trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demônios. Agora, os irmãos Winchester percorrem os Estados Unidos em seu velho Chevy travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas — incluindo um Papai Noel não tão bonzinho — são só alguns dos desafios que estes dois irmãos têm de superar. [/COLOR][/B]</info></item>
 ##################################################################################################################
-
 <item><title>[COLOR white]EP -[COLOR yellow] 01[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAFB8DB683E313507D5C633ADCDE368946B0CB9D</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bbXz9rxZr7nCpqD0OOWgTIPvRoH.jpg</thumbnail>
@@ -206,16 +204,15 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584dd40765aed4af6eaac3f5f73e4361e83bff89</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bbXz9rxZr7nCpqD0OOWgTIPvRoH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/u5isewFXYij1ZOfCKlOT8zCp57g.jpg</fanart></item>
-
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 13ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 13ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xBJ7Ts2nDUbUWu4Ef9v086dbBrQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/goTa1KyuKN5Cz9z0fKPnQiqFXVE.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Há 20 anos, Sam e Dean Winchester perderam sua mãe em um trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demônios. Agora, os irmãos Winchester percorrem os Estados Unidos em seu velho Chevy travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas — incluindo um Papai Noel não tão bonzinho — são só alguns dos desafios que estes dois irmãos têm de superar. [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP -[COLOR yellow] 01[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17bfbc7e62f895da6d1b6bb7d4a08c08565982e7</link>
@@ -331,25 +328,24 @@ Vários#########################################################################
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03be7f163766b65f3b4de4d3338c0ff51e8dc5a5</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xBJ7Ts2nDUbUWu4Ef9v086dbBrQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/goTa1KyuKN5Cz9z0fKPnQiqFXVE.jpg</fanart></item>
-
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 14ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6ABD5661492531FFC9A94AF533E0DDBDD6C4664</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/aDjwpaTK3cVv1KG3RlahEhy4KCq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/z3iR3EYxEsqkSLayYZbXveeERdN.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<info>[B]Sinopse:[COLOR yellow]Há 20 anos, Sam e Dean Winchester perderam sua mãe em um trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demônios. Agora, os irmãos Winchester percorrem os Estados Unidos em seu velho Chevy travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas — incluindo um Papai Noel não tão bonzinho — são só alguns dos desafios que estes dois irmãos têm de superar. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]sobrenatural [COLOR lime] 15ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white]sobrenatural [COLOR lime] 15ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeafb71f09db8abe517546576db294db12715ce9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/f07SeTOGTcWMGsc2bhlDAASBd4H.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]A épica jornada dos irmãos Winchester finalmente chega ao fim na última temporada de Supernatural. Sam (Jared Padalecki) e Dean (Jensen Ackles) lutou com demônios e anjos, criaturas místicas e monstros, numa aparentemente inacabável batalha para salvar o mundo. Mas agora, eles terão que enfrentar o próprio Deus (Rob Benedict)... [/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
