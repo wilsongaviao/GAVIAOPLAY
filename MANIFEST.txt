@@ -1,12 +1,28 @@
 
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] MANIFEST[COLOR lime] 1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54bd73578a503db1cb84b86bb23b01153763dc96</link><thumbnail>https://abutretorrents.com/capas/manifest-o-misterio-do-voo-828-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] MANIFEST[COLOR lime] 1ª TEMPORADA[COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54bd73578a503db1cb84b86bb23b01153763dc96</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
+<info>[B][COLOR yellow]Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa. [/COLOR][/B]</info>
+<fanart>https://www.themoviedb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] MANIFEST[COLOR lime] 2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9af1a0594fd50ecb29633caf2d377775948afe03</link><thumbnail>https://abutretorrents.com/imagens/manifest-o-misterio-do-voo-828-2-temporada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]### [COLOR white] MANIFEST[COLOR lime] 2ª TEMPORADA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9af1a0594fd50ecb29633caf2d377775948afe03$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9af1a0594fd50ecb29633caf2d377775948afe03$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lkFXxDhLx9jSJvTjeNcpJLKA979.jpg</thumbnail>
+<info>[B][COLOR yellow]Enquanto a família Stone se recupera de um tiroteio devastador, Ben é enviado em uma missão para localizar dois passageiros do voo 828 que desapareceram misteriosamente. Grace lida com a nova gravidez e Michaela é transferida da polícia, sendo a nova parceira de Drea Mikami. [/COLOR][/B]</info>
+<fanart>https://www.themoviedb.org/t/p/original/hTIGrZkH9k8flGOS1yo7esFZEqK.jpg</fanart></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] MANIFEST [COLOR crimson] EM BREVE[COLOR lime] 3ª TEMPORADA[COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9af1a0594fd50ecb29633caf2d377775948afe03</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2kAEeFAiwIAD921s08SjV67t116.jpg</thumbnail>
+<info>[B][COLOR yellow]Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa. [/COLOR][/B]</info>
+<fanart>https://www.themoviedb.org/t/p/original/xCfmyJfmn3b1lfWdsNTa6H6EDvs.jpg</fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
