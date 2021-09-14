@@ -131,7 +131,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]IMPÉRIO ROMANO: IMPÉRIO DE SANGUE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/nKKVmrOXQ7SrZS2CzcJdvXMW3vn.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1qCRM1-u1Je2dUPXecLt4MfdnpQsz9v8I</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/IMPERIO%20ROMANO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/boooA17n9ojRj7Rh43ucOybZORh.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Guerras e conquistas, tramas e assassinatos, insanidade e política. No império romano, tudo fica em família. Os Reinados turbulentos e violentos dos imperadores mais poderosos da Roma antiga são recriados nesta combinação de documentário e épico histórico.[/COLOR][/B]</info></item>
 </channels>
@@ -141,7 +141,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LA CASA DE PAPEL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xbWU5kx85MrvWAvlh1jCHXyJk3Z.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1y_YXapp_9v18x6vHV8QWsD01kfRxlari</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LA%20CASA%20DE%20PAPEL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qTkhtCT5hfRd3XRMWCcDzUzsoWU.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.[/COLOR][/B]</info></item>
 </channels>
@@ -151,7 +151,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LOKI[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1BYlExrwtMxlOvUzkRWCcg5r0MU0tRWwv</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LOKI.txt</externallink>
 <fanart>https://abutretorrents.com/imagens/loki-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Situado após os eventos de Vingadores: Ultimato, a série acompanha a versão alternativa de Loki (Tom Hiddleston) que escapou com o Tesseract em 2012, e aterrissou no meio de um thriller criminal que ocorrerá em várias épocas e dimensões diferentes. Se isso parece confuso, não se preocupe: Loki estará tão confuso quanto você.[/COLOR][/B]</info></item>
 </channels>
@@ -160,7 +160,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LUCIFER[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hdKxcoV5CFc3sGOmbGXDXbx1cTZ.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1kV3nTaL48kjy12pcEZK-PlEccct_qv1E</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LUCIFER.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/k9o7phlrza9YHqc6ByECYh7TcdZ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.[/COLOR][/B]</info></item>
 </channels>
@@ -169,7 +169,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO GUARDIÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/yGTiSCbrusWyV4dzXQ1zu4AXZ2l.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=11z5BCj5tdIZeNhoxubQQvyaEISL8Ljoy</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20ULTIMO%20GUARDI%C3%83O.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/scrqQwSarTbq80oUdZrj7cbpscv.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Ao descobrir que possui poderes especiais, o jovem Hakan (Çağatay Ulusoy) busca resolver um mistério de seu passado e também precisa aprender a usar seus poderes para proteger Istambul de forças do mal que querem destruir a cidade. - Primeira série original turca da Netflix. [/COLOR][/B]</info></item>
 </channels>
@@ -178,7 +178,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]POWER[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctftzvyj8b0odco7EoS9VfJhf7K.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1BXZE4sxWuDHIG-ffQhhGicbh0OH8mg8U</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/POWER.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/kmTV2IO6JL7wla6DqHjcUeG6eMk.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Um rico e bem sucedido dono de uma boate chamado Ghost quer construir um império, mas tem só um problema: Ghost leva uma vida dupla. Quando não está no clube, ele é o chefe de uma das mais lucrativas redes de droga de Nova York, e lida com uma clientela de alto nível. Seu casamento, trabalho e família ficam ameaçados quando ele tenta sair do tráfico. [/COLOR][/B]</info></item>
 </channels>
@@ -188,7 +188,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PRISON BREAK[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1S1r1H7gwCij040MFGjywVEJoi3JPOFzZ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PRISON%20BREAK.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/pi7iMy6wVYclWfGRxcv6JxHz6sL.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Lincoln Burrows é condenado injustamente à pena de morte. Só lhe resta confiar no irmão Michael Scofield, que executa um plano de fuga e se vê no meio de uma perigosa conspiração.[/COLOR][/B]</info></item>
 </channels>
@@ -198,7 +198,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHADOWHUNTERS - CAÇADORES DE SOMBRAS[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQLNxAC1X91cY4rFgQDHs7nx3qQ.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1dlUETtZkNa_0BvaPrALOiEgeeYKTgBRO</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHADOWHUNTERS%20-%20CA%C3%87ADORES%20DE%20SOMBRAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/o0PtXGp2XyoRu0S1uPYzDpMnkOM.jpg</fanart>
 <info>[B][COLOR yellow]A série acompanha a jornada de Clary (Katherine McNamara), jovem que descobre ser de uma linhagem de Caçadores de Sombras, seres responsáveis pela proteção do mundo sobrenatural, cheio de demônios, fadas, vampiros e lobisomens. [/COLOR][/B]</info></item>
 </channels>
@@ -207,7 +207,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SOBRENATURAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/iS7zar0YRMuziFHipxXySt3q1rt.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1KrYlD7B2gl6_ydSzRWB7-MGeWnmawRfk</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SOBRENATURAL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/rlGFHXtoOajYqXwoSmupMnNN6cY.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série segue as aventuras dos irmãos Sam e Dean Winchester enquanto procuram por seu pai, John, que está caçando o demônio que matou a mãe deles e a namorada de Sam. Durante suas viagens, eles usam o diário de seu pai para ajudá-los a continuar o negócio da família—salvar pessoas e caçar criaturas sobrenaturais.[/COLOR][/B]</info></item>
 </channels>
