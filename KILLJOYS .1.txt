@@ -113,19 +113,3 @@ vasta###########################################################################
 <fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
-<title>[B][COLOR yellow]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
-><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>
-
-
-<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
-<title>[B][COLOR yellow]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
-><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>
