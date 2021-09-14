@@ -13,7 +13,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SÉRIES AVENTURA [/COLOR] [COLOR crimsonb]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/nhCThtHY/SERIESAVENTURA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1RWj2SNKnjtOnxSOgGsySjZV-Oj0ZjBiM</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIESAVENTURA.txt</externallink>
 <fanart>https://i.postimg.cc/MTnpPfTC/fanartseriesaventura.jpg</fanart>
 <info>[B][COLOR yellow]OTIMA COLETÂNEA DE SÉRIES DE AVENTURA.SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
 </channel>
