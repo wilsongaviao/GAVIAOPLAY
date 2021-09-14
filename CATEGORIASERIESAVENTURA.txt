@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AS CRÔNICAS DE SHANNARA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVKiNcO4Lp1pj3uXwzASceQ19pa.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1DjxyjSAQnGwK39t6n4mOTtm4e9h20RnY</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/AS%20CRONICAS%20DE%20SHANARA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/8RNoJJn2S8DlA331OyIqTh3zr68.jpg</fanart>
 <info>[B][COLOR yellow]Após a destruição da civilização humana, três jovens heróis tornam-se a última esperança de salvação para a Terra quando demônios ameaçam acabar com o planeta.[/COLOR][/B]</info></item>
 </channels>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A TERRA PROMETIDA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1wyE4bQa2TAu2XR4sfDupb734523R-sUL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20TERRA%20PROMETIDA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2oiLsxKo72UekCXEOtSEzSKy3XE.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Após a morte de Moisés, Josué torna-se o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Josué deve conduzir o seu povo até a terra prometida- Canaã. Juntos, eles precisam cruzar o Rio Jordão em época de cheia, guerrear contra os Cananeus que dominam aquela terra- um povo pagão, idólatra e extremamente violento, e enfrentar reis, rainhas, nobres e generais perigosos e vingativos.[/COLOR][/B]</info></item>
 </channels>
@@ -23,9 +23,9 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DOCTOR WHO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://abutretorrents.com/imagens/doctor-who-13-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1A7W-MlciCml3nI2jjMvAXXGNtAFgNtCs</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/9zYRDKvbQUR1yN1DiglVOO3mk0h.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cFcZYgPRFZdBkA7EsxHz5Cb8x5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DOCTOR%20WHO.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/uCZrNmtriucxbv5luCeEWZhSawQ.jpg</fanart>
 <info>[B][COLOR yellow]O Doutor parece ser humano. Ele é bonito, espirituoso, e pode ser confundido com outro homem na rua. Mas ele é um Lorde do Tempo: um alienígena de 900 anos de idade com 2 corações, membro de uma civilização talentosa que dominou a viagem no tempo. O Doutor salva planetas para viver – mais um hobby, na verdade, e ele é muito, muito bom nisso. Ele nos salvou de ameaças alienígenas de tempos atrás – mas quem é ele?[/COLOR][/B]</info></item>
 </channels>
 </channel>
@@ -34,7 +34,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ERA UMA VEZ  ( ONCE UPON A TIME )[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/5AcRJx2OnTJnYXI3xecvktopnNz.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1wHO_DcfbeHWOkSvqp8Qm-8jO2_G8x2do</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/Once%20Upon%20a%20Time.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7ST96HKMZJmmNq7a4NJUY9Rzczm.jpg</fanart>
 <info>[B][COLOR yellow]Na cidade fictícia de Storybrooke, no Maine, Regina (Lana Parrilla) é uma rainha má que rouba memórias graças à maldição obtida por meio de Rumplestiltskin (Robert Carlyle). Suas vítimas viveram, portanto, uma realidade imutável durante 28 anos, sem ter qualquer noção de sua idade. Todas as esperanças estão depositadas em Emma Swan (Jennifer Morrison), filha da Branca de Neve (Ginnifer Goddwin) e do Príncipe Encantado (Josh Dallas). Ela é a única pessoa com a capacidade de quebrar a maldição e recuperar as lembranças perdidas, pois foi transportada do mundo de conto de fadas antes de ser atingida pelo feitiço. [/COLOR][/B]</info></item>
 </channels>
@@ -43,7 +43,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GRIMM - CONTOS DE TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1RCQzmXUG_NjuFZyqDEclkmFoLOZLSZwQ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/GRIM.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Lembra dos contos de fadas que seus pais contavam quando você era criança? Aqueles contos não eram meras alegorias, eram avisos. Nick Burkhardt (David Giuntoli) achou que estava preparado para a realidade de trabalhar como detetive policial até ele começar a ver coisas inexplicáveis. Tudo fica ainda mais complicado quando ele descobre ser um dos últimos descendentes de um grupo de caçadores sobrenaturais chamados “Grimms”. [/COLOR][/B]</info></item>
 </channels>
@@ -52,7 +52,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HÉRCULES - A LENDÁRIA JORNADA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AbmVXsi7Btr6cvppvaHAZflnjTC.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1UCZ6Tyn3KVijiXjKHiaPo-OMye-t7pYo</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HERCULES%20%20A%20LENDARIA%20JORNADA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série acompanha a vida e aventuras do semideus da mitologia grega Hércules, filho de Zeus com uma mortal, que nasceu em uma época que a Terra precisava de um herói. Com sua grande generosidade, ele vai cuidar do povo e trazer a paz, com a ajuda de seu melhor amigo Iolaus para se aventurar matando monstros místicos e fazendo uso de toda sua força.[/COLOR][/B]</info></item>
 </channels>
@@ -61,7 +61,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JACK RYAN - TOM CLANCY[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1HuZHql8p0nZTeIVnjk3M11l6_M8ePTdB</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JACK%20RYAN.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.[/COLOR][/B]</info></item>
 </channels>
@@ -70,7 +70,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JORNADA NAS ESTRELAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3b3qZtvE3bS3LS1DIK8ANruXZD7.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1sb9bs4CbS8Oc_csqTqY1m2auTGMJ8NAU</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/JORNADA%20NAS%20ESTRELAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A séria clássica que vive até os dias de hoje. Ao lado de sua tribulação na Enterprise, o capitão James T. Kirk explora a galáxia e defende a Federação Unida dos Planetas. Ele conta com a ajuda de Spock, McCoy, Uhura, Scott, Sulu, Chekov e companhia. [/COLOR][/B]</info></item>
 </channels>
@@ -80,7 +80,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KILLJOYS ( AGENTES ESPACIAIS )[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/sI9PteHyVUOjTV62dxLKSh8HGxt.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Q7wcBD7JTZB3nI7N05eOIGNaURM0MWLr</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KILLJOYS%20.1.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/pv2vwHdELOYTLpgReMAFxLcJzj5.jpg</fanart>
 <info>[B][COLOR yellow]Killjoys acompanha um trio divertido de caçadores de recompensas interplanetários que juram ser imparciais enquanto trabalham em toda a Quad, o sistema distante que está prestes a ser palco de uma guerra entre planetas.[/COLOR][/B]</info></item>
 </channels>
@@ -90,7 +90,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KRYPTON[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHgkffPNJsRDNjaJ66jj32fIQc.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1NC16U5_WQ1c_yb4l8xkP1OeoHiOCoq3A</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KRYPTON.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2ZDH1mj5OthywHyWDnVrurOitAX.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Anos antes de o Super-Homem se tornar a lenda que o mundo inteiro conhece, a família El era envergonhada e excluída da sociedade. O drama acompanha o avô do Super-Homem, que aos poucos transforma um planeta em desordem e crise em um lugar com igualdade e esperança. [/COLOR][/B]</info></item>
 </channels>
@@ -99,7 +99,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LOST[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTOh8SymlGOCTYlB2UP4KTgw15P.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=15QX6tkgm_a4YLk6mWX7ByQEY9y-qdBRA</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LOST.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/5FdGYic4Sho6DpOJCEVhcY83mc5.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras.[/COLOR][/B]</info></item>
 </channels>
@@ -109,7 +109,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MANIFEST - O MISTERIO DO VOO 828[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1wVpx15UJ9qWoj4TEysFvR7HqP4pmR3vl</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MANIFEST.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.[/COLOR][/B]</info></item>
 </channels>
@@ -119,7 +119,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MACGYVER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1NGwTuY477S9lixju-RsWaadf5w3TraAf</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MACGYVER.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/v2moumGovVAmDASYkjakIl2WrOM.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR]MacGyver é um jovem que cria uma organização clandestina para ajudar o governo americano em missões arriscadas. O agente usa sua inventividade, seu conhecimento e sua capacidade de improvisar para se tornar um herói de ação.[/B]</info></item>
 </channels>
@@ -128,8 +128,8 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MACGYVER - PROFISSÃO: PERIGO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0BJtmbcpkNDHEtiBpMGkMffbV9.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1qbmIrbi_npyeRonGT-0z4tNrNtX4bNn4</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wUzoG97JkYygNqRhrRxYmQfZ7UE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MACGYVER%20-%20PROFISSAO%20PERIGO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7pdcWrKr0Dzt3jp8JU39qYGaXGi.jpg</fanart>
 <info>[B][COLOR yellow]Angus MacGyver é um tipo de agente secreto pouco convencional. Ele é discreto, não anda por aí vestindo smoking e se recusa a carregar uma arma de fogo. Isso porque suas maiores armas são sua inteligência e um vasto conhecimento científico, que permite que ele se safe das situações mais complicadas com soluções nada comuns.[/COLOR][/B]</info></item>
 </channels>
@@ -139,7 +139,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MARCO POLO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yImawhSjc6NFAW6J9bBscedAxDA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=11gXO1M-t0sxP8IpWYyocVS21hNzZZBpd</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MARCO%20POLO.txt</externallink>
 <fanart>https://apaixonadosporseries.com.br/wp-content/arquivos/2016/07/marco-polo-2x02-Mei-Lin-Marco-Polo.jpg</fanart>
 <info>[B][COLOR yellow]Em um mundo repleto de inveja, traição, intrigas e rivalidades, Marco Polo se baseia na fama do lendário explorador italiano (interpretado por Lorenzo Richelmy) na côrte de Kublai Khan (Benedict Wong) na China no século 13.[/COLOR][/B]</info></item>
 </channels>
@@ -149,7 +149,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O INCRÍVEL HULK[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20INCR%C3%8DVEL%20HULK.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/aZ2mdGTZ5bBMmWgA7D6hnOZOA6i.jpg</fanart>
 <info>[B][COLOR yellow]Série clássica do Incrível Hulk exibida nos anos 70 completa, dublada. Depois da morte da esposa, o Dr. David Bruce Banner procura um modo de liberar uma força desconhecida, que supostamente todos os humanos teriam, para protegerem seus entes queridos. Ele descobre que a radiação gama poderia lhe dar essa força e, para não ferir ninguém, ele a testa em si mesmo. David não sentiu nada diferente logo após o teste mas depois descobriu que ao se sentir raivoso ou pressionado, transformava-se num homem monstruoso, de pele verde, grande e musculoso. O repórter Jack McGee descobre esse segredo e tenta culpar o gigante verde pela morte de uma pessoa em um acidente e passa a perseguir o Dr. Banner, que tenta fugir, ao mesmo tempo em que busca uma maneira de se curar das transformações. [/COLOR][/B]</info></item>
 </channels>
@@ -159,7 +159,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O TUNEL DO TEMPO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ierdSk2jmPX2cw1rVLzonafYmz.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1W24gFi3XLUYm6yqeraaVPir5Dnr9i9Ua</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20TUNEL%20DO%20TEMPO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/omPcylzcwlsser7aKTlsyoMJLyK.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Dois cientistas de um projeto do governo norte-americano que produz uma máquina do tempo, se perdem no tempo e são monitorados por uma equipe que permanece no laboratório e os acompanham em seus deslocamentos de várias épocas, através de imagens que recebem pelo equipamento chamado de Túnel do Tempo.[/COLOR][/B]</info></item>
 </channels>
