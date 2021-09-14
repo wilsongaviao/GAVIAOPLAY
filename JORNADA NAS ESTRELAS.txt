@@ -1,0 +1,37 @@
+######################################################################################################################################
+
+<item><title>[B][COLOR white]JORNADA NAS ESTRELAS[COLOR yellow]: TODOS OS FILMES[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29f2eef90ba90cef47dedfc65dc3f04a39bdb23b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zcB8KxHA4EapOoZZPAvwgmE1iGK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oJG4iCmpRQ0k4VRpwtF9vu2Gxus.jpg</fanart>
+<info>[B][COLOR yellow]Prepare-se para ir até onde nenhum homem jamais esteve, com Jornada nas Estrelas - A Coleção Original, apresentando todos os  filmes, estreladas pela lendária equipe da U.S.S. Enterprise.Jornada nas Estrelas (Star Trek) coleção completa com todos os filmes dublados e dual áudio com qualidade de blu-ray. Todos os filmes da franquia Jornada nas Estrelas com excelente qualidade de áudio e vídeo para download de 1979 até 2002. [/COLOR][/B]</info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] JORNADA NAS ESTRELAS [COLOR lime]1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C64E42D9BC2A6303C4CC371FF7DD4FA4611710D4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4hDoHPLNgUYWmzy13sh1UwiCI1S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/be1YqppKzGxMFbK659zY7ysqZup.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O capitão Kirk, o primeiro oficial Spock, o doutor McCoy e o resto da tripulação da Enterprise embarcam em uma missão de cinco anos de exploração do espaço.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+https://www.themoviedb.org/t/p/original/zwTCRO1KFwwBVPbPTgouBE9DNrh.jpg
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] JORNADA NAS ESTRELAS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFF1DC731FB709999B31A17B0640342782668162</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2X0AzpGtCU1OBEdTwYdzkQgkCu3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6BaBTVzNWObStYawcz6Qjkvxm2B.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A segunda temporada de 26 episódios do programa começou em setembro de 19672 com "Amok Time", que introduziu o ator Walter Koenig como o navegador russo Pavel Chekov, e deu aos espectadores o primeiro vislumbre do mundo natal de Spock, Vulcano. A temporada também inclui episódios notáveis como "Mirror, Mirror", que introduz o "Universo Espelho"; "Journey to Babel", contendo a introdução dos pais de Spock, Sarek e Amanda; e o cômico "The Trouble With Tribbles", que mais tarde seria revisitado em um episódio de Star Trek: The Animated Series e um de Star Trek: Deep Space Nine.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+https://www.themoviedb.org/t/p/original/9byecLwsbbkAqGdxcKuuTI5kEzZ.jpg
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] JORNADA NAS ESTRELAS [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DA97E9755A6B48B244426D64F8FA34A2BEFAEED</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rMy0icwqYxSiGci2t5qW3Rc1PjR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/naAl934vt7iMk1Xitfut8dFto02.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A temporada final de 24 episódios de Star Trek começou em setembro de 1968 com "Spock's Brain". A terceira temporada também inclui "The Tholian Web", onde Kirk fica preso entre dois universos; este episódio seria revisitado em 2005 no episódio em duas partes "In a Mirror, Darkly", da série prequela Star Trek: Enterprise. O último episódio da série, "Turnabout Intruder", foi exibido em 3 de junho de 1969[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+https://www.themoviedb.org/t/p/original/uF0RA88dfnPvVepCRxV31zCzMZt.jpg

@@ -1,0 +1,20 @@
+
+<item><title>[B][COLOR yellow]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white]HÉRCULES - A LENDÁRIA JORNADA[COLOR crimson] TODAS AS TEMPORADAS LINK 1[COLOR yellow]###[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F53B94F8A5F2E73A387B3F074BAB025AC9797FD9</link>
+<thumbnail>https://abutretorrents.com/capas/hercules-a-lendaria-jornada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+
+<item><title>[B][COLOR yellow]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white]HÉRCULES - A LENDÁRIA JORNADA[COLOR crimson] TODAS AS TEMPORADAS LINK 2[COLOR yellow]###[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:510230630484183e22a132cb705e12d9b2e3309f</link>
+<thumbnail>https://3.bp.blogspot.com/-1NG0-9Ris78/WYTJF3zeQkI/AAAAAAAAEdg/NpL543nAnSEDVt559sgZh_jpA5cuCJ2UwCLcBGAs/s1600/hercules-a-lendaria-jornada-torrent-dublada-download-serie-bluray-completa.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+<item><title>[B][COLOR lime]############ [COLOR crimson]FILME [/COLOR][COLOR lime]############[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white]HÉRCULES EM BUSCA DO REINO PERDIDO[COLOR yellow]###[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2a9c55989d4742a1d12716883385205872b2df6</link>
+<thumbnail>https://abutretorrents.com/capas/hercules-em-busca-do-reino-perdido-download-torrent-1994-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Hércules e Deianeira procuram juntos pelo reino de Tróia, mas enfrentam muitos perigos na busca, e quando acham a cidade, são forçados a lutar para tirar o controle da cidade de seguidores de Hera. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

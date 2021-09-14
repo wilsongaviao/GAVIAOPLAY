@@ -1,0 +1,16 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] KRYPTON [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db9f07de725b2968fc489c3a0115ea5382221131</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rNZUoVkiPrifwfTAf6ig83MV7Ld.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Duas gerações antes da destruição do lendário planeta natal de Man of Steel, Krypton segue o avô de Superman - cuja Casa de El foi condenada ao ostracismo - ao lutar para resgatar a honra de sua família e salvar seu amado mundo do caos.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] KRYPTON [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fea36697cdb8652bdab491b1728adebfe28d5fc4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8jKDFv7tIWsLFZis3irpsQQBujD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yNSctb6v56i89nhkr8GR25yb0xW.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O futuro de Krypton está em jogo. Seg-El está preso na Zona Fantasma com Brainiac, enquanto o General Zod instaura uma verdadeira ditadura em Krypton. Com o Apocalypse à solta e novos inimigos surgindo, conseguirá Seg mostrar de onde vem o heroísmo de seu tão famoso neto? [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

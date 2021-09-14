@@ -1,0 +1,34 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO REINO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F0F0D4D1C08B4A15B217BBD088EDFA59B3ECCEB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3b4Kar7TJyVCRxPGzwXzFgPQB6Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Situada no ano de 872, a história apresenta as invasões vikings em território hoje conhecido como Inglaterra. Wessex, sob o comando do Rei Alfred (David Dawson, de Ripper Street), o Grande, é o único reino que resiste aos ataques. A trama acompanha o jovem Uhtred (Alexander Dreymon), um nobre que perde o pai em um dos ataques vikings. Levado e criado por eles, Uhtred cresce e se torna um guerreiro. Mais tarde, parte com a missão de conquistar as terras onde nasceu. Enquanto isso, o Rei Alfred enfrenta problemas políticos e religiosos em seu desejo de unificar os reinos e transformá-lo no que hoje é a Inglaterra. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO REINO [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A08729C2BAC3A087BF33AC15FB33A11E26E0B79A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eb8JI0HArfuVMSXDnUXFJJBhzCY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3bEL1XCGymypXT634we8pugBCEm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Situada no ano de 872, a história apresenta as invasões vikings em território hoje conhecido como Inglaterra. Wessex, sob o comando do Rei Alfred (David Dawson, de Ripper Street), o Grande, é o único reino que resiste aos ataques. A trama acompanha o jovem Uhtred (Alexander Dreymon), um nobre que perde o pai em um dos ataques vikings. Levado e criado por eles, Uhtred cresce e se torna um guerreiro. Mais tarde, parte com a missão de conquistar as terras onde nasceu. Enquanto isso, o Rei Alfred enfrenta problemas políticos e religiosos em seu desejo de unificar os reinos e transformá-lo no que hoje é a Inglaterra. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO REINO [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C188FA718B7119725FA80EE094950D904C4D09D2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sGY20M1b09HkECGOf8WAOSEtgQr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iDDxT73ktoXVP2ed7oXdcOMsKQE.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Terceira temporada completa, dublada, dual áudio e legendada da série The Last Kingdom (O Último Reino no Brasil). Situada no ano de 872, a história apresenta as invasões vikings em território hoje conhecido como Inglaterra. Wessex, sob o comando do Rei Alfred (David Dawson, de Ripper Street), o Grande, é o único reino que resiste aos ataques. A trama acompanha o jovem Uhtred (Alexander Dreymon), um nobre que perde o pai em um dos ataques vikings. Levado e criado por eles, Uhtred cresce e se torna um guerreiro. Mais tarde, parte com a missão de conquistar as terras onde nasceu. Enquanto isso, o Rei Alfred enfrenta problemas políticos e religiosos em seu desejo de unificar os reinos e transformá-lo no que hoje é a Inglaterra. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO REINO [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:170f92bcc39ec69fd3f8424cae17608f0d5e3ed7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wUFIEJCSmurmXPX0mP0cEgoltrk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

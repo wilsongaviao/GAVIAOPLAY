@@ -1,0 +1,304 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MACGYVER [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 / 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b247f97b8d03fdc8b65523899e22808d2a47704</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87E28541F6FDB19A6DA2D970265A21707CC12AF7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7F1505E20118E2BEF58F5D138EC3B03FE40996F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E21186E88836EF609CDC830CF5468C6ECF9875D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D62FD5AA04E403C14D1888BF8DC17309E92B2E83</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17BF61816C3556C0EE9DB7B0B560EC1D3A4425EC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:068AE09AE353309BA6FC15008D62EB695376E557</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09 >>> 11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF8E4BD8F61E8B65081D6BF4EEC706E684F052A0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12 >>> 17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:814025C0E83E1059D02E3EDB37E3058330AAA2ED</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A8941F905CD314638F994658D5C55F347DA6058</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19 / 20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05C54DAA098CF3613B91689FDB984BE002029B9B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]21[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4665AAA75225DFF1E5CCBE99A5B0944D273CEA4B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/daEce3HiUUWNkv1Xm881BI7TDvT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8lVtGKthGqMu5fnd3P27VHobL4V.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MACGYVER [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A87C3E15C039430EE83B98BE0C6B1A38691A9F1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8320650992699d0ba9e448bb5e87f6396aab6bea</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03 / 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6bebcfe4583dcf09e8842d4f08b18a52ccd9f85</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0942f1212ec30a3a75d3061e424bd349b0032da</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca30197949acbaf32075b91945f4107779e54751</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07 / 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DFA527EA8A2274B21B8EAB1373F0B19F94CA41E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09 / 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dac6c92de90139bded27e6cea99c858741c0845c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EC153307AC3C0E055BD92D4BA61138AF00BD801</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02F6D4EB2CC7BA7A0D278E4E3FFDF9652915F816</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4CADFF9E4EF0740299C89394774BB6E946AF3D1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AF5C55EA9D7290AEED66DA4DFBEE0F299E07448</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E1EC74007CF1EA7146ED0903CF0AF403D78E763</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D1C13EEF08940EDBFF0870F0A6C2B1AF4F6249F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f19b885d62e4771974775361cb5675a364fe0642</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f92abe50d84dbff4fd38163afc849a8fd0140388</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7c33cce163469733434fde70928b14186ee9095</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67a91a4eabd484f3273c39a000a752d3103127ad</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]21[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d55b9311b040fbd11bffd1769c7a540454fb041</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]22[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD6B42D35D18604BA329B721D68A60A74BEB80E9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uX283syiNW6WmsmSeRMMuFV08eo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e34Q9jdtKwPBPnfyVWdwc2mlkQX.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MACGYVER [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver é um jovem cheio de recursos que com vinte e poucos anos cria uma organização clandestina dentro do governo americano na qual viria a trabalhar pelo resto da vida, onde seus jeitinhos não ortodoxos de prevenção de desastres se tornarão as habilidades refinadas que lhe trarão fama e lhe ajudarão a salvar vidas.[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c9d0dcb9d4cfbac30c7347e21354d577f3c8ee1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe0a612cb9954759ffc6f8d76f78a171325dca7b&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f409834295868cc84a08b1e3ef7c120e9407c092&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abff8717bd7050604531c2a0cf0d62787b484265</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38c61de11dc4ff1019f0049485c548d2da825bad&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93fa72063087d7ff0549f12c9610703a68557c01&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74313a72462bc9c5bf43e4f3d65ea94f47438ea1&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12d387b105489934fe43cd5b9b59e3374ce9191&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55a29ce841a284f4f4cabf37eaa64a4af3c40807&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a436540ba5ba37a9605043be9d251c8bf7268cf7&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6db8df0837e3133db835637cf6d694df18832b5c&</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:089d95bbdba6d1a3c764176bd8b7ddb25633a7b8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93249c0f48981a1878d518afb0dde8f3ffa6ace9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51f0c53745d50dd8270ac12bede6eb0c23cab861</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:824b7786344154e4bb2df7131c11b6a58b832c7c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ffe38f96a0e9224b58de316a6eea627ed9bc778</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f930d7dfab0180db33d6346b93c79ea8965b7c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68ceb45420fef091e96b0f50fb046913900bc172</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F99D7686493BB3E9D5D43CE1A4769F4E6D8E051A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4a1130c40ae2624d012ad1f8073ec353dc5e59</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]21[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22d4aead2b808fca2db57dded240aefdb3879cad</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]22[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2292395904d97275659160bb989bbc71d999936f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a0jg9qehPVj3V0pUVUGuud318n4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHUFNxrdShL9Q94nWFBFhJaJaQ5.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MACGYVER [COLOR lime] 4ª TEMPORADA [EM BREVE[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zV4aJXDMmjbxQp1oSm3P6CkyjeR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Lmjqvq1hhBxGF449GCgNqN7Lp7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MACGYVER [COLOR lime] 5ª TEMPORADA ( EM BREVE ) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tSLL7g7mcJsPezBreqYOrHeKdQD.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

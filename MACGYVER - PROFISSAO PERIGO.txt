@@ -1,0 +1,61 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f72136b49c5befa30d4a8b9c8d4cb633f5477dc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kudh1VzCBy4rnu0tkP3M6VMYo17.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15efc4b4218dd5023cd2aab0d46d875c58e974c2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4bN1rvHzvz8ndowFUDFtTzSQS6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64ae51d3a4015b779231ce167be8c42262b8f919</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qC8WDOSSwQJlk21uanrvsOS4gRu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1edc403c926d3ed988c660b65ae51318153543a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/eVK1vk8wKViZ6oG2k5jzAQTBj6w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18f4a4f632b6ad92b585c2ae6ba1813d6902c4ec</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2ycRCSmMCJdlCi4I7nF70QKJTpM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04090f60748bef8b6beaee040e4a61a2674bf367</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2f4X0PKbIqUr4nOr4FcefkB1qKp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MACGYVER - PROFISSÃO: PERIGO [COLOR lime] 7ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c26ae61917e289926e89565092707faf92ccbeb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nerBBW80O6DENC4KS03dergThtL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoEupGQOnSVPKlSQaqip4pGScXn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Angus MacGyver (Richard Dean Anderson) é um agente secreto com um diferencial. Quieto, bem educado, e se recusa a levar uma arma em suas missões. Felizmente, esse último detalhe não é muito importante quando comparado a seu incrível poder da mente. Conhecedor da ciência, MacGyver consegue usar qualquer material ao seu redor para criar uma solução - às vezes pouco ortodoxa - para os problemas que enfrenta. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

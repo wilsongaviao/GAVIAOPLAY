@@ -1,0 +1,228 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] DOCTOR WHO [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5C0885456C463084EA0DF0935A89A2F5D691476</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9Jt2FFCAME7eHDC28r4qCHErhhF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b20ydBo4Hf1p35ng2he5z0zhRY1.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Primeira temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DOCTOR WHO [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A7563F7D7E12B3DA8D549822B0F0CA0CC92EE84</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/oXVmsIkZCgJDNcZJJxzvV7zwyb1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9wuDxaoux4hdruIkGotNo2OyGXP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] DOCTOR WHO [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52B5C62AC007884462B526DC538842293694916B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/67xbjSv353G2rqQIs6dnDKc6P11.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xHldSqqMcaOs4Gum97LDjoUhpRU.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Terceira temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DOCTOR WHO [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5441E693EA9149A3220FF787C04E8650FC04EA87</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/h6hogh9U371q87XLhvrJbczg8lm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oTr9lxEmM0Dv6UlDOzobqQ3HG6v.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quarta temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] DOCTOR WHO [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0445D44C855AC964C86D4A09DF5069F7A0EB0E8E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/hUsQerEeMqsu9cVYzMEB2OGJjrw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/49LrRSbBeSGVFeE3XseM3Q5hvTr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quinta temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DOCTOR WHO [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA20AA10CB162CDD4E18F5727A392C9D68A25537</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xmfMcVkVer5r33QhA4e2DpIR78B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g3kybuf7nZDPKYkdTp6jGFotEuh.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Sexta temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] DOCTOR WHO [COLOR lime] 7ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B480DC0A5606B1481F1F942C5F85AB7CA3132CAD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6biGcR0OyFnKRxxUW7bGtK49wTd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sny4RQpCDmRZQSjtTW6yroxxVI8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Setima temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DOCTOR WHO [COLOR lime] 8ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ADCB3EEFC9575833F920075588D68E1DF95BC9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nMxeLkOF9DzbqJdSx7gzmbFvPGK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jcINIXFG2HLsIMD5UXQgMfWQmue.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Oitava temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] DOCTOR WHO [COLOR lime] 9ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ADCB3EEFC9575833F920075588D68E1DF95BC9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/AeFY6HsLGcanP2fhD6Feii9BhHW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tXT2PB4YT0ZfsxddeFM4j2eswAP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Nona temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+ 
+ <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DOCTOR WHO [COLOR lime] 10ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8HPLQQqTPfy7Oiligw9FXcfig9w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1JbWlDA447uUQeerRkyyZ46FiJ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Decima temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.O Doutor se junta a Clara Oswald para viajar no tempo em uma escala cinematográfica. Na melhor época de suas vidas, a dupla se encontra com novos e velhos monstros, e vão em uma jornada que os levam a planetas alienígenas mortais, bases submarinas assustadoras, vilas Vikings, Zygons aparecendo em escala global e chegam a tocas alienígenas escondidas e ao final do próprio tempo. Encontrando velhos e novos monstros, o Doutor se reencontrará com Missy, uma cidade de Daleks, mercenários mortais chamados The Mire, fantasmas aterrorizantes e muito mais.[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:852cd38d9ae2c75dd21495e7ed8ce4d45ea47890</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8HPLQQqTPfy7Oiligw9FXcfig9w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1JbWlDA447uUQeerRkyyZ46FiJ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbe659be624da5bdba9840e6dee83f6339ca9308</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8HPLQQqTPfy7Oiligw9FXcfig9w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1JbWlDA447uUQeerRkyyZ46FiJ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9a29e261b808b7121321ed26b43d57d62365490</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8HPLQQqTPfy7Oiligw9FXcfig9w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1JbWlDA447uUQeerRkyyZ46FiJ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04 / 05 / 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0681bc05142d4c858eaf2df21c1beebf51e0acd8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8HPLQQqTPfy7Oiligw9FXcfig9w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1JbWlDA447uUQeerRkyyZ46FiJ.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] DOCTOR WHO [COLOR lime] 11ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Decima primeira temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]00 - ESPECIAL[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:064ee54db88f8ecc1e7b13bd766c361005139b4a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:064ee54db88f8ecc1e7b13bd766c361005139b4a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4fb82b252219798a41ead9bceb1b9a8d163ba2c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b43b85a9dda8a87708b7745bc49f43b77f50218</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4d937541e3335576d15aa76a2a9d5334a38f1f3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fac6d45132982fe13ab571851ef2a3bcfaf96836</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92088d499912ddd8d6a838aca57f19b732e6c232</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b4e85a9a1ab36535ffa432a0096d127990d8c4a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c316cef2bc21a44e891053863d40f6489179159</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36be11fdfe685251e017a1f84fe4c3dbd7de1ce5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10 ( LEGENDADO )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fb4c31bc356f4855fd3b83a8de6bf49ce474606</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3EcYZhBMAvVw4czcDLg9Sd0FuzQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hfggP4ROq8iTlvwr9xM8DQbGjVB.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DOCTOR WHO [COLOR lime] 12ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Decima segunda temporada completa e dublada de Doutor Who, um Senhor do Tempo, um alien de um planeta distante chamado Gallifrey que tem dois corações e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaço e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele está prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4192463561efc886cd36cfd4b51d8843a5eafac</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47247816b7e1c28288430db3be164a74fda69282</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbcd4ffa78aaf44332c5bfa175b550b45a0d76fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8730a4fefd93d3bc5e1345f06fff3c4123afa94</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05 / 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4833df32e5c5613e1fbbf0e1577250311f9cd34</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d0a9899602526b249582c8083c147b7c8437025</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77f21b6e83d73d0065ae1206ab28f010377c6651</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7d85fe5e0226b6379033c8b2ab4cf9930edd0d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7cb18b201a796fdbd6077baf8e57cad12d44241</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ETuDaRnFFW74w806dG23kKBMyL.jpg</fanart></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 

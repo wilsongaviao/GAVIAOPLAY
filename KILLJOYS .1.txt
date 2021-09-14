@@ -1,0 +1,131 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A624305EB13577D62641AB2049894E7EE881D37</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sDC0OeCYbc3ncu5uM7jAzXlLiHA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8xNk1fo5ikjerse0qpeTqenAMUf.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Primeira temporada completa e dublada da série. A série acompanha um grupo de aventureiros intergaláticos em Quad, um distante sistema interplanetário em meio a uma sangrenta guerra. Numa galáxia distante, as pessoas do planeta Qresh colonizaram as suas três luas, criando quatro mundos estratificados: cada um definido por linhas sócio-econômicas próprias e repletos de agitação social. Na unidade planetária conhecida como Quad, um grupo altamente regulamentado de caçadores de tesouros, os KILLJOYS ( AGENTES ESPACIAIS ), estão autorizados a exercer uma vasta gama de mandatos em toda a galáxia. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa e dublada da série. A série acompanha um grupo de aventureiros intergaláticos em Quad, um distante sistema interplanetário em meio a uma sangrenta guerra. Numa galáxia distante, as pessoas do planeta Qresh colonizaram as suas três luas, criando quatro mundos estratificados: cada um definido por linhas sócio-econômicas próprias e repletos de agitação social. Na unidade planetária conhecida como Quad, um grupo altamente regulamentado de caçadores de tesouros, os KILLJOYS ( AGENTES ESPACIAIS ), estão autorizados a exercer uma vasta gama de mandatos em toda a galáxia. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CBA83B993893D09BAB6A746BA5289C88479C890</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71C11BF4D0AADF6D9FD87878468C77B4E942AD83</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ADD7032A3B5EE4EADAF599AE222A1BDC0278ADF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D9E4A57D9528BCA63DC085DBCE3778967B9D4CD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263EE89C33B6E1FF0711F9A7940EC01582DCE00B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E1D9A7910FD2C4609188F78B60ACFFFC4329B5C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8865A75B2D38F0487143334C337A13D2229BD15E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B5A36ADC07F306EA53A6351E597EAFE24F812E0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522640D35B3CBA6FA6E6D95156E7725A267F33F0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4becXjxVsQgaVElSImMcL5vkmft.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lbTNPI47d3JnLfAoydgIqjbYjZ.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Terceira temporada completa e dublada da série. A série acompanha um grupo de aventureiros intergaláticos em Quad, um distante sistema interplanetário em meio a uma sangrenta guerra. Numa galáxia distante, as pessoas do planeta Qresh colonizaram as suas três luas, criando quatro mundos estratificados: cada um definido por linhas sócio-econômicas próprias e repletos de agitação social. Na unidade planetária conhecida como Quad, um grupo altamente regulamentado de caçadores de tesouros, os KILLJOYS ( AGENTES ESPACIAIS ), estão autorizados a exercer uma vasta gama de mandatos em toda a galáxia. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a309435b14e994d1e837d3f3d4b2f1534c4ac8e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bd52b933cd65dfecc28ed2bade421cbf7c6f140</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:31517fe7d35407b781a72b52e6aa66c329cf6de6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+vasta#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdf2b13734b9817898ecf8e61817190235e3a983</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad3ce62452172aa4f61153b026927d289416806a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06 / 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e72a58440e4de6d0ab655a0ab61f288289080679</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29254d1d90377d0c782ab958211f5c4bdb3e6fe4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74a1ecc62b35eac8b9215a9b47d64f5e882b5045</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc79a79a67d532745f1b69c422821b3de18b7d0e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sVWuuIbb2HdpTdyXkH9kJZdWEsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
+<title>[B][COLOR yellow]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
+><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>
+
+
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
+<title>[B][COLOR yellow]######[COLOR white] KILLJOYS ( AGENTES ESPACIAIS ) [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>
+><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>

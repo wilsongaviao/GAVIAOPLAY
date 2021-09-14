@@ -1,0 +1,315 @@
+
+
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AS CRÔNICAS DE SHANNARA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVKiNcO4Lp1pj3uXwzASceQ19pa.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1DjxyjSAQnGwK39t6n4mOTtm4e9h20RnY</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/8RNoJJn2S8DlA331OyIqTh3zr68.jpg</fanart>
+<info>[B][COLOR yellow]Após a destruição da civilização humana, três jovens heróis tornam-se a última esperança de salvação para a Terra quando demônios ameaçam acabar com o planeta.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A TERRA PROMETIDA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1wyE4bQa2TAu2XR4sfDupb734523R-sUL</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/2oiLsxKo72UekCXEOtSEzSKy3XE.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Após a morte de Moisés, Josué torna-se o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Josué deve conduzir o seu povo até a terra prometida- Canaã. Juntos, eles precisam cruzar o Rio Jordão em época de cheia, guerrear contra os Cananeus que dominam aquela terra- um povo pagão, idólatra e extremamente violento, e enfrentar reis, rainhas, nobres e generais perigosos e vingativos.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DOCTOR WHO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://abutretorrents.com/imagens/doctor-who-13-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1A7W-MlciCml3nI2jjMvAXXGNtAFgNtCs</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/9zYRDKvbQUR1yN1DiglVOO3mk0h.jpg</fanart>
+<info>[B][COLOR yellow]O Doutor parece ser humano. Ele é bonito, espirituoso, e pode ser confundido com outro homem na rua. Mas ele é um Lorde do Tempo: um alienígena de 900 anos de idade com 2 corações, membro de uma civilização talentosa que dominou a viagem no tempo. O Doutor salva planetas para viver – mais um hobby, na verdade, e ele é muito, muito bom nisso. Ele nos salvou de ameaças alienígenas de tempos atrás – mas quem é ele?[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ERA UMA VEZ  ( ONCE UPON A TIME )[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/5AcRJx2OnTJnYXI3xecvktopnNz.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1wHO_DcfbeHWOkSvqp8Qm-8jO2_G8x2do</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7ST96HKMZJmmNq7a4NJUY9Rzczm.jpg</fanart>
+<info>[B][COLOR yellow]Na cidade fictícia de Storybrooke, no Maine, Regina (Lana Parrilla) é uma rainha má que rouba memórias graças à maldição obtida por meio de Rumplestiltskin (Robert Carlyle). Suas vítimas viveram, portanto, uma realidade imutável durante 28 anos, sem ter qualquer noção de sua idade. Todas as esperanças estão depositadas em Emma Swan (Jennifer Morrison), filha da Branca de Neve (Ginnifer Goddwin) e do Príncipe Encantado (Josh Dallas). Ela é a única pessoa com a capacidade de quebrar a maldição e recuperar as lembranças perdidas, pois foi transportada do mundo de conto de fadas antes de ser atingida pelo feitiço. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GRIMM - CONTOS DE TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1RCQzmXUG_NjuFZyqDEclkmFoLOZLSZwQ</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lembra dos contos de fadas que seus pais contavam quando você era criança? Aqueles contos não eram meras alegorias, eram avisos. Nick Burkhardt (David Giuntoli) achou que estava preparado para a realidade de trabalhar como detetive policial até ele começar a ver coisas inexplicáveis. Tudo fica ainda mais complicado quando ele descobre ser um dos últimos descendentes de um grupo de caçadores sobrenaturais chamados “Grimms”. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HÉRCULES - A LENDÁRIA JORNADA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AbmVXsi7Btr6cvppvaHAZflnjTC.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1UCZ6Tyn3KVijiXjKHiaPo-OMye-t7pYo</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série acompanha a vida e aventuras do semideus da mitologia grega Hércules, filho de Zeus com uma mortal, que nasceu em uma época que a Terra precisava de um herói. Com sua grande generosidade, ele vai cuidar do povo e trazer a paz, com a ajuda de seu melhor amigo Iolaus para se aventurar matando monstros místicos e fazendo uso de toda sua força.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JACK RYAN - TOM CLANCY[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1HuZHql8p0nZTeIVnjk3M11l6_M8ePTdB</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JORNADA NAS ESTRELAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3b3qZtvE3bS3LS1DIK8ANruXZD7.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1sb9bs4CbS8Oc_csqTqY1m2auTGMJ8NAU</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A séria clássica que vive até os dias de hoje. Ao lado de sua tribulação na Enterprise, o capitão James T. Kirk explora a galáxia e defende a Federação Unida dos Planetas. Ele conta com a ajuda de Spock, McCoy, Uhura, Scott, Sulu, Chekov e companhia. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KILLJOYS ( AGENTES ESPACIAIS )[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/sI9PteHyVUOjTV62dxLKSh8HGxt.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Q7wcBD7JTZB3nI7N05eOIGNaURM0MWLr</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/pv2vwHdELOYTLpgReMAFxLcJzj5.jpg</fanart>
+<info>[B][COLOR yellow]Killjoys acompanha um trio divertido de caçadores de recompensas interplanetários que juram ser imparciais enquanto trabalham em toda a Quad, o sistema distante que está prestes a ser palco de uma guerra entre planetas.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KRYPTON[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHgkffPNJsRDNjaJ66jj32fIQc.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1NC16U5_WQ1c_yb4l8xkP1OeoHiOCoq3A</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/2ZDH1mj5OthywHyWDnVrurOitAX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Anos antes de o Super-Homem se tornar a lenda que o mundo inteiro conhece, a família El era envergonhada e excluída da sociedade. O drama acompanha o avô do Super-Homem, que aos poucos transforma um planeta em desordem e crise em um lugar com igualdade e esperança. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LOST[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTOh8SymlGOCTYlB2UP4KTgw15P.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=15QX6tkgm_a4YLk6mWX7ByQEY9y-qdBRA</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/5FdGYic4Sho6DpOJCEVhcY83mc5.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MANIFEST - O MISTERIO DO VOO 828[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1wVpx15UJ9qWoj4TEysFvR7HqP4pmR3vl</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MACGYVER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1NGwTuY477S9lixju-RsWaadf5w3TraAf</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/v2moumGovVAmDASYkjakIl2WrOM.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR]MacGyver é um jovem que cria uma organização clandestina para ajudar o governo americano em missões arriscadas. O agente usa sua inventividade, seu conhecimento e sua capacidade de improvisar para se tornar um herói de ação.[/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MACGYVER - PROFISSÃO: PERIGO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0BJtmbcpkNDHEtiBpMGkMffbV9.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1qbmIrbi_npyeRonGT-0z4tNrNtX4bNn4</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7pdcWrKr0Dzt3jp8JU39qYGaXGi.jpg</fanart>
+<info>[B][COLOR yellow]Angus MacGyver é um tipo de agente secreto pouco convencional. Ele é discreto, não anda por aí vestindo smoking e se recusa a carregar uma arma de fogo. Isso porque suas maiores armas são sua inteligência e um vasto conhecimento científico, que permite que ele se safe das situações mais complicadas com soluções nada comuns.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MARCO POLO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yImawhSjc6NFAW6J9bBscedAxDA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=11gXO1M-t0sxP8IpWYyocVS21hNzZZBpd</externallink>
+<fanart>https://apaixonadosporseries.com.br/wp-content/arquivos/2016/07/marco-polo-2x02-Mei-Lin-Marco-Polo.jpg</fanart>
+<info>[B][COLOR yellow]Em um mundo repleto de inveja, traição, intrigas e rivalidades, Marco Polo se baseia na fama do lendário explorador italiano (interpretado por Lorenzo Richelmy) na côrte de Kublai Khan (Benedict Wong) na China no século 13.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O INCRÍVEL HULK[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/aZ2mdGTZ5bBMmWgA7D6hnOZOA6i.jpg</fanart>
+<info>[B][COLOR yellow]Série clássica do Incrível Hulk exibida nos anos 70 completa, dublada. Depois da morte da esposa, o Dr. David Bruce Banner procura um modo de liberar uma força desconhecida, que supostamente todos os humanos teriam, para protegerem seus entes queridos. Ele descobre que a radiação gama poderia lhe dar essa força e, para não ferir ninguém, ele a testa em si mesmo. David não sentiu nada diferente logo após o teste mas depois descobriu que ao se sentir raivoso ou pressionado, transformava-se num homem monstruoso, de pele verde, grande e musculoso. O repórter Jack McGee descobre esse segredo e tenta culpar o gigante verde pela morte de uma pessoa em um acidente e passa a perseguir o Dr. Banner, que tenta fugir, ao mesmo tempo em que busca uma maneira de se curar das transformações. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O TUNEL DO TEMPO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ierdSk2jmPX2cw1rVLzonafYmz.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1W24gFi3XLUYm6yqeraaVPir5Dnr9i9Ua</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/omPcylzcwlsser7aKTlsyoMJLyK.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Dois cientistas de um projeto do governo norte-americano que produz uma máquina do tempo, se perdem no tempo e são monitorados por uma equipe que permanece no laboratório e os acompanham em seus deslocamentos de várias épocas, através de imagens que recebem pelo equipamento chamado de Túnel do Tempo.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O MUNDO PERDIDO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/whA1PLf8nslT3R7kSvCssTCCUba.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1thiCLafR_6fSzahtBbYA4wy8cB3N-TKt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7ggAjuO3g4AMt3p1ZsGeBNqLMsb.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]No início do século XX, um grupo de aventureiros toma parte em uma expedição que visa provar a existência de um mundo isolado da vida moderna. Desastres acontecem e o grupo termina preso nessa terra, contando unicamente com a ajuda de uma jovem mulher selvagem que também terminou presa na ilha quando criança. Juntos, eles lutam para sobreviver aos ataques dos dinossauros e a outros perigos que a ilha traz, conforme procuram por um jeito de escapar.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO REINO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c03QKlxQWg743GrQGKGrhmVsdVE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=11o7WqyqbRvEfRrWFHoZgkl4Y_Fh66GO8</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série se passa em 872, quando muitos dos Reinados que hoje fazem parte da Inglaterra caíram nas mãos dos Vikings, o reinado de Wessex ficou sob o comando de Alfred, o Grande. Em uma mistura de heroísmo, política, religião, coragem, amor, lealdade, e a eterna busca por identidade, a série mistura figuras reais que fazem parte da História com eventos e personagens fictícios. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PANIC[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jIWO8GKclxOJgtC0jXAyJgMMla8.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1D898zy1pUVQElLN2sSdG5rVkvJQNMLtS</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/5HJCrRGlQJppSQAzNwCpwnVn2XX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Na esquecida cidade de Carp, Texas, o Pânico é a única saída. Todo verão, jovens arriscam suas vidas competindo em uma série de desafios pela chance de ganhar um prêmio em dinheiro. Após a morte de dois jogadores, o risco - e o perigo - nunca foram tão altos. Neste verão, vinte e três jogadores entrarão no jogo. Todos eles sairão mudados. Apenas um vai vencer. Que os jogos comecem.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROMA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1LuOIl1Yl5QNv-WQLaQwh7ITvMhVoU2XL</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/jSZsCkey60fz6BGAmAjkkW6pqx1.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Série retrata acontecimentos que datam de 52 a.C., quatrocentos anos depois da fundação da república na principal metrópole mundial da época, marcada por rivalidades, traições e guerras. Os episódios da primeira temporada mostram desde a vitória de Júlio César na batalha de Alésia até seu assassinato por conspiradores do Senado por causa de medidas populistas.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SCORPION - SERVIÇO DE INTELIGÊNÇIA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1Edm68SE8JeOzyTafZnTOOuLTx.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1HPQtf0WJ69s36aDzWrNzuv672L0DuiMy</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/mUBOpIZClH4pO32SIpCwKAyKU9y.jpg</fanart>
+<info>[B][COLOR yellow]A história é inspirada na vida de Walter O’Brien. A série apresenta a vida de Walter (Elyes Gabel), o homem com o quarto QI mais elevado do mundo. Com o objetivo de oferecer soluções para os problemas do mundo, ele monta a Scorpion, uma empresa para a qual recruta pessoas com os melhores intelectos. Agora, além de unirem suas mentes para resolver problemas de relevância global, eles também ajudam uns aos outros a se sentirem parte integrante da sociedade. Entre os membros da equipe estão Toby (Eddie Kaye Thomas), um gênio especializado no comportamento humano; Happy (Jadyn Wong), gênio da mecânica; e Sylvester (Ari Stidham), um gênio das estatísticas. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SKY ROJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1ISswStfce_jUNUsjvSQJU7Rpr1wv6dKR</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/emGVycbIfiY7l3AVfZeixh04xBD.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Sky Rojo conta a história de três prostitutas que fogem de casa após deixarem seu cafetão gravemente ferido e sentenciado à cadeira de rodas. Uma brasileira, uma colombiana e uma espanhola fazem uma viagem sabendo que têm grandes chances de morrer. Tendo cometido vários crimes graves, sem poder pedir ajuda à polícia e com a máfia em sua busca, elas têm apenas duas opções: fugir até que sejam pegas ou serem as primeiras a revidar.A série terá duas temporadas de 8 episódios de 25 minutos. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SMALLVILLE: AS AVENTURAS DO SUPERBOY[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1havbHDthGy0dqo8lXM_NYLGZNMpqdI8e</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/poWBDD55lQZxe4kjOFAOZ7jI3ca.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Antes da vida como Super-Homem, o jovem Clark Kent encara os problemas da adolescência enquanto aprende a controlar seus poderes e usá-los para proteger a cidade de Smallville.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STARGATE SG1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Jegw0yle4x8jlmLNZon37Os27h.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=185zoid7Hv2Wwaisc2zBD611A9_Z0ezmc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ul7W8lwLIgxre1LXigFw55upfZ5.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma equipe de exploradores composta de soldados e cientistas viaja através do Stargate, um portal que dá acesso a outros planetas. Eles usam a passagem para explorar novos mundos e proteger a Terra contra forças inimigas.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STARGIRL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://abutretorrents.com/imagens/stargirl-1-temporada-completa-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1w4QIpwkmQtlIuZP6U65WYmSgvNaQDq7p</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/patQkA8aQ4ZhevWSpPLninFlmYc.jpg</fanart>
+<info>[B][COLOR yellow]Stargirl conta a história de Courtney Whitmore (Brec Bassinger), estudante forçada a se mudar para uma nova cidade, depois que sua mãe se casa novamente. Ela só não esperava que seu padrasto, Pat Dugan (Luke Wilson), costumava ser Stripesy, o braço direito do herói Starman (Joel McHale). Armada com seu bastão mágico, ela vai acabar inspirando uma nova geração de heróis inusitados.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STAR TREK DISCOVERY[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ihvG9dCEnVU3gmMUftTkRICNdJf.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1uwe4wk5lzBmHp3Q4EKtrzD_Yvm5bS0oy</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/vQEHkHVZgQUaEc1A1tEopc71IbZ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]S.W.A.T - FORÇA DE INTERVENÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://abutretorrents.com/imagens/swat-forca-de-intervencao-4-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1_uC1d30dAY-NDay9GxlyTRbAkONnsfDS</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
+<info>[B][COLOR yellow]Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]XENA - A PRINCESA GUERREIRA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZ7UQJTGJrOLPylhjNA0i969jAU.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1-ZVev5bqe8hfVXxI02cBklbdgMuolBV2</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/6pquLTX8cNRkt8k5izHthxRf0H6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena, uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle, uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O LEGADO DE JÚPITER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1JM0GvbnrRAq9d1wmRQ4qMEmbF9qgRL7B</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/hT4HTQJhfnWNl7tHBY3E6Nda9M6.jpg</fanart>
+<info>[B][COLOR yellow]Depois de quase um século mantendo a humanidade segura, a primeira geração de super-heróis do mundo deve confiar nos seus filhos para continuar o legado. Mas as tensões aumentam à medida que os jovens super-heróis, famintos por provar seu valor, lutam para viver de acordo com a lendária reputação pública de seus pais - e exigentes padrões pessoais. Adaptação da HQ de Mark Millar e Frank Quitely. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O REINO PERDIDO DOS PIRATAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNraOcyTMzwzTvbh4Bp570Q23Hv.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Y8ZnkBflAT1y_eHlFZ_BMGlZEg9we3Ux</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/61AZhYnjayWHld2ocdYtX9k6PKH.jpg</fanart>
+<info>[B][COLOR yellow]Nesta série documental, os piratas do Caribe da vida real roubam os tesouros do mundo e formam uma república surpreendentemente igualitária. [/COLOR][/B]</info></item>
+
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS ASTRONAUTAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5byDyeVYxUQTm5fqcE4pQedyPJ3.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1OIs8d_Knmvd-BM4ag3lnWa1iZe-3mfay</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7oE8sytCE6wnFTInZacDDkC6pqK.jpg</fanart>
+<info>[B][COLOR yellow]Cinco crianças invadem um foguete e acabam sendo enviadas acidentalmente ao espaço. Eles fazem de tudo para conseguir voltar para casa, mas antes devem cuidar da nave e realizar diversas missões.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+
+
+

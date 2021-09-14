@@ -1,0 +1,25 @@
+<item><title>[COLOR white]JACK RYAN - OPERAÇÃO SOMBRA[COLOR yellow]O FILME - 2014[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9319c61b982fac7fc27d486d281b380c82f34988</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21e2a1e81ea470e38059a76f41b9eb1d2f334bbb</link>
+<thumbnail>https://i.imgur.com/VWfHFQx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gfcyWvxxc1b0X8CBitJUJNz0s2n.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O agente Jack Ryan é mandado a Moscou para trabalhar como consultor financeiro de um bilionário. O empregador, na verdade, arma para que Ryan leve a culpa por um ataque terrorista ao sistema financeiro dos EUA. O herói precisa, então, correr para limpar seu nome e salvar sua esposa, que foi pega como refém do bilionário.[/COLOR][/B]</info></item>
+
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] JACK RYAN - TOM CLANCY [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E083BE9DC3C93B3F9031FD4F40A69D53EBEC8710</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Jack Ryan (John Krasinski) é um analista promissor da CIA que segue um padrão de comunicações terroristas que leva á descoberta de uma estratégia intrincada que tem como meta a destruição global. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] JACK RYAN - TOM CLANCY [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f67aaae3e89520932682dd8b9f50b367ba7f650</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/joxZpmDGZCIa65fh0GkuRqdcJkb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3AK3OsK8OK5YDU1yJ4oAufWyub.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Depois de rastrear um carregamento suspeito na selva venezuelana, Jack Ryan vai à América do Sul para investigar. Enquanto Jack ameaça revelar uma enorme conspiração, o presidente da Venezuela contra-ataca, o que leva Jack a uma missão global nos EUA, Reino Unido, Rússia e Venezuela a fim de desvendar o plano do presidente e trazer estabilidade a um país à beira do caos.[/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

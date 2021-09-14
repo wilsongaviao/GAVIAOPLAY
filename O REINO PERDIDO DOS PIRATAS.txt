@@ -1,0 +1,7 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] O REINO PERDIDO DOS PIRATAS [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:e304c2825453866b88908357b76934424ca11d55/link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNraOcyTMzwzTvbh4Bp570Q23Hv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/61AZhYnjayWHld2ocdYtX9k6PKH.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Nesta série documental, os piratas do Caribe da vida real roubam os tesouros do mundo e formam uma república surpreendentemente igualitária. [/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

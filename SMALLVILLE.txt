@@ -1,0 +1,89 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:083dbad07c3ce459aca129bc180a25d182edb4f0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mrrJu4MOgsDrhLKPc88RVg0iGfm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9i4rthRbtDQWATxIpAJZ55J9vRp.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A temporada narra as primeiras aventuras do jovem Clark Kent a partir do momento em que seu planeta natal, Krypton, é destruido e ele cai em uma nave na cidade de Smallville (Pequenópolis, no Brasil), onde é adotado por Martha e Jonathan Kent.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:215B5E3D01DC8EB30186CE9323CEA2C9ED5D015A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mY3OB1DwTdO0Y1I566k2uf2nWtC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kuOt3LxmHW8k39SK2tyg6qSWhop.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]A segunda temporada começa diretamente onde a primeira terminou, com Clark lidando com as conseqüências dos furacões que atingiu Smallville. Nesta temporada, Clark finalmente descobre quem ele é e de onde ele vem, mas deve também reconhecer um destino em potencial posto em movimento por seu pai biológico, que pode mudar a sua vida e a vida daqueles ao seu redor para sempre. A relação de Clark e Lana Lang se torna cada vez mais próxima, forçando a sua amizade com Chloe Sullivan[/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5DE49DD0E8C520C01829339A6FD96B167795D7A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2pFgXiVoev2SWoJyxYL2O6AUatZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nX9fv9OuOTFPZ1iMPtAFCcSUtxh.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A terceira temporada segue a luta constante de Clark contra o destino que seu pai biológico, Jor-El, tem para ele, e sua culpa em relação ao preço pago de Jonathan para trazê-lo de volta para Smallville. Lex começa a ser visto como um psicopata desde quando ele tinha ido parar em uma ilha deserta, enquanto o conflito entre ele, seu pai, Lionel Luthor e sua amiga Chloe Sullivan chega a um golpe final. O segredo de Clark começa a pesar sobre Pete, e o relacionamento entre Clark e Lana chega num beco sem saída. Os roteiristas também trouxeram vários personagens da DC Comics, como Maggie Sawyer, Morgan Edge, e mais notadamente Perry White, em participações especiais.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 4ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:684C8071BA3772EA8EEB68B8EB27FE554F33750A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ntEjpGdaP0ShSgW3De7BEEEkhi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kdXNENObRBfB7NqpNOoNF3LS7o2.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A quarta temporada mostra Clark e seus amigos no último ano do colegial e tendo em centro sua tentativa de unir as três pedras do conhecimento. Clark já possui 17 anos e completa ao longo da temporada 18 anos, deixando de ser um adolescente e iniciando a vida adulta. Clark também tenta lidar com o novo relacionamento de Lana com Jason Teague, e luta com bruxas do século XVII. Lois Lane, prima de Chloe, chega na cidade. A amizade de Clark e Lex se torna cada vez mais tensa.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8649fad5e692846a27decb501ff6ac4303ffa6e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2R9yBHHcL3puwltHunWJFK96Arf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5DwkQEMIavEuPafosNnO7suX3FH.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 5.ª temporada lida com as consequências da segunda chuva de meteoros. Clark, que já possui 18 anos e completa 19 anos ao longo da temporada, começa a lidar com a vida adulta, indo para a faculdade, começa uma verdadeira relação com Lana e a perda de alguém que ele ama. Sua desconfiança com Lex continua a crescer, como o professor Milton Fine começa a fornecer-lhe com a evidência dos projetos secretos da LuthorCorp. Clark apoia Chloe, enquanto Lionel transforma-se em uma pessoa melhor tirando o ceticismo de todos. Jensen Ackles, que interpretou Jason Teague, deixou a série após a quarta temporada, de acordo com Ackles ele não retornou para a quinta temporada, por causa de seus compromissos com a série Supernatural, sendo assim ele foi substituido por Erica Durance como um membro regular da série, ela interpretou Lois Lane. Os autores também trouxeram Arthur Curry, Victor Stone, Andrea Rojas, super-heróis da DC Comics, em três pontos de convidados em separados.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 6ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBC5B42ACE16EF1AF0144FC6C37DE1BCBB423B2E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/q6cZvm8NwRo46G9gKxZXRyHUwOa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aOEzy8dCJRqfzFbc6cOeMei1Fu0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Os arcos principais da sexta temporada envolvem histórias de Clark tentando recapturar vários criminosos que escaparam da Zona Fantasma, os destinos de Lionel Luthor e Lex Luthor, após o General Zod possuir o corpo de Lex e Lionel ser o emissário de Jor-El, e as apresentações de personagens da DC Comics Jimmy Olsen, Oliver Queen e Caçador de Marte, interpretados por Aaron Ashmore, Justin Hartley e Phil Morris, respectivamente. Outros enredos principais envolvem o casamento de Lana e Lex, a descoberta de Chloe como infectada por meteoros, bem como o secreto 33,1 um dos projetos de Lex.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime]7ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E221FB3E68E1C4BD4CE1B463AF6DBD2BC01451A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/vzluJ68e7pZRpasIT46TIHlH0Fj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oEcV6cpwgo89RsOhCLcHTIWhF9T.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Esta temporada centra-se em Clark Kent e seus encontros biológicos com sua prima Kara, e ensinar-lhe como controlar suas habilidades em público; o comportamento de Lana Lang em relação a seus amigos, e Lex Luthor, após se descobrir que ela falsificou sua própria morte; Chloe Sullivan vindo em acordo com seu recém-descoberto poder de kryptonita capacidade induzida, eo segredo do novo editor do Planeta Diário Grant Gabriel. No final da temporada, Clark enfrenta a ameaça dupla de retornar vilão Brainiac, ea descoberta de Lex sobre a sociedade secreta conhecida como Veritas, formada por Virgil Swann, Robert Queen, Lionel Luthor e Edward Teague, que possuem os meios para controlar Clark.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 8ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65B88CC3D5DA15BDFB90A8D72528F7A4CFBD3806</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8j7nbqSKYAHt3XC2PIHLM0RbyuX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zXuapIei2PJqEssLbs5H85Ep2Je.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Esta temporada centra-se em Clark Kent, que se formou em jornalismo na Universidade Central Kansas e começa a trabalhar como repórter no Planeta Diário em Metrópolis, e começando a abraçar mais o seu propósito como o herói da Terra, e tendo sentimentos românticos por Lois Lane. Enquanto Lex Luthor é dado como morto, e Lana Lang deixa a cidade de Smallville, Clark também se reúne com novos personagens, como Davis Bloome, a versão Smallville do personagem Doomsday, bem como a nova CEO da LuthorCorp, Tess Mercer. Em outros eventos, Clark e Oliver Queen entram em confrontos sobre como devem lidar com Lex quando ele reaparece, enquanto Chloe Sullivan e Jimmy Olsen se casam. Além disso, nesta temporada vê o aparecimento de outros personagens da DC Comics, incluindo as aparições recorrentes da Plastique e dos membros da Legião de Super-Heróis.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 9ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19753c3a52e4c78d14acfcb6b878b23910bd4109</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/t407fiosar5rXFPEIDLXVWEuBkD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8A2IYYRLM5rR0hYwbWJr9KLPnUu.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Nessa temporada, o jovem repórter Clark Kent participa de duas realidades opostas: A da destruição do Planeta Terra, causada por Major Zod escravizando os seres humanos e trazendo a morte para sua melhor amiga Chloe Sullivan, e a realidade presente da qual ele necessita mudar para que tais eventos não ocorram no futuro.Clark, Chloe e Oliver Queen estarão bem ocupados neste ano, pois a ameaça de Zod é real e o mundo precisa mais do que nunca de heróis.
+A "Sociedade da Justiça" ensina a esse trio a essência de uma equipe e a confiança que cada um deve depositar no outro para que os dias que virão a seguir sejam cheios de paz.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SMALLVILLE: AS AVENTURAS DO SUPERBOY [COLOR lime] 10ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e3ad04ac74857de2a82cc136cd46e06a4d3c9a3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3DvIunje1oyB5kltvlsVDLEOZ69.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yOBIpuxB7Gun0SEpfBGyAGKT7sT.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A última temporada da série, continua a focar o romance entre Clark Kent e Lois Lane, que começou na nona temporada, bem como a continuação dos treinamentos de Clark, para se tornar o super-herói de identidade histórica "Superman". Dez anos se passaram desde a primeira temporada da série, e Clark agora possui 24 anos de idade, a idade em que ele adota a identidade de Superman.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,31 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SCORPION - SERVIÇO DE INTELIGÊNÇIA [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8660c9be64b981330299d67397dd005ca14459ce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/oingrbF15DsueRojuxtbAzaol17.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9xxRNn7ObFOozBgvNB5xpEiVlIM.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série apresenta a vida de Walter (Elyes Gabel), o homem com o quarto QI mais elevado do mundo. Com o objetivo de oferecer soluções para os problemas do mundo, ele monta a Scorpion, uma empresa para a qual recruta pessoas com os melhores intelectos. Agora, além de unirem suas mentes para resolver problemas de relevância global, eles também ajudam uns aos outros a se sentirem parte integrante da sociedade. Entre os membros da equipe estão Toby (Eddie Kaye Thomas), um gênio especializado no comportamento humano; Happy (Jadyn Wong), gênio da mecânica; e Sylvester (Ari Stidham), um gênio das estatísticas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SCORPION - SERVIÇO DE INTELIGÊNÇIA [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1167d36dd7a82b0f74e24057cedf56875e01b91</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/A1aINezb75IqJIsDJ9tWOxZVsM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série apresenta a vida de Walter (Elyes Gabel), o homem com o quarto QI mais elevado do mundo. Com o objetivo de oferecer soluções para os problemas do mundo, ele monta a Scorpion, uma empresa para a qual recruta pessoas com os melhores intelectos. Agora, além de unirem suas mentes para resolver problemas de relevância global, eles também ajudam uns aos outros a se sentirem parte integrante da sociedade. Entre os membros da equipe estão Toby (Eddie Kaye Thomas), um gênio especializado no comportamento humano; Happy (Jadyn Wong), gênio da mecânica; e Sylvester (Ari Stidham), um gênio das estatísticas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SCORPION - SERVIÇO DE INTELIGÊNÇIA [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:965673a43204a24fc2bbcc0bdd6ddf19b9f7b1bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/Jk3o2aF0lFVjOkqDVdqWhue8DU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nok96ru29v28QJskVaPTY5SOyxI.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série apresenta a vida de Walter (Elyes Gabel), o homem com o quarto QI mais elevado do mundo. Com o objetivo de oferecer soluções para os problemas do mundo, ele monta a Scorpion, uma empresa para a qual recruta pessoas com os melhores intelectos. Agora, além de unirem suas mentes para resolver problemas de relevância global, eles também ajudam uns aos outros a se sentirem parte integrante da sociedade. Entre os membros da equipe estão Toby (Eddie Kaye Thomas), um gênio especializado no comportamento humano; Happy (Jadyn Wong), gênio da mecânica; e Sylvester (Ari Stidham), um gênio das estatísticas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SCORPION - SERVIÇO DE INTELIGÊNÇIA [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ff5900e7a806fb7c25ac12e76fc1002978eb550</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zDDByUQQyRIV8T0Cw1NzgQxO2nk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wpS6wrPCtNL8kA7POW9nys4Vt6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série apresenta a vida de Walter (Elyes Gabel), o homem com o quarto QI mais elevado do mundo. Com o objetivo de oferecer soluções para os problemas do mundo, ele monta a Scorpion, uma empresa para a qual recruta pessoas com os melhores intelectos. Agora, além de unirem suas mentes para resolver problemas de relevância global, eles também ajudam uns aos outros a se sentirem parte integrante da sociedade. Entre os membros da equipe estão Toby (Eddie Kaye Thomas), um gênio especializado no comportamento humano; Happy (Jadyn Wong), gênio da mecânica; e Sylvester (Ari Stidham), um gênio das estatísticas. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

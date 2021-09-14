@@ -1,0 +1,159 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:725bdb7bd093beb0186ce55825b1fb586e15eebf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/p7GkWHSsz5UpC8BmvpEpk9YDCKg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d9p0csuYKzbeyEGeQ1bpFenoZ64.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Primeira Temporada. Na cidade fictícia de Storybrooke, no Maine, Regina (Lana Parrilla) é uma rainha má que rouba memórias graças à maldição obtida por meio de Rumplestiltskin (Robert Carlyle). Suas vítimas viveram, portanto, uma realidade imutável durante 28 anos, sem ter qualquer noção de sua idade. Todas as esperanças estão depositadas em Emma Swan (Jennifer Morrison), filha da Branca de Neve (Ginnifer Goddwin) e do Príncipe Encantado (Josh Dallas). Ela é a única pessoa com a capacidade de quebrar a maldição e recuperar as lembranças perdidas, pois foi transportada do mundo de conto de fadas antes de ser atingida pelo feitiço. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D08CECAF766612ABBE38562519B7CF74FD17BDD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/752ySNlJUX9lNltdcXnqoq8EMQB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rnSXQCyrid69unxwxjGDFPPm3sC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa da série Era Uma Vez (Once Upon a Time). A maldição foi desfeita, a magia chegou e não há como saber o quê – ou quem – será libertado! Agora, os personagens exilados de contos de fadas precisam lidar com uma enxurrada de lembranças enquanto enfrentam a nova realidade. Antigas lealdades serão postas à prova, novos heróis surgirão e vilões vingativos causarão o caos – incluindo o cruel pirata Capitão Hook e a malvada e incansável Cora. Em meio a paisagens de terras nunca exploradas e uma nova e mágica Storybrooke, amor e sacrifício serão o palco para a batalha suprema entre o bem e o mal. Pois, nas palavras de Rumplestiltskin, no que se refere à magia, apenas uma coisa é certa: ela sempre tem um preço. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28FBEC4546342AEB9E2FA3C2885D7855374EB482</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rB2zj4jx3CD1gZCPOBgv1Nxkq3o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AmJ72AKL73mvhXyVgkFb8pUbIa9.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Terceira temporada completa da série Era Uma Vez (Once Upon a Time). Os riscos são maiores do que nunca depois de uma fuga complicada da Terra do Nunca e de Peter Pan. Um ano depois de sua surpreendente aventura, Emma e Henry estão vivendo em Nova York com nenhuma consciência de sua história passada - até que Gancho aparece e mexe com a memória de Emma com uma poção mágica. Mais uma vez, o Salvador é chamado de volta para Storybrooke quando uma vilã lendária chega disfarçada para amaldiçoar a cidade de novamente com uma e exige uma vingança indescritivelmente cruel. Agora, com Regina e Emma trabalhando juntos, o palco está pronto para um confronto épico entre a Rainha Má e a Bruxa Má do Oeste! [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07822727E90DF4C6EBE89ED39CFC510650F4BA33</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/s7TzsPKKJjbjiIVId3gAE3Z1YH8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gzqmZqeU9RQz7RkiM9WFlJwjjBr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quarta temporada completa da série Era Uma Vez (Once Upon a Time). Logo depois que Emma e Hook levam, sem querer, Elsa de Arendelle para Storybrooke, eles encontram uma misteriosa Rainha da Neve, cuja implacável obsessão com Emma e Elsa tem consequências arrepiantes. Enquanto isso, parece que Regina enfim encontrou o amor verdadeiro em Robin Hood, mas como ela irá reagir quando seu final feliz for novamente frustrado por uma louca reviravolta do destino? Então, um Rumplestiltskin banido reúne as Rainhas da Escuridão (Malévola, Úrsula e Cruella) em um terrível plano para reescrever suas próprias histórias e corromper a Salvadora fazendo seu coração bem-aventurado ficar negro. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D500C19A83DDA088E592DED133E6BDD186BDBE2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/1KaNLzyDyifwvIEQih2CzoTE7xc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vG8BTsfMlVHZyGDFEkE7q5KCrl6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Quinta temporada completa da série Era Uma Vez (Once Upon a Time). Quando a Salvadora se transforma na “Swan Sombria”, o limite entre o bem e o mal fica obscuro. Emma começa a saborear o gosto inebriante do poder absoluto. Aterrorizados com a possibilidade de sucumbir à tentação, Emma e Gancho visitam Camelot para encontrar a única pessoa que pode ajudá-los: Merlin. Infelizmente, o Rei Arthur se mostra traiçoeiro e quando ele junta forças com a vingativa Zelena, as esperanças de Emma e Gancho ficam abaladas. Agora Emma e sua família de Storybrooke precisam embarcar em uma arrepiante descida ao Submundo de Hades, onde eles tentarão resgatar Gancho de um destino pior que a morte e com a “ajuda” de Rumplestiltskin. Algum deles vai sobreviver a esta viagem? [/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3A505F239B861370022F40AE3C5F9D0E124ED1C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nVSTkbY6JNtJ3dCS8uOn5HqQCQ8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8BSCI5wYFHvp8ZGb6jEqFEC6AlI.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Sexta Temporada completa da série Era Uma Vez - Once Upon a Time dublada dual áudio com resolução 720p. Na cidade fictícia de Storybrooke, no Maine, Regina (Lana Parrilla) é uma rainha má que rouba memórias graças à maldição obtida por meio de Rumplestiltskin (Robert Carlyle). Suas vítimas viveram, portanto, uma realidade imutável durante 28 anos, sem ter qualquer noção de sua idade. Todas as esperanças estão depositadas em Emma Swan (Jennifer Morrison), filha da Branca de Neve (Ginnifer Goddwin) e do Príncipe Encantado (Josh Dallas). Ela é a única pessoa com a capacidade de quebrar a maldição e recuperar as lembranças perdidas, pois foi transportada do mundo de conto de fadas antes de ser atingida pelo feitiço. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ERA UMA VEZ  ( ONCE UPON A TIME ) [COLOR lime] 7ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Sétima e última temporada completa da série Era Uma Vez (Once Upon a Time). Depois de seis temporadas, os moradores da Floresta Encantada enfrentam seu maior desafio, levando a Evil Queen, Hook e Rumplestiltskin a unirem forças com um já adulto Henry Mills e sua filha Lucy em uma busca épica para, mais uma vez, trazer esperança para o seu mundo e o nosso. Ao longo do caminho, novos e antigos personagens dos contos de fadas buscam o amor verdadeiro, encontram aventuras e, novamente, tomam partido na luta do bem contra o mal, enquanto as histórias clássicas são mais uma vez alteradas e reimaginadas. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43D428BC58A516202845E812AA73F25613F889CA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93372A86757FAF31D02BDE430569CF62EDC6C0EC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:020C9F6053EDD2F7C606ADC727C69720292A4A7E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C8F4CB83B336D11059326A7E5669F4EF0E1E29B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5EEA586403625A867A412C0B3D815DE09A7489F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FCD8087E35141557B719AE041924C0C3BFBBEBE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C7536BEBE8B5DDFBD49B18CA92ABA7C4FFED11E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08 / 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882fdf48d9f48aeab4c6fba4824a29b0dbf21573</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57086a30242e69042e91702cc15a7f4ac9136398</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11 / 12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae798be083656b6c993a57c84f8365b3d1da8272</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0BFFED763E014206B8C6D79D2119A2AEF7277352</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431E4DAE0E15A2FE52AA79B43D9A22CF2A934347</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f6337160ae6017e6b0101a252de763a34251b7b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bfe01d998a5c62e738bcdef3dd61486dce2a5b8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7d116a3a0722768107daa64d0ad1dfea367e236</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6FB4162D60CE9C829B543B2BFB1E4387F306409</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A992D4C60BA04313FC56565C5871507CBA9115A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F61AECAC270A973BFCB9940B69E0E934E67F7B8C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]21[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ED07D8FC9FA3176797A4F2EEB59B716BC2B4830</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]22[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F82F6DAB0F55708049DAC9BCA48518755DBECA3B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nSJvwZziYaGMbftSDQqQ5GIb47a.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

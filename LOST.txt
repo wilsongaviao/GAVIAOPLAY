@@ -1,0 +1,62 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST [COLOR lime] 1ª,2ª,3ª,4ª,5ªTEMPORADAS [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:281FED7AB5CF35AB5933983C876FD6988F03E556</link>
+<thumbnail>https://4.bp.blogspot.com/-w5tJT795XM0/W0ZriL6TNbI/AAAAAAAANyg/uR6YPr_sm4YbkvLhY2i_8LAQFvP6ln-8wCLcBGAs/s1600/Lost%2Btodas%2Bas%2Btemporadas%2Bcompletas%2Btorrent%2Bdownload%2Bdublada.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5FdGYic4Sho6DpOJCEVhcY83mc5.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost todas as temporadas completas e dubladas da série que marcou toda uma geração e estabeleceu um novo padrão de qualidade nas séries seguintes. Um avião cai em uma ilha deserta e logo um grupo de passageiros precisa lutar para sobreviver. Liderados pelo médico Jack Shephard (Matthew Fox) e pelo misterioso John Locke (Terry O'Quinn), eles irão descobrir que o local esconde perigosos segredos. Com o passar do tempo, são reveladas informações sobre o passado dos sobreviventes, como Hugo Hurley Reyes (Jorge Garcia), Sayid Jarrah (Naveen Andrews), Kate Austen (Evangeline Lilly) e James Sawyer Ford (Josh Holloway). [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##########################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST[COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:c7c67c152f70d5496ec78524ccab6b027020c940</link>
+<thumbnail>https://1.bp.blogspot.com/-37QrUT2HWjo/W0ZrYfTpRfI/AAAAAAAANxk/7PjM4lRwhGIUG9st4bqNpuGjNv0ANDalgCLcBGAs/s1600/Lost%2B1%2Btemporada%2Btorrent%2Bdublada%2Bdownload%2Bcompleta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cUsiJThjPfYtsp8j3Vu39GjviBV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost primeira temporada completa e dublada. O vôo 815 da companhia aérea Oceanic Airlines, cai na costa do que aparenta ser uma ilha tropical deserta, forçando o grupo de estranhos a trabalhar em conjunto para se manterem vivos. No entanto, a sua sobrevivência é ameaçada por vários mistérios, incluindo uma escotilha metálica enterrada no solo, uma criatura que vagueia pela selva e os habitantes da ilha conhecidos como Os Outros. Os sobreviventes descobrem que um dos seus não é quem parece ser e encontram uma mulher francesa chamada Danielle Rousseau, cuja equipe naufragou há 16 anos. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST[COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:57841375db23c7bc2cd687f074cf3184fcb1edad</link>
+<thumbnail>https://4.bp.blogspot.com/-QI_cduYQ_Dg/W0ZrY7MOG3I/AAAAAAAANxo/hNUp1vkvSQgNTySZpPUJvgNzMYgIyyfXACLcBGAs/s1600/Lost%2B2%2Btemporada%2Btorrent%2Bdublada%2Bdownload%2Bcompleta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cUsiJThjPfYtsp8j3Vu39GjviBV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost segunda temporada completa e dublada. O vôo 815 da companhia aérea Oceanic Airlines, cai na costa do que aparenta ser uma ilha tropical deserta, forçando o grupo de estranhos a trabalhar em conjunto para se manterem vivos. No entanto, a sua sobrevivência é ameaçada por vários mistérios, incluindo uma escotilha metálica enterrada no solo, uma criatura que vagueia pela selva e os habitantes da ilha conhecidos como Os Outros. Os sobreviventes descobrem que um dos seus não é quem parece ser e encontram uma mulher francesa chamada Danielle Rousseau, cuja equipe naufragou há 16 anos. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST[COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:229d6ee92a67c06e16d80fce168fef3694ceba2f</link>
+<thumbnail>https://4.bp.blogspot.com/-4dISj_IwxrY/W0ZrZaGapXI/AAAAAAAANxs/uQNIpRcxEoAibBLGVSbRgi8zgAphOQpaQCLcBGAs/s1600/Lost%2B3%2Btemporada%2Btorrent%2Bdublada%2Bdownload%2Bcompleta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cUsiJThjPfYtsp8j3Vu39GjviBV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost terceira temporada completa e dublada. Os poderes misteriosos da Ilha confundem as linhas que dividem o bem e o mal, e toda lealdade será colocada à prova quando os sobreviventes passam a misturar suas vidas às dos outros. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST[COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:BDF87BE9308830092411ADCD3A75F79D794C3EA2</link>
+<thumbnail>https://1.bp.blogspot.com/-xuoIeZqo7ko/W0ZrZyJS85I/AAAAAAAANxw/KA57F7Or3RQzAFUqrksZ0LYb_rkNrz0PACLcBGAs/s1600/Lost%2B4%2Btemporada%2Btorrent%2Bdublada%2Bdownload%2Bcompleta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cUsiJThjPfYtsp8j3Vu39GjviBV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost quarta temporada completa e dublada. Será que Jack e Kate conseguiram escapar da ilha? Michael está de volta? Onde ele esteve? Será que todos serão, finalmente, resgatados da ilha? Acompanhe estes e outros mistérios enquanto os sobreviventes lutam contra traições, mentiras e mais segredos em uma aventura repleta de ação. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST[COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:12BD882EE2A3C53E629653289A3048CCBFD922D8</link>
+<thumbnail>https://1.bp.blogspot.com/-felgkEYo0lE/W0wmnK3bjCI/AAAAAAAAOAw/ymNB5LgzOTMmMPJoStpqz7OYXc5zD-ZTwCLcBGAs/s1600/Lost%2B5%2Btemporada%2Btorrent%2Bdublada%2Bdownload%2Bcompleta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cUsiJThjPfYtsp8j3Vu39GjviBV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost quinta temporada completa e dublada. Jack, Kate, Hurley, Sayid, Sun e o filho de Claire, Aaron - também conhecidos como os Oceanic Six - foram resgatados e continuaram a tentar retomar as vidas que tinham antes do acidente e perpetuar a mentira que escondia a verdade do que realmente aconteceu. Mas Jack e Ben precisam convencer todos a retornarem à ilha para salvar aqueles que ficaram para trás. Isso se mostrará um desafio, uma vez que Jack está lutando contra seus vícios, Kate não fala com ele, Hurley está em um sanatório, Sayid é um assassino e Sun culpou Jack pela morte de Jin quando o cargueiro explodiu. Somado às suas preocupações há o fato de que eles também têm que levar o corpo de Jeremy Bentham - também conhecido como Locke - com eles para tentar acertar as coisas na ilha. Mas encontrar a ilha se mostra ser ainda mais difícil desde que Ben a moveu. Não é uma questão de aonde ela foi parar, mas quando. De volta à ilha, os sobreviventes que ficaram para trás começam a viver os eventos surpreendentes que os conduziram à morte de Locke. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LOST[COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:FCD73503D1E576AAC9D3406D06A832EE498E7D16</link>
+<thumbnail>https://4.bp.blogspot.com/-GL2do0m_FdQ/W0ZrbB5FxTI/AAAAAAAANx4/psIGyf8gVtAVgk4c-lZqjfz5FanxNwdTwCLcBGAs/s1600/Lost%2B6%2Btemporada%2Btorrent%2Bdublada%2Bdownload%2Bcompleta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cUsiJThjPfYtsp8j3Vu39GjviBV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Lost sexta e última temporada completa e dublada. Na temporada final as violentas viagens temporais da ilha terminaram por Locke, quando ele foi para fora da ilha numa tentativa de persuadir os Oceanic a voltarem. De volta à ilha, a permanência dos sobreviventes na Vila DHARMA no final dos anos 70 foi terminada quando seus disfarces foram descobertos e quando foram acusados de ajudar Os Outros, além de Sayid ter sido gravemente ferido durante um tiroteio. Ainda mais, Ben matou Jacob sob pedido de Locke. Mas já que o corpo de Locke foi encontrado dentro do caixão, quem - ou o que - é John Locke? E se Juliet foi bem-sucedida na detonação da bomba de hidrogênio, ela conseguiu restabelecer o tempo, permitindo o voo 815 a aterrissar em salvo em Los Angeles, ou a ilha foi destruída junto com seus habitantes? [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

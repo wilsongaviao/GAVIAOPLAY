@@ -1,0 +1,16 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ROMA [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433f34d40e433028015719e438a8966a493e8b94</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3ctjMYtbLLdRrf4B6kpjfLZg8HU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aSOoYCDJEQq5uFDb5AfDizzpsy1.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O ano é 52 antes de cristo. Quatrocentos anos depois da fundação da República, Roma é a menos saudável cidade do mundo, uma metrópole cosmopolita com um milhão de habitantes, epicentro de um império preguiçoso. A República foi fundada pelos princípios da divisão de poder e uma feroz competição individual, nunca permitindo que um único homem tivesse o controle absoluto. Mas agora, estes alicerces estão abalados, desgastados pela corrupção e pelos abusos. Depois de oito anos na guerra, os soldados Lucius Vorenus e Titus Pullo são envolvidos, contra a vontade, em eventos históricos que mudariam o rumo da Roma antiga. Uma minissérie que fala sobre amor e traição, mestres e escravos, maridos e esposas, Roma apresenta as crônicas de uma turbulenta era que testemunhou a queda de uma República e o nascimento de um Império. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ROMA [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B5FD6232EB4DBBC2DA20AF8451C7A65119AD7F5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8DRi3zRApy2HgsY2YctYrSZLfCq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d2Jo8Qfcugo8rsbkuLm35kcQdmL.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O bravo Júlio César foi cruelmente assassinado e a agora a guerra civil ameaça destruir a República. Numa disputa de egos, inúmeros sucessores pleiteiam o cargo deixado por César. É então que Marco Antônio tenta consolidar seu poder se aliando a Atia. O conspirador Brutus tenta ganhar a simpatia do povo, que antes o condenou como assassino. Enquanto isso, Tito Pullo se esforça para tirar seu amigo, Lúcio Voreno, da escuridão que envolveu sua vida após uma tragédia pessoal. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

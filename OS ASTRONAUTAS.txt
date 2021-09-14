@@ -1,0 +1,7 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] OS ASTRONAUTAS [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79172f66446773386d1ec04ca4dabd8d3323a8fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5byDyeVYxUQTm5fqcE4pQedyPJ3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7oE8sytCE6wnFTInZacDDkC6pqK.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Cinco crianças invadem um foguete e acabam sendo enviadas acidentalmente ao espaço. Eles fazem de tudo para conseguir voltar para casa, mas antes devem cuidar da nave e realizar diversas missões.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,35 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] STARGIRL [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20e3058dd96c4deab008e6a080ff7e2efb93e986</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nPXo3mGt51wDeZt5YbT3evMqDiH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/5UUMQ5E7pX4hAcCktXDN7mrKRpS.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Stargirl segue a estudante do segundo ano do Ensino Médio Courtney Whitmore, e como ela inspira um improvável grupo de jovens heróis a deter os vilões do passado. A imprevisível série reimagina Stargirl e o primeiro grupo de super-heróis, a Sociedade da Justiça da América. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] STARGIRL [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ogntmK9hwBomhajqYrHXUAaqkd7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXjpqrx65mlQskf9mfTWSszYODn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Stargirl segue a estudante do segundo ano do Ensino Médio Courtney Whitmore, e como ela inspira um improvável grupo de jovens heróis a deter os vilões do passado. A imprevisível série reimagina Stargirl e o primeiro grupo de super-heróis, a Sociedade da Justiça da América. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AS3ULJ2EZEIQHOABJ3AH7YWDHMIFDNPG</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ogntmK9hwBomhajqYrHXUAaqkd7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXjpqrx65mlQskf9mfTWSszYODn.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75TQZZ4YHDDFB3M3GSCVKE5IWDPAXAWQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ogntmK9hwBomhajqYrHXUAaqkd7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXjpqrx65mlQskf9mfTWSszYODn.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZSBYIEBYOIQHBWZI5NGFPDLQ5N54CY2L</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ogntmK9hwBomhajqYrHXUAaqkd7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXjpqrx65mlQskf9mfTWSszYODn.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OHFWKRCM4KEJMML4ABLIXZVB5PACZUU5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ogntmK9hwBomhajqYrHXUAaqkd7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXjpqrx65mlQskf9mfTWSszYODn.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

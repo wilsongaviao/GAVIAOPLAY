@@ -1,0 +1,17 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MARCO PÓLO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F060FD831111BA0790DAA9B95352030018026753</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sOdpkAdDnSqHHqb36hhsOklhzJs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nLlujkVolfX9jrfQdpJHv9FPFlt.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada da serie que mostra as aventuras de Marco Polo emEm um mundo repleto de inveja, traição, intrigas e rivalidades, Marco Polo se baseia na fama do lendário explorador italiano (interpretado por Lorenzo Richelmy) na côrte de Kublai Khan (Benedict Wong) na China no século 13. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MARCO POLO [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEA285E43451D821E0DE68A5C0B0A1E8E0CE25B9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/fQOSYTppPNPjz7xuJwaLK1U6IRJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/syYTHCBvFlobr8eJjQMKAjrn9yV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada da serie que mostra as aventuras de Marco Polo em um mundo repleto de inveja, traição, intrigas e rivalidades, Marco Polo se baseia na fama do lendário explorador italiano (interpretado por Lorenzo Richelmy) na côrte de Kublai Khan (Benedict Wong) na China no século 13. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 

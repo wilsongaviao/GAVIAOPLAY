@@ -1,0 +1,56 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AS CRÔNICAS DE SHANNARA [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A55B4B14DE32DAEE68E2A2AC9E1393500822819</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8RNoJJn2S8DlA331OyIqTh3zr68.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8RNoJJn2S8DlA331OyIqTh3zr68.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A história ocorre milhares de anos após a destruição da atual civilização, e é centrada na família Shannara, cujos descendentes possuem magia e protagonizam aventuras com o poder de remodelar o futuro do universo. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AS CRÔNICAS DE SHANNARA [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>pIGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A história ocorre milhares de anos após a destruição da atual civilização, e é centrada na família Shannara, cujos descendentes possuem magia e protagonizam aventuras com o poder de remodelar o futuro do universo. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 / 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2C2C172508843EF848451AACEFAF388B7B774A3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FB22B42A7B4B48F0F49D3D986A67C2C17DF8E8EA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74D5DAD48A8756357FF5B3572B61F258FC9F2FE2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:719CF2B13675837D8E25D23111E1DFA8D2729EE5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8353F182C962F5C1571D086975794C76AB237194</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:118B9E46542780D893D0184E1EED728B051A0F8C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:352479D82C37030A422DE613807A13E65783E961</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+#######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09 / 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D858D8B04CED2C267AB671AA49D436DE21E1EF8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mumIOwzoVjMr9aEANbpWyIlYDir.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
