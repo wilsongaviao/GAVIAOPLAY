@@ -68,6 +68,16 @@
 </channels>
 </channel>
 ###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FALLING SKIES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FALLING%20SKIES.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/cNEDnuCorkvaYlaQ7XGgTgo8kgw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série conta a história das consequências de uma invasão alienígena, que não só neutraliza a grade de energia e tecnologia do mundo, mas também destrói os militares de todos os países do mundo em um curto espaço de tempo. É mencionado que mais de 90% da população humana é morta dentro de poucos dias. Os objetivos alienígenas não são bem conhecidos pelos humanos, embora eles capturem crianças e adolescentes, colocando um tipo de "arreio" biotecnológico em suas colunas vertebrais, para que realizem trabalho escravo e, depois de algum tempo, tornem-se um deles A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. O grupo, conhecido como Second Massachusetts (uma alusão a uma milícia de Boston na Guerra Revolucionária Americana), é agora liderado pelo Capitão aposentado Weaver e pelo professor de história da Universidade de Boston, Tom Mason que, embora em busca de seu filho Ben (capturado pelos aliens), deve colocar seu amplo conhecimento da história militar em prática como um dos líderes do movimento de resistência. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FBI: OS MAIS PROCURADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
@@ -84,16 +94,6 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FBI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/uoBXmXoN1iDFbN0zFUtV5QLSqJ2.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo. Assista agora, dublada ou legendada.[/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FALLING SKIES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FALLING%20SKIES.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/cNEDnuCorkvaYlaQ7XGgTgo8kgw.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]A série conta a história das consequências de uma invasão alienígena, que não só neutraliza a grade de energia e tecnologia do mundo, mas também destrói os militares de todos os países do mundo em um curto espaço de tempo. É mencionado que mais de 90% da população humana é morta dentro de poucos dias. Os objetivos alienígenas não são bem conhecidos pelos humanos, embora eles capturem crianças e adolescentes, colocando um tipo de "arreio" biotecnológico em suas colunas vertebrais, para que realizem trabalho escravo e, depois de algum tempo, tornem-se um deles A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. O grupo, conhecido como Second Massachusetts (uma alusão a uma milícia de Boston na Guerra Revolucionária Americana), é agora liderado pelo Capitão aposentado Weaver e pelo professor de história da Universidade de Boston, Tom Mason que, embora em busca de seu filho Ben (capturado pelos aliens), deve colocar seu amplo conhecimento da história militar em prática como um dos líderes do movimento de resistência. [/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
