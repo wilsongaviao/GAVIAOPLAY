@@ -1,3 +1,20 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] O TUNEL DO TEMPO[COLOR lime] COMPLETA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856b7e0f8f2cfbed1f1a509d13d0b49330cc8ef2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ierdSk2jmPX2cw1rVLzonafYmz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/omPcylzcwlsser7aKTlsyoMJLyK.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma série centrada numa máquina do tempo, localizado num subterrâneo no deserto do Arizona, construído pelo governo como uma arma secreta em caráter experimental. Quando um senador do Congresso Americano começa a questionar a viabilidade do projeto e de sua capacidade, um dos cientistas resolve entrar na máquina para provar a funcionalidade da invenção e é transportado no tempo. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O TUNEL DO TEMPO [COLOR crimson] LINK DIRETO[COLOR lime] COMPLETA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856b7e0f8f2cfbed1f1a509d13d0b49330cc8ef2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ierdSk2jmPX2cw1rVLzonafYmz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/omPcylzcwlsser7aKTlsyoMJLyK.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma série centrada numa máquina do tempo, localizado num subterrâneo no deserto do Arizona, construído pelo governo como uma arma secreta em caráter experimental. Quando um senador do Congresso Americano começa a questionar a viabilidade do projeto e de sua capacidade, um dos cientistas resolve entrar na máquina para provar a funcionalidade da invenção e é transportado no tempo. [/COLOR][/B]</info></item>
 <item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 01 -[COLOR yellow] Volta ao Passado[/COLOR][/B]</title>
 <link>https://proxy-029.ix7.dailymotion.com/sec(gZypywRCHzTqoDzDQDPWkmSJZcWtPv-2hJqi5rjAJUcm8psd-QIxcE7S8H7yEUH8iwYqidYvnDJEG0GGLDS56uwx6EyXzIqSYCihHatQZwU)/video/501/698/121896105_mp4_h264_aac_hq.m3u8</link>
 <thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
@@ -122,6 +139,7 @@
 <link>https://proxy-035.dc3.dailymotion.com/sec(EHfdmWMWS3Jm1rUwOSzPqOV4420rWznEnszwz7SflGQmqIPnliatf8Dtvd2lHk7153hgMB0l3zNOXdT59EHPvd3ftDngrpA0pDQ7Z-H3EEo)/video/764/599/152995467_mp4_h264_aac.m3u8</link>
 <thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 
 <item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 26 -[COLOR yellow] O Ataque Dos Bárbaros (Marco Polo)[/COLOR][/B]</title>
 <link>https://proxy-031.dc3.dailymotion.com/sec(vO9SD42pxLpuBzh8FBnsba2lFGcccTQ7DgvcQ0sThKJ7XOSvxTzELtuKi-eB5Rp72kWlAYxnOTT1Seq985Q4_in7b1rJ7cY_LDDxXZ0GjIU)/video/612/289/152982216_mp4_h264_aac.m3u8</link>
