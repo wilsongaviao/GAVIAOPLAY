@@ -68,13 +68,12 @@
 </channels>
 </channel>
 ###################################################################################################################
-<channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FALLING SKIES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FALLING%20SKIES.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/cNEDnuCorkvaYlaQ7XGgTgo8kgw.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]A série conta a história das consequências de uma invasão alienígena, que não só neutraliza a grade de energia e tecnologia do mundo, mas também destrói os militares de todos os países do mundo em um curto espaço de tempo. É mencionado que mais de 90% da população humana é morta dentro de poucos dias. Os objetivos alienígenas não são bem conhecidos pelos humanos, embora eles capturem crianças e adolescentes, colocando um tipo de "arreio" biotecnológico em suas colunas vertebrais, para que realizem trabalho escravo e, depois de algum tempo, tornem-se um deles A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. O grupo, conhecido como Second Massachusetts (uma alusão a uma milícia de Boston na Guerra Revolucionária Americana), é agora liderado pelo Capitão aposentado Weaver e pelo professor de história da Universidade de Boston, Tom Mason que, embora em busca de seu filho Ben (capturado pelos aliens), deve colocar seu amplo conhecimento da história militar em prática como um dos líderes do movimento de resistência. [/COLOR][/B]</info></item>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FBI: OS MAIS PROCURADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FBI%20-%20OS%20MAIS%20PROCURADOS.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/GcoKHLvun8d535uXzjAbNk8W9F.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma equipe do FBI se dedica a rastrear e capturar criminosos que estão no topo da lista de foragidos da organização.Os mais procurados no mundo.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
@@ -85,6 +84,16 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FBI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/uoBXmXoN1iDFbN0zFUtV5QLSqJ2.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo. Assista agora, dublada ou legendada.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FALLING SKIES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FALLING%20SKIES.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/cNEDnuCorkvaYlaQ7XGgTgo8kgw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série conta a história das consequências de uma invasão alienígena, que não só neutraliza a grade de energia e tecnologia do mundo, mas também destrói os militares de todos os países do mundo em um curto espaço de tempo. É mencionado que mais de 90% da população humana é morta dentro de poucos dias. Os objetivos alienígenas não são bem conhecidos pelos humanos, embora eles capturem crianças e adolescentes, colocando um tipo de "arreio" biotecnológico em suas colunas vertebrais, para que realizem trabalho escravo e, depois de algum tempo, tornem-se um deles A história começa seis meses após a invasão, e segue um grupo de sobreviventes que têm de se unir a fim de revidar. O grupo, conhecido como Second Massachusetts (uma alusão a uma milícia de Boston na Guerra Revolucionária Americana), é agora liderado pelo Capitão aposentado Weaver e pelo professor de história da Universidade de Boston, Tom Mason que, embora em busca de seu filho Ben (capturado pelos aliens), deve colocar seu amplo conhecimento da história militar em prática como um dos líderes do movimento de resistência. [/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
@@ -217,7 +226,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERMAN E LOIS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/18p68YN6HnFbq2XSD8zmV07gvXd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SUPERMAN%20E%20LOIS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/gmbsR4SvYhhj4SvLAlTKxIkFxp9.jpg</fanart>
 <info>[B][COLOR yellow]Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.[/COLOR][/B]</info></item>
 </channels>
@@ -227,7 +236,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]S.W.A.T. - FORÇA DE INTERVENÇÃO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1T3asMkcgN881Re8jzcJ-cBm6iM_cSNHQ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/S.W.A.T.%20-%20For%C3%A7a%20De%20Interven%C3%A7%C3%A3o.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/jEz0xhUlQb0QWt3Xow4c9aAcCIR.jpg</fanart>
 <info>[B][COLOR yellow]Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.[/COLOR][/B]</info></item>
 </channels>
@@ -237,7 +246,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE FLASH[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1eR5PAMydz3TgpSkjwOUOOmtl2ZthIUc3</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20FLASH.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/rkRqvadAVWzdnrS6bdcUAyJtfpy.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Barry Allen, um cientista forense que trabalha no departamente de polícia de Central City, é banhado por produtos quimicos modificados pela descarga elétrica de um raio e ganha o poder de correr a velocidades extraordinários. Um poder que ele usa para combater o crime, tornando-se o super-herói Flash. [/COLOR][/B]</info></item>
 </channels>
@@ -247,7 +256,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]THE SHIELD - ACIMA DA LEI [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1OsoTVx-dpoN_IFo3SL5O46w_Id_8nixt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20SHIELD%20%20ACIMA%20DA%20LEI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/aP4NzV0L8vKbxPqpQK7BCuxQvRy.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série acaba com a fórmula convencional do gênero policial, pois se passa em um mundo duro, moralmente ambíguo no qual a linha entre o bem e o mal é ultrapassada todos os dias. As histórias são focadas na tensão entre um grupo de policiais corruptos, mas eficazes e um capitão dividido entre acabar com os caras maus e prosseguir com suas próprias ambições políticas. The Shield estrela Michael Chiklis (The Commish) como o policial desonesto Det. Vic Mackey, líder da unidade de elite Strike Team, que é eficaz em acabar com o crime, mas opera sob suas próprias regras. Benito Martinez (Epidemia) interpreta o Capitão David Aceveda, o chefe da delegacia que não gosta das táticas de Mackey e quer tirá-lo da força. E CCH Pounder (Plantão Médico), interpreta Det. Claudette Wyms, uma detetive veterana que entende Mackey e sabe como agir dos dois lados da coisa.[/COLOR][/B]</info></item>
 </channels>
@@ -257,28 +266,10 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIKINGS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=17To96aKwFx2fCyZ-O1yfKvVzNzc-ENFZ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/VIKINGS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/oa2gIzDwZ5weyZea5iXPLrQ7leN.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.[/COLOR][/B]</info></item>
 </channels>
-###################################################################################################################
-
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][EM BREVE/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://abutretorrents.com/imagens/the-outpost-4-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-</channels>
 </channel>
-###################################################################################################################
 
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EM BREVE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://abutretorrents.com/imagens/fbi-most-wanted-2-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-</channels>
-</channel>
 
