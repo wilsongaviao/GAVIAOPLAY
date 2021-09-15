@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-ID="" tvg-name="CLASSIC HITS" tvg-logo="http://168.205.87.198/logocanais/classichits.png" group-title="OI TV BASICO",CLASSIC HITS
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/27.m3u8
+<item>
+<title>Classic Hits</title>
+<link>http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://cdn-profiles.tunein.com/s249942/images/brickg.jpg?t=637417553190000000</thumbnail>
+</item>
