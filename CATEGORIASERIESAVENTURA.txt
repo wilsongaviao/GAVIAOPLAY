@@ -178,16 +178,16 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO REINO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c03QKlxQWg743GrQGKGrhmVsdVE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=11o7WqyqbRvEfRrWFHoZgkl4Y_Fh66GO8</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20ULTIMO%20REINO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série se passa em 872, quando muitos dos Reinados que hoje fazem parte da Inglaterra caíram nas mãos dos Vikings, o reinado de Wessex ficou sob o comando de Alfred, o Grande. Em uma mistura de heroísmo, política, religião, coragem, amor, lealdade, e a eterna busca por identidade, a série mistura figuras reais que fazem parte da História com eventos e personagens fictícios. [/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PANIC[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PANICO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jIWO8GKclxOJgtC0jXAyJgMMla8.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1D898zy1pUVQElLN2sSdG5rVkvJQNMLtS</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PANIC.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/5HJCrRGlQJppSQAzNwCpwnVn2XX.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Na esquecida cidade de Carp, Texas, o Pânico é a única saída. Todo verão, jovens arriscam suas vidas competindo em uma série de desafios pela chance de ganhar um prêmio em dinheiro. Após a morte de dois jogadores, o risco - e o perigo - nunca foram tão altos. Neste verão, vinte e três jogadores entrarão no jogo. Todos eles sairão mudados. Apenas um vai vencer. Que os jogos comecem.[/COLOR][/B]</info></item>
 </channels>
@@ -196,7 +196,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROMA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1LuOIl1Yl5QNv-WQLaQwh7ITvMhVoU2XL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ROMA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/jSZsCkey60fz6BGAmAjkkW6pqx1.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Série retrata acontecimentos que datam de 52 a.C., quatrocentos anos depois da fundação da república na principal metrópole mundial da época, marcada por rivalidades, traições e guerras. Os episódios da primeira temporada mostram desde a vitória de Júlio César na batalha de Alésia até seu assassinato por conspiradores do Senado por causa de medidas populistas.[/COLOR][/B]</info></item>
 </channels>
@@ -206,7 +206,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SCORPION - SERVIÇO DE INTELIGÊNÇIA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1Edm68SE8JeOzyTafZnTOOuLTx.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1HPQtf0WJ69s36aDzWrNzuv672L0DuiMy</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SCORPION.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mUBOpIZClH4pO32SIpCwKAyKU9y.jpg</fanart>
 <info>[B][COLOR yellow]A história é inspirada na vida de Walter O’Brien. A série apresenta a vida de Walter (Elyes Gabel), o homem com o quarto QI mais elevado do mundo. Com o objetivo de oferecer soluções para os problemas do mundo, ele monta a Scorpion, uma empresa para a qual recruta pessoas com os melhores intelectos. Agora, além de unirem suas mentes para resolver problemas de relevância global, eles também ajudam uns aos outros a se sentirem parte integrante da sociedade. Entre os membros da equipe estão Toby (Eddie Kaye Thomas), um gênio especializado no comportamento humano; Happy (Jadyn Wong), gênio da mecânica; e Sylvester (Ari Stidham), um gênio das estatísticas. [/COLOR][/B]</info></item>
 </channels>
@@ -216,7 +216,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SKY ROJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1ISswStfce_jUNUsjvSQJU7Rpr1wv6dKR</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SKY%20ROJO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/emGVycbIfiY7l3AVfZeixh04xBD.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Sky Rojo conta a história de três prostitutas que fogem de casa após deixarem seu cafetão gravemente ferido e sentenciado à cadeira de rodas. Uma brasileira, uma colombiana e uma espanhola fazem uma viagem sabendo que têm grandes chances de morrer. Tendo cometido vários crimes graves, sem poder pedir ajuda à polícia e com a máfia em sua busca, elas têm apenas duas opções: fugir até que sejam pegas ou serem as primeiras a revidar.A série terá duas temporadas de 8 episódios de 25 minutos. [/COLOR][/B]</info></item>
 </channels>
@@ -226,7 +226,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SMALLVILLE: AS AVENTURAS DO SUPERBOY[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1havbHDthGy0dqo8lXM_NYLGZNMpqdI8e</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SMALLVILLE.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/poWBDD55lQZxe4kjOFAOZ7jI3ca.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Antes da vida como Super-Homem, o jovem Clark Kent encara os problemas da adolescência enquanto aprende a controlar seus poderes e usá-los para proteger a cidade de Smallville.[/COLOR][/B]</info></item>
 </channels>
@@ -234,9 +234,9 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STARGATE SG1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STARGATE SG1[COLOR yellow] LINK DIRETO] [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/9Jegw0yle4x8jlmLNZon37Os27h.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=185zoid7Hv2Wwaisc2zBD611A9_Z0ezmc</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STARGATE%20SG1.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/ul7W8lwLIgxre1LXigFw55upfZ5.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Uma equipe de exploradores composta de soldados e cientistas viaja através do Stargate, um portal que dá acesso a outros planetas. Eles usam a passagem para explorar novos mundos e proteger a Terra contra forças inimigas.[/COLOR][/B]</info></item>
 </channels>
@@ -245,8 +245,8 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STARGIRL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://abutretorrents.com/imagens/stargirl-1-temporada-completa-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1w4QIpwkmQtlIuZP6U65WYmSgvNaQDq7p</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogntmK9hwBomhajqYrHXUAaqkd7.jpg</thumbnail>
+https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STARGIRL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/patQkA8aQ4ZhevWSpPLninFlmYc.jpg</fanart>
 <info>[B][COLOR yellow]Stargirl conta a história de Courtney Whitmore (Brec Bassinger), estudante forçada a se mudar para uma nova cidade, depois que sua mãe se casa novamente. Ela só não esperava que seu padrasto, Pat Dugan (Luke Wilson), costumava ser Stripesy, o braço direito do herói Starman (Joel McHale). Armada com seu bastão mágico, ela vai acabar inspirando uma nova geração de heróis inusitados.[/COLOR][/B]</info></item>
 </channels>
@@ -256,7 +256,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STAR TREK DISCOVERY[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ihvG9dCEnVU3gmMUftTkRICNdJf.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1uwe4wk5lzBmHp3Q4EKtrzD_Yvm5bS0oy</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STAR%20TREK%20DISCOVERY.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vQEHkHVZgQUaEc1A1tEopc71IbZ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -266,7 +266,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]XENA - A PRINCESA GUERREIRA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZ7UQJTGJrOLPylhjNA0i969jAU.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-ZVev5bqe8hfVXxI02cBklbdgMuolBV2</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/XENA%20A%20PRINCESA%20GUERREIRA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/6pquLTX8cNRkt8k5izHthxRf0H6.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Xena, uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle, uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor.[/COLOR][/B]</info></item>
 </channels>
