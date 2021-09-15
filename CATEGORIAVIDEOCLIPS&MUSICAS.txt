@@ -1,0 +1,38 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEO CLIPS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/BQwn27QF/VIDEOCLIPS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Eos2g18gKJ-43z8q5rMOmKVwcfUQG29a</externallink>
+<fanart>https://i.postimg.cc/FRYFt65x/fanartvideoclips.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEAS EM VIDEOCLIPS DE SUCESSOS  COM MÚSICAS DOS MAIS VARIADOS GENEROS E EM VÁRIOS IDIOMAS[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MÚSICAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/mrL95HRW/MUSICAS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1j9hgJOyKIY8mNkfCGdBK2k6_H_gN3U5w</externallink>
+<fanart>https://i.postimg.cc/vmbHmn82/fanartmusicas.jpg</fanart>
+<info>[B][COLOR yellow] COLETÂNEAS DE SUCESSOS  COM MÚSICAS DOS MAIS VARIADOS GENEROS E EM VÁRIOS IDIOMAS[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###############################################################################################################################
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RADIOS ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxqNHpFX/RADIOS-ON-LINE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1e6T95g1cn3PXPOEFkHAPf2bM7eOuoS8F</externallink>
+<fanart>https://i.postimg.cc/xd9cfHrW/FANART-RADIO-ON-LINE.jpg</fanart>
+<info>[B][COLOR yellow]RELAÇÃO DE RADIOS ON LINE QUE TOCAM SUCESSOS  DOS MAIS VARIADOS GENEROS[/COLOR][/B]</info></item>
+</channels>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/1t4WVzWw/SHOWS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1T0-x97iZUj8C6pQ-uYt1S88abN_ojwEm</externallink>
+<fanart>https://i.postimg.cc/7Zpw9vPx/fanartshows.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEAS DE SHOWS NACIONAIS E INTERNACIONAIS DOS MAIS VARIADOS GENEROS E CANTORES E BANDAS NACIONAIS E INTERNACIONAIS[/COLOR][/B]</info></item>
+<channels>
+</channel>
+###############################################################################################################################

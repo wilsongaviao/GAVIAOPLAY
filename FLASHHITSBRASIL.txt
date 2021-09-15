@@ -1,0 +1,41 @@
+<item>
+<title>[B][COLOR white]MÚSICAS POP NACIONAL BRASILEIRO 2021[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCwAHfhr-Gc8XuJWjdN--7-DdGjoAzwzx/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+##################################################################################################################
+<item>
+<title>[B][COLOR white]MPB SÓ AS MELHORES 2021 - AS MAIS TOCADAS E LANÇAMENTOS [/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/PLWWhu0Ph3X5gZPSnXaNbVMn6GbwCu-AH7/?page=0</jsonrpc>
+<thumbnail>https://i.scdn.co/image/ab67706c0000bebbfcbd4b3fffb124b74736845a</thumbnail>
+</item>
+##################################################################################################################
+<item>
+<title>[B][COLOR white]POP BRASIL SPOTIFY  2019[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/PLD05WOOM8C8-swIAPsp_JDaS_VPzmLYi6/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+##################################################################################################################
+<item>
+<title>[B][COLOR white]MELHORES MUSICAS POP NACIONAL DE TODOS OS TEMPOS[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/PL_Q15fKxrBb6vHNpj80QWsYRiLCdT8Sao/?page=0</jsonrpc>
+<thumbnail>https://i.scdn.co/image/ab67706c0000bebbe0476ebc4ee25b4544615ae0</thumbnail>
+</item>
+##################################################################################################################
+<item>
+<title>[B][COLOR white]POP NACIONAL 2021: AS MELHORES DO POP BRASILEIRO[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/PLiTGyeyGy8KBGMcZw6cJigBdM74dcGoiq/?page=0</jsonrpc>
+<thumbnail>https://img.vagalume.fm/1470169276225492/featured</thumbnail>
+</item>
+##################################################################################################################
+<item>
+<title>[B][COLOR white]POP ROCK NACIONAL ACÚSTICO (Melhores Pop Rock)[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/PLR3Vhhv_y4m7bBYUcnwJBLlWAPR2lX-C6/?page=0</jsonrpc>
+<thumbnail>https://www.letras.com.br/storage/playlist/f/1/2/c/b/f1.png</thumbnail>
+</item>
