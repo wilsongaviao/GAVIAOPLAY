@@ -1,0 +1,65 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ANIMAL KINGDOM [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACF90751712D3C599B77C82E49152A6114A79645</link>
+<thumbnail><https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sLLf8wRlPlBa7WBBYvaIw4A6gcq.jpg/thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oT1IE1GWRs4OWdBDA4u7hZaF6Oa.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Animal Kingdom primeira temporada completa e dublada. Animal Kingdom é um drama de família centrado em Joshua J Cole, um garoto de 17 anos que se muda com seus parentes para um praia do sul da Califórnia após a morte da mãe, vítima de uma overdose de heroína. Logo, Josh mergulha na vida de indulgência e excessos da família, que ele logo descobre, é fundada em atividades criminosas. Controlado pela durona avó do garoto, a matriarca Janine Smurf Cody, e pelo braço direto Baz, que gerencia os negócios e toma as decisões, o clã conta traz Pope, o mais velho e mais perigoso; Craig, o destemido filho do meio; e Deran, o problemático e desconfiado caçula. O grupo ainda traz Nicky, a namorada de J, e Catherine, a esposa de Baz e mãe da filha de 3 anos do casal, Lena. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ANIMAL KINGDOM [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D65A2B6543FCD213ABB44510B8BFF719CEDA7AE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3o6bfDYf1wJQEmRKyJxIAykEaoW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tjW5k1SkAQYewd1zIWh8zF4vpn7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Animal Kingdom segunda temporada completa e dublada. Animal Kingdom é um drama de família centrado em Joshua J Cole, um garoto de 17 anos que se muda com seus parentes para um praia do sul da Califórnia após a morte da mãe, vítima de uma overdose de heroína. Logo, Josh mergulha na vida de indulgência e excessos da família, que ele logo descobre, é fundada em atividades criminosas. Controlado pela durona avó do garoto, a matriarca Janine Smurf Cody, e pelo braço direto Baz, que gerencia os negócios e toma as decisões, o clã conta traz Pope, o mais velho e mais perigoso; Craig, o destemido filho do meio; e Deran, o problemático e desconfiado caçula. O grupo ainda traz Nicky, a namorada de J, e Catherine, a esposa de Baz e mãe da filha de 3 anos do casal, Lena. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ANIMAL KINGDOM [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/hqmREEBT1Xbm1Zz0OauZ6SvvOy8.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 / 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c4a28c887fde4cb34edea7f2da9563e8470cd9</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/hqmREEBT1Xbm1Zz0OauZ6SvvOy8.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03 >>> 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bccd326da7384029fbaf24951559bc99e9c8376</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/hqmREEBT1Xbm1Zz0OauZ6SvvOy8.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08 / 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41e6110fbbddd58b03240e738715ad7800fe8b75</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/hqmREEBT1Xbm1Zz0OauZ6SvvOy8.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10 / 11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1478ced7606de6c07e65f56df358d83d99e131c3</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/hqmREEBT1Xbm1Zz0OauZ6SvvOy8.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12 / 13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fe92f76299afc43acddcda230af02c4a6ccc2c4</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/hqmREEBT1Xbm1Zz0OauZ6SvvOy8.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ANIMAL KINGDOM[COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mLSAwf8IEYnBFqxvZv1guizE1ma.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9c6fuzHFKmSE3UBcZ470SvsEJtW.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ANIMAL KINGDOM [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ypl5bChfHVLMFbVpmNbmJo7RAu3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eQJwfyMqSra10ck8HOoiCrbQR32.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

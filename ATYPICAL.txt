@@ -1,0 +1,32 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ATYPICAL [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d8bd695c8cee3d8ca1a49b4c3b8dc4e398c3c8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/1hQ9LmUA6i5PO6yGODvFyqnqoMd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/esZmEzWOObWmj72Vi0Y1gyczaIW.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando um jovem autista decide arrumar uma namorada, seu desejo de independência leva a família inteira a uma jornada de autodescoberta.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ATYPICAL [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C644388CED56597BFFF46B2A14DCBBFD208FD76F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/i1xqghqv3Q24Wb72FtZSHnkcbIt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ujIl1qxXwNzpP1m85YMIucLoTNw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Enquanto Elsa e Doug enfrentam as consequências da crise no casamento e Casey tenta se adaptar à nova escola, Sam se prepara para a vida após a formatura.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ATYPICAL [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:368c230fc5dde511e21d16c4bcd84d1d5ee77cd1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/l36thHtZ8D4ROb9rel6VEwyn8Ne.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1VSwy48zZE5EchorC3ra1entcj6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]No primeiro ano de faculdade, Sam encara novos desafios, como fazer amigos e administrar seus compromissos.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ATYPICAL [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3RMY2P5NE4GY3BBEN4MSM366DRHHVNQX</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/j8E67Na39fjoow4m8IoYcXBbCsF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zUt8nPe9yF29g5Gbq0t16ZHYDmR.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A série acompanha um jovem de 18 anos com autismo em sua busca por amor e independência. Sua jornada de autodescoberta é tão divertida quanto dramática e tem um impacto em toda a sua família, forçando-os a lidar com as alterações em suas próprias vidas e os fazendo questionar: afinal, o que realmente significa ser normal? [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

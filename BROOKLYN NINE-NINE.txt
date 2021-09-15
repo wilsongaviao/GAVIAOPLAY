@@ -1,0 +1,63 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F482ED3993D5A635A000F39E947A1AF8C0B2101</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6UEUurR6Hb277ij9vZRVjx24Udp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>magnet:?xt=urn:btih:EBFBE4AA426E6AAE388DBE4DD405190DE1F80076
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B3D79176E3330AE3EBE243F7C7D956A9380C591</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mEECFQlAn8p8ewRtlUSte2QwJOW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jsWrnoVU65ccbR8s637jp86IHdM.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D1BECF73C3CFE5019689D2E145CD462FC2F6DF2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nANfJdvb4GRl5p45PTNvpMhaqu7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/phbIhlsYHH0c7A336Z007lEqQX6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A8875D97C2136EC668E56FC6B002C6015AB14C9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/yxNc7Klk1OTlo9CvLUCbZBGS2LK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pnrXtoj5reP76kachklPNy33J7N.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646E704AC63FF344F747FBCCCDC7D977315A3528</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/fXzMs8IUQtTARFVbckceyXjcnaz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rglWa6EgRaSulFb72SfyoxG238n.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd176aa05769c41e99be1da06da7b227e468f1eb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/imcxmIEU00wm8n1V4xL8mJYYH5Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qK4muWo740vvpNROljzUOEBNZ5J.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 7ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4e542c2cb144412969696bba919c79089a7f74</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mWWqh0Knb01YSY0bZaCX4mEIJJO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6w2X88vJUcstG5pSkJGpHCgAsJQ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BROOKLYN NINE-NINE [COLOR lime] 8ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09e5be102db992843c52df58efef84f7012b4406</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/hgRMSOt7a1b8qyQR68vUixJPang.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tSm049VBst1tABNr2BECezpVxMh.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

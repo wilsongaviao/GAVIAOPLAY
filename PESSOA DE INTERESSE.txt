@@ -1,0 +1,71 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white]PESSOA DE INTERESSE - [COLOR lime]1ª Temporada[COLOR red] TORRENT[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EC02818E7432C2C51FD81E0C1E462413F909D03</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+######################################################################################################################################
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white]PESSOA DE INTERESSE - [COLOR lime]2ª Temporada[COLOR red] TORRENT[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CFD2FBA1442A8E078F1A2B9546F99F8CFEED323</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white] - [COLOR lime]3ª Temporada[COLOR red] TORRENT[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D1C784EE8C14E214EC572E7D0D7A5805C82CB3B</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white] - [COLOR lime]4ª Temporada[COLOR red] TORRENT[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1AF02A96AA0974B7CE0F4A9510E0D348DF7F08AC</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white] - PESSOA DE INTERESSE [COLOR lime]5ª Temporada[COLOR red] TORRENT[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:2E81D40BF3AE8C2CB63B257A42E8153EB3FA85DE</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C60FDCD91F4C01444D535C7A5E35CB82FC621A1A</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF9289B23F288D3683C6A9B2B34E8D5207A1C59B</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 05[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7428B22BB10A6446BA3DF4B6979711CD3F09068F</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DC87DFAFF7FCA9BF74662F5AC3396F09E3E91502</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35F03A5698EF855A79A3D07E2D5DD2C1CAE62AE9</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D981F6140FA73D7DBD44D2B94D771510796EDE9B</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 09[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:270D0E178AC24789F8C0C421C3EF5E9AA606BAD6</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 10[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64DDBD3B1C15DAB480C37856CADE630844A6EA7A</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 11[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232BC27DB74B486869B0958E8A78F0A7DB1B65DD</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 12[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13D1918D4A5C794B4DE078FC8D05C21E526436C4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79E555AC9F7A22576362814721C71DD0DB0C08E1</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

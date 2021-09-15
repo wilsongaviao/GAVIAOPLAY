@@ -1,0 +1,44 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BREAKING BAD - A QUIMICA DO MAL [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:bbd4d315a00580f9cafd9c36f35165c83f13043c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Em Breaking Bad (A Química do Mal) primeira temporada Bryan Cranston, premiado com o Emmy, é a estrela da série no papel de Walter White, um professor de química que leva uma vida difícil e luta para pagar as contas sustentando a esposa (Anna Gunn) e o filho, que tem dificuldades físicas (RJ Mitte). Sua vida inteira muda diante de um diagnóstico perturbador: câncer do pulmão sem possibilidade de cura. Com poucos anos de vida e nada mais a perder, Walter usa seus conhecimentos de química para fazer e vender metanfetamina com um dos seus ex-alunos (Aaron Paul). Seus negócios crescem e as mentiras também, mas nada detém Walter em sua missão de assegurar o futuro da família após a sua morte, mesmo que ele tenha que arriscar a vida da família toda. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BREAKING BAD - A QUIMICA DO MAL [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:f32eb77f755f0d349271a74e930b1cc4bb37bb49</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/wm2vIEbb6lmyj8MF2PfKc0Gte3U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vFxjuhENDjEKzWXUGKmRFct15bA.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Walter e Jesse sobem rápido no mundo das drogas, atraindo a atenção de cartéis rivais e ameaçando a vida de Hank, cunhado policial de Walter.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+ <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BREAKING BAD - A QUIMICA DO MAL [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:e5351277c0f311c5335df2cfa25f0ab35bc1e569</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ReYdHeVjpC2f47heAVzqsMvfri.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q4js3LcDAYXyK8lLYggfCGecOOO.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Para sustentar sua família, Walter continua a fabricar metanfetamina às escondidas. Jesse, seu ex-aluno, fica viciado em heroína.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BREAKING BAD - A QUIMICA DO MAL [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:b3c17c5d56b3ff4088cfb33cbf98eb6ff4b5ce38</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/miAH1yeT7XIqUpXBDpVfoVybFl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/alb2BU2BeBZv5dgHhuzV9ZGakfZ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Bryan Cranston está de volta em mais uma temporada como Walter White, que continua a fabricar cristal e tenta passar a perna no traficante Gus Fring.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BREAKING BAD - A QUIMICA DO MAL [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:525f80c8c7a73e48a914ee57eabac597aea1e5d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/b5wn600jumP0FcrvAcJkvIz1CrK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8HDLgNrbMJYmwCIYaxzoPJtLbV0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Nos episódios finais, Walt já não está mais apenas fingindo ser mau. Ele é agora um poderoso chefe do narcotráfico, pondo tudo e a todos em risco.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 

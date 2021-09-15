@@ -1,0 +1,7 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ANOS INCRIVEIS [COLOR lime] 6 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c182220cfcf0f0a38e55d364c30faa97341d5b80</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4fDG5FdnJLpYykANS7tenFpKIo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jDl283hhrVjV0g12qxgcQyCF76U.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Anos Incíveis apresenta as questões sociais e os eventos históricos do final dos anos 60 e início dos anos 70, recheado de músicas da época através dos olhos do protagonista Kevin Arnold, que também vive os assuntos da adolescência (principalmente com seu grande amigo Paul e sua paquera, Winnie Cooper), diversas situações com seus familiares e outros. Enquanto se passam as histórias, os acontecimentos são narrados por um Kevin mais velho e experiente, que descreve o que acontece e conta o que aprendeu de suas experiências.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
