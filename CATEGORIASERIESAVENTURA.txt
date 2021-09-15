@@ -169,7 +169,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O MUNDO PERDIDO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/whA1PLf8nslT3R7kSvCssTCCUba.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1thiCLafR_6fSzahtBbYA4wy8cB3N-TKt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20MUNDO%20PERDIDO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7ggAjuO3g4AMt3p1ZsGeBNqLMsb.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]No início do século XX, um grupo de aventureiros toma parte em uma expedição que visa provar a existência de um mundo isolado da vida moderna. Desastres acontecem e o grupo termina preso nessa terra, contando unicamente com a ajuda de uma jovem mulher selvagem que também terminou presa na ilha quando criança. Juntos, eles lutam para sobreviver aos ataques dos dinossauros e a outros perigos que a ilha traz, conforme procuram por um jeito de escapar.[/COLOR][/B]</info></item>
 </channels>
@@ -259,16 +259,6 @@
 <externallink>https://docs.google.com/uc?export=download&id=1uwe4wk5lzBmHp3Q4EKtrzD_Yvm5bS0oy</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vQEHkHVZgQUaEc1A1tEopc71IbZ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]S.W.A.T - FORÇA DE INTERVENÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://abutretorrents.com/imagens/swat-forca-de-intervencao-4-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1_uC1d30dAY-NDay9GxlyTRbAkONnsfDS</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
-<info>[B][COLOR yellow]Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
