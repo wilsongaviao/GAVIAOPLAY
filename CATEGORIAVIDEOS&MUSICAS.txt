@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEO CLIPS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQwn27QF/VIDEOCLIPS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Eos2g18gKJ-43z8q5rMOmKVwcfUQG29a</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAVIDEOCLIPS.txt</externallink>
 <fanart>https://i.postimg.cc/FRYFt65x/fanartvideoclips.jpg</fanart>
 </channels>
 </channel>
