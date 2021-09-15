@@ -33,7 +33,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SÉRIES DIVERSAS [/COLOR] [COLOR crimsonb]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/bw70YDVp/SERIESDIVERSAS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=11L7fsWFW_OrkmQbP--5th_8mps8tXEVE</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIESDIVERSAS.txt</externallink>
 <fanart>https://i.postimg.cc/FKdz7YSs/fanartseriesdiversas.jpg</fanart>
 <info>[B][COLOR yellow]OTIMA COLETÂNEA DE SÉRIES DE DIVERSTOS ESTILOS.SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
 </channel>
