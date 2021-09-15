@@ -1,5 +1,5 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] PANIC [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] PANICO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AU2XEOBPA5QXSA34ZSDI5CPQLFNFKURT</link>
 <thumbnail>https://abutretorrents.com/imagens/panic-1-temporada-completa-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Todo ano, adolescentes competem em um jogo perigoso depois de se formarem no ensino médio, onde podem ganhar uma chance de escapar de sua pequena cidade rural. Mas neste ano, as regras mudaram: a quantidade de dinheiro do prêmio é maior e o jogo se tornou ainda mais perigoso. Os jogadores irão enfrentar cara a cara seus maiores e mais sombrios medos, e serão forçados a decidir até que ponto estão dispostos a correr riscos para ganhar. [/COLOR][/B]</info></item>
