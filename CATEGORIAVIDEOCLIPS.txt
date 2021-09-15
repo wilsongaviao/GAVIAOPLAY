@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CLASSIC [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/htxMBxHJ/FLASHHITS1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CLASSIC%20HITS.txt</externallink>
+<fanart>https://i.postimg.cc/jjZyKV2J/fanartflashits1.jpg</fanart>
+<info>[COLOR yellow]CANAL DE VIDEOCLIPS DE SUCESSOS INTERNACIONAIS E NACIONAIS DOS ANOS 70,80,90 ,2000  24 HORAS[/COLOR]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/htxMBxHJ/FLASHHITS1.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1o8aOnkPIT4Kz2PPoDshm5movC0OQb-4k</externallink>
