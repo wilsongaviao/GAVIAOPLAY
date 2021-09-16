@@ -1,9 +1,13 @@
 
 
-<item><title>[B][COLOR yellow]*****[/COLOR][COLOR white] XENA:A PRINCESA GUERREIRA[COLOR yellow]*****[/COLOR]
-[COLOR red]*****[COLOR orange]1ª TEMPORADA[/COLOR][COLOR gray]1995[COLOR white][COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-###################################################################################################################
-
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT[COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85CF9CB1C7FE793B674E5B8E10649DA01C7A7E19</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/hwCplqbGCMDd5jPjeCP9OlOJnup.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c9bwsqTNRr1r7HGKDAu4OfYlBAt.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
 <item><title>[B][COLOR white]EP 01 [/COLOR]-[COLOR yellow]  Pecados do Passado [/COLOR][/B]</title>
 <link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP01-Pecados%20Do%20Passado.mp4</link>
 <thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
@@ -100,9 +104,11 @@
 ###################################################################################################################
 
 <item><title>[B][COLOR white]EP 24 [/COLOR]-[COLOR yellow]  Magia ou Medicina? [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP24%20-%20Magia%20ou%20Medicina.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+#
 
 
-###################################################################################################################
+##################################################################################################################
 <item><title>[B][COLOR crimson]*****[/COLOR][COLOR yellow]XENA:A PRINCESA GUERREIRA[COLOR red]*****[/COLOR]
 [COLOR red]*****[COLOR orange]2ª TEMPORADA[/COLOR][COLOR gray]1996[COLOR white](Dublada)[COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link>
 <thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item>
