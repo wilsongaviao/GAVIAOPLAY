@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]9 1 1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=14z_z1jRwKdqxhIQa0Oap_xAl1ZT6u5J1</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/911.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/1KxLxLcMZbtR3Jf32s2jhvZzA6r.jpg</fanart>
 <info>[B][COLOR yellow]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.[/COLOR][/B]</info>
 </channels>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANIMAL KINGDOWN[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tpnHrx2UuBF0lQiZsGP40t4P9ml.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1zxyhiF8nV_JK5R7IN-uDsNoW5NUawNOl</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANIMAL%20KINGDOWN.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vROmQIKHKo0ZRaDFcVyq5eJTsoi.jpg</fanart>
 <info>[B][COLOR yellow] Animal Kingdom é um drama de família centrado em Joshua J Cole, um garoto de 17 anos que se muda com seus parentes para um praia do sul da Califórnia após a morte da mãe, vítima de uma overdose de heroína. Logo, Josh mergulha na vida de indulgência e excessos da família, que ele logo descobre, é fundada em atividades criminosas. Controlado pela durona avó do garoto, a matriarca Janine Smurf Cody, e pelo braço direto Baz, que gerencia os negócios e toma as decisões, o clã conta traz Pope, o mais velho e mais perigoso; Craig, o destemido filho do meio; e Deran, o problemático e desconfiado caçula. O grupo ainda traz Nicky, a namorada de J, e Catherine, a esposa de Baz e mãe da filha de 3 anos do casal, Lena. [/COLOR][/B]</info>
 </channels>
@@ -24,7 +24,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANOS INCRIVEIS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1FaqDh8dmS_QBpKG6B97Iq-KnctvWs2iK</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOS%20INCRIVEIS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/26JD1Ob6bAeOqHPlTdcdyjtNx5E.jpg</fanart>
 <info>[B][COLOR yellow]Anos Incríveis apresenta as questões sociais e os eventos históricos do final dos anos 60 e início dos anos 70, recheado de músicas da época através dos olhos do protagonista Kevin Arnold, que também vive os assuntos da adolescência (principalmente com seu grande amigo Paul e sua paquera, Winnie Cooper), diversas situações com seus familiares e outros. Enquanto se passam as histórias, os acontecimentos são narrados por um Kevin mais velho e experiente, que descreve o que acontece e conta o que aprendeu de suas experiências. É isso que torna a série especial e diferente das outras.[/COLOR][/B]</info>
 </channels>
@@ -34,7 +34,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ARQUIVO X[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0uhiJmkzlJsvTyn0KKiLwrwGwA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1KdgYMrYKxBasb3v6frgUjJXvlWa8n_Jv</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ARQUIVO%20X.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mgvZU9Q05yKmQP0Q6V05hkqnS3B.jpg</fanart>
 <info>[B][COLOR yellow]Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.[/COLOR][/B]</info>
 </channels>
@@ -44,7 +44,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ATYPICAL[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZ10Q7bEBP5bYD8DpKIbsRxdpeC.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1PeEz_pBmN0N8hSxovyUxwpCw6_Gmvnxq</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ATYPICAL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/nPfVWNbDBarcDD5xzHpRB9uHkNx.jpg</fanart>
 <info>[B][COLOR yellow]A série acompanha um jovem de 18 anos com autismo em sua busca por amor e independência. Sua jornada de autodescoberta é tão divertida quanto dramática e tem um impacto em toda a sua família, forçando-os a lidar com as alterações em suas próprias vidas e os fazendo questionar: afinal, o que realmente significa ser normal? [/COLOR][/B]</info>
 </channels>
@@ -54,7 +54,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]A ANATOMIA DE GREY(GREYS ANATOMY)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yfXJKgtITDfZ12RiNfALz69p9K.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1XboEi4ODFPvP-8pTf0d_i0_eied8yuwZ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/GREYS%20ANATOMY.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/ym20NYY99jNH0OzSg4TgLLGsQF9.jpg</fanart>
 <info>[B][COLOR yellow]Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.[/COLOR][/B]</info>
 </channels>
@@ -64,7 +64,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]A BIBLIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqGupIDrTHosdGTm5N0V4qMrZyf.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1elAs3ebL0XZ8H-uxAV9To4rgFqEJymz-</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20BIBLIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qDDnuOJxq3jd91PHlea8XWFmfzt.jpg</fanart>
 <info>[B][COLOR yellow]Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.[/COLOR][/B]</info>
 </channels>
