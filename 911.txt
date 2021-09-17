@@ -4,7 +4,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/yheHtZxBE8YC7ridKyjIX4Ma1iR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qt34qZ2jSf57PWmdSqpGdzl7ajm.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]911 é o número de telefone discado em casos de emergência e, por meio deles, diversas vítimas conseguem ser salvas. Agora, os operadores por trás deste número revelam seu dia a dia, mostrando as histórias mais marcantes e emocionantes que eles já viveram durante o expediente de trabalho. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] 9-1-1 [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
@@ -102,7 +102,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84f009c9cd240e8e76f4ffaa334c6d93ff4c6a4c&</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/yheHtZxBE8YC7ridKyjIX4Ma1iR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qt34qZ2jSf57PWmdSqpGdzl7ajm.jpg</fanart></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] 9-1-1 [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
