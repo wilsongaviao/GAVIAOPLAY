@@ -175,12 +175,41 @@
 </channels>
 </channel>
 ###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O LEGADO DE JÚPITER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20LEGADO%20DE%20JUPITER.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/hT4HTQJhfnWNl7tHBY3E6Nda9M6.jpg</fanart>
+<info>[B][COLOR yellow]Depois de quase um século mantendo a humanidade segura, a primeira geração de super-heróis do mundo deve confiar nos seus filhos para continuar o legado. Mas as tensões aumentam à medida que os jovens super-heróis, famintos por provar seu valor, lutam para viver de acordo com a lendária reputação pública de seus pais - e exigentes padrões pessoais. Adaptação da HQ de Mark Millar e Frank Quitely. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O REINO PERDIDO DOS PIRATAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNraOcyTMzwzTvbh4Bp570Q23Hv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20REINO%20PERDIDO%20DOS%20PIRATAS.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/61AZhYnjayWHld2ocdYtX9k6PKH.jpg</fanart>
+<info>[B][COLOR yellow]Nesta série documental, os piratas do Caribe da vida real roubam os tesouros do mundo e formam uma república surpreendentemente igualitária. [/COLOR][/B]</info></item>
+<channels>
+</channel>
+###################################################################################################################
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO REINO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c03QKlxQWg743GrQGKGrhmVsdVE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20ULTIMO%20REINO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série se passa em 872, quando muitos dos Reinados que hoje fazem parte da Inglaterra caíram nas mãos dos Vikings, o reinado de Wessex ficou sob o comando de Alfred, o Grande. Em uma mistura de heroísmo, política, religião, coragem, amor, lealdade, e a eterna busca por identidade, a série mistura figuras reais que fazem parte da História com eventos e personagens fictícios. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS ASTRONAUTAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5byDyeVYxUQTm5fqcE4pQedyPJ3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/OS%20ASTRONAUTAS.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7oE8sytCE6wnFTInZacDDkC6pqK.jpg</fanart>
+<info>[B][COLOR yellow]Cinco crianças invadem um foguete e acabam sendo enviadas acidentalmente ao espaço. Eles fazem de tudo para conseguir voltar para casa, mas antes devem cuidar da nave e realizar diversas missões.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
@@ -269,35 +298,6 @@ https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STARGIRL.txt</e
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/XENA%20A%20PRINCESA%20GUERREIRA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/6pquLTX8cNRkt8k5izHthxRf0H6.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Xena, uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle, uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor.[/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O LEGADO DE JÚPITER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1JM0GvbnrRAq9d1wmRQ4qMEmbF9qgRL7B</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/hT4HTQJhfnWNl7tHBY3E6Nda9M6.jpg</fanart>
-<info>[B][COLOR yellow]Depois de quase um século mantendo a humanidade segura, a primeira geração de super-heróis do mundo deve confiar nos seus filhos para continuar o legado. Mas as tensões aumentam à medida que os jovens super-heróis, famintos por provar seu valor, lutam para viver de acordo com a lendária reputação pública de seus pais - e exigentes padrões pessoais. Adaptação da HQ de Mark Millar e Frank Quitely. [/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O REINO PERDIDO DOS PIRATAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNraOcyTMzwzTvbh4Bp570Q23Hv.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Y8ZnkBflAT1y_eHlFZ_BMGlZEg9we3Ux</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/61AZhYnjayWHld2ocdYtX9k6PKH.jpg</fanart>
-<info>[B][COLOR yellow]Nesta série documental, os piratas do Caribe da vida real roubam os tesouros do mundo e formam uma república surpreendentemente igualitária. [/COLOR][/B]</info></item>
-
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS ASTRONAUTAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5byDyeVYxUQTm5fqcE4pQedyPJ3.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1OIs8d_Knmvd-BM4ag3lnWa1iZe-3mfay</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/7oE8sytCE6wnFTInZacDDkC6pqK.jpg</fanart>
-<info>[B][COLOR yellow]Cinco crianças invadem um foguete e acabam sendo enviadas acidentalmente ao espaço. Eles fazem de tudo para conseguir voltar para casa, mas antes devem cuidar da nave e realizar diversas missões.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 
