@@ -1,565 +1,340 @@
 
-
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT[COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85CF9CB1C7FE793B674E5B8E10649DA01C7A7E19</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/hwCplqbGCMDd5jPjeCP9OlOJnup.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c9bwsqTNRr1r7HGKDAu4OfYlBAt.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <item><title>[B][COLOR white]EP 01 [/COLOR]-[COLOR yellow]  Pecados do Passado [/COLOR][/B]</title>
 <link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP01-Pecados%20Do%20Passado.mp4</link>
 <thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 02 [/COLOR]-[COLOR yellow]  Paz na Terra [/COLOR][/B]</title><link>https://ia802806.us.archive.org/13/items/xena1/Xena.S01%20-%20EP02-%20Paz%20na%20Terra.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 03 [/COLOR]-[COLOR yellow]  Desafio Mortal [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP03%20-Desafio%20Mortal.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 04 [/COLOR]-[COLOR yellow]  O Sucessor [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP04%20-%20O%20Sucessor.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 05 [/COLOR]-[COLOR yellow]  Cruel Destino [/COLOR][/B]</title><link>https://ia601405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP05%20-%20Cruel%20Destino.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 06 [/COLOR]-[COLOR yellow]  O Pacto [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP06%20-%20O%20Pacto.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 07 [/COLOR]-[COLOR yellow]  Os Titãs [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP07%20-%20Os%20Tit%C3%A3s.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 08 [/COLOR]-[COLOR yellow]  Prometeus [/COLOR][/B]</title><link>https://ia601405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP08%20-%20Prometeus.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 09 [/COLOR]-[COLOR yellow]  A Morte [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP09%20A%20Morte.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 10 [/COLOR]-[COLOR yellow]  A Guerra entre Amazonas e Centauros [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP10%20-%20A%20Guerra%20entre%20Amazonas%20e%20Centauros.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 11 [/COLOR]-[COLOR yellow]  O Lobo Negro [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP11-%20O%20Lobo%20Negro.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 12 [/COLOR]-[COLOR yellow]  Presente de Grego [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP12-%20Presente%20de%20Grego.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 13 [/COLOR]-[COLOR yellow]  Gabrielle, a Contadora de Histórias [/COLOR][/B]</title><link>tps://ia601405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP13%20-%20Gabrielle%2C%20a%20Contadora%20de%20Hist%C3%B3rias.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 14 [/COLOR]-[COLOR yellow]  Tesouro Maldito [/COLOR][/B]</title><link>ignoreme</link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP14%20-%20Tesouro%20Maldito.mp4<thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 15 [/COLOR]-[COLOR yellow]  A Guerreira  E A Princesa[/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP15%20-Guerreira..%20-%20Princesa....mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
-###################################################################################################################
-
+##################################################################################################################
 <item><title>[B][COLOR white]EP 16 [/COLOR]-[COLOR yellow]  Entre o Céu e o Inferno [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP16%20-%20Entre%20o%20C%C3%A9u%20e%20o%20Inferno.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 17 [/COLOR]-[COLOR yellow]  O Casal Real de Ladrões [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP17%20-O%20Casal%20Real%20de%20Ladr%C3%B5es.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 18 [/COLOR]-[COLOR yellow]  A Filha Pródiga [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP18%20-%20A%20Filha%20Pr%C3%B3diga.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 19 [/COLOR]-[COLOR yellow]  Estado Alterado [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP19%20-%20Estado%20Alterado.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 20 [/COLOR]-[COLOR yellow]  Atrius, o Pai [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP20%20-%20Atrius%2C%20o%20Pai.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 21 [/COLOR]-[COLOR yellow]  Gabrielle, a Guerreira [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP21%20-%20Gabrielle%2C%20a%20Guerreira.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 22 [/COLOR]-[COLOR yellow]  A Vingança [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP22%20-%20A%20Vingan%C3%A7a.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
-
 <item><title>[B][COLOR white]EP 23 [/COLOR]-[COLOR yellow]  Máscara da Morte [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP23%20-%20M%C3%A1scara%20da%20Morte.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white]EP 24 [/COLOR]-[COLOR yellow]  Magia ou Medicina? [/COLOR][/B]</title><link>https://ia801405.us.archive.org/6/items/xena1/Xena.S01%20-%20EP24%20-%20Magia%20ou%20Medicina.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-#
 
 
-##################################################################################################################
-<item><title>[B][COLOR crimson]*****[/COLOR][COLOR yellow]XENA:A PRINCESA GUERREIRA[COLOR red]*****[/COLOR]
-[COLOR red]*****[COLOR orange]2ª TEMPORADA[/COLOR][COLOR gray]1996[COLOR white](Dublada)[COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link>
-<thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item>
-###################################################################################################################
 
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT[COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B3D4F0DCC64D542804EB47530FB09020F32DA878</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kWRFasESbydQxGgidTCdSa6nVRO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/syqdYDtFOPsvDcQgaJiQMwwv2T3.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
 <item><title>[B][COLOR white] 01 -[COLOR yellow]  Órfão de Guerra [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP01%20-%20%C3%93rf%C3%A3o%20de%20Guerra.mp4?cnt=0</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 02 -[COLOR yellow]  Não Lembra Nada [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP02%20-%20N%C3%A3o%20Lembra%20Nada.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 03 -[COLOR yellow]  Matador de Gigantes [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP03%20-%20Matador%20de%20Gigantes.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
 <item><title>[B][COLOR white] 04 -[COLOR yellow]  O Terrível deus Baco [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP04%20-%20O%20Terr%C3%ADvel%20deus%20Baco.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 05 -[COLOR yellow]  Retorno de Callisto [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP05%20-%20Retorno%20de%20Callisto.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 06 -[COLOR yellow]  A Guerreira, A Princesa e a Vadia[/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP06%20-%20Guerreira..%20%20Princesa..%20Vadia....mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 07 -[COLOR yellow]  Estranha Íntima [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP07%20-%20Estranha%20%C3%8Dntima.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 08 -[COLOR yellow]  Dez Pequenos Guerreiros [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP08%20-%20Dez%20Pequenos%20Guerreiros.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 09 -[COLOR yellow]  Um Conto de Solstício [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP09%20-%20Um%20Conto%20de%20Solst%C3%ADcio.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 10 -[COLOR yellow]  Os Pergaminhos de Xena [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP10%20-%20Os%20Pergaminhos%20de%20Xena.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 11 -[COLOR yellow]  Aí Vem Ela.. Miss Amphipolis [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP11%20-%20A%C3%AD%20Vem%20Ela..%20Miss%20Amphipolis.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 12 -[COLOR yellow]  Destino [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP12%20-%20Destino.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 13 -[COLOR yellow]  A Busca [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP13%20-%20A%20Busca.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 14 -[COLOR yellow]  Um Mal Necessário [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP14%20-%20Um%20Mal%20Necess%C3%A1rio.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 15 -[COLOR yellow]  Um Dia na Vida [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP15%20-%20Um%20Dia%20na%20Vida.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 16 -[COLOR yellow]  Por Ele os Sinos Sobram [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP16%20-%20Por%20Ele%20os%20Sinos%20Sobram.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 17 -[COLOR yellow]  A Execução [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP17%20-%20A%20Execu%C3%A7%C3%A3o.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 18 -[COLOR yellow]  Fé Cega [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP18%20-%20F%C3%A9%20Cega.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 19 -[COLOR yellow]  Ulisses [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP19%20-%20Ulisses.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 20 -[COLOR yellow]  O Preço [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP20%20-%20O%20Pre%C3%A7o.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 21 -[COLOR yellow]  Marinheiro Perdido [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP21%20-%20Marinheiro%20Perdido.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
-
 ###################################################################################################################
-
 <item><title>[B][COLOR white] 22 -[COLOR yellow]  Uma Comédia de Eros [/COLOR][/B]</title><link>https://ia601509.us.archive.org/35/items/xena2/Xena.S02%20-%20EP22%20-%20ma%20Com%C3%A9dia%20de%20Eros.mp4</link><thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/20e56cd5e0630d137a84bacb637ba96b.jpg</thumbnail></item
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-###################################################################################################################
-<item><title>[B][COLOR crimson]COLOR][COLOR yellow]XENA:A PRINCESA GUERREIRA[COLOR red]*****[/COLOR]
-[COLOR red]*****[COLOR orange]3ª TEMPORADA[/COLOR][COLOR gray]1997[COLOR white](Dublada)[COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-###################################################################################################################
-
-
-<item><title>[B][COLOR white]EP 01 [COLOR yellow] As Fúrias [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
-###################################################################################################################
-
-<item><title>[B][COLOR white]EP 02 [COLOR yellow] Fui Lá, Fiz Aquilo [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 
-###################################################################################################################
 
-<item><title>[B][COLOR white]EP 03 [COLOR yellow] A Meia Dúzia de Sujos [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT[COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DBC54C677601C71ABD4628A3F79A8594F8CB464</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5L3awO5z15w6dgrWiIkkKeVKvSS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cDqkQb7CqeVzoJxe0lyCP0Ezwjw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] As Fúrias [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP01%20-%20As%20F%C3%BArias.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 04 [COLOR yellow] O Libertador [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Fui Lá, Fiz Aquilo [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP02%20-%20Fui%20L%C3%A1%2C%20Fiz%20Aquilo.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 05 [COLOR yellow] A Esperança de Gabrielle [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] A Meia Dúzia de Sujos [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP03%20-%20A%20Meia%20D%C3%BAzia%20de%20Sujos.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-<item><title>[B][COLOR white]EP 06 [COLOR yellow] Dívida de Honra (Parte 1) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] O Libertador [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP04%20-%20O%20Libertador.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 07 [COLOR yellow] Dívida de Honra (Parte 2) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] A Esperança de Gabrielle [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP05%20-%20A%20Esperan%C3%A7a%20de%20Gabrielle.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 08 [COLOR yellow] O Rei dos Assassinos [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Dívida de Honra (Parte 1) [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP06%20-%20D%C3%ADvida%20de%20Honra%20%28Parte%201%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 09 [COLOR yellow] Guerreira.. Sacerdotisa.. Vadia... [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] Dívida de Honra (Parte 2) [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP07%20-%20D%C3%ADvida%20de%20Honra%20%28Parte%202%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 10 [COLOR yellow] A Pena é Poderosa [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] O Rei dos Assassinos [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP08%20-%20O%20Rei%20dos%20Assassinos.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 11 [COLOR yellow] Instintos Maternais [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] Guerreira.. Sacerdotisa.. Vadia... [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP09%20-%20Guerreira..%20Sacerdotisa..%20Vadia....mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 12 [COLOR yellow] O Reencontro [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] A Pena é Poderosa [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP10%20-%20A%20Pena%20%C3%A9%20Poderosa.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 13 [COLOR yellow] Xena Contra o Exército Persa [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Instintos Maternais [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP11%20-%20Instintos%20Maternais.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 14 [COLOR yellow] Perdoado [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] O Reencontro [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP12%20-%20O%20Reencontro.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 15 [COLOR yellow] Rei da Vigarice [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Xena Contra o Exército Persa [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP13%20-%20Xena%20Contra%20o%20Ex%C3%A9rcito%20Persa.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 16 [COLOR yellow] Quando em Roma... [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Perdoado [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP14%20-%20Perdoado.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 17 [COLOR yellow] Não me Esqueça [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] Rei da Vigarice [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP15%20-%20Rei%20da%20Vigarice.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 18 [COLOR yellow] Barbatanas, Fêmeas e Gemas [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Quando em Roma... [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP16%20-%20Quando%20em%20Roma....mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 19 [COLOR yellow] Tsunami, a Onda Mortal [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Não me Esqueça [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP17%20-N%C3%A3o%20Me%20Esque%C3%A7a.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 20 [COLOR yellow] O Número do Sumiço [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Barbatanas, Fêmeas e Gemas [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP18%20-%20Barbatanas%2C%20F%C3%AAmeas%20e%20Gemas.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 21 [COLOR yellow] O Sacrifício (Parte 1) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Tsunami, a Onda Mortal [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP19%20-%20Tsunami%2C%20a%20Onda%20Mortal.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 22 [COLOR yellow] O Sacrifício (Parte 2) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
-
-
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] O Número do Sumiço [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP20%20%20-%20O%20N%C3%BAmero%20do%20Sumi%C3%A7o.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-<item><title>[B][COLOR crimson]COLOR][COLOR yellow]XENA:A PRINCESA GUERREIRA[COLOR red]*****[/COLOR]
-[COLOR red]*****[COLOR orange]4ª TEMPORADA[/COLOR][COLOR gray]1997[COLOR white](Dublada)[COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] O Sacrifício (Parte 1) [/COLOR][/B]</title><link>https://ia902805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP21%20-%20Sacrif%C3%ADcio%20%28Parte%201%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 01 -[COLOR yellow]  Aventuras no Comércio do Pecado (Parte 5) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow] O Sacrifício (Parte 2) [/COLOR][/B]</title><link>https://ia802805.us.archive.org/27/items/xena3/Xena.S03%20-%20EP22%20-%20Sacrif%C3%ADcio%20%28Parte%202%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16432.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR white]EP 02 -[COLOR yellow]  Aventuras no Comércio do Pecado (Parte 2) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 
-###################################################################################################################
-
-<item><title>[B][COLOR white]EP 03 -[COLOR yellow]  Um Caso em Família [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 
-###################################################################################################################
 
-<item><title>[B][COLOR white]EP 04 -[COLOR yellow]  Na Doença e no Inferno [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT[COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DBC54C677601C71ABD4628A3F79A8594F8CB464</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/gm9CJSCpNdbavxMCQhc6KmHrIGT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6pquLTX8cNRkt8k5izHthxRf0H6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 05 -[COLOR yellow]  Um Bom Dia para Lutar [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow]  Aventuras no Comércio do Pecado (Parte 5) [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP01%20-%20Aventuras%20no%20Com%C3%A9rcio%20do%20Pecado%20%28Parte%201%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+##################################################################################################################
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow]  Aventuras no Comércio do Pecado (Parte 2) [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP01%20-%20Aventuras%20no%20Com%C3%A9rcio%20do%20Pecado%20%28Parte%201%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 06 -[COLOR yellow]  Dançar Não é Pecado [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow]  Um Caso em Família [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP03%20-%20Um%20Caso%20em%20Fam%C3%ADlia.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 07 -[COLOR yellow]  O Dia do Julgamento [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
-
-<item><title>[B][COLOR white]EP 08 -[COLOR yellow]  Fé Cega, Arma Fatal [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow]  Na Doença e no Inferno [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP04%20-%20Um%20Bom%20Dia%20para%20Lutar.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 09 -[COLOR yellow]  Passado Imperfeito [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow]  Um Bom Dia para Lutar [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP05%20-%20Na%20Doen%C3%A7a%20e%20no%20Inferno.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 10 -[COLOR yellow]  A Chave para o Reino [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow]  Dançar Não é Pecado [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP06%20-%20Dan%C3%A7ar%20N%C3%A3o%20%C3%A9%20Pecado.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 15 -[COLOR yellow]  A Filha de Pomira [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
-
-<item><title>[B][COLOR white]EP 12 -[COLOR yellow]  Se o Sapato Couber... [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow]  O Dia do Julgamento [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP07%20-%20O%20Dia%20do%20Julgamento.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+##################################################################################################################
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow]  Fé Cega, Arma Fatal [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP08%20-%20F%C3%A9%20Cega%2C%20Arma%20Fatal.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-<item><title>[B][COLOR white]EP 13 -[COLOR yellow]  Paraíso Encontrado [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 09 -[COLOR yellow]  Passado Imperfeito [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP09%20-%20Passado%20Imperfeito.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 14 -[COLOR yellow]  Devi [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 10 -[COLOR yellow]  A Chave para o Reino [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP10%20-%20A%20Chave%20para%20o%20Reino.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+##################################################################################################################
+<item><title>[B][COLOR white]EP 11 -[COLOR yellow]  A Filha de Pomira [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP11-%20A%20Filha%20de%20Pomira.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+##################################################################################################################
+<item><title>[B][COLOR white]EP 12 -[COLOR yellow]  Se o Sapato Couber... [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP12%20-%20Se%20o%20Sapato%20Couber....mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 15 -[COLOR yellow]  Entre as Linhas [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 13 -[COLOR yellow]  Paraíso Encontrado [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP13%20-%20Para%C3%ADso%20Encontrado.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 16 -[COLOR yellow]  O Caminho [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 14 -[COLOR yellow]  Devi [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP14%20%20-%20Devi.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 17 -[COLOR yellow]  A Peça [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 15 -[COLOR yellow]  Entre as Linhas [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP15%20-%20Entre%20as%20Linhas.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 18 -[COLOR yellow]  A Conversão [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 16 -[COLOR yellow]  O Caminho [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP16%20-%20O%20Caminho.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 19 -[COLOR yellow]  Parabéns Pra Você [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 17 -[COLOR yellow]  A Peça [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP17%20-%20A%20Pe%C3%A7a.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 20 -[COLOR yellow]  A Grande Nação Amazona [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 18 -[COLOR yellow]  A Conversão [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP18%20-%20A%20Convers%C3%A3o.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 25 -[COLOR yellow]  Os Idos de Março [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 19 -[COLOR yellow]  Parabéns Pra Você [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP19%20-%20Parab%C3%A9ns%20Pra%20Voc%C3%AA.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 22 -[COLOR yellow]  Vidas Passadas [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 20 -[COLOR yellow]  A Grande Nação Amazona [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP20%20-%20A%20Grande%20Na%C3%A7%C3%A3o%20Amazona.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-<item><title>[B][COLOR crimson]COLOR][COLOR yellow]XENA:A PRINCESA GUERREIRA[COLOR red]*****[/COLOR]
-[COLOR red]*****[COLOR orange]5ª TEMPORADA[/COLOR][COLOR gray]1997[COLOR white](Dublada)[COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 -[COLOR yellow]  Os Idos de Março [/COLOR][/B]</title><link>https://ia803108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP21%20-%20Os%20Idos%20de%20Mar%C3%A7o.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 01 - Entre o Céu e o Inferno [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 -[COLOR yellow]  Vidas Passadas [/COLOR][/B]</title><link>https://ia903108.us.archive.org/15/items/xena4/Xena.S04%20-%20EP22%20-%20Vidas%20Passadas.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/10242.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-###################################################################################################################
 
-<item><title>[B][COLOR white]EP 02 - Chakram [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT (LEGENDADA)[COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623b8d83312714c3eec9175b7e4a63191fa145d2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kJ7hJ1y5DnZ1fvP1EIlIX4YOhRo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xTejbySeK39G3w3Kaf9UqZ4Hfjo.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 03 - Sucessão [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 01 - Entre o Céu e o Inferno [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP01%20-%20Entre%20o%20C%C3%A9u%20e%20o%20Inferno.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 04 - Atração Animal [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 02 - Chakram [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP02%20-%20Chakram.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 05 - A Batalha Espiritual [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 03 - Sucessão [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP03%20-%20Sucess%C3%A3o.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 06 - Pureza [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 04 - Atração Animal [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP04%20-%20Atra%C3%A7%C3%A3o%20Animal.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 07 - O Retorno do Dragão Verde [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 05 - A Batalha Espiritual [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP05%20-%20A%20Batalha%20Espiritual.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 08 - Pequenos Problemas [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 06 - Pureza [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP05%20-%20A%20Batalha%20Espiritual.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 09 - Sementes de Fé [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 07 - O Retorno do Dragão Verde [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP07%20-%20O%20Retorno%20do%20Drag%C3%A3o%20Verde.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 10 - A Batalha Musical [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 08 - Pequenos Problemas [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP08%20-%20Pequenos%20Problemas.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 11 - Lágrimas, Sorrisos e Tortas [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 09 - Sementes de Fé [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP09%20-%20Sementes%20de%20F%C3%A9.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 12 - O Início das Trevas Divinas [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 10 - A Batalha Musical [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP10%20-%20%20A%20Batalha%20Musical.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 13 - União Eterna [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 11 - Lágrimas, Sorrisos e Tortas [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP11%20-%20L%C3%A1grimas%2C%20Sorrisos%20e%20Tortas.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 14 - Amphipolis Sítiada [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 12 - O Início das Trevas Divinas [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP12%20-%20O%20In%C3%ADcio%20das%20Trevas%20Divinas.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 15 - Filho de Peixe, Peixinho É [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 13 - União Eterna [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP13%20-%20Uni%C3%A3o%20Eterna.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 16 - Força Vital [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 14 - Amphipolis Sítiada [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP14%20-%20Amphipolis%20S%C3%ADtiada.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 17 - Espíritos Irmãos [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 15 - Filho de Peixe, Peixinho É [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP15%20-%20Filho%20de%20Peixe%2C%20Peixinho%20%C3%89.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 18 - Marco Antônio e Cleópatra [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 16 - Força Vital [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP16%20-%20For%C3%A7a%20Vital.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 19 - Frente a Frente com a Morte [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 17 - Espíritos Irmãos [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP17%20-%20%20Esp%C3%ADritos%20Irm%C3%A3os.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 20 - Lívia [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 18 - Marco Antônio e Cleópatra [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP18%20-%20Marco%20Ant%C3%B4nio%20e%20Cle%C3%B3patra.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 21 - Eva [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 19 - Frente a Frente com a Morte [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP19%20-%20Frente%20a%20Frente%20com%20a%20Morte.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 22 - Amor Materno [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 20 - Lívia [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP20%20-%20L%C3%ADvia.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
-<item><title>[B][COLOR crimson]COLOR][COLOR yellow]XENA:A PRINCESA GUERREIRA[COLOR red]*****[/COLOR]
-[COLOR red]*****[COLOR orange]6ª TEMPORADA[/COLOR][COLOR gray]1997[COLOR white](Dublada)[COLOR red]*****[/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - Eva [/COLOR][/B]</title><link>https://ia803108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP21%20-%20Eva.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
 ###################################################################################################################
+<item><title>[B][COLOR white]EP 22 - Amor Materno [/COLOR][/B]</title><link>https://ia903108.us.archive.org/10/items/xena5/Xena.S05%20-%20EP22%20-%20Amor%20Materno.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16435.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 
 
 
-<item><title>[B][COLOR white]EP 01 -[COLOR yellow]  O Retorno [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA[COLOR crimson] TORRENT ( LEGENDADA )[COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41763664e3d919e02fef98a6aa6496df9eb8a483</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6LF3C3DMhcZMvcsEY10FxiZHIjD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/38eVbGRSRoMVsuK9M4AWEtimiO3.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Xena (Lucy Lawless), uma guerreira que já foi conhecida como Destruidora das Nações, começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle (Renee O Connor), uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]######[COLOR white] XENA - A PRINCESA GUERREIRA [COLOR crimson] LINK DIRETO[COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 02 -[COLOR yellow]  O Assombrar de Amphipolis [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow]  O Retorno [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP01%20-%20O%20Retorno.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 03 -[COLOR yellow]  Entre o Céu e o Inferno [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow]  O Assombrar de Amphipolis [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP02%20-%20O%20Assombrar%20de%20Amphipolis.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 04 -[COLOR yellow]  Quem é Gurkhan? [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow]  Entre o Céu e o Inferno [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP03%20-%20Entre%20o%20C%C3%A9u%20e%20o%20Inferno.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 05 -[COLOR yellow]  O Legado [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow]  Quem é Gurkhan? [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP04%20-%20Quem%20%C3%A9%20Gurkhan.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 06 -[COLOR yellow]  O Abismo [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow]  O Legado [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP05%20-%20O%20Legado.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 07 -[COLOR yellow]  A Lenda de Rheinyellow [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow]  O Abismo [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP06%20-%20O%20Abismo.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 08 -[COLOR yellow]  O Anel [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow]  A Lenda de Rheinyellow [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP07%20-%20A%20Lenda%20de%20Rheingold.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 09 -[COLOR yellow]  O Retorno da Valkyria [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow]  O Anel [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP08%20-%20O%20Anel.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 10 -[COLOR yellow]  O Velho Ares Tinha uma Fazenda [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 09 -[COLOR yellow]  O Retorno da Valkyria [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP09%20-%20%20O%20Retorno%20da%20Valkyria.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 11 -[COLOR yellow]  Vítima Perigosa [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 10 -[COLOR yellow]  O Velho Ares Tinha uma Fazenda [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP10%20-%20O%20Velho%20Ares%20Tinha%20uma%20Fazenda.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 12 -[COLOR yellow]  O Deus Imperador [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 11 -[COLOR yellow]  Vítima Perigosa [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP11%20-%20V%C3%ADtima%20Perigosa.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 13 -[COLOR yellow]  A Força do Amor [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 12 -[COLOR yellow]  O Deus Imperador [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP12%20-%20O%20Deus%20Imperador.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 14 -[COLOR yellow]  Caminho da Vingança [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 13 -[COLOR yellow]  A Força do Amor [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP13%20-%20A%20For%C3%A7a%20do%20Amor.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 15 -[COLOR yellow]  Gabrielle -[COLOR yellow]  A Rainha Amazona [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 14 -[COLOR yellow]  Caminho da Vingança [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP14%20-%20Caminho%20da%20Vingan%C3%A7a.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 16 -[COLOR yellow]  Os Clones [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 15 -[COLOR yellow]  Gabrielle -[COLOR yellow]  A Rainha Amazona [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP15%20-%20Gabrielle%20-%20A%20Rainha%20Amazona.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 17 -[COLOR yellow]  O Último dos Centauros [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 16 -[COLOR yellow]  Os Clones [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP16%20-%20Os%20Clones.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 18 -[COLOR yellow]  Ninguém Muda o Destino [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 17 -[COLOR yellow]  O Último dos Centauros [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP17%20-%20O%20%C3%9Altimo%20dos%20Centauros.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 19 -[COLOR yellow]  Feliz Aniversário Gabrielle [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 18 -[COLOR yellow]  Ninguém Muda o Destino [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP18%20-%20Ningu%C3%A9m%20Muda%20o%20Destino.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 20 -[COLOR yellow]  Alma Possuída [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 19 -[COLOR yellow]  Feliz Aniversário Gabrielle [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP19%20-%20Feliz%20Anivers%C3%A1rio%20Gabrielle.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 21 -[COLOR yellow]  Amiga em Perigo (Parte 1) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 20 -[COLOR yellow]  Alma Possuída [/COLOR][/B]</title><link>https://ia902802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP20%20-%20Alma%20Possu%C3%ADda.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
 ###################################################################################################################
-
-<item><title>[B][COLOR white]EP 22 -[COLOR yellow]  Amiga em Perigo (Parte 2) [/COLOR][/B]</title><link>ignoreme</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
-
+<item><title>[B][COLOR white]EP 21 -[COLOR yellow]  Amiga em Perigo (Parte 1) [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP21%20-%20Amiga%20em%20Perigo%20%28Parte%201%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
+###################################################################################################################
+<item><title>[B][COLOR white]EP 22 -[COLOR yellow]  Amiga em Perigo (Parte 2) [/COLOR][/B]</title><link>https://ia802802.us.archive.org/31/items/xena6/Xena.S06%20-%20EP22%20-%20Amiga%20em%20Perigo%20%28Parte%202%29.mp4</link><thumbnail>http://static.cinedica.com.br/capasm/16436.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
    
