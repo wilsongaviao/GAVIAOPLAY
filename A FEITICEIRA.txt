@@ -377,7 +377,8 @@
  
  <item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail><fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart></item>
 <item><title>[B][COLOR crimson ]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 8ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/y3o1jYd2eBrbyd2qnbHRDK0BjHX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart></item>
+<link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:5639B245732B08EF9705629E64267F507055E112</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/y3o1jYd2eBrbyd2qnbHRDK0BjHX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart></item>
 <item><title>[B][COLOR yellow##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><fanart>https://www.themoviedb.org/t/p/original/yhwHMx4M8ILlCKkVUANTLGfQsHG.jpg</fanart></item>
+ 
  
  
