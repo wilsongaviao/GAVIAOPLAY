@@ -42,7 +42,7 @@
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
 <title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 2ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
-<link>IGNOREME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BABD8DEDD30384AC7461E5ED32F1F46BEA0CC813</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3ph2PBfZEB4ORf4l5lbieaf63ub.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3UqsiRCGLIBoDUF0AwYNivfkE8h.jpg</fanart>
 </item>
