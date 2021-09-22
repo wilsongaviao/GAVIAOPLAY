@@ -1,6 +1,6 @@
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 1ª TEMPORADA (LINK DIRETO )[COLOR crimson] ####[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 1ª TEMPORADA (LINK DIRETO )[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pnYBLm0M4b3Dd2vswRSGUbHFE0l.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/26s6NOe4CxDyjPCaOI8nEvRguu0.jpg</fanart>
@@ -41,8 +41,8 @@
 
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 2ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BABD8DEDD30384AC7461E5ED32F1F46BEA0CC813</link>
+<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR lime] 2ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3ph2PBfZEB4ORf4l5lbieaf63ub.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3UqsiRCGLIBoDUF0AwYNivfkE8h.jpg</fanart>
 </item>
@@ -73,8 +73,8 @@
 
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 3ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FD9DCA1C9B907B1B60A15F504F6531A981BB2BA&dn=A%20MEDIUM%20-%203%c2%aa%20temporada</link>
+<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 3ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sddM3nsHZRfbExdkzcTmrs3Rb2y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lhTth0P22eUA7cMgg4JcqrMankN.jpg</fanart>
 </item>
@@ -105,7 +105,7 @@
 
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 4ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
+<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR lime] 4ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/JIVouvYXl6HQrY4pG8AWU26uz0.jpg></thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iKYozXrtumDyIAreXsHCEuQald1.jpg</fanart>
@@ -129,7 +129,7 @@
 
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 5ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
+<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 5ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/q7MO5IVZWMsMXjtKmTI89CW7dbx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r9zn8ATxIh2nNIzUNer1KOJtiVA.jpg</fanart>
@@ -156,7 +156,7 @@
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 6ªTemporada[COLOR lime] ####[/COLOR][/B]</title>
+<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR lime] 6ªTemporada[COLOR lime] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/eNSgSvQD5p7KJkAJSwGxvB09SDI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jqUgrSO7U3ILxEigy15NjaHwHLc.jpg</fanart>
@@ -188,7 +188,7 @@
 
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 7ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
+<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 7ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/tiVAn60UG4GzmNG8xNilR4AmiCL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hPyphKHa2kCY18e0YCraEphw2ZB.jpg</fanart>
