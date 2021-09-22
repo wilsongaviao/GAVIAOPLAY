@@ -191,4 +191,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb4c0bdbfccbd1902731f32f32585ca13b227ac1</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rDCBoXNOcwBGSgZdyegRD7dlS9y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jFclWhCwbW6r7ecQ3vF83QXnEWJ.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08 / 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5991d02aea92f9fcecfa0fc5f15ddf5b36d502c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rDCBoXNOcwBGSgZdyegRD7dlS9y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jFclWhCwbW6r7ecQ3vF83QXnEWJ.jpg</fanart></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
