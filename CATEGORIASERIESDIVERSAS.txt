@@ -94,7 +94,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BILLIONS[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lbIMe94gXNGBzlFACqbrUyEXpyN.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1T3ztA8igbF6LfsJ5n9xLGEYnOTti8f68</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BILLIONS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/jFclWhCwbW6r7ecQ3vF83QXnEWJ.jpg</fanart>
 <info>[B][COLOR yellow]No mundo das altas finanças de Nova York, o Procurador de Justiça Chuck Rhodes bate de frente com o brilhante e ambicioso Bobby Axe Axelrod. Billions é uma série sobre dinheiro e poder. Assista a batalha entre essas 2 personalidades de Nova York em Billions. [/COLOR][/B]</info>
 </channels>
@@ -104,7 +104,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BREAKING BAD - A QUIMICA DO MAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1X7HPbMiszaOltGwx4LyJ5xzHXNpf-78q</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BREAKING%20BAD.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/n3u3kgNttY1F5Ixi5bMY9BwZImQ.jpg</fanart>
 <info>[B][COLOR yellow]Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.[/COLOR][/B]</info>
 </channels>
