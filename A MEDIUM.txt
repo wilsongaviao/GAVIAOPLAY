@@ -1,6 +1,6 @@
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 1ª TEMPORADA (LINK DIRETO )[COLOR crimson] ####[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 1ª TEMPORADA (LINK DIRETO )[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pnYBLm0M4b3Dd2vswRSGUbHFE0l.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/26s6NOe4CxDyjPCaOI8nEvRguu0.jpg</fanart>
@@ -41,23 +41,23 @@
 
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR lime] 2ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
+<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 2ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3ph2PBfZEB4ORf4l5lbieaf63ub.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3UqsiRCGLIBoDUF0AwYNivfkE8h.jpg</fanart>
 </item>
-<item><title>[B][COLOR white]EP 01 - [COLOR yellow] O Fantasma de Phoenix (Parte 2) [/COLOR][/B]</title><link>2EP01.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 02 - [COLOR yellow] A Música Continua A Mesma [/COLOR][/B]</title><link>2EP02.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Passado Distante (LEGENDADO )[/COLOR][/B]</title><link>2EP03.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Sono Leve (LEGENDADO )[/COLOR][/B]</title><link>2EP04.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 05 - [COLOR yellow] Bons Sonhos (LEGENDADO )[/COLOR][/B]</title><link>2EP05.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 06 - [COLOR yellow] Tiro Certo (LEGENDADO )[/COLOR][/B]</title><link>2EP06.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 07 - [COLOR yellow] Juiz, Júri e Executor [/COLOR][/B]</title><link>2EP07.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Disfunção Eleitoral (LEGENDADO )[/COLOR][/B]</title><link>2EP08.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 09 - [COLOR yellow] Natureza-Morta (LEGENDADO )[/COLOR][/B]</title><link>2EP09.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 10 - [COLOR yellow] Ajuste De Contas (LEGENDADO )[/COLOR][/B]</title><link>2EP10.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 11 - [COLOR yellow] Loucura Organizada [/COLOR][/B]</title><link>2EP11.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
-<item><title>[B][COLOR white]EP 12 - [COLOR yellow] Ordens Médicas [/COLOR][/B]</title><link>2EP12.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow] O Fantasma de Phoenix (Parte 2) [/COLOR][/B]</title><link>https://archive.org/serve/ep-01-o-fantasma-de-fenix-parte-2/ep%2001%20-%20o%20fantasma%20de%20fenix%20parte%202.ia.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow] A Música Continua A Mesma [/COLOR][/B]</title><link>https://archive.org/serve/ep-02-a-musica-continua-a-mesma/ep%2002%20a%20musica%20continua%20a%20mesma.ia.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Passado Distante (LEGENDADO )[/COLOR][/B]</title><link>https://archive.org/serve/ep-03-passado-distante/ep%2003%20-%20passado%20distante.ia.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Sono Leve (LEGENDADO )[/COLOR][/B]</title><link>https://archive.org/serve/ep-4-sono-leve/ep%204%20-%20sono%20leve.ia.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] Bons Sonhos (LEGENDADO )[/COLOR][/B]</title><link>https://archive.org/serve/ep-5-bons-sonhos/ep%205%20-bons%20sonhos.ia.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] Tiro Certo (LEGENDADO )[/COLOR][/B]</title><link>https://archive.org/serve/ep-06-tiro-certo/ep%2006%20-%20tiro%20certo.ia.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] Juiz, Júri e Executor [/COLOR][/B]</title><link>https://ia801506.us.archive.org/4/items/ep-07-juiz-juri-e-executor/Ep%2007%20-%20Juiz%2C%20J%C3%BAri%20e%20Executor%20.ia.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Disfunção Eleitoral (LEGENDADO )[/COLOR][/B]</title><link>https://ia801401.us.archive.org/10/items/ep-08-disfuncao-eleitoral/ep%2008%20-%20disfun%C3%A7%C3%A3o%20eleitoral.ia.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow] Natureza-Morta (LEGENDADO )[/COLOR][/B]</title><link>https://ia801404.us.archive.org/14/items/ep-9-natureza-morta/ep%209%20-%20natureza%20morta.ia.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow] Ajuste De Contas (LEGENDADO )[/COLOR][/B]</title><link>https://ia801506.us.archive.org/5/items/ep-10-ajuste-de-contas/Ep%2010%20-%20%20Ajuste%20De%20Contas.ia.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow] Loucura Organizada [/COLOR][/B]</title><link>https://ia601402.us.archive.org/25/items/ep-11-loucura-organizada/Ep%2011%20-%20Loucura%20Organizada.ia.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow] Ordens Médicas [/COLOR][/B]</title><link>https://ia601407.us.archive.org/12/items/ep-12-ordens-medicas/Ep%2012%20-%20Ordens%20M%C3%A9dicas.ia.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
 <item><title>[B][COLOR white]EP 13 - [COLOR yellow] A Educação De Caim [/COLOR][/B]</title><link>2EP13.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
 <item><title>[B][COLOR white]EP 14 - [COLOR yellow] Um Homem Mudado [/COLOR][/B]</title><link>2EP14.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
 <item><title>[B][COLOR white]EP 15 - [COLOR yellow] Meu Filho Querido [/COLOR][/B]</title><link>2EP15.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg<thumbnail>https://media.fstatic.com/nu_ryXoxv3t9ljHlVsaCi9IkkQk=/195x289/smart/media/movies/covers/2011/09/aefc6cab9a96848172a246e051c756ea.jpg</thumbnail></item>
@@ -73,7 +73,7 @@
 
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 3ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
+<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 3ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/sddM3nsHZRfbExdkzcTmrs3Rb2y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lhTth0P22eUA7cMgg4JcqrMankN.jpg</fanart>
@@ -105,7 +105,7 @@
 
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR lime] 4ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
+<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 4ªTemporada[COLOR yellow] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnailhttps://www.themoviedb.org/t/p/w130_and_h195_bestv2/JIVouvYXl6HQrY4pG8AWU26uz0.jpg></thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iKYozXrtumDyIAreXsHCEuQald1.jpg</fanart>
@@ -129,7 +129,7 @@
 
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 5ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
+<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 5ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/q7MO5IVZWMsMXjtKmTI89CW7dbx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r9zn8ATxIh2nNIzUNer1KOJtiVA.jpg</fanart>
@@ -156,7 +156,7 @@
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR lime] 6ªTemporada[COLOR lime] ####[/COLOR][/B]</title>
+<title>[B][COLOR yellow]####[COLOR white] A MEDIUM -[COLOR yellow] 6ªTemporada[COLOR lime] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/eNSgSvQD5p7KJkAJSwGxvB09SDI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jqUgrSO7U3ILxEigy15NjaHwHLc.jpg</fanart>
@@ -188,7 +188,7 @@
 
 
 <item><title>[B][COLOR yellow]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR lime] 7ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
+<title>[B][COLOR crimson]####[COLOR white] A MEDIUM -[COLOR yellow] 7ªTemporada[COLOR crimson] ####[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/tiVAn60UG4GzmNG8xNilR4AmiCL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hPyphKHa2kCY18e0YCraEphw2ZB.jpg</fanart>
