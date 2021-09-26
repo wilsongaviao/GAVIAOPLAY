@@ -1,8 +1,8 @@
+###################################################################################################################
 <item>
-<title> *[COLOR yellow]Mundo da Lua[/COLOR] (2005)</title>
+<title> [B][COLOR yellow]MUNDO DA LUA[/COLOR] [/B])</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0uwSbDRH2pmbFHqut2zKOJxEWTqOiKzM/?page=0</jsonrpc>                                               
-<thumbnail>https://media.fstatic.com/FcF1hhguP-yCv9EfGR-p7EV1sOU=/fit-in/290x478/smart/media/movies/covers/2013/03/cc671e2976a2ac90e2651a3de5510b06.jpg</thumbnail>
-<fanart></fanart>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0uwSbDRH2pmbFHqut2zKOJxEWTqOiKzM/?page=0</jsonrpc>                                <<thumbnail>>https://media.fstatic.com/FcF1hhguP-yCv9EfGR-p7EV1sOU=/fit-in/290x478/smart/media/movies/covers/2013/03/cc671e2976a2ac90e2651a3de5510b06.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lDswYdqQRv4NGp2GSWqWV1CT4x7.jpg</fanart>
+<info>[B][COLOR yellow]O seriado apresenta Lucas Silva e Silva, um garoto que ganha um gravador de seu avô paterno Orlando ao completar dez anos. Em meio aos problemas típicos da passagem da infância para a adolescência, Lucas cria no gravador histórias a partir de como gostaria que as coisas fossem. Ele vive na casa do avô com os pais, Rogério, professor que se desdobra para conseguir trabalhar em três empregos, e Carolina, que trabalha em uma boutique; a irmã mais velha, Juliana; e a empregada Rosa, que enquanto namora Marcelo, conversa com apresentador Ney Nunes em seu rádio.[/COLOR][/B]</info></item>
+###################################################################################################################
