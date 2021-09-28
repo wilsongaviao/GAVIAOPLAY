@@ -114,7 +114,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] EDIÇÃO DE AMANHÃ[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wOUKsGV97C5LL6McgsdYnSoye9n.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1gaoHD77NjBK_uLztwVbWph1kqQX1OZ_V</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/EDICAODEAMANHA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/dekHX1ZitlY5Jo3pTxmcRna2UXS.jpg</fanart>
 <info>[B][COLOR yellow]Todas as manhãs, Gary recebe um jornal em sua porta, trazido por um gato. O curioso é que este jornal é do dia seguinte, logo, antecipa tudo o que vai acontecer. De posse das informações, Gary tem de evitar desastres, resolver problemas e evitar que o pior aconteça às pessoas de Chicago. Ele conta com a ajuda de Chuck Fishman, seu melhor amigo, que vive tentando tirar vantagem da situação, e com a ajuda da deficiente visual Marissa Clark, secretária e assistente de Gary.[/COLOR][/B]</info>
 </channels>
