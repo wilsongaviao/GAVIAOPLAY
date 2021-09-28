@@ -159,7 +159,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/6pN1bt3x/SERIES.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1jwIb-joM0lv_aaw6PR5MfDO8-vKj6kXJ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIES.txt</externallink>
 <fanart>https://i.postimg.cc/TwF576J3/series.jpg</fanart>
 <info>[B][COLOR yellow]AS MELHORES SERIES NACIONAIS E INTERNACIONAIS, ATUAIS E ANTIGAS ESTARÃO AQUI[/COLOR][/B]</info>
 </channels>
