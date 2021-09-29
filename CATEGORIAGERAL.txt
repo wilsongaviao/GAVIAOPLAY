@@ -1,9 +1,9 @@
 <channels>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ÉPICO [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ÉPICO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/44Vq3M05/CINEEPICO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-tJajDr_dCdMygmQr7WEJCcsrAmnWVSL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEEPICO.txt</externallink>
 <fanart>https://i.postimg.cc/xC7mDX0f/FANARTCINEEPICO.jpg</fanart>
-<info>[B][COLOR yellow]COLETANEA COM SUCESSOS DE FILMES HISTÓRICOS.ÉPICOS QUE MARCARAM NA HISTORIA DO CINEMA MUNDIAL [/COLOR][/B]</info>
+<info>[B][COLOR yellow]COLETANEA COM SUCESSOS DE FILMES HISTÓRICOS. CLÁSSICOS ÉPICOS QUE MARCARAM NA HISTORIA DO CINEMA MUNDIAL [/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
