@@ -47,20 +47,7 @@
 <info>[COLOR yellow]SELEÇÃO DE FILMES ANTIGOS DE FAROESTE QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[/COLOR]</info>
 </channel>
 </channels>
-
- 
-
-<channel>
-<channels>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] EPICO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/4dCg3z3r/CINEFLASHBACK-EPICO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASHBACKEPICO.txt</externallink>
-<fanart>https://i.postimg.cc/wBVLJkHQ/fanartcineflashbackepico.jpg</fanart>
-<info>[COLOR yellow]SELEÇÃO DE FILMES EPICOS ANTIGOS QUE FIZERAM SUCESSOS DE PUBLICOS E BILHETERIA EM SUA EPOCA[/COLOR]</info>
-</channel>
-</channels>
-
-
+#######################################################################################################################
 <channel><channels>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FICÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/VvmPqmng/CINEFLASHBACK-FIC-O.jpg</thumbnail>
@@ -69,8 +56,7 @@
 <info>[COLOR yellow]SELEÇÃO DE FILMES DE FICÇÃO ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
 </channel>
 </channels>
-
- 
+#######################################################################################################################
 <channel><channels>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/7PnkxJrW/CINEFLASHBACK-ROMANCE.jpg</thumbnail>
@@ -79,8 +65,7 @@
 <info>[COLOR yellow]SELEÇÃO DE FILMES ROMANTICOS ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
 </channel>
 </channels>
- 
- 
+ #######################################################################################################################
 <channel><channels>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] TERROR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/ncdfm8zK/CINEFLASHBACK-TERROR.jpg</thumbnail>
