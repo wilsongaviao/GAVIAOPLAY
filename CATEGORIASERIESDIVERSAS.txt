@@ -184,7 +184,7 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PRETTY LITTLE LIARS ( MALDOSAS )[COLOR lime]Drama / Mistério / Romance / Suspense [COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<genero>Drama / Mistério / Romance / Suspense</genero>
+<genre>[COLOR lime][B]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[/B]</genre>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lntOFDrvVPBAULcrE8NoUlExa11.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1yeVPuYRGFfYHEjcBKbyybxCFg2Z89ApK</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/siFvior0Tz1vJvOyqQnAdM9VOlV.jpg</fanart>
