@@ -2,7 +2,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]9 1 1[COLOR lime]AÇÃO / DRAMA / SUSPENSE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]9 1 1[COLOR gold]AÇÃO / DRAMA / SUSPENSE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=14z_z1jRwKdqxhIQa0Oap_xAl1ZT6u5J1</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/1KxLxLcMZbtR3Jf32s2jhvZzA6r.jpg</fanart>
@@ -183,7 +183,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PRETTY LITTLE LIARS ( MALDOSAS )[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PRETTY LITTLE LIARS ( MALDOSAS )[COLOR lime]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <genre>[COLOR lime][B]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[/B]</genre>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lntOFDrvVPBAULcrE8NoUlExa11.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1yeVPuYRGFfYHEjcBKbyybxCFg2Z89ApK</externallink>
@@ -194,7 +194,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PESSOA DE INTERESSE [COLOR lime][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PESSOA DE INTERESSE [COLOR lime]DRAMA / MISTÉRIO / POLICIAL / SUSPENSE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLdvak0MsBp5xRn9lE3I7ryHg9F.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1_fKF4dF-enn5V9dRW0zKnKzcudqHHs9o</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/3sCIyApg6jDoiTRwrNHHETRLQ8F.jpg</fanart>
@@ -204,7 +204,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]RIVERDALE[COLOR lime] [COLOR blue]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]RIVERDALE[COLOR lime]DRAMA / MISTÉRIO / ROMANCE [COLOR blue]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zBWSuYW3Ps1nTfeMS8siS4KUaA.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1pHBDCeBqHqMZFIaWvgWmBQlqcUey6ErK</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mrGd5M3kPkAKynZruOAwsadsr9w.jpg</fanart>
@@ -214,7 +214,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]STATION 19[COLOR lime] [COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]STATION 19 [COLOR lime]DRAMA / ROMANCE / SUSPENSE [COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/sH1FdK1y0akAAUNEXVJjXEP8t7t.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1doaG1NKKKIFRV-ZPUb1jhZMl1OcK8eD4</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
