@@ -2,7 +2,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]9 1 1[COLOR gold]AÇÃO / DRAMA / SUSPENSE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]9 1 1[COLOR lime]AÇÃO / DRAMA / SUSPENSE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=14z_z1jRwKdqxhIQa0Oap_xAl1ZT6u5J1</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/1KxLxLcMZbtR3Jf32s2jhvZzA6r.jpg</fanart>
