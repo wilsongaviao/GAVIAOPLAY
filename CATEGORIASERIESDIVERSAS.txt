@@ -125,7 +125,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORONER [COLOR lime]DRAMA / MISTÉRIO / POLICIAL[/COLOR][COLOR lime][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/58fkjd5o295CRLPywxIlyiukfSw.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CORONER.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2S3m1VXDZ6RQpV2dzHfIhA6LS1u.jpg</fanart>
 <info>[B][COLOR yellow]Coroner segue a vida de Jenny Cooper (Serinda Swan), uma mulher recentemente viúva que começa a trabalhar como médica legista encarregada de investigar algumas mortes suspeitas. [/COLOR][/B]</info></item>
 </channels>
@@ -221,3 +221,14 @@
 <info>[B][COLOR yellow]Na série Station 19. A equipe de bombeiro de Seattle usa toda a sua habilidade e dedicação para salvar vidas. Mas o dia a dia dessas pessoas se torna ainda mais complicado quando eles precisam conciliar as missões de resgates diárias com seus problemas pessoais. [/COLOR][/B]</info>
 </channels>
 </channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE ROOKIE [COLOR lime]DRAMA / POLICIAL[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HW55HY8fWSgjgZrfo4hP02h2o7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20ROOKIE.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/IBSUytKHcJSYxTSTHlZa2f2uzm.jpg</fanart>
+<info>[B][COLOR yellow]A série The Rookie é inspirada em uma história real, The Rookie acompanha John Nolan (Nathan Fillion), o calouro mais velho de uma turma do Departamento de Polícia de Los Angeles (LAPD). Em sua idade, a maioria das pessoas estão estabilizadas, no auge de sua carreira, mas Nolan abandonou o conforto da vida no interior em busca do sonho de se tornar policial na cidade grande. Cercado de novatos na casa dos 20 anos, ele irá embarcar em um ambiente descontraído, imprevisível e perigoso, porém determinado a agarrar essa segunda chance na vida.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+##################################################################################################################
