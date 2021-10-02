@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ONLINE ( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1fmwk4tLdubO70334f3pRe-aeboR2CRQs</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TVONLINE.txt</externallink>
 <fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
 <info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
 </channel>
@@ -21,7 +21,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ANIMAÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/CKH05H6s/CINEANIMACAO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1rnk9RBHKJXdunFjchplwlX4bRHcrGxCb</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINEANIMA%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/sX0Kwz68/fanartcineanimacao.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEAS COM SUCESSOS DE FILMES E SÉRIES EM ANIMAÇÃO E DESENHOS[/COLOR][/B]</info></item>
 </channels>
@@ -149,7 +149,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]NOVELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/x8zNzGGM/NOVELAS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1dksgndhKJXCbYpwW22-AgqEi8NN-jdgc</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/NOVELAS.txt</externallink>
 <fanart>https://i.postimg.cc/Yqr9Lw0Z/fanartnovelas.jpg</fanart>
 <info>[B][COLOR yellow]PARA OS NOVELISTAS  AQUI ENCONTRARÃO AS NOVELAS QUE JA FIZERAM SUCESSO ESTARAO AQUI SE FALTAR A DO SEU GOS  ENTRE EM CONTATO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
@@ -184,7 +184,6 @@
 <info>[B][COLOR yellow]OS MELHORES VIDEOCLIPS E AUDIOS DE MUSICAS ANTIGOS E ATUAIS, RADIOS ON LINE , ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
 ###############################################################################################################################
 <channels>
 <channel>
