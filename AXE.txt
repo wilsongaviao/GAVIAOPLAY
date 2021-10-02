@@ -1,0 +1,36 @@
+<item><title>[B][COLOR white] CLÁSSICO AXÉ BAHIA [/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/11/items/classicosaxebahia/CLASSICOSAXEBAHIA.ia.mp4?cnt=0</link>
+<thumbnail>https://i.postimg.cc/x8yf0bwR/CLASSICOSAXEBAHIA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/4x4dxBNh/fanartclassicosaxebahia.jpg</fanart>
+<info>[B][COLOR yellow]COLET NEA COM GRANDES CLASSICOS DO RITMO DA BAHIA QUE AGITOU O BRASIL, COM SEUS GRANDE E FAMOSOS INTERPRETES[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white] PÉROLAS DO AXÉ [/COLOR][/B]</title>
+<link>https://ia801400.us.archive.org/32/items/axe-das-antiga/AX%C3%89%20DAS%20ANTIGA.mp3</link>
+<thumbnail>https://i.postimg.cc/rwF1pd1c/PEROLASDOAXE.jpg</thumbnail>
+<fanart>https://i.postimg.cc/13Qqg8D4/fanartperolasdoaxe.jpg</fanart>
+<info>[B][COLOR yellow]COLEÇÃO ANTIGAS DO AXE  BAIANO ,COM MUITOS SUCESSOS[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]AXÉ MUSIC[/COLOR][/B]</title>
+<link>https://ia801508.us.archive.org/33/items/AXEMUSIC/AXEMUSIC.mp3</link>
+<thumbnail>https://i.postimg.cc/cH4jRST7/AXEMUSIC.jpg</thumbnail>
+<fanart>https://i.postimg.cc/BvbRrs9h/fanartaxemusic.jpg</fanart>
+<info>[B][COLOR yellow]MAIS UMA GRANDE COLEÇÃO COM GRANDES SUCESSOS DO AXE BAIANO E SEU INTERPRETES FAMOSOS[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white][/COLOR][/B]</title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white][/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white][/COLOR][/B]</title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################

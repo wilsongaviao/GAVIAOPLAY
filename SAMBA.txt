@@ -1,0 +1,37 @@
+<item><title>[COLOR white]O MELHOR DO SAMBA RAIZ DAS ANTIGAS anos 70 /80[/COLOR]</title>
+<utube>4glVJKfs1Zg</utube>
+<thumbnail>https://i.ytimg.com/vi/4glVJKfs1Zg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIQEs8h_JYdWF9YGR-oQp5Hqcj8Q</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]ETERNOS CLASSICOS DO NOSSO SAMBA, UMA HERANÇA ESQUECIDA PELOS DIAS ATUAIS[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SELEÇÃO  SAMBA DE RAIZ[/COLOR]</title>
+<link>IGNOREME</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLfmShFzlmLLE0onNn2yxUP6VnHm-ufRIs/?page=0</jsonrpc>    
+<thumbnail>https://i.ytimg.com/vi/S9j1Ajn9N-U/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]COLETÂNEA COM GRANDES CLÁSSICOS DO SAMBA DE RAIZ E INTERPRETADOS POR GRANDES CANTORES[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white][Ó MELHOR DO SAMBA ANOS 90[/COLOR]</title>
+<utube>vsGod0EgH8o</utube>
+<thumbnail>https://i.ytimg.com/vi/vsGod0EgH8o/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn86GymlhglpG_uGUgYa64rabMAw</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]SELEÇÃO DE SAMBA QUE FIZERAM SUCESSOS NA DÉCADA DE 90[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]AS MELHORES RODAS DE SAMBA VOL1[/COLOR]</title>
+<utube>GhcsBmQW1PQ</utube>
+<thumbnail>https://i.ytimg.com/vi/GhcsBmQW1PQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClyK5V93UDuhSSrWdd_o1Iu9hrxA</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]COLETÂNEA DE MAIS DE UMA HORA COM GRANDES SUCESSOS DE RODA DE SAMBA  E PARTIDO ALTO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SELEÇÃO DE SAMBAS - AS MELHORES[/COLOR]</title>
+<utube>0JfoVU_1xWs</utube>
+<thumbnail>https://i.ytimg.com/vi/0JfoVU_1xWs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqV6mkdyLXC4uIauM_p5QWQTHALQ</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]SELEÇÃO COM GRADES SUCESSOS DO SAMBA NACIONAL E COM GRANDES INTERPRETES[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]ACADEMIA DO SAMBA ANOS 90 VOL 1[/COLOR]</title>
+<utube>fjbWzrvrr9Y</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]EXCELENTE SELEÇÃO DOS ANOS 90 ,PEROLAS DA EPOCA DE OURO DO SAMBA[/COLOR][/B]</info></item>
+###################################################################################################################

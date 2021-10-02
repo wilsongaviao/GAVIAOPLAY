@@ -1,0 +1,61 @@
+
+
+ 
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AXE [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/CMWpzrLP/MUSICANACIONALAXE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1r3TTVlmExouJT1SxucRFb9f4KRtq7KCr</externallink>
+<fanart>https://i.postimg.cc/CLnHJhb4/fanartmusicanacionalaxe.jpg</fanart>
+<info>[B][COLOR yellow]O MELHOR DO RITMO BAIANO QUE AGITOU O PAÍS , COM SEUS MAIORES INTERPRETES E GRANDES SUCESSOS ESTARÃO AQUI EM MP3[/COLOR][/B]</info>
+</channel></channels>
+##################################################################################################################
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BREGA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/vHfF974Q/MUSICANACIONALBREGA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1L0WNFolA4PmzSyIeWt8NAhgUoHgpG6_x</externallink>
+<fanart>https://i.postimg.cc/TwkqNhkt/fanartmusicanacionalbrega.jpg</fanart>
+<info>[B][COLOR yellow]OS MELHORES E MAIORES SUCESSOS DA MUSICA BREGA,ANOS 70,80 COM SEUS GRANDES  NTERPRETES COESTARÃO AQUI EM MP3[/COLOR][/B]</info>
+</channel></channels>
+##################################################################################################################
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] MUNDO SERTANEJO  [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/3NspSfrt/MUNDOSERTANEJO.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1w7itGpOjU2GGe45899oyvowwnepdyE2F</externallink>
+<fanart>https://i.postimg.cc/tRhZV55Z/fanartmundosertanejo.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEAS DE SUCESSOS DO MUNDO SERTANEJO EM TODOS OS GENEROS[/COLOR][/B]</info>
+</channel></channels> 
+##################################################################################################################
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MPB [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/mg4xSc97/MUSICANACIONALMPB.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1kaOyDaX0os1_K-IRhO0G1x5SIOU6fT-S</externallink>
+<fanart>https://i.postimg.cc/1zC3WYV1/fanartmusicanacionalmpb.jpg</fanart>
+<info>[B][COLOR yellow]O MELHOR DA MUSICA POPULAR BRASILEIRA,GRANDES INTERPRETES,OS GRANDES SUCESSOS DA NOSSA VERDADEIRA MUSICA  ESTARÃO AQUI EM MP3[/COLOR][/B]</info>
+</channel></channels>
+##################################################################################################################
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] PAGODE [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/52ShKx5T/MUSICANACIONALPAGODE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Pl-58rZmAxcDOU4MlK-tlerUvcMAb4Z_</externallink>
+<fanart>https://i.postimg.cc/cH1BcfcK/fanartmusicanacionapagode.jpg</fanart>
+<info>[B][COLOR yellow]OS GRANDES SUCESSOS DO PAGODE ,OS FAMOSOS PAGODEIROS ESTARÃO AQUI EM MP3[/COLOR][/B]</info>
+</channel></channels>
+##################################################################################################################
+</channel>
+</channels>
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] POP ROCK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MGZhhhdT/MUSICANACIONALPOPROCK.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=19gPeKWBrlinZyTXowk7JPvAWqq7q6IeZ</externallink>
+<fanart>https://i.postimg.cc/6qgVwgxR/fanartmusicanacionalpoprock.jpg</fanart>
+<info>[B][COLOR yellow]OS MAIORES E GRANDES SUCESSOS DO POP ROCK BRASILEIRO E SEUS FAMOSOS INTERPRETES: CANTORES E BANDA TODOS COM SUCESSOS ESTARÃO AQUI EM MP3[/COLOR][/B]</info>
+</channel></channels>
+##################################################################################################################
+<channels><channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SAMBA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/GpMZrq5j/MUSICANACIONALSAMBA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1m2lImnYJnN3c5NoWRNk0fegSL0kmYdlG</externallink>
+<fanart>https://i.postimg.cc/L4b3zYgX/fanartmusicanacionasamba.jpg</fanart>
+<info>[B][COLOR yellow]OS GRANDE SUCESSOS DO NOSSO SAMBA INTERPRETADOS´POR SEUS FAMOSOS CANTORES E CONJUNTOS ESTARÃO AQUI https://i.postimg.cc/GpMZrq5j/MUSICANACIONALSAMBA.jpg[/COLOR][/B]</info>
+</channel></channels>
+

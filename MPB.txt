@@ -1,0 +1,36 @@
+<item><title>[COLOR white]COLETANEA DE CLÁSSICOS DA MPB[/COLOR]</title>
+<utube>xlKJjJuJ3ME</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]CLÁSSICOS DA MPB[/COLOR]</title>
+<utube>PMkXPPxFvpI</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SUPER COLETÂNEA DA MPB[/COLOR]</title>
+<utube>GVqNEMJGf9w</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]MPB ACÚSTICO[/COLOR]</title>
+<utube>pqZ421b2wsE</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SUCESSOS INESQUECÍVEIS[/COLOR]</title>
+<utube>nhWC2-is27Y</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]O MELHOR SOM DE BARZINHO[/COLOR]</title>
+<utube>EVvO6Eksof4</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################

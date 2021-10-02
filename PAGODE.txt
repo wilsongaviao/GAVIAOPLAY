@@ -1,0 +1,36 @@
+<item><title>[COLOR white]CLÁSSICOS DO PAGODE[/COLOR]</title>
+<link>https://ia601509.us.archive.org/2/items/classicosdopagode/classicosdopagode.mp3</link>
+<thumbnail>https://i.postimg.cc/tgMYTc9d/CLASSICOSDOPAGODE.jpg</thumbnail>
+<fanart>https://i.postimg.cc/MGJJ6bQP/fanartclassicodopagode.jpg</fanart>
+<info>[B]COLOR yellow]COLETÂNEA COM GRANDES SUCESSOS DO PAGODE , SUCESSOS CANTADOS POR SEUS INTERPRETES  [/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SUPER COLETÂNEA DE PAGODE[/COLOR]</title>
+<utube>ZzfjHM1ou-c</utube>
+<thumbnail>https://i.ytimg.com/vi/ZzfjHM1ou-c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_B-xpkpW2OBDDgI8p8mXL20qDOQ</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]SUPER COLETANEA DE PAGODE COM 6 HORAS  DE VERDADEIROS CLASSICOS PAGODIANOS[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SELEÇÃO DE OURO -PAGODE DAS ANTIGAS[/COLOR]</title>
+<utube>NNxReObM9Pc</utube>
+<thumbnail>https://i.ytimg.com/vi/NNxReObM9Pc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRq3rjCOg1tdd03Lic4eN9qT-8Ag</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]PAGODE 90 GRANDES SUCESSOS[/COLOR]</title>
+<utube>FilQCmywY1E</utube>
+<thumbnail>https://i.ytimg.com/vi/FilQCmywY1E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmSOzI4Jgs5JB8_1UkQyhF9-1nUg</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]COLETÂNEA COM GRANDES SUCESSOS DO PAGODE  NA DECADA DE 90[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]SAMBA E PAGODE ANTIGO GRANDES SUCESSOS[/COLOR]</title>
+<utube>9zixvE19c3g</utube>
+<thumbnail>https://i.ytimg.com/an_webp/9zixvE19c3g/mqdefault_6s.webp?du=3000&sqp=CKj8gIcG&rs=AOn4CLCB0oYExSKlEbIgqr5YPopJTnGsVQ</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]SELEÇÃO COM GRANDES SUCESSOS DO SAMBA PAGODE BRASILEIRO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[COLOR white]PAGODE ROMÂNTICO, ANTIGAS PRA RECORDAR[/COLOR]</title>
+<utube>44v24X7Wj8I</utube>
+<thumbnail>https://i.ytimg.com/vi/44v24X7Wj8I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3TE9GH9f94NBQ1GvgjS4j2zzIxw</thumbnail>
+<fanart></fanart>
+<info>[B]COLOR yellow]COLETÂNEA DE PAGODES ROMÂNTICOS ANTIGOS PARA RELEMBRAR OS BONS  MOMENTOS[/COLOR][/B]</info></item>
+###################################################################################################################
