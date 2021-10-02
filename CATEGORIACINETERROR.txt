@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]CINE TERROR DUBLADO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Y9TLLbpG/CINETERRORDUBLADO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-LQjkDm8l6tmfMXQMhmL2Wvl11Z99X0w</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TERROR%20DUBLADO.txt</externallink>
 <fanart>https://i.postimg.cc/j5YQGx7k/FANARTCINETERRORDUBLADO.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEA DE FILMES DE TERROR , SUCESSOS DO GENERO , LANÇAMENTOS ,ETÇ.FILMES DUBLADOS QUE ESTAO EM EVIDENÇIA NO GENERO VOCE ENCONTRARÁ AQUI[/COLOR][/B]</info></item>
 </channels>
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]CINE TERROR LEGENDADO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/brbDxkJ6/CINETERRORLEGENDADO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-Q-iswZlXof2mxAlMamSO6e4OTiWByg</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TERROR%20LEGENDADO.txt</externallink>
 <fanart>https://i.postimg.cc/ZRPFmGPY/FANARTCINETERRORLEGENDADO.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEA DE FILMES DE TERROR , SUCESSOS DO GENERO , LANÇAMENTOS ,ETÇ.FILMES DUBLADOS QUE ESTAO EM EVIDENÇIA NO GENERO VOCE ENCONTRARÁ AQUI[/COLOR][/B]</info></item>
 </channels>
