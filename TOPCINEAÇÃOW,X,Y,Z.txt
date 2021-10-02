@@ -1,0 +1,25 @@
+<item><title>[B][COLOR white]Wheelman - Motorista de Fuga[COLOR yellow]( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32c47aa108e5a33752488d84d6e0d9ae63e0cbf1</link>
+<thumbnail>https://3.bp.blogspot.com/-Yh3rqyPQBdY/W2Hlp1ZbAcI/AAAAAAAAO2Q/wlYx6FjXuJgTmRC6KVe5dBQ2byOB67PSACLcBGAs/s1600/Wheelman%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Depois de um assalto a banco dar errado, um motorista (Frank Grillo) percebe que foi traído e começa uma fuga de vida ou morte. Na caçada para descobrir quem foi o traidor, a única pessoa em que ele pode confiar agora é sua filha Katie (Caitlin Carmichael), de apenas 14 anos.[/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white]Zona Verde[COLOR yellow]( 2011 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75DDDB91512597F895D07544C5AB993A5F62AD4C</link>
+<thumbnail>https://abutretorrents.com/capa/zona-verde-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Bagdá, 2003. Roy Miller (Matt Damon) está encarregado pelo serviço de inteligência do exército, que busca encontrar vestígios de armas de destruição em massa no Iraque. O governo americano está ansioso para que algo seja encontrado, já que precisa justificar a invasão realizada. À medida em que as investigações fracassam e nada é encontrado, o objetivo da missão é alterado. [/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white]Wathcmen - O Filme[COLOR yellow]( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff839e02f131f6dbbf3b52699535d779ce62359d</link>
+<thumbnail>https://i.imgur.com/KI3J44T.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Ambientado numa realidade fictícia norte-americana nos anos 80, um grupo de super-heróis aposentados começa a ter sua vida ameaçada. Rorschach (Jackie Earle Haley), detetive que usa uma máscara desfigurada, e o Coruja (Patrick Wilson) passam a investigar a identidade do vilão antes que suas próprias vidas corram perigo. [/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+###########################################################################################################################

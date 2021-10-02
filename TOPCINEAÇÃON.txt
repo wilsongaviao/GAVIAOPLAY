@@ -1,0 +1,25 @@
+<item><title>[B][COLOR white]Nascido Para Vencer[COLOR yellow] (2020)[/B][/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcac32530474996e186f1653eb8a315f7a2cee31</link>
+<thumbnail>https://abutretorrents.com/imagens/nascido-para-vencer-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Ambientado em 1990, o filme segue Mickey Kelley, um dos primeiros black belts americanos do jiu-jitsu brasileiro, que se afasta de tudo que ama e em um torneio de MMA não sancionado, onde seus sonhos de prover sua família vêm para uma parada com uma decisão de fração de segundo. Sua vida sai dos trilhos até anos depois ele recebe uma chance de redenção. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Ninja Assassino[COLOR yellow] (2011)[/B][/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cedea663149d4a169ade90796658e49638d5b1a</link>
+<thumbnail>https://abutretorrents.com/imagens/ninja-assassino-ninja-assassin-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Raizo (Rain) é um dos assassinos mais temidos do mundo. Tirado das ruas na infância, foi treinado pelo clã Ozunu um grupo secreto cuja existência em si já é considerada uma lenda para ser um assassino exímio. No entanto, a execução sumária de seu amigo faz com que Raizo volte-se contra o grupo, aguardando o momento da vingança. [/COLOR]</info>[/B]</item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Na Corda Bamba[COLOR yellow](2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4bb88ec10f7f7384e33f927cc9133502f3dc93f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69cd6319313d1d6c244cd2b5d70a770a77c47f62</link>
+<thumbnail>https://abutretorrents.com/capas/na-corda-bamba-on-the-ropes-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Após a morte repentina de seu pai, dois irmãos percebem que a maior ameaça ao seu império criminoso pode ser apenas um com o outro. Uma batalha sem limites pelo poder segue que ameaça destruir tudo o que seu velho homem construiu.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Ninja[COLOR yellow] (2010)/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:240B8BEADB1EA11C1EDE7E538FD6B5E7DCFC5172</link>
+<thumbnail>https://abutretorrents.com/capas/ninja-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Um ocidental chamado Casey, estudando Ninjutsu no Japão, é convidado pelo Sensei para retornar a Nova York para proteger o lendário Yoroi Bitsu, uma caixa blindada que contém as armas do passado Koga Ninja. [/COLOR]</info>[/B]</item>
+######################################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2017)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]

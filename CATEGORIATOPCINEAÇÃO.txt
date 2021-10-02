@@ -1,0 +1,239 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES [COLOR gold]NUMEROS/SIMBOLOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/tJjxQSVJ/TOPCINEA-ONUMEROSESIMBOLOS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1ur2bFSQ0ED2VEtAF36yN5t5WlNhQXsvm</externallink>
+<fanart>https://i.postimg.cc/85jx4zzB/fanarttopcinea-o-NUMEROSESIMBOLOS.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM  FILMES QUE INICIAM O NOME COM NUMEROS OU SIMBOLOS E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] A[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/sfhckqbj/TOPCINEA-OA.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1P_yFAdl5HVVHS9JIxLr65GlR28X-GIi6</externallink>
+<fanart>https://i.postimg.cc/054Bkv2h/fanarttopcinea-o-A.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA A E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] B[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/KvhNxQyn/TOPCINEA-OB.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=14CYUUqwnhDEwpALxgzhPwPUCg1DnZLAG</externallink>
+<fanart>https://i.postimg.cc/15NY4d8X/fanarttopcinea-o-B.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA B E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] C[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/L6kVXfHG/TOPCINEA-OC.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Da8RL6i2_LroFChI_KTyIdolK9YB8vzd3</externallink>
+<fanart>https://i.postimg.cc/NMMdtChg/fanarttopcinea-o-C.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA C E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] D[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/2Sz7B6yy/TOPCINEA-OD.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1D_I4icA8_56D8V7_dLU9wJyH8Cg9pwER</externallink>
+<fanart>https://i.postimg.cc/jS03fhfX/fanarttopcinea-o-D.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA D E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] E[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/rwQCGkRJ/TOPCINEA-OE.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1xXC-ZNl2H0xNONEqlje85V7gOjVyR51N</externallink>
+<fanart>https://i.postimg.cc/JzN65BcW/fanarttopcinea-o-E.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA E, E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] F[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/Ls5kNbzM/TOPCINEA-OF.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1VVeY6_0tRGpLAiledXwWeGJcoDhS31Tw</externallink>
+<fanart>https://i.postimg.cc/mD58g3R7/fanarttopcinea-o-F.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA F E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] G[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/bv5xM9TS/TOPCINEA-OG.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=12wjRWd-fFNlPYgKrTZStTEywEyCu97I8</externallink>
+<fanart>https://i.postimg.cc/LsmyC6Ng/fanarttopcinea-o-G.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA G E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] H[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/hj7LqQyy/TOPCINEA-OH.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1QTbrN_uJJldGEWxkEq3rqkQQKNuX61W8</externallink>
+<fanart>https://i.postimg.cc/YS8dJKsn/fanarttopcinea-o-H.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA H E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] I[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fynxWW1w/TOPCINEA-OI.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1CL-F1c5P1Uh5hHiIDvJOZFXOnIh3wAEs</externallink>
+<fanart>https://i.postimg.cc/8cfwJFP9/fanarttopcinea-o-I.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA I E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] J[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/J0NjsVWj/TOPCINEA-OJ.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1q3_cNL5097R-YMkcVLF9Q0hpCJ2K63p_</externallink>
+<fanart>https://i.postimg.cc/hhFs9SXj/fanarttopcinea-o-J.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA J E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] K[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/vHvWMshs/TOPCINEA-OK.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1Mav_oRZPe_6zd4Ukci_-sLlq3rM2PEkN</externallink>
+<fanart>https://i.postimg.cc/mZ0WdCMc/fanarttopcinea-o-K.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA K E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] L[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/zGXTGc2R/TOPCINEA-OL.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1edMkuLDtt36A0w7E1N0hZa05bo3Mmqjb</externallink>
+<fanart>https://i.postimg.cc/FFfQgDf5/fanarttopcinea-o-L.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA L E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO ATE 2010[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] M[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/jjDNzJbx/TOPCINEA-OM.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1v9FgeOKpcxbYbDQpgnqPIKQJgUu7S-Wc</externallink>
+<fanart>https://i.postimg.cc/K8bSbb0x/fanarttopcinea-o-M.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA M E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] N[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/7672R8hj/TOPCINEA-ON.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1v9FgeOKpcxbYbDQpgnqPIKQJgUu7S-Wc</externallink>
+<fanart>https://i.postimg.cc/25HPnZrS/fanarttopcinea-o-N.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA N E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] O[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/sx4ZVYpc/TOPCINEA-OOjpg.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=wVsa2VZF<1MQvfPLU7WmAU4b2uQsDVbbxyYw-aCv7-/externallink>
+<fanart>https://i.postimg.cc/kXK3LGFT/fanarttopcinea-o-O.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA O E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] P[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/2jQWFDPZ/TOPCINEA-OPjpg.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1uel9Jcdvy-HeNVc3A2Y00oyIvUhrFsaa</externallink>
+<fanart>https://i.postimg.cc/d0Qb7BMf/fanarttopcinea-o-P.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA P E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] Q[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/DZX1K0ZX/top-cine-a-o-q.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA Q E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] R[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/2yNhjYbX/top-cine-a-o-r.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA R E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] S[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/bY11CZ4X/top-cine-a-o-s.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA S E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] T[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/BQsHdqGj/top-cine-a-o-t.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA T E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] U[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/Qxb1DRX0/top-cine-a-o-ut.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA U E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] V[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/zGGWG0v5/top-cine-a-o-v.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA V E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+#####################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FILMES LETRA[COLOR gold] W-X-Y-Z[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/XvTyxW87/top-cine-a-o-x.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<fanart>IGNOREME</fanart>
+<info>[B][COLOR yellow]SELEÇAO DE FILMES DE AÇÃO COM FILMES QUE INICIAM O NOME COM LETRA W-X-Y-Z E FIZERAM SUCESSOS NOS CINEMAS E  NA TELEVISÃO HÁ MAIS OU MENOS DEZ ANOS[/COLOR][/B]</info>
+</channels>
+</channel>
+
