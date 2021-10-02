@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] TOP CINE[COLOR yellow] NOVIDADES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/yx18ywZm/TOPCINENOVIDADES.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=e8xDenTk</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20NOVIDADES.txt</externallink>
 <fanart>https://i.postimg.cc/PqhFTK2W/fanarttopcinenovidades.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -12,7 +12,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE  [COLOR yellow]AÇÃO[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/HnX9b8bc/TOPCINEA-O.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1A-YZFj_m4Vfi5VA9MD0v2BUERMiDfbmn</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIATOPCINEA%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/6qQkwz6j/fanarttopcinea-o.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -22,16 +22,8 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  AVENTURA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/xj3kNPzG/TOPCINEAVENTURA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1G4YSVv_kNjR8wODnu_he23-_LjzE0AI-</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20AVENTURA.txt</externallink>
 <fanart>https://i.postimg.cc/d1JMNwbK/fanarttopcineaventura.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-</channels>
-</channel>
-#####################################################################################################################
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  ADULTO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/prCpN2Hc/TOPCINEADULTO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=2m9jPQF0</externallink>
-<fanart>https://i.postimg.cc/SQT0V0Vw/fanarttopcineadulto.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
 </channel>
@@ -40,7 +32,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  DIVERSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/c41vR8Rp/TOPCINEDIVERSOS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1SHnSVj_1Wd-vlqt_o_w4by2hQTyaFlaR</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20DIVERSOS.txt</externallink>
 <fanart>https://i.postimg.cc/Y0yJSghp/fanarttopcinediversos.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -50,7 +42,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[COLOR yellow] DRAMA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/YqXhbq8h/TOPCINEDRAMA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=15FDyqKiWZIc4Q-mvmAnsvac9zdneUzUl</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20DRAMA.txt</externallink>
 <fanart>https://i.postimg.cc/63ckDFK4/fanarttopcinedrama.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -60,7 +52,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  FICÇÃO [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/BvFbS53K/TOPCINEFIC-O.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1G_OdixwrGSPF1sJNBCNxNXmwQjZbZ4h0</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20FIC%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/KYrwMCRp/fanarttopcinefic-o.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -70,7 +62,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  INFANTIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/C1V1zZM6/TOPCINEINFANTIL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1pC2NNewHpuWklRLHRZsfkNZR5WhgnV9y</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20INFANTIL.txt</externallink>
 <fanart>https://i.postimg.cc/yxWb2dn2/fanarttopcineinfantil.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -80,7 +72,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  NACIONAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/FRgKc97F/TOPCINENACIONAL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1SlOqdKl27YBDDI6l8wbb0LbfVhKVquu0</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20NACIONAL.txt</externallink>
 <fanart>https://i.postimg.cc/tCKMm96m/fanarttopcinenacional.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -90,7 +82,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/90LF8Jdv/TOPCINEROMANCE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Fb7cWyxE0hu6isrs9PbgsbQlin6i8DwQ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20ROMANCE.txt</externallink>
 <fanart>https://i.postimg.cc/3rb6mXxh/fanarttopcineromance.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
@@ -100,7 +92,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[COLOR yellow]  TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/h4sjtPkp/TOPCINETERROR.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Xg4cz3y7DZgpOvaSQw9qmhZhm0dPSog5</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20TERROR.txt</externallink>
 <fanart>https://i.postimg.cc/fRYgG1jW/fanarttopcineterror.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
