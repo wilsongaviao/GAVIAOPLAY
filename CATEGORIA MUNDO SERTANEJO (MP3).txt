@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CLÁSSICOS SERTANEJOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/xCyn5kFN/CLASSICOSSERTANEJOS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1RHus3TV3yXZsXaewDbQtzlRUzqzwxOgF</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CL%C3%81SSICOS%20SERTANEJOS.txtF</externallink>
 <info>[B][COLOR yellow]OS SUCESSOS DO SERTANEJO RAIZ, CLÁSSICOS INESQUECÍVEIS DE TODOS OS TEMPOS.SOMENTE EM AUDIO[/COLOR][/B]</info></item>
 </channels>
 </channel>
@@ -12,7 +12,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERTANEJO UNIVERSITÁRIO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/k43c7L4d/SERTANEJOUNIVERSITARIO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Bct3MiK8wdqMfkWTJGbsv7Hm3Psifm9</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SERTANEJO%20UNIVERSITARIO.txt</externallink>
 <info>[B][COLOR yellow]SUCESSOS DO SERTANEJO UNIVERSITÁRIO DESDE O COMEÇO DO RITMO QUE MUDOU O SERTANEJO TRADICIONAL ATE OS DIAS DE HOJE.SOMENTE EM AUDIO[/COLOR][/B]</info></item>
 </channels>
 </channel> 
@@ -21,7 +21,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UNIVERSO SERTANEJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/9Q40DgbG/UNIVERSOSERTANEJO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1hNG76OWDfv8pqY8KQ0p9NBlj2Mzfn2Hv</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/UNIVERSO%20SERTANEJO.txt</externallink>
 <info>[B][COLOR yellow]SUCESSOS SERTANEJOS DE TODOS OS TEMPOS E GENEROS , DESDE O SERTANEJO RAIZ ATE OS DIAS DE HOJE. SOMENTE EM AUDIO[/COLOR][/B]</info></item>
 </channels>
 </channel>
