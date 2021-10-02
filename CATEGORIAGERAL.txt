@@ -31,7 +31,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/4NXLRZt6/CINEONLINE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1YYvRrNcfu2P3vylYNSY2gc5glAybTmUr</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20ON%20LINE.txt</externallink>
 <fanart>https://i.postimg.cc/tRfPhJ0w/fanartcineonline.jpg</fanart>
 <info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA A PARTIR DE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
@@ -41,7 +41,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE CATÁSTROFES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/wvJ95wPq/CINECATASTROFES.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1oJGOy404goJb7J84aysCd99Hn06VkPBF</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINECATASTROFE.txt</externallink>
 <fanart>https://i.postimg.cc/GpJJKCPY/fanartcinecatastrofes.jpg</fanart>
 <info>[B][COLOR yellow]COLET NEA COM SUCESSOS DO CINEMA INTERNACIONAL RELACIONADOS A CATASTROFES NATURAIS, FISICA E ESPACIAIS SERAO ADICIONADOS AQUI., SE FALTAR A DE SEU GOSTO E SO PEDIR E SERÁ ADICIONADO ASSIM QUE FOR ENCONTRADO[/COLOR][/B]</info>
 </channels>
@@ -51,7 +51,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/MZ7WvrVt/CINECOLLECTIONS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1l5Pr62XzOADHBTL67gqF5h_lLdTJNR4y</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20COLLECTION.txt</externallink>
 <fanart>https://i.postimg.cc/1tv0xrj3/fanartcinecollections.jpg</fanart>
 <info>[B][COLOR yellow]AS MELHORES COLEÇÕES E FRANQUIAS DE FILMES ESTARÃO AQUI,SE FALTAR A QUE VC GOSTE E SO FAZER O PEDIDO E SERA ADICIONADO LOGO QUE FOR ENCONTRADA[/COLOR][/B]</info>
 </channels>
@@ -61,7 +61,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FAROESTE [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/NfQQT7xt/CINEFAROESTE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1TahH_TSGgZEw7Zgr_L8hTi6jTxp7hx_h</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEFAROESTE.txt</externallink>
 <fanart>https://i.postimg.cc/9FRdSTtc/fanartcinefaroeste.jpg</fanart>
 <info>[B][COLOR yellow]COLET NEA COM SUCESSOS DE FILMES DE FAROESTE,COM ARTITAS FAMOSOS DO GENERO SERÃO ADICIONADO AQUI , FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SER ENCONTRADO AQUI .[/COLOR][/B]</info>
 </channels>
@@ -71,7 +71,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/Jzj7SNWY/CINEFLASHBACK.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=16F_HwdCQo2WoPjK1j4gB-avUX7xGE277</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINEFLASHBACK.txt</externallink>
 <fanart>https://i.postimg.cc/bJy0FBL5/fanartcineflashback.jpg</fanart>
 <info>[B][COLOR yellow] OS GRANDES SUCESSOS DE BILHETERIA E PUBLICO DO PASSADO ESTARÃO AQUI NAS SUAS CATEGORIAS, FAÇA O PEDIDO SE O DE SEU GOSTO NÃO SE ENCOTRAR POSTADO.[/COLOR][/B]</info>
 </channels>
@@ -81,7 +81,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE MARVEL'S[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/y8nRwCKb/CINEMARVELS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1EPGilE9TRmmgJDyBMzQkYYPgxTO31bNJ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEMARVELS.txt</externallink>
 <fanart>https://i.postimg.cc/PJBwh3zT/fanartcinemarvels.jpg</fanart>
 <info>[B][COLOR yellow]COLET NEA COM FILMES PRODUZIDOS PELO ESTUDIO MARVEL'S ESTARÃO POSTADO AQUI .[/COLOR][/B]</info>
 </channels>
@@ -91,7 +91,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE RELIGIOSO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/RZ3ynN29/CINERELIGIOSO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Kmj-pNGHe_32yLT8iWyjCoL88TbLgA8J</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINERELIGIOSO.txt</externallink>
 <fanart>https://i.postimg.cc/28QQrYJt/fanartcinereligioso.jpg</fanart>
 <info>[B][COLOR yellow]OS FILMES RELIGIOSOS , DE QUALQUER DOUTRINA SERA ADICIONADO AQU, SE O FILME DE SUA PREFERÊNCIA NÃO SE ENCONTRAR E SO FAZER O PEDIDO QUE SERÁ ATENDIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
 </channels>
@@ -101,7 +101,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/g21Xqpc7/CINETERROR.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-Ir4tj9eoRAFqtZaA_TenSnHbT5_P1rx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINETERROR.txt</externallink>
 <fanart>https://i.postimg.cc/CLp4bdsW-/fanartcineterror.jpg</fanart>
 <info>[B][COLOR yellow]COLETANEA COM OS SUCESSOS DE BILHETERIA E DE PUBLICO DO GENERO DE TERROR[/COLOR][/B]</info></item>
 </channels>
@@ -111,7 +111,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DOUTRINA ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/k4CpZwGX/DOUTRINAESPIRITA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=151LCumjoB-6Ga6bSBrlgu_7UZ7tFPksa</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20DOUTRINA%20ESPIRITA.txt</externallink>
 <fanart>https://i.postimg.cc/P5K1v4dz/fanartdoutrinaespirita.jpg</fanart>
 <info>[B][COLOR yellow]AQUI ENCONTRARÁ ESCLARECIMENTOS E DÚVIDAS  SOBRE A DOUTRINA ESPIRITA: ENSINAMENTOS SOBRE A DOUTRINA, ESTUDO DO EVANGELHO, PALESTRAS E FILMES ESPIRITAS,ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
 </channels>
@@ -121,7 +121,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fy179dr5/filmes-legendados.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1WHd_xxPdIrPUwMCdzx8ZCBHiJYwJlMCA</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FILMES%20LEGENDADOS.txt</externallink>
 <fanart>https://i.postimg.cc/4NKh9mZH/fanart-cine-legendados.png</fanart>
 <info>[B][COLOR yellow]PARA QUEM GOSTA DE FILMES COM AUDIO ORIGINAL AQUI ESTARÃO OS MELHORES FILMES LEGENDADOS [/COLOR][/B]</info>
 </channels>
@@ -131,7 +131,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/hj3VxPkW/LAN-AMENTOS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1und1Ho_dI8V6p2A3ndR3BXDsrK7V9LyP</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LAN%C3%87AMENTOS.txt</externallink>
 <fanart>https://i.postimg.cc/dtw7RyHW/fanartlan-amentos.jpg</fanart>
 <info>[B][COLOR yellow]COLET NEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 ###########################################################################################################################
@@ -139,7 +139,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2020[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/FF3gKFNJ/filmes-2020.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1_pqYCKQWeYhskMXwbPfI3Hs2IZ8RbLkB</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMES%202020.txt</externallink>
 <fanart>https://i.postimg.cc/9FvwtCF8/fanart-lan-amentos.jpg</fanart>
 <info>[B][COLOR yellow]OS MELHORES FILMES DE 2020 ,QUE ESTIVER AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
@@ -169,7 +169,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/RCTNJKj0/top-cine.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=18XdshdUNURzNBgHKQ0px9eFYh2kfa8Ib</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20TOP%20CINE.txt</externallink>
 <fanart>https://i.postimg.cc/bJNZNv3J/fanart-top-cine.jpg</fanart>
 <info>[B][COLOR yellow]O MELHOR DO CINEMA EM TORRENTS EM SUAS CATEGORIAS ENCONTRADOS ESTARAO AQUI, SE FALTAR O DO SEU GOSTO ENTRE EM CONTATO E FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
@@ -179,7 +179,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEOCLIPS & MUSICAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/s2svn0YZ/VIDEOCLIPS-E-MUSICA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1pJe_I2zhwqYsyR5BByzSCH9xtq4VV1HW</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAVIDEOCLIPS%26MUSICAS.txt</externallink>
 <fanart>https://i.postimg.cc/d0nDL1wD/FANART-VIDEOS-E-MUSICAS.jpg</fanart>
 <info>[B][COLOR yellow]OS MELHORES VIDEOCLIPS E AUDIOS DE MUSICAS ANTIGOS E ATUAIS, RADIOS ON LINE , ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
 </channels>
