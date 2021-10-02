@@ -1,0 +1,30 @@
+##################################################################################################################
+<item><title>[B][COLOR white]We Need to Do Something[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F1A233B887FB4C735FC2F55863317EB1162CFDA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zpWoMfyZ9V0kXZoa3cnZeI6fRV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rXhUeXgQnJoaNJL4SxnwDb6Kf2h.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Depois de Melissa e sua família buscarem abrigo de uma tempestade acabam presos. Melissa percebe que pode ter algo a ver com os horrores que ameaçam separar sua família e o mundo inteiro. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]The Stairs[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39A6B7083D5CB840EC4A810FED9500E1C74FE200</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hsOG8D1e9aeE6a2qkqmEF6zzq7J.jpg</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2021/07/the-stairs-trailer-1024x570.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Em 1997, Jesse, de 11 anos, e seu avo, Gene, viajam à caça no meio da floresta. Ao avistarem um cervo, Jesse e Gene são separados. Gene encontra o cervo e Jesse encontra algo sinistro. 20 anos depois, um grupo de caminhantes, liderados pelos irmãos Nick e Josh, partem para a mesma floresta. Esta é uma história de medo, morte e heroísmo nas circunstâncias mais improváveis. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]The Forever Room[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DE86887661EDD72AB143DC0A30DC4B2CC7EE522</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xeLw4HlREvRr5kMXD0Olw4YNcIK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lIM1TTkKSxJ1j8fErj6qV0EB2pN.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Claire acorda um dia e se encontra acorrentada em um porão. Seu horror é amplificado quando ela descobre que seu captor é sua própria mãe! Helen garante a Claire que a situação é necessária e “para o seu próprio bem”. E para aumentar o terror de Claire, nos dias e noites que se seguem ela é assolada por estranhas aparições e experiências assustadoras, encontrando-se precariamente equilibrada no fio da navalha entre a realidade e a insanidade e, por fim, forçada a enfrentar uma verdade sombria.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]The Wild Man - Skunk Ape[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984ACBE347E8F252E37A4DC537110CDEF2810B72</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6DJQBWx4ZzLjVkT722rNgfQz30k.jpg</thumbnail>
+<fanart>https://www.voicesfromthebalcony.com/wp-content/uploads/2021/08/The-Wild-Man-Skunk-Ape-1.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Há rumores de que o macaco gambá, também conhecido como Pé-grande da Flórida, é responsável por vários assassinatos no sul da Flórida. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]A Maldição de Rose[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95A7A3CEB81F713648270B9D50CA208813E7082A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9DpbNMLDsSeORt9oKuBvXaGzyfr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Após o brutal assassinato de sua família pelas mãos de seu pai, Rose é enviada para morar em um convento no nordeste dos Estados Unidos. No entanto, os demônios que atormentavam o pai, seguem despertando os pesadelos de seu passado. [/COLOR][/B]</info></item>
