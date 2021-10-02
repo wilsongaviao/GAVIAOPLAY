@@ -1,0 +1,28 @@
+###################################################################################################################
+<item><title>[B][COLOR white] GOLDEN OLDIES [/COLOR][/B]</title>
+<thumbnail>https://i.postimg.cc/j2d518Zs/GOLDEN-OLDIES.jpg</thumbnail>
+<fanart>https://i.postimg.cc/j2d518Zs/GOLDEN-OLDIES.jpg</fanart>
+<link>https://ia601403.us.archive.org/5/items/golden-oldies_202108/Golden%20Oldies.mp3</link><info>[B]Sinopse:[COLOR yellow]35 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA MUSICAL, ONDE PODEMOS TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSA COLETANEA[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]SUCESSOS INESQUECÍVEIS[/COLOR][/B]</title>
+<link>https://ia801408.us.archive.org/13/items/pop-rock-hits/POP%20ROCK%20HITS.mp3</link>
+<thumbnail>https://i.postimg.cc/VLhHYpXG/SUCESSOS-INESQUECIVEIS.jpg</thumbnail>
+<fanart>https://i.postimg.cc/xj3kHN5M/SUCESSOS-INESQUECIVEIS.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA COM MAIS DE QUINZE HORAS  DE DURAÇÃO COM GRANDES SUCESSOS DO POP ROCK INTENACIONAL DOS ANOS 60,70,80,90 ,ETÇ....[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]INTERNACIONAIS ROMÂNTICAS 2021[/COLOR][/B]</title>
+<utube>03Qc2tIvExo</utube>
+<thumbnail>https://i.ytimg.com/vi/03Qc2tIvExo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUo_FTREhBY3JUKQQma9_gb1-MGw</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]COLETANEA COM AS MELHORES MÚSICAS INTERNACIONAIS ROMÂNTICAS DE 2021 ,OS GRANDES SUCESSOS E MELHORES LANÇAMENTOS[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]POP 2020 - SÓ AS MELHORES[/COLOR][/B]</title>
+<utube>9Oy_HZs0He4</utube>
+<thumbnail>https://i.ytimg.com/vi/9Oy_HZs0He4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh6ALqvPmGaCsMXqh5HJrxxhrosg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]SELEÇÃO COM AS MELHORES CANÇÕES DO POP INTERNACIONAL QUE FIZERAM SUCESSOS NO ANO  DE 2020[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]GREATEST HITS GOLDEN OLDIES - 60S & 70S BEST SONGS[/COLOR][/B]</title>
+<utube>2y5DHRHLOHo</utube>
+<thumbnail>https://i.ytimg.com/vi/2y5DHRHLOHo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7cE-bfqqFWhPosBcEmxlR24q1_w</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]GRANDES SUCESSOS DA DECADA DE 6O , 70 PRA VC OUVIR, TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO ATRAVES DOS SUCESSOS DESSA COLETANEA[/COLOR][/B]</info></item>

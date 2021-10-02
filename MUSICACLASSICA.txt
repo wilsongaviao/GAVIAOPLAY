@@ -1,0 +1,12 @@
+<item><title>[COLOR white]1HORA DE MÚSICAS CLÁSSICAS LINDAS[/COLOR]</title>
+<utube>DUGbROP9EU4</utube>
+<thumbnail>https://i.ytimg.com/vi/DUGbROP9EU4/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/DUGbROP9EU4/maxresdefault.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]DUAS HORAS COM AS MELHORES MÚSICAS CLÁSSICAS[/COLOR]</title>
+<utube>nPffL3cNGrs</utube>
+<thumbnail>https://i.ytimg.com/vi/nPffL3cNGrs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/nPffL3cNGrs/hqdefault.jpg</fanart>
+</item>
+###################################################################################################################
