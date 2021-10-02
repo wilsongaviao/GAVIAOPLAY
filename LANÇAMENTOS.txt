@@ -1,153 +1,207 @@
 ##################################################################################################################
-<item><title>[B][COLOR white]Pixie[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Free Guy - Assumindo o Controle[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / AVENTURA / COMÉDIA [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando ele descobre que é personagem em um brutalmente realista vídeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Ninguém Sai Vivo[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / MISTÉRIO / TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc23296fac5e3153527f3a22d5c45d7daa7ff9b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKX11fIQSIdGtt9uXBlC0atY15Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oGMiUbR3J5PSmYvzj8wU1JVTSmr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Desesperada, uma imigrante ilegal do México se muda para uma pensão decadente nos EUA. Ela nem imagina que seu pior pesadelo está prestes a começar.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]O Melhor Amigo[COLOR yellow]( 1080p ) [COLOR lime]COMÉDIA / ROMANCE [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4cce7dddc57d20bf74c1d77038e9a03b84304f</link>
+<thumbnail>https://abutretorrents.com/imagens/o-melhor-amigo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Df8Wsstu76Wr8cTPfNHrSveVe6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Thibault não dá muito certo no amor e acha que a sorte pode mudar depois que o clima esquenta entre ele e Rose. Mas será possível ser mais que apenas amigos? [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Fomos Canções[COLOR yellow]( 1080p ) [COLOR lime]COMÉDIA / ROMANE [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80f02f4895572f661541003f7cd6a87db9cfd54</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rMcxBj8bHq57tFJYVHNJ5rTs99g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/noPXBsxLNUKyCntHMbnXD8djLtz.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Em um momento decisivo da carreira de Maca, o enigmático ex que partiu o coração dela reaparece em Madri. Ainda bem que ela pode contar com o apoio das amigas![/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Sem Retorno - The Eastern Front[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO  [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oeBBSOTYn04fLkLtQkpEseLHGEm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Prisioneiros russos estão sendo escoltados até um campo de prisioneiros de Stalag por um grupo de soldados alemães. Suas histórias de vida se desenrolam e quando os russos escapam e lutam por suas vidas atrás das linhas inimigas, alguns de seus captores começam a questionar se eles estão do lado certo.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]G.I. Joe Origens: Snake Eyes [COLOR yellow] ( 1080p )[COLOR lime] AÇÃO / AVENTURA[COLOR crimson] NEW [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPLRWL2VMSRFKUGN573YGWUEYYL6WFQP</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nvwunGeiiY9HldzGlFLYa56YqAc.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Depois de salvar a vida de seu herdeiro aparente, o tenaz solitário Snake Eyes é recebido em um antigo clã japonês chamado Arashikage, onde aprende os caminhos do guerreiro ninja. Mas, quando os segredos de seu passado forem revelados, a honra e a lealdade de Snake Eyes serão testadas - mesmo que isso signifique perder a confiança das pessoas mais próximas a ele.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Invasão Cósmica[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / FICÇÃO [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7eccd8c6dae595cf58915bd7aefc55d434845e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5Jodmj8equxBklBlhZMHJtkp5J.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/umAoDwLZMBrYeCDfbJYFRMuXWAr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Sete soldados desonestos lançam um ataque preventivo contra uma civilização alienígena recém-descoberta na esperança de acabar com uma guerra interestelar antes de começar.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Pixie[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e026c1f36266f68c2652b49dabc0db60e50a67cd</link>
 <thumbnail>https://abutretorrents.com/imagens/pixie-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Pixie quer vingar a morte de sua mãe planejando um assalto, mas seus planos dão errado e ela se vê foragida com dois jovens através do campo selvagem irlandês por gangsters. Ela tem que se concentrar contra todos, assumindo o patriarcado para reivindicar o direito de moldar sua própria vida. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Seis Minutos para Meia-Noite[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Iniciação[COLOR yellow]( 1080p ) [COLOR lime]MISTÉRIO / SUSPENSE TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b268c8a0dc63f01e0e9867a2f227b457a76f43</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSUF0nLwVnjZN03zD2eF3WbbTRi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4qdalDaJDy6LSBNapxmCc4Wvpls.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando o atleta prodígio da Universidade Whiton é assassinado, o evento desencadeia uma série de ataques na redes sociais, forçando os alunos a descobrirem a verdade por trás dos segredos da escola e o terrível significado por trás de um ponto de exclamação.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Um Ninho Para Dois[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / COMEDIA [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OOFAGE4M23QZN5AE5Y76YAYK6EBHNUH</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b2Qy3DXEul56aFhdWUxcEBNuN7m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1tDelhmpG8KzFdU3QvOhBScm4sS.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma mulher que tenta superar uma perda precisa lidar com um pássaro genioso que invadiu seu jardim — e um marido que luta para seguir em frente.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Seis Minutos para Meia-Noite[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7e747cc16be8b14c88e8de93e54df0a8020c10</link>
 <thumbnail>https://abutretorrents.com/imagens/seis-minutos-para-meia-noite-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Verão de 1939. As famílias influentes da Alemanha nazista enviaram suas filhas para uma escola de acabamento em uma cidade inglesa do mar para aprender a língua e ser embaixadores de um nacional-socialista futuro. Um professor vê o que está por vir e está tentando aumentar o alarme. Mas ninguém está ouvindo. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Je Suis Karl [COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE / ROMANCE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Je Suis Karl [COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE / ROMANCE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89ab7a61bcb909347c7deed1d904c7b276cbcac3</link>
 <thumbnail>https://abutretorrents.com/imagens/je-suis-karl-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Maxi, sobrevivente de um ataque terrorista, junta-se ao sedutor estudante Karl e torna-se parte de um movimento juvenil europeu; [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Homem nas Trevas 2[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Homem nas Trevas 2[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd1926b4c6a366a39a5e6751c7628c39572be03</link>
 <thumbnail>https://abutretorrents.com/imagens/o-homem-nas-trevas-2-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Anos após os eventos do primeiro filme, o Homem Cego (Stephen Lang) vive escondido em uma isolada cabana, juntamente com uma garota órfã que ele começou a cuidar após um incêndio. Mas sua existência pacífica é ameaçada quando novos invasores adentram seu lar, dessa vez atrás de Phoenix, fazendo com que ele revele o que esconde dentro de si. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]A Gangue[COLOR yellow]( 1080p ) [COLOR lime]DRAMA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]A Gangue[COLOR yellow]( 1080p ) [COLOR lime]DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f51da0c094651ba1260365c6b8d2f102207e8d2f</link>
 <thumbnail>https://abutretorrents.com/imagens/a-gangue-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Uma visão um pouco distópica de Los Angeles, seguimos três adolescentes descontentes, Jessie, Calvin e Nicky, todas vítimas de uma infância extrema, comandando uma revolta hedonista suprema enquanto tentam descobrir um caminho na vida. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Um Ninho Para Dois[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA / DRAMA[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Um Ninho Para Dois[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA / DRAMA[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OOFAGE4M23QZN5AE5Y76YAYK6EBHNUH</link>
 <thumbnail>https://abutretorrents.com/imagens/um-ninho-para-dois-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Após uma tragédia prejudicar o seu casamento, uma mulher entra em uma batalha territorial com um estorninho preto de tamanho considerável que construiu um ninho em seu jardim. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Alucinação Fatal[COLOR yellow]( 1080p ) [COLOR lime]MISTERIO / SUSPENSE / TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Alucinação Fatal[COLOR yellow]( 1080p ) [COLOR lime]MISTERIO / SUSPENSE / TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96e41faea4b3d9ed85f64d06dbaf1c75ac23ffdc</link>
 <thumbnail>https://abutretorrents.com/imagens/alucinacao-fatal-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Quinze anos após esfaquear uma colega para invocar um fantasma imaginário conhecido como Mercy Black, Marina Hess volta pra casa. Vivendo com sua irmã e sobrinho, ela não consegue superar o passado visto que nesse período de tempo, a lenda de Mercy Black se tornou famosa. Agora, seu sobrinho está obcecado por ela. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Pássaros de Liberdade[COLOR yellow]( 1080p ) [COLOR lime]DRAMA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Pássaros de Liberdade[COLOR yellow]( 1080p ) [COLOR lime]DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U3J6XXNT42ZDGBJXUBFXH3AFXOETOBC6</link>
 <thumbnail>https://abutretorrents.com/imagens/passaros-de-liberdade-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Duas estudantes de uma academia de balé de elite em Paris tem seus laços testados quando são postas para competir por um contrato na Ópera nacional. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Intrusion[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Intrusion[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc37ed23c764b61d99e0ce084e54b8aad6041654</link>
 <thumbnail>https://abutretorrents.com/imagens/intrusion-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Quando um casal se muda para uma cidadezinha, uma invasão deixa a esposa traumatizada e com a suspeita de que todos à sua volta não são bem o que aparentam. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Charlatão[COLOR yellow]( 1080p ) [COLOR lime]DRAMA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Charlatão[COLOR yellow]( 1080p ) [COLOR lime]DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a8800dbcde9b6f073981bd04240baf81053237d</link>
 <thumbnail>https://abutretorrents.com/imagens/o-charlatao-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow] Inspirado na história do herborista Jan Mikolasek, que dedicou a vida aos cuidados de pessoas doentes, apesar dos imensos obstáculos que enfrentou nas esferas pública e privada. Nascido na virada do século 20, Mikolasek ganha fama e fortuna usando métodos de tratamento pouco ortodoxos para curar uma ampla gama de doenças. Renomado na Tchecoslováquia antes da Segunda Guerra Mundial, o curandeiro aumenta a reputação e a riqueza durante a ocupação nazista e sob o regime comunista. Todos esses regimes, um após o outro, se beneficiam das habilidades de Mikolasek e dão proteção a ele em troca. Mas quão altos devem ser os custos para manter esse status quando as coisas mudarem? [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Sou Vingança - Retaliação[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Sou Vingança - Retaliação[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UKYJKU2YBPSPGOSXDTPAUTMY6O72ZLYK</link>
 <thumbnail>https://abutretorrents.com/imagens/sou-vinganca-retaliacao-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]O ex-soldado das Forças Especiais, John Gold, tem a oportunidade de levar Sean Teague - o homem que traiu sua equipe em sua missão final na Europa Oriental há vários anos - à justiça. Gold está convencido a ajudar a transportá-lo para uma prisão militar para pagar por seus crimes. Ao longo do caminho, Gold terá que lutar contra a equipe de Teague que está tentando extraí-lo, bem como um atirador aparentemente empenhado em matar Teague. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Guerra De Likes[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Guerra De Likes[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14eb7a0fea56c2a12014260f55af234777d14851</link>
 <thumbnail>https://abutretorrents.com/imagens/guerra-de-likes-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Para ter sucesso em sua carreira no mundo dinâmico da publicidade na Cidade do México, Raquel tenta se reunir com sua amiga de colégio Cecy, que se tronou rainha nas mídias sociais. Mas, ao contrário dos seguidores, as amizades não surgem instantaneamente. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[COLOR white]As Espiãs de Churchill[COLOR yellow] ( 720 / 1080p )[COLOR lime]DRAMA / BIOGRAFIA [COLOR crimson] NEW[/COLOR]</title>
+<title>[COLOR white]As Espiãs de Churchill[COLOR yellow] ( 720 / 1080p )[COLOR lime]DRAMA / BIOGRAFIA [/COLOR]</title>
 magnet:?xt=urn:btih:96b66ac01465f94d82da773dc073d71930fb2645
 <thumbnail>https://abutretorrents.com/imagens/as-espias-de-churchill-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Drama da vida real que se concentrará em Vera Atkins, a oficial da inteligência britânica que foi recrutada por Winston Churchill e supervisionou os agentes secretos que entraram como paraquedistas na França para sabotar os nazistas durante a Segunda Guerra Mundial. [/COLOR][/B]</info>
 ##################################################################################################################
-<title>[COLOR white]Stillwater[COLOR yellow] ( 1080p )[COLOR lime]DRAMA / SUSPENSE [COLOR crimson] NEW[/COLOR]</title>
+<title>[COLOR white]Stillwater[COLOR yellow] ( 1080p )[COLOR lime]DRAMA / SUSPENSE [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0357EE226F6ECE90C6FA6DC272FF421AD3616F73</link>
 <thumbnail>https://abutretorrents.com/imagens/stillwater-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]( DUBLAGEM NÃO OFICIAL )Um americano viaja para Marselha a fim de visitar sua filha que está na prisão por um assassinato que ela afirma não ter cometido. Confrontado com barreiras linguísticas, diferenças culturais e um complicado sistema legal, Bill faz de sua missão pessoal exonerar sua filha. No processo, ele desenvolve uma amizade com uma mulher local e sua jovem filha e embarca em uma jornada pessoal de descoberta e um maior senso de pertencer ao mundo. [/COLOR][/B]</info>
 ##################################################################################################################
-<item><title>[B][COLOR white]Refém Rebelde[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Refém Rebelde[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6HCB5OHJVSYDNHJRRRKJRXUAKQ4NVSEL</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/61hoGhY0khqOolZyfxqv4zrde8M.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Pai solteiro e ex-fuzileiro naval Kyle Snowden, em uma parada de rotina para seu trabalho na Child Protective Services, Kyle se encontra e um grupo de clientes inocentes presos dentro da loja de seu padrasto.[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Crisis[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Crisis[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4UVAZTETSO73GY5LE24MJ7S2WC6WPUJJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/15e2VcMTtk3pqgGlHWxisvygFAw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Três histórias sobre o mundo dos opioides colidem: um traficante de drogas organiza uma operação de contrabando de Fentanil multicartel entre o Canadá e os EUA, um arquiteto se recuperando de um vício em OxyContin rastreia a verdade por trás do envolvimento de seu filho com narcóticos e um professor universitário luta inesperadamente revelações sobre seu empregador de pesquisa, uma empresa farmacêutica com profunda influência governamental que está trazendo um novo analgésico "não viciante" ao mercado.[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Lindo de Morrer [COLOR yellow]( 1080p ) [COLOR lime]COMEDIA / ROMANCE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Lindo de Morrer [COLOR yellow]( 1080p ) [COLOR lime]COMEDIA / ROMANCE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdb4d26a6a148ef8fe263f918883ce0946100883</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zhm9NhbSM57VpFxzX3cGFSyeGs7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fOOwnwbb9whGZm5kREu9cu4OFRg.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Max Richards (Brandon Flynn) é um adolescente de dezesseis anos de idade forçado a viver com um rosto letalmente atraente. Tudo muda quando ele conhece Alex (Julia Goldani Telles), uma garota com sua própria condição bizarra, que o ajuda numa jornada de auto-descobrimento... sem matar ninguém acidentalmente. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Baile das Loucas[COLOR yellow]( 1080p ) [COLOR lime]SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Baile das Loucas[COLOR yellow]( 1080p ) [COLOR lime]SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f1b39ca81bfb440c44e22a452bae02ea7430d7b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pL6onRNBIrYnIADtlt0h84RpzVE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6kcDYljcxhMTR4kwvAEsqMOEALb.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Eugénie tem um dom: ela ouve e vê os mortos. Quando sua família descobre este segredo, no fim do século XIX, seu pai e seu irmão a internam na clínica neurológica La Pitié Salpêtrière, sem chance de escapar. Seu destino se entrelaça com o de Geneviève, enfermeira da clínica. O encontro muda o futuro das duas, enquanto se preparam para o "Baile das Loucas", evento anual organizado pelo Dr. Charcot. A ação se desenrola no hospital Salpêtrière, onde essas mulheres diagnosticadas com diferentes tipos de distúrbios do sistema nervoso foram confinadas e colocadas sob a supervisão de neurologistas como Jean-Martin Charcot. A cada ano, um prestigiado baile era organizado com os pacientes e atraía a elite parisiense; era um lugar para ver e ser visto. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Schumacher[COLOR yellow]( 1080p ) [COLOR lime]DOCUMENTARIO [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Schumacher[COLOR yellow]( 1080p ) [COLOR lime]DOCUMENTARIO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XHLIMCZEFOTRV5SRQTOQEJHUU2TRIQVY</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdRFB5mq3L8xgotZo2g7zxeudeY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Considerado como um dos maiores pilotos de Fórmula Um de todos os tempos, Michael Schumacher é o único na história a vencer sete Campeonatos Mundiais de Fórmula Um, cinco dos quais foram ganhos consecutivamente com a Ferrari. Ele também possui uma série de outros recordes de corrida de todos os tempos. Após se aposentar em 2012, Schumacher sofreu uma lesão cerebral traumática como resultado de um acidente de esqui em 2013 e continua a receber tratamento médico até hoje. - O documentário apresenta filmagens de arquivamento nunca antes vistas em um olhar de bastidores. Emoldurado pelo aniversário de 50 anos de Schumacher e pelo 25º aniversário de sua primeira vitória no Campeonato Mundial, o filme contará com entrevistas com sua família, companheiros de corrida mais próximos e competidores. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]BAC Nord - Sob Pressão[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / DRAMA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]BAC Nord - Sob Pressão[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90945a9c3ac9f859fa24fc018f0b58bceacc4d6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nR0bqyU3KNeK0kBLTxNb2qRGoUr.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Uma brigada policial trabalha nos perigosos bairros de Marselha, onde o nível de criminalidade é maior do que em qualquer outro lugar na França. Cansados dos casos pequenos, três policiais têm a chance de desmantelar uma rede de tráfico de drogas em Marselha. Mas as coisas se complicam depois que uma informante pede um favor.[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Todos Estão Falando Sobre Jamie [COLOR yellow]( 1080p ) [COLOR lime]DRAMA / COMEDIA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Todos Estão Falando Sobre Jamie [COLOR yellow]( 1080p ) [COLOR lime]DRAMA / COMEDIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f001ff4080d2fdc8d977fa72c71af7a3dac7957</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/frcLyvZzciwPqjRXXuQg8OtmNIN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s362u4IrocsGvIjx3B5zfZhq3bX.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Jamie New (Max Harwood) tem 16 anos e vive na cidadezinha de Sheffield. Ele não se encaixa e está apavorado por conta do seu futuro. Mas ele sabe que será uma sensação. Com o apoio de sua mãe amorosa e de seus amigos, Jamie irá superar o preconceito, combater o bullying e irá sair das sombras para a luz ao se transformar em uma fabulosa drag queen. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Sequestro de Daniel Rye [COLOR yellow]( 1080p ) [COLOR lime]DRAMA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Sequestro de Daniel Rye [COLOR yellow]( 1080p ) [COLOR lime]DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XWEBG6H6QCAQSGG6NZRJTRUPZ3A5RM4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eLwFPsZ9HWfkxh7EbRHENwO81fI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iE2cwsAgexeNhKdEJ6jaOvPgPSr.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Baseado na história real de Daniel Rye, um jovem fotógrafo viaja até a Síria para documentar a crise dos refugiados em 2013. Ele acaba sendo sequestrado pelo Estado Islâmico e sua família fará de tudo para libertá-lo.[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Pai que Move Montanhas[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Pai que Move Montanhas[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0bffa5b3ee4d87f5dd7a785b3e906c9ce78695</link>
 <thumbnail>https://abutretorrents.com/imagens/o-pai-que-move-montanhas-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5kegSxcEAiO0Xu6Qk7ZAZN7thIP.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Um agente de inteligência aposentado arrisca a própria vida para salvar o filho que desapareceu no meio da neve durante uma caminhada nas montanhas.[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Noitários de Arrepiar[COLOR yellow]( 1080p ) [COLOR lime]FANTASIA / TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Noitários de Arrepiar[COLOR yellow]( 1080p ) [COLOR lime]FANTASIA / TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41c894b21732e67b2e8d161f6ab3b6b2850f3063</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9NTrSviwKL8GxGySG0n1ooyiFMA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qAbqRVFP4FiQvQXTfggN7BYjxHZ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Alex é um menino obcecado por histórias assustadoras, e está preso por uma jovem bruxa malvada em seu apartamento contemporâneo em Nova York. Ele conhece Yasmin, que também está presa lá, e aprende que deve contar uma nova história assustadora todas as noites para se manter vivo. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]É Para o Seu Próprio Bem[COLOR yellow]( 1080p ) [COLOR lime]COMÉDIA / ROMANCE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]É Para o Seu Próprio Bem[COLOR yellow]( 1080p ) [COLOR lime]COMÉDIA / ROMANCE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KCCYCBMVOEWLZ2MQXXISFO5CJR3DMYIR</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Oy3mXJh0YyIDF1yUZbczwPAABz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yyDWU12rehFxRX5p3sfzwfwLZX6.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Arthur (Heiner Lauterbach), Bernhard (Jürgen Vogel) e Yusuf (Hilmi Sözer) são amigos de longa data que não aprovam os namorados de suas respectivas filhas. Descontentes, os três entram em acordo para boicotar os relacionamentos das jovens. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]A Lenda de Candyman[COLOR yellow]( 1080p ) [COLOR lime]SUSPENSE / TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]A Lenda de Candyman[COLOR yellow]( 1080p ) [COLOR lime]SUSPENSE / TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2IFPTVLWMSPNNPCSNJ4CYDUQMNCNLGCU</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f3MhMXoaLL1kCMXvNUB0sazbr22.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Com a carreira à beira da estagnação, o artista visual Anthony McCoy descobre a obscura história do Candyman, uma antiga lenda urbana local que ele começa a usar como inspiração para suas pinturas, sem saber que está abrindo uma porta para um passado complexo que desafia sua própria sanidade e desencadeia uma onda de violência terrivelmente viral que o coloca em rota de colisão com o destino. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Vovó Babá[COLOR yellow]( 1080p ) [COLOR lime]COMÉDIA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Vovó Babá[COLOR yellow]( 1080p ) [COLOR lime]COMÉDIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XWCGGXTNU63CEWYDVDBBRYYW2IVIRC3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lmNUnDSxVgNbC5jDBzliK4eh7jx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/npDpIUxmyIiHtDNlgy9kVhpR97M.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Após Philippa (Barbara Sukowa), chegou a vez de Karin (Maren Kroymann) e Gerhard (Heiner Lauterbach) virarem "avós de aluguel". Sem terem vivido a experiência antes, eles se deparam com uma série de desafios e eventos hilários que passam a acontecer em meio à convivência com os pequenos. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Dont Tell a Soul[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dont Tell a Soul[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DH4GLCPAAILQKJFN3CUBSDUXZ36T2GAH</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h88AJEkEr9jghJPEZWxz0bvJxX3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jBFZLYQ9UUJECaW39nKl5phIrsk.jpg</fanart>
@@ -328,12 +382,6 @@ magnet:?xt=urn:btih:96b66ac01465f94d82da773dc073d71930fb2645
 <fanart>https://www.themoviedb.org/t/p/original/oYmZ9MGKeIVRxVaIGggVdR6revI.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Evan McCauley tem habilidades que ele nunca aprendeu e lembranças de lugares que nunca visitou. Auto-medicado e à beira de um colapso mental, um grupo secreto que se intitula 'Infinites' vem em seu socorro, revelando que suas memórias são reais.[/COLOR][/B]</info></item>
 #######################################################################################
-<item><title>[B][COLOR white]G.I. Joe Origens: Snake Eyes (dublagem ñ oficial)[COLOR yellow] ( 1080p )[COLOR lime] AÇÃO / AVENTURA [COLOR crimson]NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nvwunGeiiY9HldzGlFLYa56YqAc.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Depois de salvar a vida de seu herdeiro aparente, o tenaz solitário Snake Eyes é recebido em um antigo clã japonês chamado Arashikage, onde aprende os caminhos do guerreiro ninja. Mas, quando os segredos de seu passado forem revelados, a honra e a lealdade de Snake Eyes serão testadas - mesmo que isso signifique perder a confiança das pessoas mais próximas a ele.[/COLOR][/B]</info></item>
-##################################################################################################################
 <item><title>[B][COLOR white]Caminhos da Memória[COLOR yellow]( 1080p )[COLOR lime] FICÇÃO / MISTERIO / ROMANCE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A1550358032D2ABBB70A73DCAA8C788C0D3859</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/msnN0oTm9AAGuHfdOjdkUGpekgG.jpg</thumbnail>
