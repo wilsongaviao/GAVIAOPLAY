@@ -1,0 +1,49 @@
+<item>
+<title>[B][COLOR white]CLÁSSICOS SERTANEJOS VOL 1[/COLOR][/B]</title>
+<utube>t0dFacdJ1UQ</utube>
+<thumbnail>https://i.ytimg.com/vi/KLCKCaP6Wtc/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/KLCKCaP6Wtc/hqdefault.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]GRANDES SUCESSOS DA NOSSA MUSICA SERTANEJA , INTERPRETADAS POR GRANDES CANTORES QUE NOS DEIXAM SAUDADES DO PASSADO [/COLOR][/B]</info></item>
+#####################################################################################################
+<item>
+<title>[B][COLOR white]CLÁSSICOS SERTANEJOS VOL 2[/COLOR][/B]</title>
+<utube>pFIDwUjVN5g</utube>
+<thumbnail>https://i.ytimg.com/vi/KLCKCaP6Wtc/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/KLCKCaP6Wtc/hqdefault.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]GRANDES SUCESSOS DA NOSSA MUSICA SERTANEJA , INTERPRETADAS POR GRANDES CANTORES QUE NOS DEIXAM SAUDADES DO PASSADO [/COLOR][/B]</info></item>
+#####################################################################################################
+<item>
+<title>[B][COLOR white]CLÁSSICOS SERTANEJOS VOL 3[/COLOR][/B]</title>
+<utube>KLCKCaP6Wtc</utube>
+<thumbnail>https://i.ytimg.com/vi/KLCKCaP6Wtc/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/KLCKCaP6Wtc/hqdefault.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]GRANDES SUCESSOS DA NOSSA MUSICA SERTANEJA , INTERPRETADAS POR GRANDES CANTORES QUE NOS DEIXAM SAUDADES DO PASSADO [/COLOR][/B]</info></item>
+#####################################################################################################
+<item>
+<title>[B][COLOR white]CLÁSSICOS SERTANEJOS RAIZ[/COLOR][/B]</title>
+<utube>-cPMhPGENfM</utube>
+<thumbnail>https://i.pinimg.com/236x/6b/82/2d/6b822d1766403942ef03216149a14da0.jpg</thumbnail>
+<fanart>https://i.pinimg.com/236x/6b/82/2d/6b822d1766403942ef03216149a14da0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]GRANDES SUCESSOS DA NOSSA MUSICA SERTANEJA RAIZ, INTERPRETADAS POR  SEUS GRANDES CANTORES QUE NOS DEIXAM SAUDADES DO PASSADO QUE SO PODEMOS RELEMBRAR ATRAVES DAS MUSICAS [/COLOR][/B]</info></item>
+#####################################################################################################
+<item>
+<title>[B][COLOR white]SERTANEJO RAIZ[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLN4Uo7gdvAc3OwpNcB6nRbj--NXM4MN2Z/?page=0</jsonrpc>
+<thumbnail>https://img.vagalume.fm/1486574587925026/default</thumbnail>
+<fanart></fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+#####################################################################################################
+<item>
+<title>[B][COLOR white]SUCESSOS SERTANEJOS[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist//?page=0</jsonrpc>
+<thumbnail>https://direct.rhapsody.com/imageserver/images/alb.230062376/500x500.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+#####################################################################################################
+<item>
+<title>[B][COLOR white]SERTANEJO BOM DEMAIS - 80'S[/COLOR][/B]</title>
+<link>-cPMhPGENfM</link>
+<thumbnail>https://i.postimg.cc/Vk3fWCY4/SERTANEJO-BOM-DEMAIS.jpg</thumbnail>
+<fanart>https://i.postimg.cc/Vk3fWCY4/SERTANEJO-BOM-DEMAIS.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]COLETANEA DE SUCESSOS SERTANEJOS QUE FIZERAM NOS ANOS 80  E CONTINUAM  ATE OS DIAS DE HOJE[/COLOR][/B]</info></item>

@@ -1,0 +1,74 @@
+<item><title>[B][COLOR white]TOP SERTANEJO 2021[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/15/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/pThrQRHQ/TOPSERTANEJO2021.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]COLETÂNEA DE MUSICAS SERTANEJA SUCESSOS E LANÇAMENTOS DE 2021[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]TOP SERTANEJO 2020[/COLOR][/B]</title>
+<link>https://ia801508.us.archive.org/8/items/topsertanejo2020/TOPSERTANEJO2020.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/R0g34wLT/TOPSERTANEJO2020.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]EXCELENTE SELEÇÃO COM MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS EM 2020 [/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]TOP SERTANEJO 2019[/COLOR][/B]</title>
+<link>https://ia801501.us.archive.org/2/items/topsertanejo-2019/TOPSERTANEJO2019.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/xdfkw6MC/TOPSERTANEJO2019.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]OTIMA SELEÇÃO COM VÁRIOS  SUCESSOS DA MUSICA SERTANEJA DO ANO DE 2019[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]BAILÃO SERTANEJO[/COLOR][/B]</title>
+<link>https://ia601501.us.archive.org/1/items/baila-o-sertanejo/BAIL%C3%83O%20SERTANEJO.mp4</link>
+<thumbnail>https://i.postimg.cc/qvDkwKQv/BAILAOSERTANEJO.jpg</thumbnail>
+<fanart>https://i.postimg.cc/W3dGf0Mp/fanartbailaosertanejo.jpg</fanart>
+<info>[B][COLOR yellow]MEGA SELEÇÃO DE MUSICAS SERTANEJAS QUE  EMBALARAM AS FESTAS E BAILES POR TODAS AS DISCOQUETAS DO PAÍS[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]CORAÇÃO SERTANEJO[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/23/items/coracaosertanejo/CORA%C3%87%C3%83OSERTANEJO.mp3</link>
+<thumbnail>https://i.postimg.cc/RFNYpZ4R/CORACAOSERTANEJO.jpg</thumbnail>
+<fanart>https://i.postimg.cc/J0JgcTc5/fanartcoracaosertanejo.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇÃO DE VARIOS SUCESSOS DA MUSICA SERTANEJA ANTIGAS O CORAÇÃO DA MUSICA SERTANEJA REFLETIDA NESSA SELEÇÃO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]BAILÃO SERTANEJO 2[/COLOR][/B]</title>
+<utube>4ZSEyYiGnbQ</utube>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRvjXTsj9ebkRJFQ5ozuKQ3UMRa-i0W3SSA&usqp=CAU</thumbnail>
+<info>[B][COLOR yellow]EXCELENTE COLETÂNIA COM AS MELHORES MUSICAS DE BAILÃO SERTANEJO PARA VOCÊ DANÇAR E MATAR SAUDADE.[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]CLÁSSICOS SERTANEJOS[/COLOR][/B]</title>
+<utube>QHfR9KaG1-c</utube>
+<thumbnail>https://i.postimg.cc/52fwtGW2/fanartclassicossertanejo-S.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]EXCELENTE COLETÂNEA COM CLÁSICOS DA MUSICA SERTANEJA QUE FIZERAM SUCESSO ,NA VOZ DE GRANDES INTERPRETES[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]SERTANEJO BONS TEMPOS[/COLOR][/B]</title>
+<utube>Hn8UVNHLdQU</utube>
+<thumbnail>https://i.ytimg.com/vi/Hn8UVNHLdQU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5XwIGgJBkI5XLnzkUu3JBbRYl0g</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]QUEM DISSE QUE TEMPOS BONS NÃO VOLTAM MAIS.,? VOLTAM SIM!... EIS AÍ UM MOMENTO PECULIAR DE VOLTARMOS AO PASSADO,ESTÁ TUDO GUARDADO NAS NOSSAS MEMÓRIAS,.NA NOSSA BAGAGEM MORAL.TUDO O QUE FOI BOM NÓS FAZEMOS QUESTÃO DE LEMBRAR,E ISSO É VOLTAR SIM[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]BAILÃO SERTANEJO ANOS 90 VOL 1[/COLOR][/B]</title>
+<utube>z_NB8CpxVHk</utube>
+<thumbnail>https://i.ytimg.com/vi/z_NB8CpxVHk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3BrPyZCUArpg9q6lNcyMNaeHr5Q</thumbnail>
+<info>[B][COLOR yellow]SEQUENCIA DANÇANTE COM GRANDES SUCESSOS DA MUSICA SERTANEJA QUE FEZ MUITA GENTE GASTAR A SOLA DA BOTINA NOS SALÕES E FESTAS DO BRASIL.....CONFIRA !!![/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]BAILÃO SERTANEJO ANOS 90 VOL 2[/COLOR][/B]</title>
+<utube>q4okQ0RAB4I</utube>
+<thumbnail>https://i.ytimg.com/vi/q4okQ0RAB4I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc_mlciTBhYTmqNR2Pt5EJ44zKkw</thumbnail>
+<info>[B][COLOR yellow]MAIS UMA SEQUENCIA COM O MELHOR FORROZÃO DAS DUPLAS SERTANEJAS QUE NOS ANOS 90/00 COLOCOU MULTIDÕES PRA DANÇAR...SÓ TEM MUSICA BOA !!!![/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]BAILÃO SERTANEJO ANOS 90 VOL 3[/COLOR][/B]</title>
+<utube>Ls9zeBdHluk</utube>
+<thumbnail>https://i.ytimg.com/vi/Ls9zeBdHluk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNKYGarlOkAgnA7eTtHp0vCHQUwg</thumbnail>
+<info>[B][COLOR yellow]MAIS EXCELENTE SEQUENCIA SERTANEJA DANÇANTE COM SUCESSOS SERTANEJOS DOS ANOS 90 E 2000.[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]BAILÃO SERTANEJO ANOS 90 VOL.4[/COLOR][/B]</title>
+<utube>e272acmHpLw</utube>
+<thumbnail>https://i.ytimg.com/vi/e272acmHpLw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKBgYYcK5WbcD1lfPFYYDd2ySbQA</thumbnail>
+<info>[B][COLOR yellow]MAIS UMA EXCELENTE SEQUENCIA SERTANEJA DANÇANTE QUE FEZ A GALERA DANÇAR MUITO NOS SALÕES E FESTAS PELO BRASIL.[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]SERTANEJO ROMÂNTICO[/COLOR][/B]</title>
+<link>https://ia801400.us.archive.org/21/items/sertanejoromantico/SERTANEJO%20ROMANTICO.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/4yqfL6dy/SERTANEJO-ROMANTICO2.jpg</thumbnail>
+<fanart>https://i.postimg.cc/4yqfL6dy/SERTANEJO-ROMANTICO2.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]COLETÂNEA SERTANEJA ROMÂNTICA DOS ANOS 70 ,80  , 90 ,VAMOS RECORDAR OS BONS TEMPO DA BOEMIA SERTANEJA NESSA COEÇÃO  [/COLOR][/B]</info></item>
+
+GlyCm2N674s

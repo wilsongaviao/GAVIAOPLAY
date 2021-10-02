@@ -1,0 +1,17 @@
+<item><title>[B][COLOR white]TOP SERTANEJO 2021[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/15/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/pThrQRHQ/TOPSERTANEJO2021.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]COLETÂNEA DE MUSICAS SERTANEJA SUCESSOS E LANÇAMENTOS DE 2021[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]TOP SERTANEJO 2020[/COLOR][/B]</title>
+<link>https://ia801508.us.archive.org/8/items/topsertanejo2020/TOPSERTANEJO2020.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/R0g34wLT/TOPSERTANEJO2020.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]EXCELENTE SELEÇÃO COM MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS EM 2020 [/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]TOP SERTANEJO 2019[/COLOR][/B]</title>
+<link>https://ia801501.us.archive.org/2/items/topsertanejo-2019/TOPSERTANEJO2019.ia.mp4</link>
+<thumbnail>https://i.postimg.cc/xdfkw6MC/TOPSERTANEJO2019.jpg</thumbnail>
+<fanart></fanart>
+<info>[B][COLOR yellow]OTIMA SELEÇÃO COM VÁRIOS  SUCESSOS DA MUSICA SERTANEJA DO ANO DE 2019[/COLOR][/B]</info></item>
