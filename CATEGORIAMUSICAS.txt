@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUSICA CLÁSSICA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/FF8jHzb0/MUSICACLASSICA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=17lBglFc0qZLPvFfqyQyvdPElsnJh7qH2</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MUSICACLASSICA.txt</externallink>
 <fanart>https://i.postimg.cc/mrXkJMFT/fanartmusicaclassica.jpg</fanart>
 </channels>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUSICA INTERNACIONAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/XqLbDZnt/MUSICAINTERNACIONAL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1vbi9gAd8_uJ7HfhC1ajMJC4NQXmjtTlZ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MUSICAINTERNACIONAL.txt</externallink>
 <fanart>https://i.postimg.cc/wjbkzwPr/fanartmusicainternacional.jpg</fanart>
 </channels>
 </channel>
@@ -20,7 +20,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUSICA NACIONAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/XNf7Cq6f/MUSICANACIONAL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1OoeC0Yc2S76V6QEHDR_fQf7k-wMF4EK3</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAMUSICANACIONAL.txt</externallink>
 <fanart>hhttps://i.postimg.cc/QC7Bcp5g/fanartmusicanacional.jpg</fanart>
 </channels>
 </channel>
@@ -30,7 +30,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUSICA RELIGIOSA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/g267xwfd/MUSICARELIGIOSA.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=18Jjn4bWaeQk-wfGAxPkvll0ngi9Z0PFH</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MUSICARELIGIOSA.txt</externallink>
 <fanart>https://i.postimg.cc/pTqCgM1c/fanartmusicareligiosa.jpg</fanart>
 </channels>
 </channel>
