@@ -5,3 +5,64 @@
 <fanart>https://www.themoviedb.org/t/p/original/tOzkMhWANgKsamETgS6HWJledgJ.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Todas as 8 temporadas completas em um único link da série Game of Thrones (Guerra dos Tronos). Game of Thrones, se passa em Westeros, uma terra remanescente da Europa Medieval, onde as estações duram por anos ou até mesmo décadas. A história gira em torno de uma batalha entre os Sete Reinos, onde duas famílias dominantes estão lutando pelo controle do Trono de Ferro, cuja posse assegura a sobrevivência durante o inverno de 40 anos que está por vir. [/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]##########SERVIDOR 2[COLOR  lime]LINK DIRETO #####################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] GAMES OF THRONES [COLOR lime]1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>1 - O Inverno Esta Chegando</title>
+<link>https://video.wixstatic.com/video/16f3d4_0caab985bfa14e12962819d66ba3653a/720p/mp4/file.mp4</link>
+</item>
+
+<item>
+<title>2 - A Estrada do Rei</title>
+<link>https://video.wixstatic.com/video/16f3d4_010e428ff1cb4f78a8b0b525d26c7b5d/720p/mp4/file.mp4</link>
+</item>
+
+<item>
+<title>3 - Lorde Snow</title>
+<link>https://x.filmes.click/m2/1399/1/3-720p.mp4</link>
+</item>
+
+<item>
+<title>4 - Aleijados, Bastardos e Coisas Partidas</title>
+<link>https://s4.filmezandobrasil.com/videos/series/got/1x4.mp4</link>
+</item>
+
+<item>
+<title>5 - O Lobo e o Leão</title>
+<link>https://x.filmes.click/m2/1399/1/5-720p.mp4</link>
+</item>
+
+<item>
+<title>6 - Uma Coroa Dourada</title>
+<link>https://video.wixstatic.com/video/16f3d4_44f876a8d1d44d039519e12545f5c7c9/720p/mp4/file.mp4</link>
+</item>
+
+<item>
+<title>7 - Ganhar ou Morrer</title>
+<link>https://video.wixstatic.com/video/16f3d4_b6a773511f634c39858fbf36833362ad/720p/mp4/file.mp4</link>
+</item>
+
+<item>
+<title>8 - A Ponta Afiada</title>
+<link>https://x.filmes.click/m2/1399/1/8-720p.mp4</link>
+</item>
+
+<item>
+<title>9 - Baelor</title>
+<link>https://x.filmes.click/m2/1399/1/9-720p.mp4</link>
+</item>
+
+<item>
+<title>10 - Fogo e Sangue</title>
+<link>https://video.wixstatic.com/video/16f3d4_a615e61f05fe46e8a966884b7fa499b3/720p/mp4/file.mp4</link>
+</item>
