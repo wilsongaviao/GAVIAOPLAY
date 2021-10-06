@@ -32,7 +32,7 @@
 <item><title>[B][COLOR white]G.I. Joe Origens: Snake Eyes [COLOR yellow] ( 1080p )[COLOR lime] AÇÃO / AVENTURA[COLOR crimson] NEW [/COLOR][/B]</title>
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPLRWL2VMSRFKUGN573YGWUEYYL6WFQP
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPLRWL2VMSRFKUGN573YGWUEYYL6WFQP$nome=[B] 1 [COLOR yellow]1080p[/COLOR][/B]</link>
-<link>https://video.wixstatic.com/video/16f3d4_78a67261d14040c281e84533120adecc/720p/mp4/file.mp4[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>https://video.wixstatic.com/video/16f3d4_78a67261d14040c281e84533120adecc/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nvwunGeiiY9HldzGlFLYa56YqAc.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Depois de salvar a vida de seu herdeiro aparente, o tenaz solitário Snake Eyes é recebido em um antigo clã japonês chamado Arashikage, onde aprende os caminhos do guerreiro ninja. Mas, quando os segredos de seu passado forem revelados, a honra e a lealdade de Snake Eyes serão testadas - mesmo que isso signifique perder a confiança das pessoas mais próximas a ele.[/COLOR][/B]</info></item>
