@@ -1,15 +1,7 @@
-<channels>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ÉPICO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/44Vq3M05/CINEEPICO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEEPICO.txt</externallink>
-<fanart>https://i.postimg.cc/xC7mDX0f/FANARTCINEEPICO.jpg</fanart>
-<info>[B][COLOR yellow]COLETANEA COM SUCESSOS DE FILMES HISTÓRICOS. CLÁSSICOS ÉPICOS QUE MARCARAM NA HISTORIA DO CINEMA MUNDIAL [/COLOR][/B]</info>
-</channels>
-</channel>
-###############################################################################################################################
+
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ONLINE ( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAIS DE TV( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/Vtv-canais/main/Lista%20De%20Canais</externallink>
 <fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
@@ -24,16 +16,6 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINEANIMA%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/sX0Kwz68/fanartcineanimacao.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEAS COM SUCESSOS DE FILMES E SÉRIES EM ANIMAÇÃO E DESENHOS[/COLOR][/B]</info></item>
-</channels>
-</channel>
-###############################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/4NXLRZt6/CINEONLINE.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20ON%20LINE.txt</externallink>
-<fanart>https://i.postimg.cc/tRfPhJ0w/fanartcineonline.jpg</fanart>
-<info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA A PARTIR DE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
@@ -89,6 +71,16 @@
 ###############################################################################################################################
 <channels>
 <channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/4NXLRZt6/CINEONLINE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20ON%20LINE.txt</externallink>
+<fanart>https://i.postimg.cc/tRfPhJ0w/fanartcineonline.jpg</fanart>
+<info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA A PARTIR DE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE RELIGIOSO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/RZ3ynN29/CINERELIGIOSO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINERELIGIOSO.txt</externallink>
@@ -114,6 +106,16 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20DOUTRINA%20ESPIRITA.txt</externallink>
 <fanart>https://i.postimg.cc/P5K1v4dz/fanartdoutrinaespirita.jpg</fanart>
 <info>[B][COLOR yellow]AQUI ENCONTRARÁ ESCLARECIMENTOS E DÚVIDAS  SOBRE A DOUTRINA ESPIRITA: ENSINAMENTOS SOBRE A DOUTRINA, ESTUDO DO EVANGELHO, PALESTRAS E FILMES ESPIRITAS,ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES AVULSOS [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/cHdFTHkv/FILMESAVULSOS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAFILMESAVULSOSACAO.txt</externallink>
+<fanart>https://i.postimg.cc/WzRZcY7j/fanartfilmesavulsos.jpg</fanart>
+<info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,COLETANEA COM VARIOS FILMES DE SUCESSOS, OBS: SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
@@ -194,5 +196,3 @@
 <info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV EM STREAMING DE VIDEO[/COLOR][/B]</info>
 </channels>
 </channel>
-
-
