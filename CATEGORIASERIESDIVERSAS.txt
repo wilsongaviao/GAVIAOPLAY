@@ -183,6 +183,16 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O TOQUE DE UM ANJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pHK9H1OlAkJCM6VGKEhYgmIfDgc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOQUE%20DE%20UM%20ANJO</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/b73DCbaqYICq3yUbBe5vxtbXjTX.jpg</fanart>
+<info>[B][COLOR yellow]Monica, Tess, e Andrew são um trio de anjos enviados à terra para ajudar as pessoas..Anjos estão despachados de céu para inspirar pessoas que são em um cruzamento em suas vidas. Monica, um anjo que às vezes ainda precisa uma orientação com suas tarefas terrestres, Tess, é sua supervisora .Junto a elas , Andrew, o Anjo da Morte. Os anjos não trazem respostas para todos os problemas , mas eles sempre entregam uma mensagem de esperança.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PRETTY LITTLE LIARS ( MALDOSAS )[COLOR lime]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <genre>[COLOR lime][B]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[/B]</genre>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lntOFDrvVPBAULcrE8NoUlExa11.jpg</thumbnail>
