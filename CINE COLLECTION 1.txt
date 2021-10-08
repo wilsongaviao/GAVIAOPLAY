@@ -289,7 +289,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAMBO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://filmesgratis.org/wp-content/uploads/2019/02/Rambo-4-torrent-download-dublado-bluray.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RAMBO.txt</externallink>
 <fanart>https://i.pinimg.com/originals/5d/26/98/5d2698c71ed17ccaa88b509736280022.jpg</fanart>
 <info>[B][COLOR yellow] A SAGA  É UMA SÉRIE DE FILMES DE AÇÃO QUE SEGUE JOHN RAMBO, UM VETERANO DO EXÉRCITO DOS EUA, TRAUMATIZADO POR SUA EXPERIÊNCIA NA GUERRA DO VIETNÃ, E USA AS HABILIDADES QUE ADQUIRIU LÁ PARA LUTAR CONTRA POLICIAIS CORRUPTOS, TROPAS INIMIGAS E CARTÉIS DE DROGAS.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
