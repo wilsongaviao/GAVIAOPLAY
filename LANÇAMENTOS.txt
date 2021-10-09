@@ -1,45 +1,40 @@
 
 
 ##############################################################################################################
-<item><title>[B][COLOR white]Infiltrado [COLOR crimson]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Infiltrado [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/77tui163estZrQ78NBggqDB4n2C.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
-<info>Sinopse: [COLOR yellow]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.[B]
-[COLOR white][B] Gênero: [COLOR lime]Ação / Policial / Suspense  [/B][/COLOR] 
-[/COLOR][/B]</info></item> 
+<info>Sinopse: [COLOR yellow]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.
+[COLOR white][B] Gênero: [COLOR lime]Ação / Policial / Suspense   [/COLOR][/B]</info></item> 
 ##################################################################################################################
-<item><title>[B][COLOR white]Free Guy - Assumindo o Controle[COLOR crimson]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Free Guy - Assumindo o Controle[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando ele descobre que é personagem em um brutalmente realista vídeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.
-[COLOR white][B] Gênero :  [COLOR lime]AÇÃO / AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
+[COLOR white][B]Gênero : [COLOR lime]AÇÃO / AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Ninguém Sai Vivo[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Ninguém Sai Vivo[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc23296fac5e3153527f3a22d5c45d7daa7ff9b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKX11fIQSIdGtt9uXBlC0atY15Q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oGMiUbR3J5PSmYvzj8wU1JVTSmr.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Desesperada, uma imigrante ilegal do México se muda para uma pensão decadente nos EUA. Ela nem imagina que seu pior pesadelo está prestes a começar.
-[COLOR white][B] Gênero :[COLOR lime]DRAMA / MISTÉRIO / TERROR  [/COLOR][/B]</info></item>
+[COLOR white][B]Gênero :[COLOR lime]DRAMA / MISTÉRIO / TERROR  [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Melhor Amigo[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Melhor Amigo[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4cce7dddc57d20bf74c1d77038e9a03b84304f</link>
 <thumbnail>https://abutretorrents.com/imagens/o-melhor-amigo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8Df8Wsstu76Wr8cTPfNHrSveVe6.jpg</fanart>
-
 <info>[B]Sinopse:[COLOR yellow]Thibault não dá muito certo no amor e acha que a sorte pode mudar depois que o clima esquenta entre ele e Rose. Mas será possível ser mais que apenas amigos? .
-
 [COLOR white][B] Gênero : [COLOR lime]COMÉDIA / ROMANCE  [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Fomos Canções[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Fomos Canções[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80f02f4895572f661541003f7cd6a87db9cfd54</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rMcxBj8bHq57tFJYVHNJ5rTs99g.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/noPXBsxLNUKyCntHMbnXD8djLtz.jpg</fanart>
-
 <info>[B]Sinopse:[COLOR yellow]Em um momento decisivo da carreira de Maca, o enigmático ex que partiu o coração dela reaparece em Madri. Ainda bem que ela pode contar com o apoio das amigas!
-
-[COLOR white][B] Gênero : [COLOR lime]COMÉDIA / ROMANE [/COLOR][/B]</info></item>
+[B][COLOR white] Gênero : [COLOR lime]COMÉDIA / ROMANE [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Sem Retorno - The Eastern Front[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO  [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b</link>
