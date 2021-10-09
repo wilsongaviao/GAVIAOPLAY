@@ -6,7 +6,7 @@
 <fanart>https://www.themoviedb.org/t/p/original/77tui163estZrQ78NBggqDB4n2C.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
 <info>Sinopse: [COLOR yellow]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.
-[COLOR white][B] Gênero: [COLOR lime]Ação / Policial / Suspense   [/COLOR][/B]</info></item> 
+[COLOR white][B]Gênero: [COLOR lime]Ação / Policial / Suspense   [/COLOR][/B]</info></item> 
 ##################################################################################################################
 <item><title>[B][COLOR white]Free Guy - Assumindo o Controle[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd</link>
@@ -27,37 +27,40 @@
 <thumbnail>https://abutretorrents.com/imagens/o-melhor-amigo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8Df8Wsstu76Wr8cTPfNHrSveVe6.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Thibault não dá muito certo no amor e acha que a sorte pode mudar depois que o clima esquenta entre ele e Rose. Mas será possível ser mais que apenas amigos? .
-[COLOR white][B] Gênero : [COLOR lime]COMÉDIA / ROMANCE  [/COLOR][/B]</info></item>
+[COLOR white][B]Gênero : [COLOR lime]COMÉDIA / ROMANCE  [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Fomos Canções[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80f02f4895572f661541003f7cd6a87db9cfd54</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rMcxBj8bHq57tFJYVHNJ5rTs99g.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/noPXBsxLNUKyCntHMbnXD8djLtz.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Em um momento decisivo da carreira de Maca, o enigmático ex que partiu o coração dela reaparece em Madri. Ainda bem que ela pode contar com o apoio das amigas!
-[B][COLOR white] Gênero : [COLOR lime]COMÉDIA / ROMANE [/COLOR][/B]</info></item>
+[B][COLOR white]Gênero : [COLOR lime]COMÉDIA / ROMANE [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Sem Retorno - The Eastern Front[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO  [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Sem Retorno - The Eastern Front[COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a11f1281b245514325a32237098b35c95cca167b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oeBBSOTYn04fLkLtQkpEseLHGEm.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Prisioneiros russos estão sendo escoltados até um campo de prisioneiros de Stalag por um grupo de soldados alemães. Suas histórias de vida se desenrolam e quando os russos escapam e lutam por suas vidas atrás das linhas inimigas, alguns de seus captores começam a questionar se eles estão do lado certo.[COLOR white][B] Gênero : [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Prisioneiros russos estão sendo escoltados até um campo de prisioneiros de Stalag por um grupo de soldados alemães. Suas histórias de vida se desenrolam e quando os russos escapam e lutam por suas vidas atrás das linhas inimigas, alguns de seus captores começam a questionar se eles estão do lado certo.
+[COLOR white][B]Gênero : [COLOR lime]AÇÃO [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]G.I. Joe Origens: Snake Eyes [COLOR yellow] ( 1080p )[COLOR lime] AÇÃO / AVENTURA[COLOR crimson] NEW [/COLOR][/B]</title>
+<item><title>[B][COLOR white]G.I. Joe Origens: Snake Eyes [COLOR yellow] ( 1080p )[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPLRWL2VMSRFKUGN573YGWUEYYL6WFQP</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nvwunGeiiY9HldzGlFLYa56YqAc.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Depois de salvar a vida de seu herdeiro aparente, o tenaz solitário Snake Eyes é recebido em um antigo clã japonês chamado Arashikage, onde aprende os caminhos do guerreiro ninja. Mas, quando os segredos de seu passado forem revelados, a honra e a lealdade de Snake Eyes serão testadas - mesmo que isso signifique perder a confiança das pessoas mais próximas a ele.[COLOR white][B] Gênero : [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Depois de salvar a vida de seu herdeiro aparente, o tenaz solitário Snake Eyes é recebido em um antigo clã japonês chamado Arashikage, onde aprende os caminhos do guerreiro ninja. Mas, quando os segredos de seu passado forem revelados, a honra e a lealdade de Snake Eyes serão testadas - mesmo que isso signifique perder a confiança das pessoas mais próximas a ele.[COLOR white][B] Gênero : [COLOR lime] AÇÃO / AVENTURA[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Invasão Cósmica[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / FICÇÃO [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7eccd8c6dae595cf58915bd7aefc55d434845e5</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5Jodmj8equxBklBlhZMHJtkp5J.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/umAoDwLZMBrYeCDfbJYFRMuXWAr.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Sete soldados desonestos lançam um ataque preventivo contra uma civilização alienígena recém-descoberta na esperança de acabar com uma guerra interestelar antes de começar.[COLOR white][B] Gênero : [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Sete soldados desonestos lançam um ataque preventivo contra uma civilização alienígena recém-descoberta na esperança de acabar com uma guerra interestelar antes de começar.
+[COLOR white][B]Gênero : [COLOR lime] AÇÃO / AVENTURA[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Pixie[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e026c1f36266f68c2652b49dabc0db60e50a67cd</link>
 <thumbnail>https://abutretorrents.com/imagens/pixie-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Pixie quer vingar a morte de sua mãe planejando um assalto, mas seus planos dão errado e ela se vê foragida com dois jovens através do campo selvagem irlandês por gangsters. Ela tem que se concentrar contra todos, assumindo o patriarcado para reivindicar o direito de moldar sua própria vida. [COLOR white][B] Gênero : [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Pixie quer vingar a morte de sua mãe planejando um assalto, mas seus planos dão errado e ela se vê foragida com dois jovens através do campo selvagem irlandês por gangsters. Ela tem que se concentrar contra todos, assumindo o patriarcado para reivindicar o direito de moldar sua própria vida. 
+[COLOR white][B]Gênero : [COLOR lime]COMEDIA [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Iniciação[COLOR yellow]( 1080p ) [COLOR lime]MISTÉRIO / SUSPENSE TERROR [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b268c8a0dc63f01e0e9867a2f227b457a76f43</link>
