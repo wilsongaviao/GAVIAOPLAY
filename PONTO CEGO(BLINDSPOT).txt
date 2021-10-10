@@ -1,14 +1,17 @@
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white]PONTO CEGO (BLINDSPOT) - [COLOR lime]1ª Temporada[COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837B10F84954F9A9A663337E884B2591A7CD6A84</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] PONTO CEGO (BLINDSPOT) - [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837B10F84954F9A9A663337E884B2591A7CD6A84</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rsfny7usGIFWXT2OZf7zAV00UM3.jpg</fanart></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-######################################################################################################################################
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]###[COLOR white]PONTO CEGO (BLINDSPOT) - [COLOR lime]2ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] PONTO CEGO (BLINDSPOT) - [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4Fr3ufjp5rJW4r8sbkeO8RwAdFR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg</fanart></item>
 
 <item><title>[B][COLOR white]EP 01[/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79E234B4AE455030D30F2CAEDC20FCA4B05E4D51</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR white]EP 02[/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA5394422C6145AA8E1A2BD1C0E05195E2512879</link><thumbnail>IGNOREME</thumbnail></item>
@@ -36,8 +39,10 @@
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white]PONTO CEGO (BLINDSPOT) - [COLOR lime]3ª Temporada[COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white]PONTO CEGO (BLINDSPOT) - [COLOR lime]3ª Temporada[COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rHWzpVfdl9omOTUFLP6FvENGZKb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ArT3HgSKHjyZvlSNllnuBd1U5k8.jpg</fanat></item>
 <item><title>[B][COLOR white]EP 01[/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4C6390CF12ADAFF4533475A02AC0599A586C1EE</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR white]EP 02[/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1204fb14bff546473fdedfe3d7fcc1a2fb46be8</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR white]EP 03[/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0028d406157a7ef975b993e9ee06cdaccf5e753</link><thumbnail>IGNOREME</thumbnail></item
@@ -64,15 +69,18 @@
 
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR yellow]###[COLOR white]PONTO CEGO (BLINDSPOT) - [COLOR lime]4ª Temporada[COLOR red] TORRENT[COLOR yellow]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white]PONTO CEGO (BLINDSPOT) - [COLOR lime]4ª Temporada[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e1697b67b20b5957f6620ab25421bcc6002b562</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/iAkEexatzMUlCXlbS8Gmvlic9gQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vjSiA3HQoSBoatcaOttc8evPBtw.jpg</fanat></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
 
 
 <item><title>[B][COLOR yellow]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR crimson]###[COLOR lime]BLINDSPOT -PONTO CEGO[COLOR yellow] 5ªTemporada[COLOR crimson]###[/COLOR][/B]</title>
+<title>[COLOR crimson]######[COLOR lime]BLINDSPOT -PONTO CEGO[COLOR yellow] 5ªTemporada[COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b8d7a5af829d0a5e97b831dc98fcb8e8f224ae3</link>
-<thumbnail>https://abutretorrents.com/imagens/ponto-cego-5-temporada-completa-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/jxCimexLJl71TVKR0GKsrNQyjKO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dYJrfkQeqGXeGMMTvYaM43XHce5.jpg</fanat></item>
 <item><title>[B][COLOR yellow]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
