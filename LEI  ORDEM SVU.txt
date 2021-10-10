@@ -1,11 +1,9 @@
-<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 
-<item><title>[B][COLOR red]####[COLOR lime] LEI&ORDEM:UNIDADE DE VÍTIMAS ESPECIAIS -[COLOR yellow] 1ªTemporada[COLOR red]####[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]####[COLOR lime] LEI&ORDEM:UNIDADE DE VÍTIMAS ESPECIAIS -[COLOR crimson] 1ªTemporada[COLOR yellow]####[/COLOR][/B]</title>
 <link>IGNOREME</link>
-<thumbnail>IGNOREME</thumbnail>
-</item>
-<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/enISkFVHhdmxNMOUi7WU0q3zAXP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/84sFzAa4Gea3r2Zh6Qg2lxuJPMO.jpg</fanart></item>
 <item><title>[B][COLOR white]EP 01 [COLOR yellow]  Payback [/COLOR] [/B]</title><link>https://ia801406.us.archive.org/11/items/law-e-order-svu-so-01-parte-2/LAW%20E%20ORDER%20SVU-SO%2001%20EP%2001.mp4</link><thumbnail>https:media.fstatic.comY22Z16yXUx2fbWuYpuAQciR9qfc=fit-in290x478smartmediamoviescovers20110192fb06780041dfa58a840d92ba33d6d2.jpg</thumbnail></item>
 #######################################################################################################################
 <item><title>[B][COLOR white]EP 02 [COLOR yellow]  Uma Vida Única [/COLOR] [/B]</title><link>https://ia801406.us.archive.org/11/items/law-e-order-svu-so-01-parte-2/LAW%26ORDEMSVU%20-%20SO01%20EP02.mp4</link><thumbnail>https:media.fstatic.comY22Z16yXUx2fbWuYpuAQciR9qfc=fit-in290x478smartmediamoviescovers20110192fb06780041dfa58a840d92ba33d6d2.jpg</thumbnail></item>
@@ -49,15 +47,15 @@
 <item><title>[B][COLOR white]EP 21 [COLOR yellow]  Noturno [/COLOR] [/B]</title><link>https://ia801405.us.archive.org/4/items/law-order-svu-so-01parte6/LAW%26ORDER%20SVU%20-%20SO01%20-%20EP21.mp4</link><thumbnail>https:media.fstatic.comY22Z16yXUx2fbWuYpuAQciR9qfc=fit-in290x478smartmediamoviescovers20110192fb06780041dfa58a840d92ba33d6d2.jpg</thumbnail></item>
 ##########################################################################################################################
 <item><title>[B][COLOR white]EP 22 [COLOR yellow]  Escravos [/COLOR] [/B]</title><link>https://ia801405.us.archive.org/4/items/law-order-svu-so-01parte6/LAW%26ORDER%20SVU%20-%20SO01%20-%20EP22.mp4</link><thumbnail>https:media.fstatic.comY22Z16yXUx2fbWuYpuAQciR9qfc=fit-in290x478smartmediamoviescovers20110192fb06780041dfa58a840d92ba33d6d2.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+<item><title>[B][COLOR crimson]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item>
-<title>[B][COLOR red]####[COLOR lime] LEI&ORDEM:UNIDADE DE VÍTIMAS ESPECIAIS -[COLOR yellow] 2ªTemporada[COLOR red]####[/COLOR][/B]</title>
+<title>[B][COLOR yellow]####[COLOR lime] LEI&ORDEM:UNIDADE DE VÍTIMAS ESPECIAIS -[COLOR yellow] 2ªTemporada[COLOR yellow]####[/COLOR][/B]</title>
 <link>IGNOREME</link>
-<thumbnail>IGNOREME</thumbnail>
-</item>
-<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mLbRpNgfF3XgYmvrkjbJxkiUL1e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uU4iZfJY7RKqto86YOQe3TB6y6j.jpg</fanart></item></item>
 <item><title>[B][COLOR white]Ep  01 [COLOR yellow] -  Errado E Dar Certo [/COLOR][/B]</title><link>https://ia801502.us.archive.org/2/items/law-order-svu-so-02/LAW%26ORDER%20SVU%20-%20SO02EP01.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
 ##########################################################################################################################
 <item><title>[B][COLOR white]Ep  02 [COLOR yellow] -  Honra [/COLOR][/B]</title><link>https://ia801502.us.archive.org/2/items/law-order-svu-so-02/LAW%26ORDER%20SVU%20-%20SO02EP02.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
@@ -80,7 +78,7 @@
 ##########################################################################################################################
 <item><title>[B][COLOR white]Ep  11 [COLOR yellow] -  Abuso [/COLOR][/B]</title><link>https://ia801503.us.archive.org/21/items/law-order-svu-so-02_20210731/LAW%26ORDER%20SVU%20-%20SO02EP11.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
 ##########################################################################################################################
-<item><title>[B][COLOR white]Ep  12 [COLOR yellow] -  Segredos [/COLOR][/B]</title><link>https://ia801503.us.archive.org/21/items/law-order-svu-so-02_20210731/LAW%26ORDER%20SVU%20-%20SO02EP12.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
+<item><title>[B][COLOR white]Ep  12 [COLOR yellow] -  Segyellowos [/COLOR][/B]</title><link>https://ia801503.us.archive.org/21/items/law-order-svu-so-02_20210731/LAW%26ORDER%20SVU%20-%20SO02EP12.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
 ##########################################################################################################################
 <item><title>[B][COLOR white]Ep  13 [COLOR yellow] -  Vítimas [/COLOR][/B]</title><link>https://ia801503.us.archive.org/21/items/law-order-svu-so-02_20210731/LAW%26ORDER%20SVU%20-%20SO02EP13.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
 ##########################################################################################################################
@@ -99,15 +97,15 @@
 <item><title>[B][COLOR white]Ep  20 [COLOR yellow] -  Pique [/COLOR][/B]</title><link>https://ia801401.us.archive.org/21/items/law-order-svu-so-02_20210731_1941/LAW%26ORDER%20SVU%20-%20SO02EP20.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
 ##########################################################################################################################
 <item><title>[B][COLOR white]Ep  21 [COLOR yellow] -  Flagelo [/COLOR][/B]</title><link>https://ia601401.us.archive.org/21/items/law-order-svu-so-02_20210731_1941/LAW%26ORDER%20SVU%20-%20SO02EP21.mp4</link><thumbnail>https:media.fstatic.com3ZMyjRBnEFXfrVoYeLFYIidaYQU=fit-in210x312smartmediamoviescovers201506lei-ordem-special-victims-unit-2a-temporada_t33779.jpg</thumbnail></item>
+<item><title>[B][COLOR cimsom]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+<item><title>[B][COLOR yellow]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item>
-<title>[B][COLOR red]####[COLOR lime] LEI&ORDEM:UNIDADE DE VÍTIMAS ESPECIAIS -[COLOR yellow] 3ªTemporada[COLOR red]####[/COLOR][/B]</title>
+<title>[B][COLOR crimson]####[COLOR lime] LEI&ORDEM:UNIDADE DE VÍTIMAS ESPECIAIS -[COLOR crimson] 3ªTemporada[COLOR yellow]####[/COLOR][/B]</title>
 <link>IGNOREME<link>
-<thumbnail>IGNOREME<thumbnail>
-</item>
-<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6KwUWCLK1fbyVp6pruFLqBICBpR.jpg<thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg</fanart></item>
 <item><title>[B][COLOR white]EP 01 - [COLOR yellow]Repressão [/COLOR][/B]</title><link>https://ia601509.us.archive.org/12/items/law-order-svu-so-03/LAW%26ORDER%20SVU%20-%20SO03EP01.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
 ######################################################################################################################
 <item><title>[B][COLOR white]EP 02 - [COLOR yellow]Ira [/COLOR][/B]</title><link>https://ia801509.us.archive.org/12/items/law-order-svu-so-03/LAW%26ORDER%20SVU%20-%20SO03EP02.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
@@ -118,7 +116,7 @@
 ######################################################################################################################
 <item><title>[B][COLOR white]EP 05 - [COLOR yellow]Emaranhado [/COLOR][/B]</title><link>https://ia801509.us.archive.org/12/items/law-order-svu-so-03/LAW%26ORDER%20SVU%20-%20SO03EP05.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
 ######################################################################################################################
-<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Redenção [/COLOR][/B]</title><link>https://ia801509.us.archive.org/12/items/law-order-svu-so-03/LAW%26ORDER%20SVU%20-%20SO03EP06.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]yellowenção [/COLOR][/B]</title><link>https://ia801509.us.archive.org/12/items/law-order-svu-so-03/LAW%26ORDER%20SVU%20-%20SO03EP06.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
 ######################################################################################################################
 <item><title>[B][COLOR white]EP 07 - [COLOR yellow]Sacrifício [/COLOR][/B]</title><link>https://ia601404.us.archive.org/28/items/law-order-svu-so-03_202108/LAW%26ORDER%20SVU%20-%20SO03EP07.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
 ######################################################################################################################
@@ -153,4 +151,4 @@
 <item><title>[B][COLOR white]EP 22 - [COLOR yellow]Competência [/COLOR][/B]</title><link>https://ia801408.us.archive.org/9/items/law-order-svu-so-03_20210801_1057/LAW%26ORDER%20SVU%20-%20SO03EP22.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
 ######################################################################################################################
 <item><title>[B][COLOR white]EP 23 - [COLOR yellow]Silêncio [/COLOR][/B]</title><link>https://ia801408.us.archive.org/9/items/law-order-svu-so-03_20210801_1057/LAW%26ORDER%20SVU%20-%20SO03EP23.mp4</link><thumbnail>https:capas-m2.wmixvideo.com.brcr102321.jpg</thumbnail></item>
-
+<item><title>[B][COLOR yellow]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
