@@ -1,0 +1,43 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FRONTEIRAS [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01D87A073084E6DCD17C07A3D37854CD43C526E2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AflmcS12RkXVk0m5KjyHcHY1A30.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando um acidente aéreo ocorre em Boston, matando todos os passageiros e a tripulação de forma chocante, a agente especial do FBI Olivia é chamada para investigar. Depois que seu parceiro, o agente especial John Scott, quase morre durante a investigação, Olivia procura desesperadamente por ajuda e acaba conhecendo o Dr. Walter, considerado o Einstein da nova geração. Só há um problema: Walter esteve internado em uma clínica psiquiátrica pelos últimos 17 anos e a única forma de questioná-lo é pedindo ajuda a Peter, o estranho filho de Walter que possui um QI de 190. Quando a investigação de Olivia a leva? manipuladora executiva Nina Sharp, esse trio improvável, ao lado dos agentes do FBI, Philip e Astrid, vai descobrir que o que aconteceu com o vôo 627 é apenas um pedaço de uma verdade maior e mais chocante.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FRONTEIRAS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84839AE75ACE6063DF4546109D85D7D5838E83F5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fJgewaHYTzmqscRo3kvMNV1OFou.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wmF2N0mZT9pLHJB8w2Rocfq80j2.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando um misterioso acidente de avião em um vôo internacional deixa todos os passageiros e tripulantes mortos sem explicação, a agente do FBI Olivia Dunham descobre um ex-cientista internado em uma Clínica Psiquiátrica que pode ter relação com o caso. Walter Bishop – o cientista, e seu filho, Peter, juntam-se à equipe do FBI para auxiliar na investigação. Logo, eles descobrem que uma enorme quantidade de eventos estranhos fazem parte de um padrão bem maior do que imaginam. Mutação genética, reanimação, teletransporte, universos paralelos… E, sem saber, eles estão bem no centro dessa série de acontecimentos que pode mudar tudo o que conhecemos. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FRONTEIRAS [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2990B118D9C20AFA0727580CB9B88DF10224F775</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dCruUv2kuxjdTpNhOsurzwAPxSn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cFg0gJv4x94pdDO1SH2wst7rTQP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A equipe da Divisão Fringe escapa de um universo paralelo – com exceção de Olivia, que ficou presa em outro mundo e foi substituída no nosso por sua correlata, que faz com que o relacionamento, então mal resolvido, entre Peter e Olivia se transforme em um caso de amor. Então, Olivia retorna, os laços de confiança são estremecidos, fenômenos ainda mais bizarros e assustadores ocorrem e segredos que remontam a 1985 ameaçam destruir nosso Universo. Ou o deles.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FRONTEIRAS [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b7b5dd4eaee9aac3499d7aeed600b387a89957c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m4DLuvImpXWatCfty6jBGaJqSyS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3TfDe6UPBkLff1NFOmNhMqTfqWa.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Depois de se sacrificar para salvar os dois mundos, Peter misteriosamente retorna para o nosso. Mas ele foi esquecido – por Olivia, por Walter, por todos. É como se ele nunca tivesse existido. Ao mesmo tempo, trans-morfos controlados por um mestre desconhecido, iniciam uma investida de destruição e agora, dois universos, antigos inimigos, devem cooperar para desafiar um inimigo comum.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FRONTEIRAS [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FBD3D8A429832F0DF9BD1B11CC0B9A6C3299D4D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ljQy1C4ROYBeVcHanQxOnpMOILR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ihSyWj0YdEHkk5jxO4ZnUP4JOMz.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O ano é 2036. Os Observadores se transformaram em governantes implacáveis, limitando o livre arbítrio e a propagação de ideias, enquanto lentamente vão envenenando a atmosfera terrestre a ponto de somente membros de sua própria espécie serem capazes de sobreviver nela. Nem tudo está perdido, entretanto. Uma série de videoteipes preservados em âmbar, contém importantes detalhes e uma equipe realizará a missão mais importante de todos os tempos: recuperar as fitas, seguir suas pistas, decifrar o código e se preparar para uma batalha que poderá salvar a humanidade. Emissora: Fox • Episódios: 13 • Duração: 43 min. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

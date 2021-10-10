@@ -1,0 +1,99 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/7zoSHKlPlbtkIENur8oxhtJqHPp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5UoFlJryaW5xXy08VowEXYWSH2W.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0530ee9d92994939e9e29fd277a508da3258106</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d234c8699212a6f2126f4b631536d0a1d8bf03d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49a222965c0da9bb8734576dccd2953725fa0490</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4aed4772b1bacc630a7b78b099ece77d4e9ca1a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe11da62dba8eb34fdfb606b99768d7817423290</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73821f8c964c4bd00fd58256f4da9bfce2ff7ae6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9dc09e88d2b2404c8930032e5be1958ccf3eb77</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6240c54108926832d85606746fd76abb1d6e9e03</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09 / 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1c62c1968352476db5c68b885cbc5b62058086a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11 >> 13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc19f67b0081b4ad64899fc3d1e98f99545d44a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 >> 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6b0c5ed58ceda04bcac24d2170fae0ac2e2132d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07 / 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b96b0a4ea30ade0572317d488866fd7004785d37</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4c09e3d14c3879367e97d3a50058c18f6c7ddf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac447d15c8e28e7e406d4d3bafcff0157caf4df</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2408f63a5246f0c9eb2b56ec8d6e68e83c33a267</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
+<title>[B][COLOR yellow]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>

@@ -1,0 +1,34 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] WESTWORLD [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:1E7B95079FE67B6D1158138A7FFB2E9E99C06142</link>
+<thumbnail>https://3.bp.blogspot.com/-Scsi66JS4Ps/Wic6lJEoOFI/AAAAAAAAG-I/GGd2xqb8CHYriQUPtkW6pbwcp9H74PohgCLcBGAs/s1600/Westworld-torrent-2017-download-dublado-dual-audio-5.1-bluray-1080p-720p.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Primeira temporada completa da série Westworld dublada. Westworld é um parque temático futurístico para adultos, dedicado à diversão dos ricos. Um espaço que reproduz o Velho Oeste, povoado por andróides os anfitriões, programados pelo diretor executivo do parque, o Dr. Robert Ford (Anthony Hopkins), para acreditarem que são humanos e vivem no mundo real. Lá, os clientes ou novatos podem fazer o que quiserem, sem obedecer a regras ou leis. No entanto, quando uma atualização no sistema das máquinas dá errado, os seus comportamentos começam a sugerir uma nova ameaça, à medida que a consciência artificial dá origem à evolução do pecado. Entre os residentes do parque, está Dolores Abernathy (Evan Rachel Wood), programada para ser a típica garota da fazenda, que está prestes a descobrir que toda a sua existência não passa de bem arquitetada mentira. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] WESTWORLD [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:91a702fb54442353173a9e112b3b3aca876b3f52</link>
+<thumbnail>https://3.bp.blogspot.com/-qgbMOQUHaHM/Wt1MFcg_koI/AAAAAAAAKvk/7tlt3JIyn-YRmCtnDtAWP-pHvCrAroYTQCLcBGAs/s1600/Westworld%2B2%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]O caos toma controle do Westworld na segunda temporada da série original HBO, enquanto os androides desenvolvidos para o parque temático encontram sua própria consciência e se rebelam contra seus criadores.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] WESTWORLD [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Após as insurgências das máquinas, Dolores consegue escapar de Westworld com os núcleos de alguns outros anfitriões, incluindo o de Bernard. Vivendo numa Los Angeles futurista, em 2058, ela cria um relacionamento com Caleb (Aaron Paul), e começa a entender como os seres artificiais são tratados no mundo real. Enquanto isso, Maeve (Thandie Newton) se encontra presa em outra parte do parque Delos, um baseado na Itália fascista durante a Segunda Guerra Mundial. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+##################################################################################################################
+<item><title>[COLOR white]EP - [COLOR yellow]01[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bf8821075fabba59f28cffeef600e4ea41ae87</link></item>
+##################################################################################################################
+<item><title>[COLOR white]]EP - [COLOR yellow]02[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791301e20925b320e229d0160581ab26afa788a5</link></item>
+##################################################################################################################
+<item><title>[COLOR white]]EP - [COLOR yellow]03[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6018238ac11ad4b8eb3245947fa6277d9d0ec43c</link></item>
+##################################################################################################################
+<item><title>[COLOR white]]EPS - [COLOR yellow]04 / 05[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c9963af17e2cb2ba4ea13919241b5b04d9ada7f</link></item>

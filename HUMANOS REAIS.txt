@@ -1,0 +1,16 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] HUMANOS REAIS [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1403A414299394990E5F542B22862FAB38294C5F</link>
+<thumbnail>https://abutretorrents.com/imagens/humanos-reais-1-temporada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s1wVIWy59gHLQfLouOp7UFjxvwe.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Na segunda temporada, as diferenças entre os homens e as máquinas serão erradicadas. À medida que o conflito se intensifica, uma organização militar e política chamada Real Humans Youth Association tem a missão de destruir todos os Hubots. Um vírus se espalha como uma pandemia, afetando os Hubots e tornando-os incontroláveis e perigosos. Um caso jurídico complexo também é discutido na série, quando os Hubots querem igualdade de direitos humanos aos olhos da lei. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] HUMANOS REAIS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF51546A91C815901E734621C2E71ABF4873771B</link>
+<thumbnail>https://abutretorrents.com/imagens/humanos-reais-2-temporada-completa-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kn9eKTLbLzsw9OCwRpMumXM4i3W.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Na segunda temporada, as diferenças entre os homens e as máquinas serão erradicadas. À medida que o conflito se intensifica, uma organização militar e política chamada Real Humans Youth Association tem a missão de destruir todos os Hubots. Um vírus se espalha como uma pandemia, afetando os Hubots e tornando-os incontroláveis e perigosos. Um caso jurídico complexo também é discutido na série, quando os Hubots querem igualdade de direitos humanos aos olhos da lei. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,9 @@
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] KATLA [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb8a886a02fee9bd90b9e7d27546fe832e76e02d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRPDQP51i1Z2RuoIQaxVSj7Pd5R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3SIVHY26RteheuFAOpqyCTyyEUS.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um ano após a erupção de um vulcão subglacial, elementos misteriosos da pré-história emergem das geleiras derretidas. Prepare-se para consequências inacreditáveis![/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,43 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE EXPANSE [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A07CFDC5F20834B2732606A31523905B43C8860</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/fGLrYPKYAwMd2e9yPTEsDZazGiL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/f5cRSqsAgtArOo1VJfpT3gapAg8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Situada 200 anos no futuro, The Expanse narra a história de um tempo em que a humanidade já colonizou o sistema solar. A história começa quando o desaparecimento de uma mulher leva um detetive (Thomas Jane) e o capitão de uma nave espacial (Steven Strait) a trabalharem juntos, mas eles acabam entrando em uma corrida para revelar uma conspiração que pode ser a maior e mais perigosa da história da humanidade. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE EXPANSE [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:597bb781d09b9d73a2b7a7b5bab36ec6121c9f87</link>
+<thumbnail>https://2.bp.blogspot.com/-oX1lFVNvgoM/WbbMV1qEIyI/AAAAAAAAFbQ/duse5L2E9gcSBiDjneg8mc57y_aDD1tYACLcBGAs/s1600/The-expanse-2-temporada-completa-torrent-2017-download-bluray.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hVrcSy5ca0xRjy9e9w5bguXSjAc.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa e em dual áudio, ou seja, dublada e legendada. Situada 200 anos no futuro, The Expanse narra a história de um tempo em que a humanidade já colonizou o sistema solar. A história começa quando o desaparecimento de uma mulher leva um detetive (Thomas Jane) e o capitão de uma nave espacial (Steven Strait) a trabalharem juntos, mas eles acabam entrando em uma corrida para revelar uma conspiração que pode ser a maior e mais perigosa da história da humanidade. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE EXPANSE [COLOR lime] 3ª TEMPORADA [COLOR white]( EM BREVE)[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uqm8KsNlVAIvbsoxzvuddZ9e66I.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iHffJXmd4NaYKkLsnRIZTOFzHVq.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Terceira temporada da série The Expanse. Situada 200 anos no futuro, The Expanse narra a história de um tempo em que a humanidade já colonizou o sistema solar. A história começa quando o desaparecimento de uma mulher leva um detetive (Thomas Jane) e o capitão de uma nave espacial (Steven Strait) a trabalharem juntos, mas eles acabam entrando em uma corrida para revelar uma conspiração que pode ser a maior e mais perigosa da história da humanidade. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE EXPANSE [COLOR lime] 4ª TEMPORADA [COLOR white]( EM BREVE)[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/34F1R6Wq9bctsmgQ72wsbl7Jksq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8yYRCd3viJERtl0GN2ASX7f20KP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quarta temporada da série The Expanse. Situada 200 anos no futuro, The Expanse narra a história de um tempo em que a humanidade já colonizou o sistema solar. A história começa quando o desaparecimento de uma mulher leva um detetive (Thomas Jane) e o capitão de uma nave espacial (Steven Strait) a trabalharem juntos, mas eles acabam entrando em uma corrida para revelar uma conspiração que pode ser a maior e mais perigosa da história da humanidade. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE EXPANSE [COLOR lime] 5ª TEMPORADA [COLOR white]( EM BREVE )[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/aiGapvUmuErjFochQMB3axeb7OZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fYX29Hf2effFV4bOhhiKMkKNRUG.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]No século 24, um bando díspar de anti-heróis desvenda uma vasta conspiração que ameaça o frágil estado de guerra fria do Sistema Solar. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

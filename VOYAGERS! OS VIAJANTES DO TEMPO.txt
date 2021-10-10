@@ -1,0 +1,7 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] VOYAGERS! OS VIAJANTES DO TEMPO[COLOR lime] COMPLETA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08661A8353EE025F05A0683AB28E69CAF61068FE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVoyDxmQnpbCExQa1KAGQ4KUdbF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uJCrcWHKNTJYNEuNoJGVcwXyhn2.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Junte-se ao ex-pirata Phineas Bogg e ao órfão de 12 anos Jeffrey Jones nos 20 episodeos dessa serie.Com suas incríveis e repletas aventuras através do tempo e espaço, guiados pelo misterioso dispositivo Omni. Desde resgatar Cleópatra e unir os valentes companheiros de Robin Hood, esses intrépidos viajantes fazem o que for necessário para garantir que os eventos passados aconteçam dentro da normalidade.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

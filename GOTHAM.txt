@@ -1,0 +1,154 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] GOTHAM[COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD4013A545409CD57E8AE2BC75BEEE52BBA13558</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ggEVcCvtCcfSgYIeVubCBJXse7X.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Baseada no universo de Batman, a série foca no Comissário Gordon — ou ainda, antes disso, do detetive James Gordon, enquanto ele trabalha no departamento de polícia da cidade de Gotham. A série ainda mostra Bruce Wayne mais jovem, na faixa dos 12 anos, além de contar a história de vários vilões famosos, como o Pinguim, Charada e a Mulher-Gato. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] GOTHAM[COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E008D3A54314F157110BE0D833307D4CFBE18E91</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/a47zOXSfa6clj9Vb5Xv2sZg7W3R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A9lC7Mn3D6alhO4rkuatdW8oCWy.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]As apostas estão mais altas que nunca enquanto Gotham explora a história de origem dos mais ambiciosos e depravados super vilões, incluindo o Charada, o Coringa e o Senhor Frio, enquanto Bruce Wayne (David Mazouz) descobre mais segredos sobre o passado de seu pai, na segunda temporada[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] GOTHAM[COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F798C2582A589C9EC32BB4B810FA08186666AFD$nome=[B] 1 [COLOR yellow]EP 21/22 DEFEITOUOSO[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:956979a4ecef926563ddf579b195c068a1aa0d9a$nome=[B] 2 [COLOR yellow]EP 21/22 CORRIGIDO[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/rUCkSHEBOMg4JECWZN2fjsVIOrm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mbIQ9AutMVOvsvovCKBs3Ci57s.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Os fãs de Jim Gordon, Bruce Wayne e companhia podem ficar aliviados, pois a Fox acaba de renovar Gotham para sua terceira temporada. A confirmação veio do astro Ben McKenzie em seu Twitter. A história é focada no passado de Bruce Wayne, logo após que seus pais são mortos, e como está a situação de Gotham no momento. Ao mesmo tempo, somos apresentados ao detetive James Gordon e suas incansáveis tentativas de extinguir o crime da cidade. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] GOTHAM[COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:224C7CD0AE1CD9BBAEC09B80262F05725508899F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520f3ed8383d7219774b64feba5a088ddf4b321f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b89b938b79194d9d3877e5b0f2a9a0cc00a47b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d44afd5251939c431d6f89418f5fbdfb36084e57</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E2AFF8F6843D2BE804C4D2E160316948BACE8EA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5219AB796B78C716ED4BC9B4F1132E8706100292</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78CEDB594F7DC200499E8F39D8E7528E97F77811</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFB3F494DBBC6B402959B6DCD7F53EBBC270919B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1de71f25b1d6de0abee5a2c0bcb43561660db05</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B9C5F08EFE291F2A78510C0AD6495FCF7F392BB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:154B19FF1E01047315F4900D533C93680AABBFC0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02987ACF23298847F4D2EF85861569D1CD2056A7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C8433678885D9FD6EB1B162F7D56A0FB0EAB93F6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D804ED56B0B8FF665537A247ED31A744A7C047E2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FE9177A615928DA7560391F6D224A76565DB049</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681043748f240624f959ea832fa141512a9d16d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FAECF211A37134E18B8B156217822D7BF358EC0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b175cbbb039b5a74cd77b8029f1ff90f70171980</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]19[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a67a3cbd61746cee58ba964b03cd93f7cc85cf04</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]20[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE5233B87F0889B54F6036741CCF4EB3AE6F58F5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]21[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DCB8C22B93BCC019534F79822A4FC3FD1E3B9D3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]22[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F392274CE99157D4125F10F9A0C38B95EF3CDE77</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/6lyumyfM0lx8AApPEqgEKv5lnUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] GOTHAM[COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE174483E39ED2689F2FD49DC05EEDA317FA7999</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/h6y0urA9hYeVCpADMQpKxaIMNbQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z3WFpLmM86Mtq3emm4Tgcm6NYRV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Com Gotham à beira da anarquia e isolada do mundo externo, apenas Jim Gordon, Bruce Wayne e um grupo de heróis resistem na tentativa de retomar a cidade. Com vilões dominando várias áreas da cidade, será que a ordem será restaurada ou o caos reinará em Gotham City? [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

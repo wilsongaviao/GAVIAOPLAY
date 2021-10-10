@@ -1,0 +1,25 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DARK [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B9C90C97D4781B07767C331A687196A1CD1A17B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/taRoBxOBT4V1iNtqqaH9XYsz36A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ijUXCDlCP35Zd5F8KMc3W3xvcIy.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O desaparecimento de duas crianças expõe as vidas duplas e as relações fraturadas entre quatro famílias da pequena cidade alemã de Winden. A busca por respostas e por um culpado revela os pecados e os segredos da comunidade, enquanto uma reviravolta sobrenatural remonta o caso? mesma cidade em 1986. A questão não é quem sequestrou as crianças… mas quando. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DARK [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9&</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AdeS4Nq5TK72SlzThOp782eS0CN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iRl1rWK3s00qJOUpiDtKykDG4cK.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Seis meses após o desaparecimento de Mikkel, Jonas e Ulrich, as coisas em Winden estão cada vez mais misteriosas — e põem em jogo o futuro do mundo .[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DARK [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:861AD7F2DE96ADCF31BB5B6BAD24E715FFBE8B8A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p0k2MKRn1yzEXvE2JwIMjBfttUs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qDKb6hCDsQJRHn6jFQcH0vf76r6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] É 27 de junho de 2020 e o apocalipse está acontecendo. Uma Martha (Lisa Vicari) recém-materializada na casa de Jonas (Louis Hofmann) leva-o para o ano de 2019, onde ele sai das cavernas para um mundo estranho e ao mesmo tempo familiar: é a cidade de Winden, ainda em choque com o desaparecimento de um jovem chamado Erik Obendorf. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
