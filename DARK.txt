@@ -1,5 +1,5 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] DARK [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] DARK [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B9C90C97D4781B07767C331A687196A1CD1A17B</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/taRoBxOBT4V1iNtqqaH9XYsz36A.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ijUXCDlCP35Zd5F8KMc3W3xvcIy.jpg</fanart>
@@ -7,17 +7,17 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] DARK [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9&</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AdeS4Nq5TK72SlzThOp782eS0CN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iRl1rWK3s00qJOUpiDtKykDG4cK.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Seis meses após o desaparecimento de Mikkel, Jonas e Ulrich, as coisas em Winden estão cada vez mais misteriosas — e põem em jogo o futuro do mundo .[/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] DARK [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] DARK [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:861AD7F2DE96ADCF31BB5B6BAD24E715FFBE8B8A</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p0k2MKRn1yzEXvE2JwIMjBfttUs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qDKb6hCDsQJRHn6jFQcH0vf76r6.jpg</fanart>
