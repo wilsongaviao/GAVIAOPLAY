@@ -1,78 +1,83 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] RAIO NEGRO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] RAIO NEGRO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:78BF3C2A5D15239EE72A037DD41C2209FCC0521F</link>
-<thumbnail>https://abutretorrents.com/capas/raio-negro-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/gA9tBDW9UG6UmHrJTnpAVkeVTt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Jefferson Pierce é herói em sua comunidade, sendo pai de duas filhas e diretor de uma escola que também serve de porto seguro para jovens numa vizinhança dominada pela violência de gangues. Mas nove anos atrás, Jefferson era outro tipo de herói. Dotado de um poder superhumano, ele atuava como o vigilante mascarado Raio Negro. Quase uma década depois, os dias de luta contra o crime de Jefferson acabaram... ou ele acha. Com o crime e a corrupção se alastrando como uma epidemia, e aqueles com que ele se importa no fogo cruzado de uma ameaçadora gangue local chamada Os Cem, o Raio Negro retorna - não apenas para salvar sua família, mas também sua comunidade. [/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] RAIO NEGRO [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://1.bp.blogspot.com/-mhL_t807yVw/W71u4_kP_mI/AAAAAAAABco/ZzGRHMHkDe4Ilmkefh3eu8e-ZOG49GZ5wCLcBGAs/s1600/Raio%2BNegro%2B2%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail>
+<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lTQOBwJ67IKCE4x9nk8fOOhEWWy.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Jefferson e sua família lidam com revelações perturbadoras e novas ameaças de Tobias. Freeland exige justiça para as "pessoas das câmaras".[/COLOR][/B]</info></item>
 
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 01[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7cc203fa805a6609e5fd8bbc88e9f0a0189859a</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7cc203fa805a6609e5fd8bbc88e9f0a0189859a</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 02[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079525ffb94f62a9e5f337cd723be099f8abb2d2</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079525ffb94f62a9e5f337cd723be099f8abb2d2</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 03[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3b6c01f35c1316800d7400cd89b09a98fe3bac0</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3b6c01f35c1316800d7400cd89b09a98fe3bac0</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 04[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8378bfc1e0e1929d32c79b537bf5b969bf193a7b</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8378bfc1e0e1929d32c79b537bf5b969bf193a7b</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 05[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d95473226cb3cab7b169e5faf2c5ef7a525ae60</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d95473226cb3cab7b169e5faf2c5ef7a525ae60</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 06[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e41e075a1c4a114e4cba0225b452e4ba9ebeee3</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e41e075a1c4a114e4cba0225b452e4ba9ebeee3</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 07[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ca9a523bfe1eadff493c95a439d376ccfe5c79</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ca9a523bfe1eadff493c95a439d376ccfe5c79</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 08[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:444605c38dfc91dfe3334c285b03623dad380776</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:444605c38dfc91dfe3334c285b03623dad380776</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 09[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a19d7fae3318a85da95d653d2a06598dd53821b3</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a19d7fae3318a85da95d653d2a06598dd53821b3</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow]10 / 11 / 12[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdd92d062a787e7814fb426670a66f48a4335dc6</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdd92d062a787e7814fb426670a66f48a4335dc6</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 13[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6f7008bbd7063ac308d90977176a70be744b2ec</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6f7008bbd7063ac308d90977176a70be744b2ec</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 14[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3012074ea00d04759b53ae1332b11db86fb66cd</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3012074ea00d04759b53ae1332b11db86fb66cd</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 15[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cdd0494f7f18c5f7e35802212c93a5d14ff032c</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cdd0494f7f18c5f7e35802212c93a5d14ff032c</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 16[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80637bff170df6d6cb2d2b3d7c2ee73902cb5a22</link></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80637bff170df6d6cb2d2b3d7c2ee73902cb5a22</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] RAIO NEGRO [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:af5cf878a866e54db632b65a55a4098367bb76cd</link>
-<thumbnail>https://abutretorrents.com/capas/raio-negro-3-temporada-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<item><title>[B][COLOR crimson]######[COLOR white] RAIO NEGRO [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:af5cf878a866e54db632b65a55a4098367bb76cd$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4129027516b0dd18a46c83ade6998d7083d73613$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2mGCoqn1VELLI5N9uGffdIMPeOS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dKNIwLico02zLa6KNscQHWT1I1z.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow][/COLOR]Os ataques de Markovia fazem a ASA isolar Freeland. Anissa adota uma nova identidade secreta. A Luz Verde atinge a família Pierce.[/B]</info></item>
-##################################################################################################################
-<item><title>[COLOR white]ep - [COLOR yellow]10[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4129027516b0dd18a46c83ade6998d7083d73613</link></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] RAIO NEGRO [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>https://abutretorrents.com/imagens/raio-negro-4-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+</item>
 ##################################################################################################################
 <item><title>[COLOR white]EPS[COLOR yellow]01 >>> 06[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f3c8591e953596dd8eaa23eeccf5278cb234acc</link></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f3c8591e953596dd8eaa23eeccf5278cb234acc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail></item>
 <item><title>[COLOR white]EPS[COLOR yellow]07 >>> 13[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8c1d80221a3ed85788b32945684a1cad423ee7e</link></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8c1d80221a3ed85788b32945684a1cad423ee7e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
