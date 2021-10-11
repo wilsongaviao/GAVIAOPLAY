@@ -1,18 +1,18 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] FUGITIVOS DA MARVEL - [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD86611D1043EEB4E6E63130624D8B8F301B2156</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4vXSbVpuwVQlX933TwAsuw9ZHP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mNFSqvvxzxu0mJM6qwfpN7jUUpo.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Primeira temporada completa com todos os episódios dublados já lançados da série (Marvels - Runaways). E se seu maior inimigo estiver mais perto do que você imagina? É esta a realidade de seis adolescentes nada parecidos, mas que enfrentam um inimigo em comum: os próprios pais. Agora, o nerd Alex (Rhenzy Feliz), a independente Nico (Lyrica Okano), a bela Karolina (Virginia Gardner), a durona Gert (Ariela Barer), o galã Chase (Gregg Sulkin) e a inocente Molly unem forças em uma missão cujo campo de batalha começa em suas casas. [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Depois de descobrir um segredo terrível sobre seus pais, seis jovens de Los Angeles se unem contra eles. Agora eles precisam balancear amizade, romance e superpoderes.[/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FUGITIVOS DA MARVEL - [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vq2FI2KEEy15aTBizihcpyOdZKy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3evycs4ad8UZTZkx21a28AxPuQA.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Segunda temporada completa com todos os episódios já lançados da série (Marvels - Runaways). E se seu maior inimigo estiver mais perto do que você imagina? É esta a realidade de seis adolescentes nada parecidos, mas que enfrentam um inimigo em comum: os próprios pais. Agora, o nerd Alex (Rhenzy Feliz), a independente Nico (Lyrica Okano), a bela Karolina (Virginia Gardner), a durona Gert (Ariela Barer), o galã Chase (Gregg Sulkin) e a inocente Molly unem forças em uma missão cujo campo de batalha começa em suas casas. [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Deixando para trás suas casas (e seus pais malignos), os Fugitivos precisam aprender a viverem independentemente. Enquanto buscam por comida e abrigo, eles percebem que, para melhor ou para pior, tudo que eles tem é uns aos outros. E cabem a eles derrubar o PRIDE de uma vez por todas. Mas alguém enviou uma mensagem secreta para Jonah... teria um traidor no grupo? [/COLOR][/B]</info></item>
 #############################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffe8609b5e59821654fafb1a0a59b6c37cfb7e87</link>
@@ -68,13 +68,13 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:150433bd2b4ea460e0e25fe271eb3233dd84551f&</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vq2FI2KEEy15aTBizihcpyOdZKy.jpg<</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3evycs4ad8UZTZkx21a28AxPuQA.jpg</fanart></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] XXXXX [COLOR lime] ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] FUGITIVOS DA MARVEL - [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdfed922c2b8ea864a687e40787a5731500c7d99</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gCU06XyED5nPLdZEt4W2iPopp9V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nY24YycegEs1mYNe7rq55bW2qbL.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Deixando para trás suas casas (e seus pais malignos), os Fugitivos precisam aprender a viverem independentemente. Enquanto buscam por comida e abrigo, eles percebem que, para melhor ou para pior, tudo que eles tem é uns aos outros. E cabem a eles derrubar o PRIDE de uma vez por todas. Mas alguém enviou uma mensagem secreta para Jonah... teria um traidor no grupo? [/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
