@@ -23,7 +23,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SÉRIES FICÇÃO [/COLOR] [COLOR crimsonb]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/q7BKvsXf/SERIESFIC-O.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1V589gNu1s5p6943l_LWjx-WYfzVRT2d2</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIEFIC%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/SK3dH1CQ/fanartseriesfic-o.jpg</fanart>
 <info>[B][COLOR yellow]EXCELENTE COLETÂNEA DE SÉRIES DE FICÇÃO.SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
 </channel>
