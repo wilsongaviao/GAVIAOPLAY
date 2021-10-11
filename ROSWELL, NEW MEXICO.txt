@@ -2,16 +2,14 @@
 <item><title>[B][COLOR crimson]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/7zoSHKlPlbtkIENur8oxhtJqHPp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5UoFlJryaW5xXy08VowEXYWSH2W.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<fanart>https://www.themoviedb.org/t/p/original/5UoFlJryaW5xXy08VowEXYWSH2W.jpg</fanart></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/39NeXGZHGVjLvT10zCiTwVW4gdj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<fanart>https://www.themoviedb.org/t/p/original/cPqI1WlNxDiB2DottRbBN2MT95E.jpg</fanart></item>
 #############################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0530ee9d92994939e9e29fd277a508da3258106</link>
@@ -61,8 +59,7 @@
 <item><title>[B][COLOR crimson]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
 #############################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]01 >> 06[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6b0c5ed58ceda04bcac24d2170fae0ac2e2132d</link>
@@ -90,10 +87,3 @@
 <fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
-<title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>
-<title>[B][COLOR yellow]######[COLOR white] ROSWELL, NEW MEXICO  [COLOR lime]4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>
