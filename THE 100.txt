@@ -1,76 +1,94 @@
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5319135E7B23011CC2B23162E3E0AE8C31C99955</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]1ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5319135E7B23011CC2B23162E3E0AE8C31C99955</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/1PhrhZgmhSjqATOrJW6eoU0Gqa9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yDra4fvpFH6JubOm6yqBAnGA2QS.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quase 100 anos após um apocalipse nuclear na Terra, os sobreviventes de uma estação espacial precisam buscar recursos para garantir a sobrevivência.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B60B413A3D304FF088EA3E199B2B82E0FF03F06</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white] THE 100 - [COLOR lime]2ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B60B413A3D304FF088EA3E199B2B82E0FF03F06</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uYt6XfKSKJsrAdWT23nwjohcHCk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O drama pós-apocalíptico continua quando alguns dos 100 acordam após a tentativa de fuga e o incidente de Mount Weather.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]3ª Temporada[COLOR red] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519C7ADA7A45D6820BD1E2B2471246AE7BA1B93F</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519C7ADA7A45D6820BD1E2B2471246AE7BA1B93F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bemLL01a0cOTatfUbT2li5gtKOG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ssLnelDWjYhuDs9EsbTHyIeTaqq.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Os sobreviventes da guerra tentam recuperar o equilíbrio, mas crises emocionais, diferenças políticas e novas ameaças podem colocar tudo a perder.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]4ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519C7ADA7A45D6820BD1E2B2471246AE7BA1B93F</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white] THE 100 - [COLOR lime]4ª Temporada [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519C7ADA7A45D6820BD1E2B2471246AE7BA1B93F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/nY2rmYtRyUwxy47BlUy2orfFs7l.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/3Bpls3oUp6Lg17RENTUwVghBZHH.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Os 100 jovens precisam impedir que os reatores nucleares da Terra emitam radiação, o que envenenaria o planeta e extinguiria seus habitantes.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]5ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3123F570C4625CD07A0684F1BC6B084C5AB006D3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/vFqg8eErb1oJ97u4PED5XWHAtCS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cLXPW8mDyPkq7mLa8qIJvdFJMLC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Na esteira da destruição catastrófica de Praimfaya, uma guerra com um novo inimigo pode decidir quem ficará com a última região habitável da Terra.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]5ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3123F570C4625CD07A0684F1BC6B084C5AB006D3</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]###[COLOR white] THE 100 - [COLOR lime]6ª Temporada [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=uri=magnet:?xt=urn:btih:A90CFDE781F1A1F4CB104F586C48321391460530</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8LDkqhm9azrtrNprqAJg9eA4hg.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um novo começo e novos perigos sobrenaturais envolvem Clarke e outros sobreviventes da Terra ao encontrarem vida em um planeta desconhecido.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]6ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=uri=magnet:?xt=urn:btih:A90CFDE781F1A1F4CB104F586C48321391460530</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]7ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pQv6UGs32vJElkK51x0n9vuhCNa.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]DEP -[COLOR yellow] ois de chegar em um novo planeta, nossos heróis encontraram um lugar onde esperavam tentar reconstruir suas vidas novamente. Clarke e Bellamy lideraram um grupo até este mundo misterioso para começar de novo, mas nem tudo em Sanctum era tão perfeito quanto parecia. Apesar de sua determinação em fazer melhor, ameaças visíveis e invisíveis mais uma vez os forçaram a lutar por suas vidas e pelo futuro da humanidade.[/COLOR][/B]</info></item>
 
+<item><title>[B][COLOR white]EP -[COLOR yellow]  01[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c17e2cb1804f75c7cc96cd13f9b19c7e15586e</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR crimson]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]7ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  02[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21629662b47cfd28f4cbddcf091642dff33abaa0</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
+<item><title>[B][COLOR white]EP -[COLOR yellow]  03[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6988138425c3dd8616ab37d70ccd3913a50c989</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item
 
-<item><title>[B][COLOR white]EP 01[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c17e2cb1804f75c7cc96cd13f9b19c7e15586e</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  04[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8abb5be1b30b8dc2e06aa2daa15a1a6b92e2626</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 02[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21629662b47cfd28f4cbddcf091642dff33abaa0</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  05[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbf40a9e724e3d47a0a25aee89775aa0d83f05b</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 03[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6988138425c3dd8616ab37d70ccd3913a50c989</link><thumbnail>IGNOREME</thumbnail></item
+<item><title>[B][COLOR white]EP -[COLOR yellow]  06[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4c8d4aa9eb4db44262750c6227e056886e27e6d</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 04[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8abb5be1b30b8dc2e06aa2daa15a1a6b92e2626</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  07[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f92b0245fd884e81599a460a423bdd17996c5b8</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 05[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbf40a9e724e3d47a0a25aee89775aa0d83f05b</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  08[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2797cdce6d16549bf74861c9623a00bb438fa0b</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 06[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4c8d4aa9eb4db44262750c6227e056886e27e6d</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  09[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9565e99afe1e3535a798de3a2526fe05f18a5c7a</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 07[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f92b0245fd884e81599a460a423bdd17996c5b8</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  10[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0444088a4b7c43ee03ee0e8c7151e70b4f2b5e12</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 08[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2797cdce6d16549bf74861c9623a00bb438fa0b</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  11[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21725b0fadfd673edd68f9862543897aacc87670</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 09[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9565e99afe1e3535a798de3a2526fe05f18a5c7a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  12[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262b7777b336d0f73e241cb1dd9871855e5c7060</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 10[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0444088a4b7c43ee03ee0e8c7151e70b4f2b5e12</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  13[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df41c6f50eee9e8dd80cdab963856cc2246eb9c7</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 11[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21725b0fadfd673edd68f9862543897aacc87670</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  14[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:065a918a0480bb011fe6d63f1b8557d7c00c2d8c</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 12[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262b7777b336d0f73e241cb1dd9871855e5c7060</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP -[COLOR yellow]  15[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:678eb7a809415a3159e25e0d72a59b6a9bd85318</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
 
-<item><title>[B][COLOR white]EP 13[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df41c6f50eee9e8dd80cdab963856cc2246eb9c7</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR white]EP 14[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:065a918a0480bb011fe6d63f1b8557d7c00c2d8c</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR white]EP 15[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:678eb7a809415a3159e25e0d72a59b6a9bd85318</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR white]EP 16[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2745f420c359afb00f6ced13bf05b09fb02d75a</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
+<item><title>[B][COLOR white]EP -[COLOR yellow]  16[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2745f420c359afb00f6ced13bf05b09fb02d75a</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 
 
