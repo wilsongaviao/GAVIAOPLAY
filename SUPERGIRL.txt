@@ -496,4 +496,20 @@
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qq4TkhMymMKTajMX3zc7BL5zyo5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jgb9xICHFX8wTGQ75js4uNbttQs.jpg</fanart></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
- 
+#############################################################################################################################
+<item><title>[COLOR white]EP - [COLOR yellow]08/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYA6OLOVXZ4ZMXKDAELUM7B4XKH3ME5H</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qq4TkhMymMKTajMX3zc7BL5zyo5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jgb9xICHFX8wTGQ75js4uNbttQs.jpg</fanart></item>#############################################################################################################################
+<item><title>[COLOR white]EP - [COLOR yellow]09/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2IA735ED7WEMJAC6Y6VWMUMWWLD7CTE2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qq4TkhMymMKTajMX3zc7BL5zyo5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jgb9xICHFX8wTGQ75js4uNbttQs.jpg</fanart></item>#############################################################################################################################
+<item><title>[COLOR white]EP - [COLOR yellow]10/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PZSYHBGVV5GWSUTT6YONIRGTO6COUROW</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qq4TkhMymMKTajMX3zc7BL5zyo5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jgb9xICHFX8wTGQ75js4uNbttQs.jpg</fanart></item>#############################################################################################################################
+<item><title>[COLOR white]EP - [COLOR yellow]11/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J3WKE5L7PZR354BJTIKWF33BNS3MHA35</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qq4TkhMymMKTajMX3zc7BL5zyo5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jgb9xICHFX8wTGQ75js4uNbttQs.jpg</fanart></item> 
