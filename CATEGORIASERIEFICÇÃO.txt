@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW (ARQUEIRO)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1TibCSCJvwUAzO_MtK5RzQcGj7wirt2hF</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ARROW(ARQUEIRO).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/fFT7T9y9NVRdcdVh81roVrJBcDh.jpg</fanart>
 <info>[B][COLOR yellow]Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas.[/COLOR][/B]</info></item>
 </channels>
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATWOMAN[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfraYF6Mf2T7cKDLKhtjKtq3hAG.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=18zytVi7WiyYqnIXjPOINapBXAUjfvjsx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BATWOMAN.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vPkQ4SAz5Zw7NxQ3Xgj3LKkyuQe.jpg</fanart>
 <info>[B][COLOR yellow]Três anos após o bilionário Bruce Wayne e seu alter-ego vigilante Batman desaparecerem, sua prima Kate Kane (Ruby Rose) se prepara para superar seus demônios internos e assim se tornar um novo símbolo de esperança, protegendo as ruas de Gotham City como a Batwoman. [/COLOR][/B]</info></item>
 </channels>
@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BONES - SEMPRE EM MEDICINA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1JNahVJOAcGW1LzjILU3QRZbW3fL6RX3c</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BONES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg</fanart>
 <info>[B][COLOR yellow]A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropóloga forense que trabalha no Instituto Jeffersonian e cujo passatempo é escrever romances policiais. Ela é chamada para ajudar nas investigações policiais de assassinato sempre que não é possível identificar a vítima pelos métodos tradicionais, seja porque o corpo está decomposto, foi carbonizado ou está totalmente desfigurado. O talento e a experiência de Brennan recaem em sua grande habilidade de desvendar as pistas ocultas que se escondem por trás do cadáver e/ou ossada das vitimas. Nesta terceira temporada, a dupla Booth/Brennan está atrás de um serial killer que assusta a cidade e toda a equipe de peritos se envolve numa investigação que promete ser uma das melhores “caçadas” da televisão.[/COLOR][/B]</info></item>
 </channels>
@@ -33,7 +33,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLINDSPOT - PONTO CEGO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYyKZZlb3nd5ASbiuIxva718bp2.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=19adnVadtUFJrEZhC1h2EAge1rAhRT4wr</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PONTO%20CEGO(BLINDSPOT).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
 <info>[B][COLOR yellow]Misteriosa mulher é encontrada na Times Square, sem quaisquer lembranças de quem ela é e de como chegou ali. As únicas pistas que ela possui são as tatuagens que cobrem todo o seu corpo. Um agente do FBI passa a ajudá-la enquanto buscam a verdade.[/COLOR][/B]</info></item>
 </channels>
@@ -43,7 +43,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COLONIA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4eeJ0MLNVkiC9SkqbimUkBrosb.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1hV_A4FBHjv1ZYRSnOum1a54vZeNNyrRt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/COLONIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/voRHFanyYArpefihyLgc5lcqylA.jpg</fanart>
 <info>[B][COLOR yellow]Num futuro próximo, Los Angeles foi isolada e dividida com uma muralha por uma força ocupacional desconhecida. "Colony" é centrada numa família dilacerada por forças opostas que lutam por equilibrar decisões difíceis para ficarem juntos enquanto tentam sobreviver na nova ordem mundial. Enquanto algumas pessoas optam por colaborar com as autoridades beneficiando da ocupação, outros insurgem-se e sofrem as consequências. O ex-agente do FBI Will Bowman tem um papel mais complicado visto que foi forçado a colaborar com o governo do procurador a fim de proteger a sua família e recuperar o seu filho que foi separado durante a invasão inicial.[/COLOR][/B]</info></item>
 </channels>
@@ -53,7 +53,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DARK[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Bv5Xqw4spS75Kf66w-WtV0ngOw7tBeH9</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DARK.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg</fanart>
 <info>[B][COLOR yellow]Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.[/COLOR][/B]</info></item>
 </channels>
@@ -62,7 +62,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FEAR THE WALKING DEAD[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbgPaIEZa9BuKKESdyapOn0CZh6.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1yp6vo2s-hsZGuGcqRNyAE7xvD6h3D3OK</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FEAR%20THE%20WALKING%20DEAD.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/d5K2L39aS4TdI1tEgmBfDh2aSFx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Ambientada em Los Angeles, a série mostra o começo do apocalipse zumbi e a temível desintegração da sociedade pelos olhos de uma família disfuncional, que precisa se unir para tentar sobreviver ao caos do fim dos tempos.[/COLOR][/B]</info></item>
 </channels>
@@ -72,7 +72,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FOR ALL MANKIND[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zxJIe1BUpVfmr55gw5QScnTpKEw.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1A1n4Iydk3UQB2rz4sc3K07-cOYk3jsy4</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FOR%20ALL%20MANKIND.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/oGkWgvn5dkhv7BWJ5RTz6gTHIau.jpg</fanart>
 <info>[B][COLOR yellow]Imagine um mundo em que a corrida espacial global nunca chegou ao fim. Essa série dramática de Ronald D. Moore é contada através das vidas dos astronautas da NASA e de suas famílias.[/COLOR][/B]</info></item>
 </channels>
@@ -82,7 +82,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FRONTEIRAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDemPkYXt1BHXSEV8NSX8hV0eJ6.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1r-uyAXERZG2gV0u0b6LBnhmx-hhe8d2m</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FRONTEIRAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2yZXtM2Kky1Sy0kachbDlwybl3y.jpg</fanart>
 <info>[B][COLOR yellow]Quando um acidente aéreo ocorre em Boston, matando todos os passageiros e a tripulação de forma chocante, a agente especial do FBI Olivia Dunham é chamada para investigar. Depois que seu parceiro, o agente especial John Scott, quase morre durante a investigação, Olivia procura desesperadamente por ajuda e acaba conhecendo o Dr. Walter Bishop, considerado o Einstein da nossa geração. Só há um problema: Walter esteve internado em uma clínica psiquiátrica pelos últimos 17 anos e a única forma de questioná-lo é pedindo ajuda a Peter Bishop, o estranho filho de Walter.[/COLOR][/B]</info></item>
 </channels>
@@ -92,7 +92,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GOTHAM[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nOeHVzmh3uSFkcQKIlzzDtF2211.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1SmL4O92K-BFh2c7yclcrEpPCY4zGMtSG</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/GOTHAM.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
 <info>[B][COLOR yellow]O tenente James Gordon chega a Gotham com o intuito de combater a corrupção. Gordon tenta fazer a diferença e começa investigando o assassinato de Thomas e Martha Wayne, cujas mortes deixaram órfão seu filho Bruce.[/COLOR][/B]</info></item>
 </channels>
@@ -102,7 +102,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HUMANOS REAIS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ps9LymVYTVGcNpAvgqzx2RwwK0Z.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-mYeWy9fxdEYN5FiGz2UWFgfoNfGDS9d</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HUMANOS%20REAIS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/kn9eKTLbLzsw9OCwRpMumXM4i3W.jpg</fanart>
 <info>[B][COLOR yellow]Humanos reais é uma série sueca de ficção científica que se passa em um mundo paralelo habitado por robôs, "hubots" (humanos). Nesse mundo, a humanidade já inventou a inteligência artificial. Há todos os tipos de robôs disponíveis para as tarefas domésticas. Tudo muda quando alguns robôs desenvolver sentimentos.[/COLOR][/B]</info></item>
 </channels>
@@ -112,7 +112,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KATLA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRPDQP51i1Z2RuoIQaxVSj7Pd5R.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1f5MSRZuZNGDd7bT6O9IfIiJ8zXbYOTFu</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KATLA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mF25LlPgSek0Wgv6NUKSlzLLQBQ.jpg</fanart>
 <info>[B][COLOR yellow]Katla é um thriller da Islândia, que decorre um ano depois da erupção violenta do vulcão Katla, perturbando a paz e a tranquilidade da pequena cidade de Vik. Durante a evacuação da área afetada, elementos misteriosos, que estavam congelados no glaciar desde os tempos pré-históricos, começam a emergir do gelo derretido, causando consequências que ninguém poderia prever. [/COLOR][/B]</info></item>
 </channels>
@@ -122,7 +122,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LEGADOS (LEGACIES)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/pwvKOtTpbMacI463EDfyKtfn4Kd.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1qwfCqsEh1p4OKfvoBaaX1qfFQrNNg2H5</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LEGACIES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/wblSifvXAlqAYqEUoXmhpzeau7b.jpg</fanart>
 <info>[B][COLOR yellow]Hope Mikaelson, descendente da linhagem mais poderosa de vampiros, lobisomens e bruxas, frequenta a Escola Salvatore para Jovens e Superdotados, um refúgio onde ela pode aprender a controlar suas habilidades e impulsos sobrenaturais.[/COLOR][/B]</info></item>
 </channels>
@@ -132,7 +132,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LENDAS DO AMANHÃ[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1PphIz6VEukYxLmG-RUVQQXSbKDKIq7D_</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LENDAS%20DO%20AMANHA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/t4qCYpHkwbC8PwYasyyXRBYUbU8.jpg</fanart>
 <info>[B][COLOR yellow]Após ter visto o futuro, o viajante do tempo Rip Hunter recebe a missão de montar um grupo eclético de heróis e vilões para confrontar uma ameaça invencível - uma que não somente põe em risco o planeta, mas também o tempo.[/COLOR][/B]</info></item>
 </channels>
@@ -142,7 +142,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAIO NEGRO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pBibiDKiguCRRoOzZsq6wkfkPLk.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1CAME-1SUjsjgb6W7uB8uHAW1xQyrTyQn</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RAIO%20NEGRO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg</fanart>
 <info>[B][COLOR yellow]Jefferson Pierce é um pai de família  ex super-herói aposentado e diretor de escola , lendário Raio Negro tem de voltar à ativa quando a violência de gangues ameaça o futuro de sua comunidade e sua filha se torna obcecada com a execução da justiça. Ele precisa agir com cuidado, entretanto, pois a polícia está á sua procura. [/COLOR][/B]</info></item>
 </channels>
@@ -152,7 +152,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROSWELL, NEW MEXICO [COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zoSHKlPlbtkIENur8oxhtJqHPp.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ROSWELL%2C%20NEW%20MEXICO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart>
 <info>[B][COLOR yellow]Nessa nova versão da série Roswell, Liz Ortecho, uma pesquisadora biomédica e filha de imigrantes ilegais, retorna para sua cidade-natal de Roswell, no Novo México. Ao chegar, ela descobre que seu antigo crush de adolescência, agora um policial, é um alienígena que escondeu suas habilidades durante toda a vida. Liz protege o segredo dele enquanto os dois se reconectam e começam a investigar suas origens.[/COLOR][/B]</info></item>
 </channels>
@@ -162,7 +162,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] RUNAWAYS - FUGITIVOS DA MARVEL  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/zceMrfO17AQkeWJZNra4O90s1vE.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RUNAWAYS%20-%20FUGITIVOS%20DA%20MARVEL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/3IQuUfYYwWndQ2YV4CvsG0HKgos.jpg</fanart>
 <info>[B][COLOR yellow]Depois de descobrir um segredo terrível sobre seus pais, seis jovens de Los Angeles se unem contra eles. Agora eles precisam balancear amizade, romance e superpoderes.[/COLOR][/B]</info></item>
 </channels>
@@ -172,7 +172,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERGIRL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DlY7SfBbhrem8jOMo3RuudiW7z.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1EVsE6oHoLfBq9MseVbo9J0gksiJFPoFw</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SUPERGIRL.txt/externallink>
 <fanart>https://www.themoviedb.org/t/p/original/5wj5tBJKlcMSdU7nv1BgBtKUSji.jpg</fanart>
 <info>[B][COLOR yellow]Kara Zor-El nasceu no planeta Krypton, e escapou da destruição há anos. Desde então, ela chegou à Terra, e vem escondendo os poderes que ela e seus primos têm. Mas agora, aos 24 anos, ela ela decidiu assumir suas habilidades e ser a heroína que nasceu para ser.Para impedir um desastre, Kara Danvers revela seus poderes e sua verdadeira identidade: ela é a Supergirl, a protetora de National City e prima do Superman [/COLOR][/B]</info></item>
 </channels>
@@ -182,7 +182,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TIMELESS: GUARDIÕES DA HISTÓRIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uY6hb5DHqryAw6BLLffnjB82nfS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1cfv6rwa2xHgIGSFiqelrXIIEsjJrymtw</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TIMELESS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/UBY98a1wg2fT0DZBSXl2DgTqaV.jpg</fanart>
 <info>[B][COLOR yellow]Primeira temporada completa e dublada da série Timeless. Uma série de ficção com foco em viagens no tempo maravilhosa. O roubo de uma máquina do tempo é o primeiro numa série de crimes temporais misteriosos que levam um cientista, um soldado e m professor de história a se lançarem numa busca desesperada através do passado para interromper o louco que quer destruir os Estados Unidos. Os três precisam tomar cuidado com suas ações, pois nunca se sabe qual movimento gerará consequências irreversíveis. [/COLOR][/B]</info></item>
 </channels>
@@ -192,7 +192,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 100[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=12mN7RSKPEmScwL2Hxa1P3crcbIqL3qQc</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20100.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/d5AHQX2L4Wtk0RqXEi5ysiibVOG.jpg</fanart>
 <info>[B][COLOR yellow]Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.Situada 97 anos no futuro, a história mostra uma civilização destruída pela guerra nuclear. Quando ocorreu o holocausto, cerca de 400 pessoas viviam em doze estações espaciais internacionais. Eles se tornaram os únicos sobreviventes da raça humana. Com o passar dos anos, novas gerações surgiram e agora eles são 4 mil habitantes que se amontoam na Ark, nome dado às doze estações que se uniram. [/COLOR][/B]</info></item>
 </channels>
