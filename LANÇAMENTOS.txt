@@ -6,7 +6,7 @@
 <fanart>https://www.themoviedb.org/t/p/original/77tui163estZrQ78NBggqDB4n2C.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
 <info>Sinopse: [COLOR yellow]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.
-[COLOR white][B]Gênero: [COLOR lime]Ação / Policial / Suspense   [/COLOR][/B]</info></item> 
+[COLOR white][B]Gênero: [COLOR lime]AÇÃO / POLICIAL / SUSPENSE[/COLOR][/B]</info></item> 
 ##################################################################################################################
 <item><title>[B][COLOR white]Free Guy - Assumindo o Controle[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1163eec087017c2ca25f013b3fcae6366d75dcd</link>
