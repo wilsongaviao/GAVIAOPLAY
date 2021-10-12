@@ -61,6 +61,13 @@
 
 <item><title>[B][COLOR white]007 contra Spectre	[COLOR yellow](2015)[/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15494316AB2C0EFB938116AB3AAB42F597370108</link><thumbnail>https://2.bp.blogspot.com/-0v2-kBQeTN4/W4yLIpACzNI/AAAAAAAAQaE/-MZbgfSTSAk68ZL8a-xndJxel_o7eoIXwCLcBGAs/s1600/007%2BContra%2BSpectre%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail><info>[B][COLOR yellow]Uma mensagem enigmática do passado leva James Bond (Daniel Craig) à uma missão secreta para a Cidade do México e, eventualmente, para Roma, onde ele conhece Lucia Sciarra (Monica Belluci), a bela e proibida viúva de um infame criminoso. Bond infiltra uma reunião secreta e descobre a existência da sinistra organização conhecida como SPECTRE. Enquanto isso, em Londres, Max Denbigh (Andrew Scott), o novo chefe do Centro para a Segurança Nacional, questiona as ações de Bond e desafia a relevância do MI6, liderado por M (Ralph Fiennes). Bond secretamente recruta Moneypenny (Naomie Harris) e Q (Ben Whishaw) para ajudá-lo a contatar Madeleine Swann (Léa Seydoux), a filha de seu antigo inimigo Mr. White (Jesper Christensen), que pode ter uma pista para desembaraçar a teia de SPECTRE. Como a filha de um assassino, ela compreende Bond de uma maneira que a maioria dos outros não podem. Conforme Bond segue em busca do coração de SPECTRE, ele desvenda a arrepiante conexão entre ele e o inimigo que procura (Christoph Waltz). [/COLOR][/B]</info></item>
 
-<title>[B][COLOR white]007 - Sem Tempo para Morrer [COLOR yellow](2020)[/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info>
+##############################################################################################################
+<item><title>[B][COLOR white]007: Sem Tempo para Morrer[COLOR yellow]( 720p ) [/COLOR][/B]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iED5BlTFVky8lKw8SuG7QX0q6yI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/18Eca3pEMrdk6GkmKWdf02jWpmo.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127</link>
+<info>Sinopse: [COLOR yellow][B]Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / AÇÃO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 
 		
