@@ -63,3 +63,12 @@
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/dzUOpk1uX4ZT6VwN97CaR3H4HcR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fWY2Ighm2QZs9sLZZ2xCLVnDeFt.jpg</fanart></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] TIMELESS [COLOR lime] O MILAGRE DO NATAL (FINAL DA SERIE)[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ccf6d3c0a74d96ebf1243b462242878ae1b547a$nome=[B] PARTE 01 / 02 [[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jubR6YLAWqaZBzPBNKVHcyLbHw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/UBY98a1wg2fT0DZBSXl2DgTqaV.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O episódio especial de duas horas vai ao ar no dia 20 de dezembro e da um final apropriado para a série, cancelada em junho de 2018 após apenas duas temporadas. Com uma pequena ajuda do futuro, Lucy e Wyatt, juntamente com o resto da equipe, viajam para a Corrida do Ouro na Califórnia e para a evacuação da Guerra da Coréia em uma tentativa ousada de salvar Rufus e parar Rittenhouse de uma vez por todas.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
