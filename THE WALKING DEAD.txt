@@ -3,9 +3,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:0801ebab06cddfdd5a3134ca90a4e446fe8205eb</link>
 <fanart>https://www.themoviedb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg</fanart>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mjUvUEzOwnMz6fx75RHGOqwmPnM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Primeira temporada completa e dublada da série de zumbis The Walking Dead da Fox. O mundo vive momentos de caos, quando o xerife Rick Grimes (Andrew Lincoln) acorda, depois de passar muito tempo em coma num hospital. Mal sabe ele que nada mais é como costumava ser. Assustadoramente, o improvável aconteceu e o apocalipse chegou com uma assustadora invasão de mortos-vivos.[/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] THE WALKING DEAD [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
