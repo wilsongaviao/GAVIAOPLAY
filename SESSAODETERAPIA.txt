@@ -1,0 +1,22 @@
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] SESSÃO DE TERAPIA [COLOR yellow]1ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e781c9bb7ad54dd34e1beb08c0931971407d3101</link><thumbnail>https://abutretorrents.com/capas/sessao-de-terapia-1-temporada-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] SESSÃO DE TERAPIA [COLOR yellow]2ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9dd728e93dda0c0e38d0a2bffefd12f33365427</link><thumbnail>https://abutretorrents.com/capas/sessao-de-terapia-2-temporada-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] SESSÃO DE TERAPIA [COLOR yellow]3ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0a68f2b3246a4ec7c3cf5b8ecbf4386b128b6ad</link><thumbnail>https://abutretorrents.com/capas/sessao-de-terapia-3-temporada-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] SESSÃO DE TERAPIA [COLOR yellow]4ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2B7A7DC23AC314D8C2605B5A98FD68DFD947233</link><thumbnail>https://abutretorrents.com/capas/sessao-de-terapia-4-temporada-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

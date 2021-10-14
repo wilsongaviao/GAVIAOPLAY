@@ -1,0 +1,17 @@
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] VAI QUE COLA  [COLOR yellow]1ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B41757C47CF8B417B68F933D371A5ED3C4C7886</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/koBtV2z3F5jamEG1VhxeySKEOXt.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] VAI QUE COLA  [COLOR yellow]2ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bc7f34dd008e8cc1269c745a545e45c745b56c5</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zkzMxY964DsFMmS42pL1j4h4KyP.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+ 
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]######[COLOR lime] VAI QUE COLA  [COLOR yellow]3ª TEMPORADA [COLOR red]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da647d4d78ccefffac9bf9cacc2a8de53a01be39</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xJHrT8HhHfsBQTe2DHawgrb9RY0.jpg</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
