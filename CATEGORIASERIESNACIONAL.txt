@@ -10,11 +10,13 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]3 %[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]3%[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCQP1El20FFncM0lIYcaW3Kq19o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/3%25.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/sYJngGwwFLoDAbFNzpAbmULXSzB.jpg</fanart>
-<info>[B][COLOR yellow]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.[/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / FICÇÃO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
@@ -24,7 +26,9 @@
 <thumbnail>https://ondeeubaixo.org/imagens/cidade-invisivel-1-temporada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CIDADEINVISIVEL.txt</externallink>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/01/Cidade-Invisivel.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]um policial ambiental que descobre um mundo oculto de entidades mitológicas do folclore brasileiro, enquanto busca uma conexão entre a morte de sua esposa e a misteriosa aparição de um boto-cor-de-rosa morto em uma praia do Rio de Janeiro [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]um policial ambiental que descobre um mundo oculto de entidades mitológicas do folclore brasileiro, enquanto busca uma conexão entre a morte de sua esposa e a misteriosa aparição de um boto-cor-de-rosa morto em uma praia do Rio de Janeiro. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ##################################################################################################################
@@ -34,7 +38,9 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mEHSZIyKzyRsirTYORXU92bxuki.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CARCEREIROS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2ijXdHRXcgOvFrAeDoQVE0I7Y9E.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow] Série que vai contar histórias de dentro dos presídios sob a perspectiva dos carcereiros.  O protagonista é Adriano (Rodrigo Lombardi), de 40 anos, que, apesar de ser formado em história, decide seguir a carreira do pai e vira carcereiro.Adriano é um carcereiro responsável por passar o cadeado e controlar o acesso às celas de um presídio. Íntegro e avesso à violência, ele tenta garantir a tranquilidade no ambiente de trabalho, enquanto os dilemas em casa tomam proporções inesperadas.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow] Série que vai contar histórias de dentro dos presídios sob a perspectiva dos carcereiros.  O protagonista é Adriano (Rodrigo Lombardi), de 40 anos, que, apesar de ser formado em história, decide seguir a carreira do pai e vira carcereiro.Adriano é um carcereiro responsável por passar o cadeado e controlar o acesso às celas de um presídio. Íntegro e avesso à violência, ele tenta garantir a tranquilidade no ambiente de trabalho, enquanto os dilemas em casa tomam proporções inesperadas.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ##################################################################################################################
@@ -44,7 +50,9 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/koBtV2z3F5jamEG1VhxeySKEOXt.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1oyPx4Ft33sNfunkp_L47lwpyvrgHr03y</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/4hEOYVW585zqcEeINSljw2WhR6X.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]A série que inspirou o filme Vai Que Cola. No Méier fica a pensão da dona Jô, onde transitam as pessoas mais insanas que passam seus dias tentando se dar bem e melhorar de vida, desde o trambiqueiro Valdomiro até a viúva Terezinha, passando por Jéssica, a filha da dona da pensão, e seus dois namorados, e o recepcionista e zelador (ou "concierge", como ele gosta de se chamar) Ferdinando e o faz-tudo Wilson.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]A série que inspirou o filme Vai Que Cola. No Méier fica a pensão da dona Jô, onde transitam as pessoas mais insanas que passam seus dias tentando se dar bem e melhorar de vida, desde o trambiqueiro Valdomiro até a viúva Terezinha, passando por Jéssica, a filha da dona da pensão, e seus dois namorados, e o recepcionista e zelador (ou "concierge", como ele gosta de se chamar) Ferdinando e o faz-tudo Wilson.
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ##################################################################################################################
@@ -54,7 +62,9 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yodQvpSyugeYoPyu8MQdFvCYKEi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/VAIQUECOLA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/tHrXHeIP62d14mi3PWZE06olVzo.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Um retrato bem-humorado do cotidiano repleto de conflitos, crises conjugais, dificuldades profissionais e financeiras e também de muito amor e união de uma família suburbana.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Um retrato bem-humorado do cotidiano repleto de conflitos, crises conjugais, dificuldades profissionais e financeiras e também de muito amor e união de uma família suburbana.
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ##################################################################################################################
@@ -64,7 +74,9 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gYVWyzVYRjxlWGNFiudSG4WTl3L.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SESSAODETERAPIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/yoNCc0x9wvBYyTiaOx6nbvd7z9N.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Após sucesso de audiência e crítica em 30 países, a série israelense "Be Tipul" ganha ainda em 2012 sua versão brasileira - “Sessão de terapia” -, dirigida por Selton Mello e com estreia marcada para o dia 1° de outubro no GNT. Ambientada num consultório de psicanálise, a trama acompanha o tratamento de quatro personagens com o terapeuta Theo, interpretado por Zécarlos Machado. Além dele, o elenco conta com Maria Fernanda Cândido, Sérgio Guizé, Bianca Muller, Mariana Lima, André Frateschi, Maria Luisa Mendonça e Selma Egrei. O cenário e o texto, que ganhou a adaptação de Jaqueline Vargas, Drika Nery, Ricardo Inhan e Marília Toledo, são reproduções do original levados? tela por uma produção totalmente brasileira. Comovente, intimista e denso, a série é uma aposta de dramaturgia ainda inédita na televisão nacional. Fora do Brasil a versão mais popular da série é a americana, estrelada pelo ator Gabriel Byrne, intitulada "In Treatment". [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Após sucesso de audiência e crítica em 30 países, a série israelense "Be Tipul" ganha ainda em 2012 sua versão brasileira - “Sessão de terapia” -, dirigida por Selton Mello e com estreia marcada para o dia 1° de outubro no GNT. Ambientada num consultório de psicanálise, a trama acompanha o tratamento de quatro personagens com o terapeuta Theo, interpretado por Zécarlos Machado. Além dele, o elenco conta com Maria Fernanda Cândido, Sérgio Guizé, Bianca Muller, Mariana Lima, André Frateschi, Maria Luisa Mendonça e Selma Egrei. O cenário e o texto, que ganhou a adaptação de Jaqueline Vargas, Drika Nery, Ricardo Inhan e Marília Toledo, são reproduções do original levados? tela por uma produção totalmente brasileira. Comovente, intimista e denso, a série é uma aposta de dramaturgia ainda inédita na televisão nacional. Fora do Brasil a versão mais popular da série é a americana, estrelada pelo ator Gabriel Byrne, intitulada "In Treatment". 
+[COLOR white][B] Gênero:  [COLOR lime]  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ##################################################################################################################
