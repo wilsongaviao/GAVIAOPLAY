@@ -8,6 +8,17 @@
 <info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
 </channel>
 </channels>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAL RICOS[COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<externallink>https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8</externallink>
+<thumbnail>https://i.postimg.cc/L8nm2DL5/WEBTV.jpg</thumbnail>
+<fanart>https://i.postimg.cc/MZQRK00s/fanartwebtv.jpg</fanart>
+<info>[B][COLOR yellow]PROGRAMAÇÃO CANAL RICOS DO AMIGO E PARCEIRO JULIO[/COLOR][/B]</info>
+</channels>
+</channel>
+
 ###################################################################################################################
 <channels>
 <channel>
@@ -184,15 +195,5 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAVIDEOCLIPS%26MUSICAS.txt</externallink>
 <fanart>https://i.postimg.cc/d0nDL1wD/FANART-VIDEOS-E-MUSICAS.jpg</fanart>
 <info>[B][COLOR yellow]OS MELHORES VIDEOCLIPS E AUDIOS DE MUSICAS ANTIGOS E ATUAIS, RADIOS ON LINE , ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
-</channels>
-</channel>
-###############################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WEBTV [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<externallink>https://docs.google.com/uc?export=download&id=1PeZ27fSPyXx6K1ZKxpAmM489VugjOBLR</externallink>
-<thumbnail>https://i.postimg.cc/L8nm2DL5/WEBTV.jpg</thumbnail>
-<fanart>https://i.postimg.cc/MZQRK00s/fanartwebtv.jpg</fanart>
-<info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV EM STREAMING DE VIDEO[/COLOR][/B]</info>
 </channels>
 </channel>
