@@ -12,7 +12,7 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAL RICOS[COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<externallink>https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAWEBTV.txt</externallink>
 <thumbnail>https://i.postimg.cc/L8nm2DL5/WEBTV.jpg</thumbnail>
 <fanart>https://i.postimg.cc/MZQRK00s/fanartwebtv.jpg</fanart>
 <info>[B][COLOR yellow]PROGRAMAÇÃO CANAL RICOS DO AMIGO E PARCEIRO JULIO[/COLOR][/B]</info>
@@ -47,6 +47,16 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20COLLECTION.txt</externallink>
 <fanart>https://i.postimg.cc/1tv0xrj3/fanartcinecollections.jpg</fanart>
 <info>[B][COLOR yellow]AS MELHORES COLEÇÕES E FRANQUIAS DE FILMES ESTARÃO AQUI,SE FALTAR A QUE VC GOSTE E SO FAZER O PEDIDO E SERA ADICIONADO LOGO QUE FOR ENCONTRADA[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ÉPICO [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/44Vq3M05/CINEEPICO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEEPICO.txt</externallink>
+<fanart>https://i.postimg.cc/xC7mDX0f/FANARTCINEEPICO.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA COM SUCESSOS DE FILMES HISTÓRICOS.ÉPICOS QUE MARCARAM NA HISTORIA DO CINEMA MUNDIAL [/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
