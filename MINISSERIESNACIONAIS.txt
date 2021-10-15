@@ -1,61 +1,81 @@
 ##################################################################################################################
-<item><title>[COLOR white]ELIZE MATSUNAGA: ERA UMA VEZ UM CRIME[COLOR yellow]( 2021 )[/COLOR]</title>
+<item><title>[COLOR white]ELIZE MATSUNAGA: ERA UMA VEZ UM CRIME[COLOR yellow] 4 EPS[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23daca6cc4d36baa00a15c4865641953b3967798</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qB3Q7BL6620pTfsx5ox0OT3eil4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2eSo388uW5wRNsWhjl1cyrwaufP.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]A série documental conta a história do assassinato e esquartejamento de Marcos Matsunaga, morto pela esposa Elize Matsunaga em 2012. A trama revisita o passado de Elize, de sua infância até o conturbado relacionamento com o empresário. A produção inclui detalhes como tentativas de acobertamento do crime, passando pela confissão, prisão, julgamento e saídas temporárias. [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]A série documental conta a história do assassinato e esquartejamento de Marcos Matsunaga, morto pela esposa Elize Matsunaga em 2012. A trama revisita o passado de Elize, de sua infância até o conturbado relacionamento com o empresário. A produção inclui detalhes como tentativas de acobertamento do crime, passando pela confissão, prisão, julgamento e saídas temporárias. 
+[COLOR white][B] Gênero:  [COLOR lime]CRIME / DOCUMENTARIO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[COLOR white]O CANTO DA SEREIA[/COLOR]</title>
+<item><title>[B][COLOR white]O CANTO DA SEREIA[COLOR yellow] 4 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9275104515ee0df4f2811993bab98eb778c9e302</link>
 <thumbnail>https://abutretorrents.com/imagens/o-canto-da-sereia-1-temporada-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rC9NmYZjToxldRz8WIq4Ha27bRX.jpg</fanart>
-<info>[B]COLOR yellow]Baseada na obra homônima de Nelson Motta, a microssérie gira em torno do assassinato de Sereia, a rainha do axé de Salvador, ocorrido em plena terça-feira de carnaval. [/COLOR][/B]</info></item>
+<info>[B]COLOR yellow]Baseada na obra homônima de Nelson Motta, a microssérie gira em torno do assassinato de Sereia, a rainha do axé de Salvador, ocorrido em plena terça-feira de carnaval.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / CRIME / MISTÉRIO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O CAÇADOR [COLOR yellow]14 EPS[/COLOR][/B]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hufiZYsqfOPOHkFcKMKQwjFX88Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/orkTJncBZe8mVoY0sA1N8I5DO14.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A9D58F9B2ED97415B29030E38E82E060BE7F0C0</link>
+<info>Sinopse: [COLOR yellow][B]Após três anos preso, André (Cauã Reymond) sai da penitenciária para provar a própria inocência, já que a família lhe deu as costas, e do tempo em que integrou a Divisão Anti-sequestros da Polícia Civil, só tem as lembranças de sua grande experiência. Fora da prisão, o único que lhe estende a mão, é o Delegado Lopes (Aílton Graça), que propõe a ele um novo ofício, em que poderá usar suas habilidades como investigador: ser um caçador de recompensas. Aos poucos, André passa a transitar no submundo do crime e ter contato, com máfias nacionais e internacionais, sendo que ao mesmo tempo, passa a reunir pistas que provam sua inocência. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / POLICIAL  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[COLOR white]HEBE[/COLOR]</title>
+<item><title>[B][COLOR white]HEBE[COLOR yellow] 10 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBFE4ED79D4529FAE6DBDC9A8A929AF6CA88E430</link>
-<thumbnail>https://abutretorrents.com/imagens/hebe-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PpuX6B2dzkAR7Sgt8hHs1RduXCFTVv3m54J0beSifaap9Gm8mgLdw0WzAPEHHk8GYJE&usqp=CAU</fanart>
-<info>[B]COLOR yellow]Entre idas e vindas no tempo, ao longo de 8 décadas, a história da menina pobre do interior que realiza o sonho de se tornar uma grande estrela sempre em busca de sua verdade.[/COLOR][/B]</info></item>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7QBzwpXXmF46pEhWfZS1m8SEbjS.jpg</thumbnail>
+<fanart>https://mixdeseries.com.br/wp-content/uploads/2019/12/Hebe-S%C3%A9rie-Globoplay-1024x585.jpg</fanart>
+<info>[B]COLOR yellow]Entre idas e vindas no tempo, ao longo de 8 décadas, a história da menina pobre do interior que realiza o sonho de se tornar uma grande estrela sempre em busca de sua verdade.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[COLOR white]A DIVISÃO 1ª PARTE[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b30574a7c2469ce343e0f108fc303cfa6753359e</link>
-<thumbnail>https://abutretorrents.com/imagens/a-divisao-1-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<item><title>[B][COLOR white]A DIVISÃO [COLOR yellow] 2 TEMP(10 EPS)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:024DC04F6F9EF268E41E0E9ACF2693935D6A9ECB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DKUu1AD2qaZ1KOhJPRL6ERKpAN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8qMK8VIk08kUpMCZ3boqseVzU8j.jpg</fanart>
-<info>[B]COLOR yellow]O Rio de Janeiro está acuado por uma onda de sequestros nos anos 90. As forças de segurança chamam agentes de fama controversa para salvar a cidade de bandidos e até da polícia.[/COLOR][/B]</info></item>
-###################################################################################################################
-<item><title>[COLOR white]A DIVISÃO 2ª PARTE[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ecb2f22ea10a98d5f21185df663187f27fc4aa8</link>
-<thumbnail>https://abutretorrents.com/imagens/a-divisao-2-temporada-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8qMK8VIk08kUpMCZ3boqseVzU8j.jpg</fanart>
-<info>[B]COLOR yellow]Em 1997, o Rio foi abalado por uma onda de sequestros. Esta é a história de três policiais que lutaram naquela onda. [/COLOR][/B]</info></item>
+<info>[B]COLOR yellow]O Rio de Janeiro está acuado por uma onda de sequestros nos anos 90. As forças de segurança chamam agentes de fama controversa para salvar a cidade de bandidos e até da polícia.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / AÇÃO / AVENTURA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 #################################################################################################################
-<item><title>[COLOR white]REI DAVI[/COLOR]</title>
+<item><title>[B][COLOR white]REI DAVI[COLOR yellow] 30 EPS)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62900bb31a8162a77ca0430d7ca1408758e46008</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zqfi8qal0BhiMNHEOCICQ265q7W.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]A produção mostra a vida de Davi, sendo súdito vil de um monarca reinante, simples pastor de ovelhas filho de Jessé, e que é muito invejado por outras pessoas. Saul, então monarca de seu país e seu principal inimigo, quer matá-lo, para tentar manter sua dinastia reinante no trono real israelita. Após diversas batalhas Saul entrega a Davi sua filha Mical para se tornar sua esposa na qual sempre se invejou das outras esposas de Davi por conta de sua infertilidade. Saul então é morto em batalha e Davi assume o trono real de Judá, mas mesmo assim o homem segundo a personalidade do Deus eterno terá inimigos e acontecerá muitas outras coisas maléficas com o ungido de Deus. Após a morte de Saul e Jônatas seu filho Esbaal assume o trono de Israel enquanto Davi é soberano de Judá. Após a morte de Esbaal, Davi se torna o rei de toda Israel e torna a capital do país Jerusalém. O tempo passa e Israel vive um reinado de glória e prosperidade nas mãos de seu rei que é um homem segundo o coração de Deus. Davi comete um grave pecado ao ficar com seu grande amor, Bate Seba, que era esposa de Urias. Esse erro lhe traz consequências terríveis onde o herói terá que caminhar para sua redenção e paz.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]A produção mostra a vida de Davi, sendo súdito vil de um monarca reinante, simples pastor de ovelhas filho de Jessé, e que é muito invejado por outras pessoas. Saul, então monarca de seu país e seu principal inimigo, quer matá-lo, para tentar manter sua dinastia reinante no trono real israelita. Após diversas batalhas Saul entrega a Davi sua filha Mical para se tornar sua esposa na qual sempre se invejou das outras esposas de Davi por conta de sua infertilidade. Saul então é morto em batalha e Davi assume o trono real de Judá, mas mesmo assim o homem segundo a personalidade do Deus eterno terá inimigos e acontecerá muitas outras coisas maléficas com o ungido de Deus. Após a morte de Saul e Jônatas seu filho Esbaal assume o trono de Israel enquanto Davi é soberano de Judá. Após a morte de Esbaal, Davi se torna o rei de toda Israel e torna a capital do país Jerusalém. O tempo passa e Israel vive um reinado de glória e prosperidade nas mãos de seu rei que é um homem segundo o coração de Deus. Davi comete um grave pecado ao ficar com seu grande amor, Bate Seba, que era esposa de Urias. Esse erro lhe traz consequências terríveis onde o herói terá que caminhar para sua redenção e paz.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / GUERRA / POLITICA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[COLOR white]STELLA MODELS - O DIA A DIA DE UMA AGÊNCIA DE PROSTITUIÇÃO[/COLOR]</title>
+<item><title>[B][COLOR white]STELLA MODELS - O DIA A DIA DE UMA AGÊNCIA DE PROSTITUIÇÃO[COLOR yellow] 10 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b67b93aef6e355fec5da6e7da80ff53083808525</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lqMS65Dw6EPsFN9EHBJVzfkjYi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tYLHUAY6HxhjqLlIBuJNgDdEDdI.jpg</fanart>
-<info>[B]COLOR yellow]Stella Models” é uma série que mostra o dia a dia da agência de prostituição de mesmo nome. Idealizada por Hermínia Maria, ex-prostituta e figura notória no submundo de Copacabana nos anos 90, a agência representa a grande volta da meretriz ao Rio de Janeiro.[/COLOR][/B]</info></item>
+<info>[B]COLOR yellow]Stella Models” é uma série que mostra o dia a dia da agência de prostituição de mesmo nome. Idealizada por Hermínia Maria, ex-prostituta e figura notória no submundo de Copacabana nos anos 90, a agência representa a grande volta da meretriz ao Rio de Janeiro.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[COLOR white]ALEM DA ILHA[/COLOR]</title>
+<item><title>[B][COLOR white]ALEM DA ILHA[COLOR yellow] 10 EPS/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02DCCF457C0F61B02403176170D6B5B1ACC37F2D</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7zS9CURyVtOZE118llug3RtTWi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jAVMY81p7N5FMdpkrioMAX1Zw4O.jpg</fanart>
-<info>[B]COLOR yellow]Depois de ganharem 200 milhões de reais em uma aposta de loteria, Beto (Paulo Gustavo), Guta (Katiúscia Canoro), Sheila (Monique Alfradique), Bia (Letícia Lima) e Cardoso (Gabriel Godoy) decidem celebrar a conquista durante um passeio de barco. Como nenhum deles sabe o necessário para navegar, o grupo acaba perdido em uma ilha deserta e misteriosa.[/COLOR][/B]</info></item>
+<info>[B]COLOR yellow]Depois de ganharem 200 milhões de reais em uma aposta de loteria, Beto (Paulo Gustavo), Guta (Katiúscia Canoro), Sheila (Monique Alfradique), Bia (Letícia Lima) e Cardoso (Gabriel Godoy) decidem celebrar a conquista durante um passeio de barco. Como nenhum deles sabe o necessário para navegar, o grupo acaba perdido em uma ilha deserta e misteriosa.[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[COLOR white]DR. CASTOR[/COLOR]</title>
+<item><title>[B][COLOR white]DR. CASTOR[COLOR yellow] 4 EPS/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a225b80872c8d7c58bf908e43ca063b15852a771</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77hnVQI68FeFsqcSB1VlCQ9xPOL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A0vBgsDaKzle4zKi7WoEYfgTq47.jpg</fanart>
-<info>[B]COLOR yellow]Poderoso chefão do jogo do bicho, Castor de Andrade usou o futebol e o carnaval para legitimar sua imagem. Sedutor, carismático e violento, ele construiu um império de crimes no RJ.[/COLOR][/B]</info></item>
+<info>[B]COLOR yellow]Poderoso chefão do jogo do bicho, Castor de Andrade usou o futebol e o carnaval para legitimar sua imagem. Sedutor, carismático e violento, ele construiu um império de crimes no RJ.
+[COLOR white][B] Gênero:  [COLOR lime]DOCUMENTARIO ;
+/ DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[COLOR white]SANTOS DUMONT[/COLOR]</title>
+<item><title>[B][COLOR white]SANTOS DUMONT[COLOR yellow] 6 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e4879fb5e8b8ffccac349deb8103ab1680bb009</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/796jJyEjAq3avQTt0YF2kTcFULD.jpg</fanart>
-<info>[B]COLOR yellow]A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.[/COLOR][/B]</info></item>
+<info>[B]COLOR yellow]A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ###################################################################################################################
