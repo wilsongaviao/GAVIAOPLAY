@@ -1,38 +1,33 @@
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]################ [COLOR white] 3%[COLOR lime] 1ª Temporada[COLOR white] TORRENT [COLOR crimson]################[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8672AD46FC0F1BDD3F6079D8FC091B7744FA7D43</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]################ [COLOR white] 3%[COLOR lime] 1ª Temporada[COLOR crimson]################[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8672AD46FC0F1BDD3F6079D8FC091B7744FA7D43</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kn6llTQkwC0mjRZijYmdUnPqkL0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sYJngGwwFLoDAbFNzpAbmULXSzB.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história se passa num mundo distópico, depois de diversas crises que deixaram o planeta devastado. No norte do Brasil, a maior parte da população sobrevivente mora no Continente, um lugar miserável, decadente, onde falta tudo: água, comida, energia. Aos 20 anos de idade, todo cidadão tem direito de participar do Processo, uma seleção que oferece a única chance de passar para o Maralto, onde tudo é abundante e há oportunidades de uma vida digna e justa. Mas somente 3% dos candidatos são aprovados no Processo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]############## [COLOR white] 3%[COLOR lime] 2ª Temporada[COLOR yellow]##############[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DDA2F28A7253C4D84200C26E887CB1DC9D3ABAC</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/59MMY2l3LajC8KzYvKkbIkrMU68.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sdKJeeu0uiOD7oBxCiSRe23Mocy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Michele tenta convencer Ezequiel que está do lado do Processo para chegar ao irmão. Joana decide se juntar? Causa. Rafael se esforça para fazer parte da Divisão de Segurança do Maralto e ir ao Continente. Fernando retoma contato com a amiga de infância Glória.[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-
-
-
-
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]############## [COLOR white] 3%[COLOR lime] 2ª Temporada[COLOR white] TORRENT [COLOR crimson]##############[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DDA2F28A7253C4D84200C26E887CB1DC9D3ABAC</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-
-<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR red]###############[COLOR lime]  3% [COLOR yellow] 2ªTemporada[COLOR red]  ###############[/COLOR][/B]</title>
-<link>IGNOREME</link>
-<thumbnail>https://media.fstatic.com/JM6-MDFTVCDOUB0WX6TFCZHQTzc=/290x478/smart/media/movies/covers/2018/04/Netflix-3-GroupPoster-copy1.jpg</thumbnail></item>
-<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-
-
-
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]############### [COLOR white] 3%[COLOR lime] 3ª Temporada[COLOR white] TORRENT [COLOR crimson]###############[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc8a3bac689fe8fa586f3e692e9427e43c0b4195</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-
 
 
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]################ [COLOR white] 3%[COLOR lime] 4ª Temporada[COLOR white] TORRENT [COLOR crimson]################[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf235456891e100083eb9c610f80ae744d4324b</link><thumbnail>https://media.fstatic.com/JM6-MDFTVCDOUB0WX6TFCZHQTzc=/290x478/smart/media/movies/covers/2018/04/Netflix-3-GroupPoster-copy1.jpg</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]############### [COLOR white] 3%[COLOR lime] 3ª Temporada [COLOR yellow]###############[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc8a3bac689fe8fa586f3e692e9427e43c0b4195</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kRJeQkAA5NdxC9JWkmplZxPCBWq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4RCJIZMy65KyjOPkNcM22D78u9k.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um ano se passou e a Concha, concebida como uma alternativa ao Maralto e ao Continente, está agora estabelecida como um lugar onde todos são bem-vindos. Mas uma tempestade de areia catastrófica, juntamente com um mau funcionamento suspeito, destrói seu suprimento de água e comida. Com a ameaça da fome, os moradores exigem um Processo para determinar quem merece ficar na Concha. O que será necessário para esta nova comunidade prosperar?[/COLOR][/B]</info></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]################ [COLOR white] 3%[COLOR lime] 4ª Temporada[COLOR crimson]################[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf235456891e100083eb9c610f80ae744d4324b</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bOqBR7CYLj2pF6tXwjieN5IY3O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rYZ1JNpsL5RT9HYYupm3Zumv3kh.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando um grupo da Concha é convidado para o Maralto a fim de resolver o conflito entre as comunidades, Michele propõe um plano para destruir o sistema opressor de vez, enquanto Joanna se distrai com lembranças perturbadoras mesmo com a chance de se vingar. [/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
