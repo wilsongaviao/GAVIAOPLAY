@@ -1,0 +1,5 @@
+<item><title>[COLOR white]CANAL RICOS[/COLOR]</title>
+<link>https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxOOyzV0gcdYyILZ6MqVo1PHpQ2hsANSLQQ&usqp=CAU</thumbnail>
+<fanart>https://www.canalricos.com.br/assets/uploads/photo-13.png</fanart>
+<info>[B]COLOR yellow]PROGRAMAÇÃO  DO CANAL RICOS DO PARCEIRO JULIO[/COLOR][/B]</info></item>
