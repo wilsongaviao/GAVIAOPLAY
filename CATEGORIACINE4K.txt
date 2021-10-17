@@ -1,0 +1,20 @@
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]CINE 4K DUBLADO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/sgQ455Jv/CINE4-KDUBLADOS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=10J6urBHqPTFF2cNwPGl-GI5lGZf9b3WA</externallink>
+<fanart>https://i.postimg.cc/C1MMpxZV/FANARTCINE4-KDUBLADO.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]CINE 4K LEGENDADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/FHMgp1PG/CINE4-KLEGENDADOS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=10LPn6ufUGtUBO-ld5nRiQMfkUPeIoWKI</externallink>
+<fanart>https://i.postimg.cc/wMZ9N5w6/FANARTCINE4-KLEGENDADOpg.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+</channels>
+</channel>

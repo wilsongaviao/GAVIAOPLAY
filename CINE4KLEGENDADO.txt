@@ -1,0 +1,122 @@
+##############################################################################################################
+<item><title>[B][COLOR white]A Lenda de Candyman [COLOR yellow]( 2021)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e375ae65e17c45b52a1344e94580ba51bcea1b14$nome=[B] LINK 1[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02dfb96ced0ada2464926cb5627204be8c7d0522$nome=[B] LINK 2 [/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g1cMEQnEptUJ7Sv8SRjWBTTHyMv.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Com a carreira à beira da estagnação, o artista visual Anthony McCoy descobre a obscura história do Candyman, uma antiga lenda urbana local que ele começa a usar como inspiração para suas pinturas, sem saber que está abrindo uma porta para um passado complexo que desafia sua própria sanidade e desencadeia uma onda de violência terrivelmente viral que o coloca em rota de colisão com o destino
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Escape Room 2 - Tensão Máxima [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53bcaedb90e790806ac93bfea028ce18b19f1d27$nome=[B] LINK 1 [/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520e95f231c0e40b4d83d6996461ac872414ce36$nome=[B] LINK 2 [/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6QsA4rahveauTTm6GAcYMNQMW6e.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / TERROR  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Cinderela[COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:162193e481e27e5fc5f1829f4f87654200d630e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfXinhEH2oJ1odvAiwPS1Yjidyr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3EmwUuGBp44hTzZGJqpzyiAmAVT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Cinderela, uma jovem que sonha em sair da casa de sua madrasta e abrir sua própria loja de vestidos, e nessa busca por sua independência ela vai encontrar também o amor.
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / FAMÍLIA / FANTASIA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Amizade de Férias [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dad4e7a225a2e9e5a561b3de6ff8b9530822f304</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/je3tu6z7ljDLv5eJ8cucRWnTMWE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os corretos Marcus e Emily fazem amizade com os caçadores de aventuras Ron e Kyla em um resort no México. Vivendo o momento, Marcus e Emily curtem uma semana de louca diversão e devassidão com essa nova "amizade de férias". Meses após a temporada de subversão, Marcus e Emily ficam apavorados quando Ron e Kyla aparecem, sem terem sido convidados, em seu casamento.
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Caminhos da Memória [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4ae1fbaabc017fb04995eebdef1ee183077ff4c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aef6dMfVJ5eVogGQbvtaKDcB43K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xPBBXV8LPVgBQacp6qNvmMGV3ga.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O filme segue Nick Bannister, um investigador particular da mente, enquanto ele tenta ajudar os clientes a acessar memórias perdidas. Depois que um desses clientes, Mae, desaparece, Bannister descobre uma conspiração violenta.
+[COLOR white][B] Gênero:  [COLOR lime]	Ficção / Mistério / Romance  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]G.I. Joe Origens - Snake Eyes [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7f6a2ca9922c913256559e68fbc0c7be5048e77</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6IxMW3939dOCjzenwzkWEjgICVq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nvwunGeiiY9HldzGlFLYa56YqAc.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após salvar a vida do herdeiro de Arashikage, Storm Shadow, Snake Eyes é aceito nesse antigo clã japonês se junta à batalha contra o grupo terrorista Cobra. Desafiando os limites, Snake Eyes será o melhor dos guerreiros ninjas. Porém, são revelados segredos do passado, testando sua honra e lealdade - mesmo que isso signifique perder tudo pelo que lutou.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Fantasia  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Cavaleiro Verde [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3273b6cc31c5b9d24870f64dcd10e6318ec620a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Z5LuDh6Ja3umKTHSo95aq71fEK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lDsaJDnivY4NIrBXkoAOIEghoK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Sir Gawain (Dev Patel), o teimoso e inconsequente sobrinho do Rei Arthur, aceita o desafio de acabar com o infame Cavaleiro Verde, um gigante feito de esmeralda e destruidor de homens. Enfrentando fantasmas, gigantes, ladrões e trapaceiros no caminho, Gawain embarca na jornada da sua vida que definirá seu caráter e lhe dará a chance de provar que é merecedor aos olhos de sua família e reino. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama / Fantasia  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Viúva Negra [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e49946f7d841c6b015c7c8fac8ba59f0612fa9d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38SVfXq1O45HKQ2RFUPvECz8Pse.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7sHiTGLBxSQIeoWM3N0vMKhdw3B.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FICÇÃO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Jungle Cruise [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cee0d85cd4c2cb5fb35932f84d63e6277ae2566</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UwGwHhRYVnI8bnEFNfu2kpVQkB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tbTjcH6l4SS6ccmdFsVDyKX2NZ9.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O destemido capitão Frank Wolff e a intrépida pesquisadora Lily Houghton se aventuram pela Amazônia a bordo da peculiar embarcação La Quila. Determinados a encontrar uma árvore cujos poderes de cura podem mudar o futuro da medicina, nem mesmo as águas perigosas e as forças sobrenaturais que enfrentam pelo caminho poderão detê-los. Mas os riscos aumentam ainda mais conforme os segredos da árvore se revelam, o destino de Lily e Frank e também de toda a humanidade está em jogo.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / COMÉDIA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Velozes e Furiosos 9 [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBFA89AE2BE5EAD927BB7FA7224B7F5C7A473F90</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fWjcUTKOKsAPK4VUAzEQW4kN4K6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / POLICIAL  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Fathom - Nas Profundezas [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7ed602edb6c324d08a7fa671f7760f453b65632</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wbPR6BeRwb93EdcBSW4tRMqC6Qr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sgK33G5tH3pxovh9YAn6gkqp4J7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Duas biólogas encaram um desafio colossal: decifrar a complexa comunicação das baleias. A Dra. Michelle Fournet e a Dra. Ellen Garland cruzam hemisférios para descobrir uma cultura muito mais antiga do que a nossa.
+[COLOR white][B] Gênero:  [COLOR lime]DOCUMENTÁRIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Aqueles Que Me Desejam a Morte [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81214c19ef7147af85f2fbac4cebb949caba11eb</link>
+<thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/gPFlBElSqV2cPPKivrMxVEcZxgT.jpg></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Aqueles que me Desejam a Morte, Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então, precisa escapar dos assassinos que começam a caça-lo incessantemente. Ele encontra proteção com Hannah Faber (Angelina Jolie), uma bombeira traumatizada pelo fracasso de sua última missão. Os dois vão precisar lutar muito para sobreviver.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Até a Morte [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12860ed8c6d6ba71e2366147024f380ad62b144a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMF0D2G8lCmDktS0mLRZANPOez1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4ik6GoNFHzWaSvuq2vf77649EYK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de uma noite romântica em sua casa isolada no lago, uma mulher acorda algemada ao marido morto. Presa e isolada no auge do inverno, ela deve lutar contra assassinos contratados para escapar do plano distorcido de seu falecido esposo.
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Uma Noite com a Família Blacks 2 [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75253ddffce8d9c46bd57c6956bbbcd90aa0951b</link>
+<thumbnail>https://abutretorrents.com/imagens/uma-noite-com-a-familia-blacks-2-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJKd2F0fzOIzoMHe4TaaYHvZfWe.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando o autor de best-sellers Carl Black transfere sua família de volta para sua casa de infância, ele deve se juntar a vizinhos excêntricos para lutar com um cafetão, que pode ou não ser um verdadeiro vampiro. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Colonizadores [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8149b10770d5d7782b90632a01b60f3fe7089a4a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yj08JzKmWC8XJNsapfWE1fbeTds.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uMClfgmBx89A3Exd83bpyhQHGcL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os primeiros colonizadores da humanidade na fronteira marciana fazem o que devem para sobreviver aos elementos cósmicos e uns aos outros.
+[COLOR white][B] Gênero:  [COLOR lime]FICÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
