@@ -18,7 +18,16 @@
 <info>[B][COLOR yellow]PROGRAMAÇÃO CANAL RICOS DO AMIGO E PARCEIRO JULIO[/COLOR][/B]</info>
 </channels>
 </channel>
-
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE 4K[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/PrFMLSYg/CINE4K.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINE4K.txt</externallink>
+<fanart>https://i.postimg.cc/Y9XrrBgL/FANARTCINE4-KL.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇÃO DE FILMES DISPONIVEIS EM ULTRA HD ENCONTRADAS ESTARÃO AQUI[/COLOR][/B]</info></item>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
