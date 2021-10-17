@@ -1,54 +1,92 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Marcas da Guerra[COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8BB696E846F81A0E82934084C4B592552B408C6$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5387C8D31669EB4DEFA868D68ADFADB68607EFE4$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lMBrFrd1ETTfE1FMsJbEfuT2qH0.jpg</thumbnail><info>[B][COLOR yellow]Uma unidade desajustada conhecido como o War Pigs deve ir atrás das linhas inimigas para exterminar os nazistas por qualquer meio necessário.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Máxima Precisão [COLOR yellow]( 2015 ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F45DC91A9499D46139FA9E0AE8900AC090C9555E$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF59BF95D1DF8C79AD9707773F88E1F3B494C5A4$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>O major Tommy Egan (Ethan Hawke) é um oficial da Força Aérea americana encarregado de dirigir ataques aéreos na guerra no Afeganistão. Após pilotar drones de controle remoto contra os talibãs por 8 horas, todos os dias, ele volta para sua casaem Las Vegas, onde vive com sua esposa (January Jones) e filhos. Mas, a cada nova missão, sua moral fica mais conturbada. Tommy começa a se desligar da vida real, vendo sua rotina familiar cair aos pedaços enquanto o caos da guerra só cresce cada vez mais.</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Meu Ofício é Matar[COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2d8c6f559268631bc2d8984423d2623c617cdae</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75AzdT8J50GzveqWQGdmhNk1LZ8.jpg</thumbnail><info>[B][COLOR yellow]Ellen Benson é uma pacifista que não concorda com o uso de armas e com quem as usa. Mas violência chega à casa de Ellen quando o presidente dos Estados Unidos passa pela cidade e um assassino acha que a casa dela é perfeita para uma emboscada. Remake do filme de 1954 estrelado por Frank Sinatra.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Maze Runner - Prova de Fogo [COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EA891A34479E0A97BFEF526FBAEFB84E2D618713$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEF6CE36BF354620BA0EE84D74B587DC770C52C5$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg</thumbnail>
+<info>[B][COLOR yellow]Após escapar do labirinto, Thomas (Dylan O'Brien) e os garotos que o acompanharam em sua fuga da Clareira precisam agora lidar com uma realidade bem diferente: a superfície da Terra foi queimada pelo sol e eles precisam lidar com criaturas disformes chamadas Cranks, que desejam devorá-los vivos.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Marcado Pela Fe - Redenção[COLOR yellow]( 2012 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18712e44e93a16ba559fd4552dfbe2d846757fa2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zXp8wGnuUMNSUaUbggHCIeRiugy.jpg</thumbnail>
+<info>[B][COLOR yellow]Chad Turner (Craig Sheffer) foi implantado com um chip de computador para trabalhar apenas biometricamente (chamado de A Marca da Besta) no mundo. O chip tem o poder de mudar o mundo com quem a controla e Joseph Pike (Gary Daniels) é determinado adquirir o chip, mesmo em face do maior evento imprevisto “The Rapture”. Pike tomou como refém Mr. Cooper (Eric Roberts), o chefe da segurança da Avanti, a fabricante de chips, a fim de ajudar a localizar Turner e entregar o chip para o seu patrão. Entre o caos Chad Turner precisa vencer todas as adversidades para se manter vivo e não deixar que o chip esteja em mãos erradas.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Maze Runner - Correr ou Morrer[COLOR yellow]( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFD675C228F69B287F9F2DA1CF1F91729B558366</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg</thumbnail>
+<info>[B][COLOR yellow]Num cenário pós-apocalíptico, uma comunidade de rapazes descobre que estão presos num labirinto misterioso. Juntos, terão de descobrir como escapar, resolver o enigma e revelar o arrepiante segredo acerca de quem os colocou ali e por que razão.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Machete[COLOR yellow]( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d22e6fde765e6acd4058bd0d9ac6cf66b57b3e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGj1DyvHPNVBXABOD636of1DaG8.jpg</thumbnail>
+<info>[B][COLOR yellow]Machete (Danny Trejo) é um ex agente federal mexicano e foi contratado por um homem misterioso (Jeff Fahey) para assassinar um importante político americano. Mas ele também se tornou alvo de outro matador e agora o que parecia ser uma simples e rentável missão, transformou-se num sanguinária trama de conspiração contra o povo mexicano. Machete não vai deixar por menos, quer vingança e para isso conta com seu velho amigo "O Padre" (Cheech Marin).[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Mina Abandonada[COLOR yellow]( 2012 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdb70d6f0375e77bda8132be3639dbca999cfff6$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96161625f18d5c866a7f747d5d623eaf11bb83e7$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:976f3c8aefe6a7bafeed8ca985bfcf0b421c2be0$nome=[B] 3 [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xAkNcWKKhuGTpfSu2s9fQyxkTDm.jpg</thumbnail><info>[B][COLOR yellow]A lenda do ouro Yamashita atrai um caçador de tesouros e seu grupo dentro da floresta da Indonésia. Uma vez que eles estão presos em um bunker japonês abandonado da Segunda Guerra Mundial , eles enfrentam a terrível realidade de que a única saída é ir cada vez mais longe para dentro.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Máquina de Guerra[COLOR yellow]( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BFE826B6C95B855248C261DA27F70BAE79DD63EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwuCSeHmcIEvcy37KtGBvQVGXqk.jpg</thumbnail>
+<info>[B][COLOR yellow]Stanley A. McChrysta (Brad Pitt) é um militar letal que comanda os norte-americanos na Guerra do Afeganistão. Em uma estratégia radical, ele junta sua equipe de subordinados e assessores de imprensa em uma investida para fazer aliados em todo o mundo, pedindo reforços, negociando no campo de batalha e driblando a imprensa durante a guerra.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Motoqueiro Fantasma[COLOR yellow]( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vVGVlwRrvVgLPE98rwo8jo3QC2b.jpg</thumbnail>
+<info>[B][COLOR yellow]Johnny Blaze trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto para proteger as duas pessoas que mais amava: seu pai, Barton, e sua namorada de adolescência, Roxanne Simpson. Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Motoqueiro Fantasma 2: Espírito de Vingança[COLOR yellow]( 2012 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf71ee7f0232a12e8ab7d4586a000b639df1f9f8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dsWqvNyvFj8mWTwZCVMZFgkGTHL.jpg</thumbnail>
+<info>[B][COLOR yellow]Depois de um período recluso na Europa, Johnny Blaze embarca em uma nova missão para se livrar da maldição de ser um motoqueiro fantasma. Desta vez, ele precisa impedir que o próprio demônio encarnado sequestre um garoto de dez anos que pode ser a única esperança da humanidade contra as trevas.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Max Manus - O Homem da Guerra[COLOR yellow]( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:4AF6FE2779D98445156D689F4A75588D4DF2BFF4/link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lfwTW7APpmS0eBU7RZDiDyS8AHU.jpg</thumbnail>
+<info>[B][COLOR yellow]Max Manus é um filme de guerra biográfico norueguês de 2009, baseado nos fatos reais da vida do lutador de resistência Max Manus (1914–96), após sua contribuição na Guerra de Inverno contra a União Soviética. A história segue Manus desde o início da Segunda Guerra Mundial na Noruega até o tempo de paz em 1945.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Max Steel [COLOR yellow]( 2016 ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F32F394A036E9BF145E2411E3AC4EB67DD84E0C$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F32F394A036E9BF145E2411E3AC4EB67DD84E0C$nome=[B] 2 [COLOR yellow]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$magnet:?xt=urn:btih:292F3C0321BA845761CCA0D3A9B21BDFFE7F2C4Bnome=[B] 3 [COLOR yellow]FULLHD[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+<info>[B][COLOR yellow]O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Mecânica das Sombras[COLOR yellow]( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af1f4576d62dc7bd2108fcf87320977c43300538$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c92f7927dcde23edd2f2f630d74d21c625de4a7$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1fvGVddff72w8r5v08rMzmMuX2n.jpg</thumbnail>
+<info>[B][COLOR yellow]Um empresário enigmático em nome de uma misteriosa organização entra em contato com Duval para oferecer-lhe um trabalho simples e bem remunerado: transcrever escutas interceptadas. Duval, desempregado e em difícil situação econômica, aceita sem perguntar sobre o propósito da empresa que o contrata. De repente, envolvido em um enredo político, deve enfrentar os mecanismos do mundo oculto dos serviços secretos[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Morte Negra[COLOR yellow]( 2011 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A99B8925A1549567E959D0C92F1F2788442C64B8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hispRPgwVRmN9ZfB4TBP1WRdhw8.jpg</thumbnail><info>[B][COLOR yellow]O filme se passa na Idade Média numa Inglaterra devastada pela peste negra. A história seguirá a busca de um cavaleiro que atravessa as terras profanas para encontrar o necromante responsável por uma maldição. Sean Bean (O Senhor dos Anéis) é o corajoso Ulrich, cavaleiro que recebe a ajuda do monge Osmund (Eddie Redmayne, Pecados Inocentes) para chegar a um pântano onde vive a misteriosa Langiva (Carice van Houten, Operação Valquíria) que é uma feiticeira que fez pacto com o Diabo e tem o poder de ressuscitar os mortos.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Meu Nome é Paulo[COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB6E39A9553B2910DEBBD43E9C42A570ACE6C23E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Aa6APvUWft5zSPyiVRY050yV44F.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um futuro apocalíptico, Paulo (Andrew Roth) é um homem cheio de ódio que busca unicamente eliminar os seguidores do “Caminho”, um movimento liderado por Pedro (Elijah Chester). Mas após sofrer um terrível acidente, um milagre o fará repensar tudo que ele sabe sobre si mesmo, levando-o a uma jornada onde ele pode aprender a viver e a amar.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Momentum[COLOR yellow]( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F003A04B253B99999C30F6E59ACACA78B8523D7$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E1DF532C83A317DA10C249A87CA78CEF785C2EAF$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rStxrJBaWs3oNQfnQn4LKzG1lQ9.jpg</thumbnail>
+<info>[B][COLOR yellow]Alex, uma misteriosa ladra, é intimada por seu ex-parceiro para um último golpe. Mas, rapidamente ela descobre que não foi chamada apenas para roubar os diamantes. Um assassino brutal está a sua caça e agora ela deve descobrir as mentiras por trás do assalto e os segredos dos homens que fizeram dela um alvo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
 <item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
