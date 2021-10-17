@@ -2,24 +2,114 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcac32530474996e186f1653eb8a315f7a2cee31</link>
 <thumbnail>https://abutretorrents.com/imagens/nascido-para-vencer-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Ambientado em 1990, o filme segue Mickey Kelley, um dos primeiros black belts americanos do jiu-jitsu brasileiro, que se afasta de tudo que ama e em um torneio de MMA não sancionado, onde seus sonhos de prover sua família vêm para uma parada com uma decisão de fração de segundo. Sua vida sai dos trilhos até anos depois ele recebe uma chance de redenção. [/COLOR][/B]</info></item>
-######################################################################################################################################
+###############################################################################################################################
 <item><title>[B][COLOR white]Ninja Assassino[COLOR yellow] (2011)[/B][/COLOR][/B}</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cedea663149d4a169ade90796658e49638d5b1a</link>
 <thumbnail>https://abutretorrents.com/imagens/ninja-assassino-ninja-assassin-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Raizo (Rain) é um dos assassinos mais temidos do mundo. Tirado das ruas na infância, foi treinado pelo clã Ozunu um grupo secreto cuja existência em si já é considerada uma lenda para ser um assassino exímio. No entanto, a execução sumária de seu amigo faz com que Raizo volte-se contra o grupo, aguardando o momento da vingança. [/COLOR]</info>[/B]</item>
-######################################################################################################################################
+###############################################################################################################################
 <item><title>[B][COLOR white]Na Corda Bamba[COLOR yellow](2019)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4bb88ec10f7f7384e33f927cc9133502f3dc93f</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69cd6319313d1d6c244cd2b5d70a770a77c47f62</link>
 <thumbnail>https://abutretorrents.com/capas/na-corda-bamba-on-the-ropes-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Após a morte repentina de seu pai, dois irmãos percebem que a maior ameaça ao seu império criminoso pode ser apenas um com o outro. Uma batalha sem limites pelo poder segue que ameaça destruir tudo o que seu velho homem construiu.[/COLOR][/B]</info></item>
-######################################################################################################################################
+###############################################################################################################################
 <item><title>[B][COLOR white]Ninja[COLOR yellow] (2010)/COLOR][/B}</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:240B8BEADB1EA11C1EDE7E538FD6B5E7DCFC5172</link>
 <thumbnail>https://abutretorrents.com/capas/ninja-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Um ocidental chamado Casey, estudando Ninjutsu no Japão, é convidado pelo Sensei para retornar a Nova York para proteger o lendário Yoroi Bitsu, uma caixa blindada que contém as armas do passado Koga Ninja. [/COLOR]</info>[/B]</item>
-######################################################################################################################################
-<title>[B][COLOR white][COLOR yellow] (2017)[/COLOR][/B}</title>
+###############################################################################################################################
+<title>[B][COLOR white]No Limite[COLOR yellow] (2016)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BADE455682070A8E3884CDF21ABC6E36EB33E845</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/awKF168U4leGpbfAvhjDkVoRDTU.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Jimmy é um ladrão de carros de Detroit, que vai para Los Angeles para “recomeçar a vida”. Pelo menos é o que ele diz a seu meio irmão Clyde, um oficial de polícia local. Porém, logo ele quebra as regras, quando é contratado por Roy, um gângster mexicano que é dono de uma loja de automóveis para roubar um determinado carro, em um determinado dia, por muito dinheiro. Quando Jimmy encontra um misterioso pacote no porta-malas do carro roubado, ele é empurrado para o submundo violento dos criminosos e para uma corrida contra o tempo, para se livrar dos mafiosos e, tentar salvar a vida de uma menina que está doente e precisa de um rim.[/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white]Need for Speed - O Filme[COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:714c2dfadc58784d59747d7da97e75426dc1f993$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5118a8eef4d59e097e2fb29c020bfad70c7b0872$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f29719f970df73e53f6546fd5ac402e70d9efad3$nome=[B] 3 [COLOR yellow]1080p -3D[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJh2piyBmY5BvfNBl8EsDNxaFh4.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Aperte os cintos com Tobey Marshall, quando ele sai em uma missão de vingança contra o rico e arrogante Dino Brewster que o acusou de um crime que ele não cometeu. Tobey desafia seus limites ao máximo em uma corrida de alta octanagem em todos os Estados Unidos, pegando a estrada com os carros mais exóticos do mundo – oferecendo velocidade, perigo e ação reais.[/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white]Não Ultrapasse[COLOR yellow] (2016)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6C95E40776ACDE42FB7AA41530BD697F4C21DB2$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98DBFC99473AFE8B2391E1F5171D364123B95A0F$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61A1F37B90E76DE825F8D81413907B79F46B43E8$nome=[B] 3 [COLOR yellow]1080p[/COLOR][/B]</link
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iihdxMrjHhHea2XTDKyMJzMT3PS.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Chad Cutler (Michael Fassbender) faz parte de uma família de criminosos. Se pai (Brendan Gleeson) é o responsável por liderar um clá de criminosos, que existe há gerações. Filho e futuro herdeiro dessa facção, Chad está cansado de levar uma vida fora da lei e entra em conflito com sua família, principalmente com o patriarca.[/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white]Ninja 2 - A Vingança[COLOR yellow] (2013)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:340fca5058516df74b22869f8f4154297fa4baa1$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e16fc6bec6ac796678945d1db31c6b0010433ca$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f969354dcb359fb975325899be19fccf75ae8f1a$nome=[B] 3 [COLOR yellow]LEGENDADO[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdPk58U7rNYzXfvvvm3buVhMRIx.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Quando sua esposa grávida é assassinada, o professor de artes marciais Casey (Scott Adkins) vai fazer de tudo para descobrir quem cometeu esse crime. Ao descobrir uma outra morte, nas mesmas cricunstâncias de sua mulher, ele decide seguir essa pista. Obcecado e cheio de ódio, ele não vai descansar até conseguir se vingar.[/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white]No Limite do Amanhã[COLOR yellow] (2014)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56CC06F9228884DE0E97891D255967C80C91E2D3$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:822BB22C420C12701BA0573890CBEF451CD0AC16$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0C868F6441CECEE8DEE33722DA2D6E1A08D02AD$nome=[B] 3 [COLOR yellow]LEGENDADO[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gWn1904gvaQOQHvKAmEKbJ6cIgX.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]A Terra está dominada por alienígenas e o major Bill Cage, um relações públicas das Forças Armadas dos Estados Unidos, é obrigado a ir para a linha de frente. Inexplicavelmente, ele acaba preso em um ciclo do tempo, revivendo repetidamente sua última batalha. No entanto, quanto mais vezes ele luta, suas habilidades de guerreiro melhoram e ele fica mais perto de descobrir como derrotar o inimigo.[/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white]No Limite Do Amanhâ[COLOR yellow] (2014)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C58C1A61043BE3C88020CE4A6290F9F890A4A495</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rij2GSSXbhNLCFdvJN8YmRRD2i3.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellowA humanidade deve lutar para sobreviver como a Terra é invadida por UFOs hostis empenhados em destruir o planeta. Como o salário de batalha épica, os astronautas a bordo da nave-mãe esgueirar onde eles descobrem um portal para o mundo de origem dos aliens. Eles conseguem alertar Terra antes de serem brutalmente assassinados. Sem outra escolha, a Terra envia uma equipe militar de elite da ciência e especialistas de combate através do portal onde eles tentam parar a invasão de dentro para fora. Mas é a batalha já perdida para a humanidade.][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white]Nos Limites[COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cce0e2739c238b57a88feb5e12357c0a8342525$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7c2e951593ccde7fdc718f0ff8617fc4e816055$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:993D7D0BBEC18E8E2F0534C5DEEB3CFCFD212E8C$nome=[B] 3 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yGedOHE4uy4onbvTp8xsIVd41Hx.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Cam é um mensageiro de bicicleta que está sendo perseguido por uma mafiosa gangue na cidade de Nova York. Em uma de suas tentativas de fuga, ele conhece a misteriosa e sedutora Nikki. Os dois passam a conviver e ela apresenta a Cam o mundo do Le Parkour. Agora, ele vai usar todas as suas novas habilidades para sobreviver.[/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
+###############################################################################################################################
+<title>[B][COLOR white][COLOR yellow] (2010)[/COLOR][/B}</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <info>[B]Sinopse:[COLOR yellow][/COLOR]</info>[/B]
