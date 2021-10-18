@@ -102,3 +102,35 @@
 <info>Sinopse: [COLOR yellow][B]A origem da famosa lenda sobre o ladrão que rouba dos ricos para dar aos pobres é contada a partir de quando Robin Hood (Taron Egerton) volta das Cruzadas e surpreende-se ao encontrar a Floresta Sherwood infestada de criminosos. Ele não deixará que as coisas permaneçam desse jeito e contará com a ajuda de John (Jamie Foxx) e Marian (Eve Hewson) para trazer justiça à cidade.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Rambo 4[COLOR yellow]( 2008)[/COLOR][/B]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dcmxK6Zx9PjINDPDKWI8b5H2L1T.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7082FFAE84D0E069D30A18BE061F93802B9F99F</link>
+<fanart>https://www.themoviedb.org/t/p/original/sKJJXjcLVAleeubBpJvtrnjSUJt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]John Rambo leva uma vida simples e solitária. Até que surgem dois missionários que desejam levar alimentos e remédios às pessoas afetadas pela guerra civil na fronteira com a Birmânia. Rambo aceita a proposta de levá-los pelo rio. Mas 10 dias depois os missionários foram capturados. Agora Rambo deve participar da operação de resgate.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Godzilla vs. Kong [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33396bcce244a06d3e6328e94a3ccb6d46b63aab</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iopYFB1b6Bh7FWZh3onQhph1sih.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / FICÇÃO / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mulher-Maravilha 1984 [COLOR yellow]( 2020 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42eb1c513fde6c74d0b42d388e95ab8e1e15d31</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1FM0GRbayYWbrXsXET11Z7wiSZO.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Silêncio dos Inocentes [COLOR yellow]( 1991 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08F14C9AF2A2E9B63DADBC23DC314AE1587DEA95</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pI9B4wppGflpsOD2T6rxgC5Clmz.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Clarice Starling, uma das melhores estudantes da academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento, que cumpre prisão perpétua por vários atos de assassinato e canibalismo. Crawford acredita que Lecter pode ter uma visão em um caso e que Starling, como uma mulher jovem e atraente, pode ser a isca para atraí-lo.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / POLICIAL / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
