@@ -120,3 +120,35 @@
 <info>Sinopse: [COLOR yellow][B]Os primeiros colonizadores da humanidade na fronteira marciana fazem o que devem para sobreviver aos elementos cósmicos e uns aos outros.
 [COLOR white][B] Gênero:  [COLOR lime]FICÇÃO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Quem é você, Charlie Brown?  [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c91b25cb4f310436dcdf74bc37c9f42ea82712b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khaC503gF2X3Nuu5hq8Tdw3DZ50.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pcw5dfLu7sT6xdSiOAXtRX66KPt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lupita Nyong’o narra documentário sobre a turma do Snoopy e seu criador, Charles M. Schulz. Fãs famosos, Drew Barrymore, Kevin Smith e Al Roker falam sobre a sua influência e Charlie Brown vive uma nova aventura animada.
+[COLOR white][B] Gênero:  [COLOR lime]DOCUMENTÁRIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Infiltrado [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f54609b40edcd99eb3a9fec3669b3d200668c8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/77tui163estZrQ78NBggqDB4n2C.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]P!NK: Tudo Que Aprendi Até Agora[COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8310c5c7466efba67f236a9750849025e4cb968</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i310b9eYLmNPt3zc3ZW0ep1N7Qx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1C7OJjGDnrFUGQIrXVy96Kbdp5h.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma olhada nos bastidores de P! NK enquanto ela equilibra a família e a vida na estrada, levando a sua primeira apresentação no Estádio de Wembley na turnê mundial "Beautiful Trauma" de 2019.
+[COLOR white][B] Gênero:  [COLOR lime]BIOGRAFIA / DOCUMENTÁRIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Time [COLOR yellow]( 2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32919a2615643e4015fff47b7a54c2bdcb6d11a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tQ1FbMz5zQTCr91iGf7FTu3utBY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8BolqPLcJajKb70D1avsf7Os1jk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nesta íntima e épica história de amor filmada através de duas décadas, a indomável matriarca Fox Rich batalha para criar seus seis filhos e manter junta a família, à medida que ela luta pela liberação do marido da Penitenciária Estadual de Louisiana, conhecida como Angola.
+[COLOR white][B] Gênero:  [COLOR lime]BIOGRAFIA / DOCUMENTÁRIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
