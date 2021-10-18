@@ -1,0 +1,9 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] Viagem ao Fundo do Mar [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20EA4A4745EA23D500B492734AD8E415E3ACB31C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4DIyJUvjJnoqzEU6KKa6fHDov9f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q6EVPQdyNdqOjwvrhV3TaKsKZ7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma expedição de rotina ao Polo Norte se torna uma emocionante corrida para salvar toda a humanidade quando um cinturão de radiação no espaço converte a Terra em um verdadeiro inferno.
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / CLÁSSICO / FICÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
