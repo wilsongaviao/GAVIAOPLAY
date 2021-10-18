@@ -293,6 +293,17 @@ https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STARGIRL.txt</e
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIAGEM AO FUNDO DO MAR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4DIyJUvjJnoqzEU6KKa6fHDov9f.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/VIAGEM%20AO%20FUNDO%20DO%20MAR.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/q6EVPQdyNdqOjwvrhV3TaKsKZ7.jpg</fanart>
+<info>[B][COLOR yellow]O Veterano da Marinha, Nelson, é o Comandante do Seaview, um submarino atômico, cujas missões incluem o contato com desconhecidos monstros marinhos, combate a criminosos e quaisquer ameaças a segurança dos Estados Unidos. Apesar de ser classificado como submarino de pesquisas (de formas de vida nos oceanos do mundo), o Seaview envolve-se constantemente em conflitos armados. Além de Nelson cabe ao Comandante Crane organizar todo o serviço do submarino. Crane tem um contato maior com a tripulação, principalmente com o firme primeiro oficial, Chip Morton. Além deles temos: Curley Jones que foi substituído pelo Chefe Sharkey; e os Marinheiros, Kowalski, Patterson, Riley, e muitos outros menos afortunados que deram a vida deles pelo Seaview. 
+[/COLOR][/B]</info></item>
+</channels>
+</channel>
+<channels>
+###################################################################################################################
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]XENA - A PRINCESA GUERREIRA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZ7UQJTGJrOLPylhjNA0i969jAU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/XENA%20A%20PRINCESA%20GUERREIRA.txt</externallink>
