@@ -163,7 +163,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/hj3VxPkW/LAN-AMENTOS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LAN%C3%87AMENTOS.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIALAN%C3%87AMENTOS.txt</externallink>
 <fanart>https://i.postimg.cc/dtw7RyHW/fanartlan-amentos.jpg</fanart>
 <info>[B][COLOR yellow]COLET NEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 ###########################################################################################################################
