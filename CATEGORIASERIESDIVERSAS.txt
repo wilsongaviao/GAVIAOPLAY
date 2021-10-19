@@ -193,6 +193,18 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PATRULHA DO DESTINO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaa0IrT3AUCvkQAVXPwlhbJAlsg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PATRULHA%20DO%20DESTINO.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/sAzw6I1G9JUxm86KokIDdQeWtaq.jpg</fanart>
+<info>[B][COLOR yellow]Parte grupo de apoio e parte equipe de super-heróis, a Patrulha do Destino é uma turma de desajustados que adquiriu superpoderes e luta para salvar um mundo que não quer ter nada a ver com eles.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / COMÉDIA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]PRETTY LITTLE LIARS ( MALDOSAS )[COLOR lime]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <genre>[COLOR lime][B]DRAMA / MISTÉRIO / ROMANCE / SUSPENSE[/B]</genre>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lntOFDrvVPBAULcrE8NoUlExa11.jpg</thumbnail>
