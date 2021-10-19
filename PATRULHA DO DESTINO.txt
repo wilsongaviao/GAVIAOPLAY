@@ -122,7 +122,7 @@
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] PATRULHA DO DESTINO [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/yaa0IrT3AUCvkQAVXPwlhbJAlsg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/amLcGsL7K2zOhV1Brobnp9RQhiT.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Uma re-imaginação de um dos mais amados grupos de super-heróis da DC: Robotman, Negative Man, Elasti-Girl e Crazy Jane, liderado pelo cientista maluco moderno Dr. Niles Caulder (O Chefe). [/COLOR][/B]</info>
