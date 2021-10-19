@@ -153,7 +153,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fy179dr5/filmes-legendados.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FILMES%20LEGENDADOS.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMES%20LEGENDADOS%202020%20.txt</externallink>
 <fanart>https://i.postimg.cc/4NKh9mZH/fanart-cine-legendados.png</fanart>
 <info>[B][COLOR yellow]PARA QUEM GOSTA DE FILMES COM AUDIO ORIGINAL AQUI ESTARÃO OS MELHORES FILMES LEGENDADOS [/COLOR][/B]</info>
 </channels>
