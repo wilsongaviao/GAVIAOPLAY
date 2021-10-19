@@ -1,0 +1,20 @@
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]LANÇAMENTOS DUBLADOS [COLOR white][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/6qCPnLnk/LAN-AMENTOSDUBLADOS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1und1Ho_dI8V6p2A3ndR3BXDsrK7V9LyP</externallink>
+<fanart>https://i.postimg.cc/Wz4V7ypB/fanartlancamentosdublados.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS LEGENDADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/Y2FZ5kZd/LAN-AMENTOSLEGENDADOS.jpg</thumbnail>
+<externallink>https://docs.google.com/uc?export=download&id=1neuox3dJ3Ad3GeG7WV1ShMDIwZayXXuL</externallink>
+<fanart>https://i.postimg.cc/sgWrK7yg/fanartlancamentoslegendados.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+</channels>
+</channel>
