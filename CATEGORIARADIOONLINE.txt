@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RADIOS ON LINE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/xd9rpSPz/RADIOSONLINE.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RADIOSONLINE.txt</externallink>
 <fanart>https://i.postimg.cc/zG7Lcqrm/FANARTRADIOSONLINE.jpg</fanart>
 <info>[B][COLOR yellow]Várias radios on line cada uma com um genero musica,contendo um vasto repertorio musical em todos os generos[/COLOR][/B]</info></item>
 </channels>
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WEB RADIOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Hkcsz0Vh/WEBRADIOS.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/WEBRADIOS.txt</externallink>
 <fanart>https://i.postimg.cc/DzzWVRvS/FANARTWEBRADIOS.jpg</fanart>
 <info>[B][COLOR yellow ]relação de links de varias web radios para voce ouvir e curtir[/COLOR][/B]</info></item>
 </channels>
