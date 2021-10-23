@@ -31,7 +31,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/1t4WVzWw/SHOWS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1T0-x97iZUj8C6pQ-uYt1S88abN_ojwEm</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASHOWS.txt</externallink>
 <fanart>https://i.postimg.cc/7Zpw9vPx/fanartshows.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEAS DE SHOWS NACIONAIS E INTERNACIONAIS DOS MAIS VARIADOS GENEROS E CANTORES E BANDAS NACIONAIS E INTERNACIONAIS[/COLOR][/B]</info></item>
 <channels>
