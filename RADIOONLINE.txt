@@ -1,0 +1,72 @@
+##################################################################################################################
+<item><title>[COLOR white]RÁDIO [COLOR yellow]POP ROCK[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/93.m3u8</link>
+<thumbnail>https://i.postimg.cc/B6vYQVL2/RADIOPOPROCK.jpg</thumbnail>
+<fanart>https://i.postimg.cc/B6vYQVL2/RADIOPOPROCK.jpg</fanart>
+</item>
+##################################################################################################################
+<item><title>[COLOR white]RÁDIO[COLOR yellow] POP HITS[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/92.m3u8</link>
+<thumbnail>https://i.postimg.cc/QMZZChh1/RADIOPOPHITS.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QMZZChh1/RADIOPOPHITS.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO PAGODE[COLOR yellow] PAGODE[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/91.m3u8</link>
+<thumbnail>https://i.postimg.cc/ydVhyQFW/RADIOPAGODE.jpg</thumbnail>
+<fanart>https://i.postimg.cc/ydVhyQFW/RADIOPAGODE.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO [COLOR yellow]BOSSA NOVA[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/85.m3u8</link>
+<thumbnail>https://i.postimg.cc/T3ZH09s6/RADIOBOSSANOVA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/T3ZH09s6/RADIOBOSSANOVA.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO[COLOR yellow] LOUNGE MÚSIC[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/87.m3u8</link>
+<thumbnail>https://i.postimg.cc/J7ZYqvV4/RADIOLOUNGE.jpg</thumbnail>
+<fanart>https://i.postimg.cc/J7ZYqvV4/RADIOLOUNGE.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO[COLOR yellow] TRILHA SONORA[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/95.m3u8</link>
+<thumbnail>https://i.postimg.cc/BQD00jG4/RADIOTRILHA-SONORA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/BQD00jG4/RADIOTRILHA-SONORA.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO[COLOR yellow] METAL ROCK[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/89.m3u8</link>
+<thumbnail>https://i.postimg.cc/sD8rF5Ln/RADIOMETALROCK.jpg</thumbnail>
+<fanart>https://i.postimg.cc/sD8rF5Ln/RADIOMETALROCK.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO [COLOR yellow]MÚSICA CLÁSSICA[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/88.m3u8</link>
+<thumbnail>https://i.postimg.cc/x8pXHgRr/RADIOMUSICACLASSICA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/x8pXHgRr/RADIOMUSICACLASSICA.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO[COLOR yellow] GOLDEN OLDIES[/COLOR]</title>
+<link>http://6d9a.webradio.upx.net.br:9940/stream</link>
+<thumbnail>https://i.postimg.cc/FHL4gGZy/RADIOGOLDEN-OLDIES.jpg</thumbnail>
+<fanart>https://i.postimg.cc/FHL4gGZy/RADIOGOLDEN-OLDIES.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO [COLOR yellow] NEW ROCK[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/90.m3u8</link>
+<thumbnail>https://i.postimg.cc/LsqF6DqY/RADIONEWROCK.jpg</thumbnail>
+<fanart>https://i.postimg.cc/LsqF6DqY/RADIONEWROCK.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO [COLOR yellow]FEST DANCE[/COLOR]</title>
+<link>http://168.205.87.198:8555/live/viniciusvieira/vieira123/86.m3u8</link>
+<thumbnail>https://i.postimg.cc/N0k7Xkqb/RADIOFESTDANCE.jpg</thumbnail>
+<fanart>https://i.postimg.cc/N0k7Xkqb/RADIOFESTDANCE.jpg</fanart>
+</item>
+###################################################################################################################
+<item><title>[COLOR white]RÁDIO [COLOR yellow]AXÉ[/COLOR]</title>
+<link>http://192.99.150.31:8305/;</link>
+<thumbnail>https://i.postimg.cc/KvBHQYVW/RADIOAXEBAHIA.jpg</thumbnail>
+<fanart>https://i.postimg.cc/KvBHQYVW/RADIOAXEBAHIA.jpg</fanart>
+</item>
