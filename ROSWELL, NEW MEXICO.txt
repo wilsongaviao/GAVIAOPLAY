@@ -86,4 +86,15 @@
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6RJ4BUFQIIKLMCCDTVXHBENZJIPT5LKZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FMSU42V22QFM3A7P5RMXOGWS7R4SAZE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/pFL6fbALZ0loT6SGkW9FxJVLopk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
