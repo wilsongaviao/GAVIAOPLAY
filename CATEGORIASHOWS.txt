@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROBERTO CARLOS ESPECIAL FIM DE ANO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/HkCJRzkP/Roberto-Carlos-Especial.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1XsHixxc8mfzy5rz_EGjStpamw_X1hew-</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ESPECIAL%20ROBERTO%20CARLOS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/3FtHK0y43rdT4axA7QRM0kJoCAd.jpg</fanart>
 <info>[B][COLOR yellow]Coletanea de shows  de fim de ano realizado por Roberto Carlos na globo[/COLOR][/B]</info>
 </channels>
@@ -12,7 +12,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHOWS SERTANEJO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/sX1170T1/shows-sertanejo.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1yqQDtAuitsM8IR8d7H1qnbGvUietGU7S</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHOWS%20SERTANEJOS.txt</externallink>
 <fanart>https://uploads.metropoles.com/wp-content/uploads/2017/11/01152943/Caldas-Country-Show.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info>
 </channels>
@@ -22,7 +22,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHOWS INTERNACIONAIS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BvSjQvDT/shows-internnacionais.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1s9Ya-uX0DUdKZcoj0TOpyoBVc6siGVbL</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHOWS%20INTERNACIONAIS.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsUufe9qU_ybGpzYukQJ7FGVBdG6hMzgfqg&usqp=CAU</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info>
 </channels>
@@ -32,7 +32,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHOWS NACIONAIS [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/SKgJXp7w/shows-nacionais.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1i7O-Fi7k81s2PSKdwIADE-3CNCNabSPK</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHOWS%20NACIONAI.txt</externallink>
 <fanart>https://www.turbinado.art.br/site/img/artigos/large/1113-22.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info>
 </channels>
