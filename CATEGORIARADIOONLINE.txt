@@ -5,7 +5,7 @@
 <thumbnail>https://i.postimg.cc/xd9rpSPz/RADIOSONLINE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RADIOONLINE.txt</externallink>
 <fanart>https://i.postimg.cc/zG7Lcqrm/FANARTRADIOSONLINE.jpg</fanart>
-<info>[B][COLOR yellow]Várias radios on line cada uma com um genero musica,contendo um vasto repertorio musical em todos os generos[/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Relação de várias radios on line cada uma com um genero musica,contendo um vasto repertorio musical em todos os generos[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
