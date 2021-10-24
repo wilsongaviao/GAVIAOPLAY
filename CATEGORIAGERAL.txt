@@ -38,6 +38,16 @@
 <info>[B][COLOR yellow]COLETÂNEAS COM SUCESSOS DE FILMES E SÉRIES EM ANIMAÇÃO E DESENHOS[/COLOR][/B]</info></item>
 </channels>
 </channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE BRASIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/HkXMSJnt/CINE-BRASIL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEBRASIL</externallink>
+<fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
+<info>[B][COLOR yellow]SELEÇÃO DE FILMES NACIONAIS DE TODOS OS GENEROS[/COLOR][/B]</info></item>
+</channels>
+</channel>
 ###############################################################################################################################
 <channels>
 <channel>
