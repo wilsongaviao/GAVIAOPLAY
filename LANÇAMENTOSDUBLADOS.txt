@@ -1,4 +1,13 @@
-
+##################################################################################################################
+<title>[B][COLOR white]Duna [COLOR yellow]( 720 / 1080p / 4k)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d78443e84fef632effa68ddaded8422d9011867$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[B] LINK 3 [COLOR yellow]4k[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f5m4DbO3Bl4PDtDD74fNJdJ8Cmv.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]O Jardim da Fé  [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BTENL3BOLINMAUS37UQ2NAQQ3WLJDBNP</link>
