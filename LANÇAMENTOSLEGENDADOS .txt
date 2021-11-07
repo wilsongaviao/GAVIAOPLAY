@@ -1,6 +1,147 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Venom - Tempo de Carnificina [COLOR yellow](1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32775F44230948ED3851B7C823F3BD8029B4C909$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4A75367E75C2208C8D9F38A88C5CAC6CE5DEFE6$nome=[B] LINK 2 [COLOR yellow]C A M[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cxlIj6EMsOyHdpBvGPdjAEdRT51.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] (OBS: DUBLAGEM NÃO OFICIAL )Após os eventos do primeiro filme, o relacionamento entre Eddie (Tom Hardy) e o Venom está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados. Brock tenta reviver sua carreira ao entrevistar o serial killer Cletus Kasady (Woody Harrelson), que escapa da prisão e se torna o novo hospedeiro do simbionte Carnificina. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA ; FICÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Yara [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27ef422fa7603433e52d90c09d7c9bf75c0cdcf4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBd2NddzPMCAE2UXCECMZ786iOH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rBHnXw3TyPrfqqCUzyuHi8q9pRm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma promotora determinada é consumida pelo caso de uma menina de 13 anos desaparecida e faz de tudo para descobrir a verdade. Baseado em um caso real. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Match Surpresa  [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09e03c78f8e66bf9ec9da31a68458c50c5e6a78$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74edd313b38f64d8ba9bdbbf385b81a092ebb41a$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7543fe0ba7d3bb4d93303e9173e33076c9821928$nome=[B] LINK 3 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ecbcebd2f7c718c4b942ad5a44d96a27de263ff$nome=[B] LINK 4 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qw2TG353OurFGG7modwXFBgRt7N.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Azarada no amor, uma jovem (Nina Dobrev) se apaixona por um cara do outro lado do país, devido a um aplicativo de namoro. Quando ela decide o surpreender no Natal, acaba descobrindo que estava conversando com uma pessoa completamente diferente. Mas ele promete que consegue juntá-la com o cara das fotos, que vive na mesma cidade, se ela fingir ser sua namorada no feriado. 
+[COLOR white][B] Gênero:  [COLOR lime][/B]COMÉDIA / ROMANCE[/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Finch  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8c0983d2821266519bf4dd42c2582d0c495a387$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af8b19cba78144fdd28f8af79d3c4ba8ebef32df$nome=[B] LINK 2 [COLOR yellow]4K[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:843a0e5f0df20507bd94ffc396a499f959a9898c$nome=[B] LINK 3 [COLOR yellow]4K[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/juDEveV0GPdvofbii5ZpfVYKFue.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Eu um mundo pós-apocalíptico, um robô construído para proteger o cachorro do seu criado, que está a beira da morte, aprende sobre a vida, amor e amizade, aprendendo o que significa ser humano.
+[COLOR white][B] Gênero:  [COLOR lime]FICÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Anfitrião Perfeito [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C18A9D11A328FF5E3BD9D9A78E9DF44B33C395D3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kcBPkNmitgF5u60glcp8wr1qs0T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tM2tggkFDiSysKS6sfiW25AjsLi.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]m grupo de amigos aluga uma casa isolada no lago de propriedade de um homem obcecado por fitness com intenções misteriosas.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Sobre Nós [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D59561D62BD1D585988B603A983BD775B3329A63</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e7mlMjBrFiujFfri9O82dLZXrxX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t05ajiAt4WdKlozIOUjDSTHM9pb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um jovem casal retorna ao lugar onde passou sua lua de mel 10 anos depois. Eles vão nessa jornada juntos em busca de uma conexão e descobrindo que o amor verdadeiro que os une estava lá o tempo todo.
+[COLOR white][B] Gênero:  [COLOR lime]ROMANCE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Heaven [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83A58A68407E98A6352193212C45D822C8270A67</link>
+<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/4GUaYrx5p8bNX7rfFA6S1cDQ4uL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w220_and_h330_face/4GUaYrx5p8bNX7rfFA6S1cDQ4uL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Situada entre o Novo Mundo (Céu) e o Velho Mundo (Terra), a história segue a vida e a vida após a morte de Jonathan Stone e todas aquelas vidas ao seu redor de seu passado, presente e futuro. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dogface - A TrapHouse Horror  [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EEED367C634589A3B95FB2A97F51C665D987786</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHwEkC7uWGD2Rdvlwt6PyzLuzz6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eEHsSQycvquWd6dlmmDy3LPFeMY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de se mudar para uma armadilha mal-assombrada, um jovem traficante problemático das ruas começa a descobrir seu verdadeiro propósito. 
+[COLOR white][B] Gênero:  [COLOR lime]TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Vengeance is Mine[COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5196C81ED7183B3245FD352F99655049B30A7EBB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qAy3rQS3ZLoarmB2nfyk9MvILco.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uVFhMv8v6PbTkGNLmGHMi79j8A7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] Harry (Con O’Neill) é um homem quebrado, ainda lutando para aceitar o assassinato de sua esposa e filha 5 anos antes. Quando ele descobre o paradeiro dos assassinos, ele desperta de sua dor e, como um anjo vingador, resolve nunca parar até que todos estejam mortos.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Jardim da Fé [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BTENL3BOLINMAUS37UQ2NAQQ3WLJDBNP</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Y2OMKaJ6e6byrum4irkJ5wGzMG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1n1ravUpU0bBY4nBorl2mhAaEKw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Eddie é um capelão militar idoso que acabou de ficar viúvo e tem um relacionamento ruim com sua única filha. Depois de se mudar para um lugar diferente, em um bairro pobre, Eddie conhece a pequena Hope, uma garotinha com problemas em casa e que, por meio de longas conversas sobre fé, acaba sendo uma luz de esperança para o velho capelão. Aos poucos, Eddie encontra na construção de um jardim uma nova fonte de fé e isso milagrosamente contagia a todos os moradores do bairro.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Leizhenzi - The Origin of the Gods [COLOR yellow]( 720p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E1837D10872C72CC9E33DBFE9AA1238AC0433B9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3TlKCYWKkRYibvYhUlAG6SB31Bn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/uA8d6HGegGi6KtMEPI3oOKQGAd3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O filme é baseado no romance "Investidura dos Deuses", que conta a história de Yuanshi Tianzun, uma das maiores divindades do Taoísmo, que estabeleceu a Formação do Selamento de Deus com a energia espiritual do Céu e da Terra e enviou as pessoas emplumadas longe. Nos últimos anos das Dinastias Yin e Shang, tking Shang Zhou era o tirano de toda a Terra. Para salvar o mundo, os anciões da tribo do Povo Emplumado jogaram a Pedra Vidente Celestial no mundo mortal e deliberadamente injetaram as asas gêmeas em seu filho gêmeo Xinhuan na frente de todos para proteger o verdadeiro "General" Leizhenzi. Com o passar dos anos, Leizhenzi, que nasceu diferente, aspira a ser o Escolhido como seu irmão Xinhuan, mas mal sabe ele que as engrenagens do destino já começaram e ele abrirá a primeira estação do Grande Selo dos Deuses
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hustle Down [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F8ACAF17B7D45C24AEF777D21F5B08D3E8B66914</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5nL8d6tQj5OTTFWDETOQBmdXIHD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5nL8d6tQj5OTTFWDETOQBmdXIHD.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Cully (Tom Sizemore), um cara esperto e mau-caráter, motorista de um cartel de drogas da Baja, confia em um caçador de recompensas qualificado, mas relutante, Turk (Paul Sidhu), para ficar fora do alcance de um assassino implacável (Kevin Gage) e bandidos liderados por um líder de gangue rival (Noel Gugliemi) depois que Cully roubou um carro de dinheiro recheado destinado a seu chefe (Raymond J. Barry). A dupla cruza caminhos com Crystal (Bai Ling), uma dançarina sensual com muitos segredos e uma participação maior em tudo isso do que eles imaginaram a princípio. Se Cully pode convencer Turk de acompanhar seus esquemas loucos, ele pode voltar para sua esposa (Vanessa Angel) e sua filha.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]American Gangster Presents - Big 50 - The Delrhonda Hood Story [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7A7F1D2345832FE86465F9B87E147803FADB1D0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z7f3g7L6z0Jp5Uz7EBPdJHTKJ2M.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/american-gangster-presents-big-50-the-delrhonda-hood-story-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Delrhonda “Big Fifty Hood acaba dirigindo seu próprio império de drogas, tornando-se uma das mulheres mais ricas e notórias de Detroit no processo. Com seu sucesso, ela descobre que o dinheiro não resolve todos os seus problemas e ela só pode depender de si mesma se ela quer estar um passo à frente da lei e continuar viva. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Time Is Up [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B090C89AC2628D86FF9B0D985BA7C02ECC4D40D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Vivien (Thorne), que é uma estudante talentosa apaixonada pela física, e Roy (Mascolo), que é um jovem problemático, ou seja, dois estudantes com personalidades totalmente diferentes. Entretanto, um acidente mudará a vida desses protagonistas e, então, eles viverão novas experiências, como um novo amor.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Last Man Down [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4A759121FFAC24BC5518816CF75A347B5A398AF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t4To8feUSysyBs4tlBAbXIrKlCv.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois que a civilização sucumbe a uma pandemia mortal e sua esposa é assassinada, um soldado das forças especiais abandona seu dever e se torna um eremita na selva nórdica. Anos depois, uma mulher ferida aparece em sua porta. Ela escapou de um laboratório e seus perseguidores acreditam que seu sangue é a chave para uma cura mundial. Ele hesita em se envolver, mas todas as dúvidas são deixadas de lado quando ele descobre que seu perseguidor não é outro senão o comandante Stone, o homem que assassinou sua esposa alguns anos atrás
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Brain Freeze [COLOR yellow]( 1080p)[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63AAAC8DD99F6E943EA1D66442A9ECE2108974D5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUN2LvOWi3afThQidankPMIPBQd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6qoEvCKUN5YwzEO4hdDvyrNv0E0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um fertilizante usado em um rico condomínio fechado se torna a fonte de uma mutação genética que transforma seus residentes em zumbis. Um adolescente e sua irmãzinha podem se libertar da ilha em quarentena antes de virar grama?
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]American Night [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2893EFAC0D14C5EB327ABD36CFA4CF95A9C14A54</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wdIDoA18nbTO8Dux8LgsGLnwlvZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fLT3mrxNDGF68XBrMaERp2Cs1KR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No corrupto mundo da arte contemporânea de Nova York, um negociante de arte e o impiedoso chefe da máfia de Nova York lutam por dinheiro, arte, poder e amor. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Halloween Kills - O Terror Continua [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Halloween Kills - O Terror Continua [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2602B22EA003A672F7CDEAF69EFF67F5EA1096B6</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zPNs90yGHKdKadN2Bz32Pug8jY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rOuN1AC6KXQ0K5SxxuJJKXBYRLB.jpg</fanart>
@@ -8,7 +149,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Recalled [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Recalled [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC0FB9B87BF70B8031236589790FF33EFC466D80</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kTXwu4Ux8QJ1iwBprwVRbEtPa90.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/z8giqDesBGzQMdF1pp9rTV3TqqC.jpg</fanart>
@@ -16,7 +157,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Angeliena [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Angeliena [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c1f808f6d9fae4eeb5a7e0f6c6a68023fff772b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p09iWQlq9fiIsrilrsfgzSmmsFd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7kflcUA7yhtHXWmx4484hJYrrXh.jpg</fanart>
@@ -24,7 +165,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]The Velvet Underground [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Velvet Underground [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f6e893cfb8a4fb4a46f55a41b3025e6d7bed097$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f06e408cdef6b19c08fa31f96af2e2327fa985a$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f40a654d0138e16ce5b148275906a17304da879$nome=[B] LINK 3 [COLOR yellow]4k[/COLOR][/B]</link>
@@ -42,7 +183,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA / POLICIAL[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Aterrados[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Aterrados[COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C08CE8BAD3D76E72253B9688AE12AADF84AB805</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tFQX0I6gHGO8lfeQN8Za8YepWqx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8RGa1CgPfMIIBtZErqs6RRPxXn6.jpg</fanart>
@@ -50,7 +191,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]TERROR[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Rumba Love [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Rumba Love [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2AA1B294AE1276651D19EE0EC984FD7F783D773</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nctimAxXMnqJ0iyY1tmDLB1CAFM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nctimAxXMnqJ0iyY1tmDLB1CAFM.jpg</fanart>
@@ -58,7 +199,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / MUSICAL / ROMANCE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Amanhecer da guerra - O2[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Amanhecer da guerra - O2[COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E65E8BB82F97473DE8AD735B45862E6E4432057</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AdfRkHPYo7aj6d6sxCzeE1ZApL5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qMUntRvpxOIraTdb2T2b99fZzdx.jpg</fanart>
@@ -66,7 +207,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]HISTÓRICO / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Halloween Heroes [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Halloween Heroes [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84E0A4C38F7C817E430CD1F16B02C5476BFFF013</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BUSP9vUlmDA6MrdwYIPzmkbUrV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BUSP9vUlmDA6MrdwYIPzmkbUrV.jpg</fanart>
@@ -74,7 +215,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]C.I.Ape [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]C.I.Ape [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76F158363DA3708C293B10C2BD98AC176D515DC0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9d7k5IkBJDjJiMhHVRXljEsOgrY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4bkL12CtbypYhPBViE0poFdtqaZ.jpg</fanart>
@@ -82,7 +223,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA /  AÇÃO / FICÇÃO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Blame [COLOR yellow]( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Blame [COLOR yellow]( 1080P )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C6DCD8C7E6F0CEF36E6848A7A23A0D71A53F3E4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nnUoDaNvZXc1iD9SO43lMJ2xDCV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nnUoDaNvZXc1iD9SO43lMJ2xDCV.jpg</fanart>
@@ -90,7 +231,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / POLICIAL[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]A Outra Face da Guerra [COLOR yellow]( 1080p)[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]A Outra Face da Guerra [COLOR yellow]( 1080p)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B634DCE07A1D64F00852EABA4CDC3EF71A0777B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bLjE1Ss6xO5AKInuLwhQrDSmiYC.jpg</fanart>
@@ -98,7 +239,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / GUERRA / HISTÓRICO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white] Paper Dragons[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Paper Dragons[COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31686058D860281B6FE85278D94707406DAE4631</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ih5zx8HwGRcpPCHLGr4PT8VbnM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vbqP1x0dOheC6R6rCCBS08SPBUW.jpg</fanart>
@@ -106,7 +247,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Purity Falls [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Purity Falls [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C81EFC6426E48A108AD3D31BD61F2FC7041134B2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zjKdP6mXzpeATxsbDUfMyenbJe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iOKmnJ743Ld3FP1csyyIKzJ1v7T.jpg</fanart>
@@ -114,7 +255,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]The Grand Duke of Corsica [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Grand Duke of Corsica [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CC020365966F4B6E45769858FA450494778D71C</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jg1e7uY8j07b08rIJCfxHkuT4sP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mTp1gydo0qYzGaTRTv2LEyF2Stp.jpg</fanart>
@@ -122,7 +263,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]This Is the Night [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]This Is the Night [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAA17ACE53D12FBF5BD1855DE53662FEA086531D</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lDT4v9o6MPMeIQtFUu1976G1agR.jpg</fanart>
@@ -130,7 +271,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Lie to Me The Truth [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Lie to Me The Truth [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:115FE1D279C640CA30DD89EDE1D03AFFD3C3BA89/link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9V4E0WIxf8fCo5DtFLDnbsG1KT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sb8N2H8w4majKPD8bLZ0YxtDHhD.jpg</fanart>
@@ -138,7 +279,7 @@
 [COLOR white][B] Gênero: ( C A M ) [COLOR lime]DRAMA / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Asih 2[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Asih 2[COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0951B274F026D20BB892632A62F93DC822D62AEC</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38NLVm83d2STJNu6gpQegocUYYu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/68UQ75ivQOYX2Yl8DZMQVpsTNto.jpg</fanart>
@@ -146,7 +287,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]TERROR[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]The Eyes of Tammy Faye [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Eyes of Tammy Faye [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B91E87386385A72F20C954A03751CAFDE5CC62ED</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zjd6zDKQeLJBr03urujoF8qbSAJ.jpg</fanart>
@@ -154,7 +295,7 @@
 [COLOR white][B] Gênero:  ( C A M )[COLOR lime]BIOGRAFIA / DRAMA / HISTÓRICO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Dune World [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dune World [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4EF9B8941E86C42630BD9C46BF4BF4216D3798C9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/T6jRmCIYoHcTj1i0cmkueurkZw.jpg</fanart>
@@ -162,7 +303,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / FANTASIA / FICÇÃO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Art of the Dead [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Art of the Dead [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7402cc52c8071706688ab4d969d018e24877902</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l3CCtoklH4uPn5zFgJZhastTxZ9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wAHrbzmGeybyHGHRKS8G4lLeL32.jpg</fanart>
@@ -170,7 +311,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]TERROR[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Venus as a Boy [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Venus as a Boy [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43FE3B212D0B22D8BFF543FDF3795D5FF18C6ECA</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/balSbc8tlOGpWykSejUZFupSVgj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/balSbc8tlOGpWykSejUZFupSVgj.jpg</fanart>
@@ -178,7 +319,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / ROMANCE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]8 - Sekiz [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]8 - Sekiz [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9DBD08F0CE04706A784122A1303AFE6A1F9B33B</link>
 <thumbnail>https://abutretorrents.com/imagens/8-sekiz-cam-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/8-sekiz-cam-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -186,7 +327,7 @@
 [COLOR white][B] Gênero:  ( C A M )[COLOR lime]AÇÃO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Everything Went Fine [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Everything Went Fine [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF3CD5178AF2AAC469463B576899C3F371A8BF5F</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfA9zBBfBS3bKfZcTghR0FsqWrJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/47MjuLS65TVKQte8CsvOebED5Jn.jpg</fanart>
@@ -194,7 +335,7 @@
 [COLOR white][B] Gênero: ( C A M ) [COLOR lime]DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]The Third War [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Third War [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84ED712594DEB7CAC8E2E9F3126CB76029020C2B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bmomaooiTLcGu4Z6esZqHxa7KL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eKh2pZ4qWkElkD6f9M3iK7JmHpM.jpg</fanart>
@@ -202,7 +343,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Dark Web - Descent Into Hell  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dark Web - Descent Into Hell  [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:328C6C48943AC55A92A4AAB3B26A4F4A423A7D03</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/buGUVw6SPZBVgkf8mMn9ZOgTcBx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/buGUVw6SPZBVgkf8mMn9ZOgTcBx.jpg</fanart>
@@ -211,7 +352,7 @@
 [/COLOR][/B]</info></item>
 pag 18 lançamentos
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -219,7 +360,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -227,7 +368,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -235,7 +376,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -243,7 +384,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -251,7 +392,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-><title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+><title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -259,7 +400,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -267,7 +408,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -275,7 +416,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -290,7 +431,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -298,7 +439,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -306,7 +447,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -314,7 +455,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -322,7 +463,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -330,7 +471,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -338,7 +479,7 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -346,22 +487,14 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>Sinopse: [COLOR yellow][B]
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
-[/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -369,7 +502,15 @@ pag 18 lançamentos
 [COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Driven To Kill [COLOR yellow]( 720p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Driven To Kill [COLOR yellow]( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FAA13DF4983C0BC8140BAD34074D1D20FBD7AC5</link>
 <thumbnail>https://abutretorrents.com/imagens/wheels-of-beauty-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/wheels-of-beauty-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
