@@ -1521,7 +1521,7 @@ magnet:?xt=urn:btih:96b66ac01465f94d82da773dc073d71930fb2645
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WAKRH7J5OFYI574S453ADYINUFRXRJMS</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s7hsfb9fiEaLO5cLqVxjUhowosP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9lropttr13U34csVkseFGZY98Kl.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Gunner é um menino precoce que, para salvar sua mãe doente, foge de casa com Jo, para encontrar a lendária figura chamada Homem da Água, que foi dita ter o poder de enganar a morte. Embora extremamente próximo de sua mãe, ele e seu pai, Amos, são forçados a aprender um sobre o outro enquanto Amos vai à procura de seu filho. [COLOR white][B] Gênero : [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Gunner é um menino precoce que, para salvar sua mãe doente, foge de casa com Jo, para encontrar a lendária figura chamada Homem da Água, que foi dita ter o poder de enganar a morte. Muito mbora extremamente próximo de sua mãe, ele e seu pai, Amos, são forçados a aprender um sobre o outro enquanto Amos vai à procura de seu filho. [COLOR white][B] Gênero : [/COLOR][/B]</info></item>
 ######################################################################################################################################
 <item><title>[B][COLOR white]Instinto [COLOR yellow][COLOR lime]DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e828760cf22407c128426b88c218f371d0336e2b</link><thumbnail>https://abutretorrents.com/imagens/instinto-instinct-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
