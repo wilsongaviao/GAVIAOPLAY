@@ -1,3 +1,11 @@
+##############################################################################################################
+<item><title>[B][COLOR white]Venom - Tempo de Carnificina [COLOR yellow](1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67EEBC6834498C7645F821D275F156FDB7B97A20</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cxlIj6EMsOyHdpBvGPdjAEdRT51.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] (OBS: DUBLAGEM NÃO OFICIAL )Após os eventos do primeiro filme, o relacionamento entre Eddie (Tom Hardy) e o Venom está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados. Brock tenta reviver sua carreira ao entrevistar o serial killer Cletus Kasady (Woody Harrelson), que escapa da prisão e se torna o novo hospedeiro do simbionte Carnificina. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA ; FICÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
 ##################################################################################################################
 <title>[B][COLOR white]Duna [COLOR yellow]( 720 / 1080p / 4k)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d78443e84fef632effa68ddaded8422d9011867$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
@@ -9,7 +17,255 @@
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]O Jardim da Fé  [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<title>[B][COLOR white]007: Sem Tempo para Morrer[COLOR yellow]( 720p ) [/COLOR][/B]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iED5BlTFVky8lKw8SuG7QX0q6yI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/18Eca3pEMrdk6GkmKWdf02jWpmo.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127</link>
+<info>Sinopse: [COLOR yellow][B]Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / AÇÃO  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mate ou Morra [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9c096f4cc8664a58b6e514a4943bc873c5d710</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At6mVM1GxfAzeuyujW3s3B3mnYv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Todos os dias, um veterano aposentado das forças especiais (Frank Grillo) está preso em um ciclo sem fim, resultando em sua morte. Para parar o seu sofrimento interminável, ele deve descobrir e deter quem é o responsável por isso. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FICÇÃO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Yara [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5IFV3SEC74ZBKYD7BTMJHRXUKIDSM5V4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBd2NddzPMCAE2UXCECMZ786iOH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rBHnXw3TyPrfqqCUzyuHi8q9pRm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma promotora determinada é consumida pelo caso de uma menina de 13 anos desaparecida e faz de tudo para descobrir a verdade. Baseado em um caso real. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Finch  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650c9c4b34b56935e8f770f8b10e6c9c858869e6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/juDEveV0GPdvofbii5ZpfVYKFue.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Eu um mundo pós-apocalíptico, um robô construído para proteger o cachorro do seu criado, que está a beira da morte, aprende sobre a vida, amor e amizade, aprendendo o que significa ser humano.
+[COLOR white][B] Gênero:  [COLOR lime]FICÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Match Surpresa  [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z3CVYYHCTVG6SV6ORJBAMQRFJF6GRZBF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qw2TG353OurFGG7modwXFBgRt7N.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Azarada no amor, uma jovem (Nina Dobrev) se apaixona por um cara do outro lado do país, devido a um aplicativo de namoro. Quando ela decide o surpreender no Natal, acaba descobrindo que estava conversando com uma pessoa completamente diferente. Mas ele promete que consegue juntá-la com o cara das fotos, que vive na mesma cidade, se ela fingir ser sua namorada no feriado. 
+[COLOR white][B] Gênero:  [COLOR lime][/B]COMÉDIA / ROMANCE[/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Exército de Ladrões - Invasão da Europa [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4f47d7bc3205f1c49d20421f21f082c7695081</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lxPZYziABs5MUmyV6tUOO5mTK2z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lxLiKYM4laorYKMxyaWrSVbLIjr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Funcionário de um banco de cidade pequena, Dieter é puxado para uma aventura única ao ser recrutado por uma mulher misteriosa para se juntar à equipe dos criminosos mais procurados da Interpol, na missão de executar uma sequência de assaltos impossíveis através de cofres da Europa. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO COMEDIA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Os Eternos ( C A M ) [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HLWFO3KR6WHRBWYIYSEPYTCQ3JFVIOFC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eDHOutMxLMgComnVhUK0Xfwunu5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fzKWwcaam9QSTaMSJlORuSojxio.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os Eternos’ apresenta uma nova e empolgante equipe de super-heróis no MCU, antigos alienígenas que vivem em segredo na Terra há milhares de anos. Após os eventos de ‘Vingadores: Ultimato‘, uma tragédia inesperada os força a sair das sombras para se reunir contra os inimigos mais antigo da humanidade, Os Deviantes. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ao Lado de Cristo [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VB7QBO73MPVZTDUZ6QUG2IG2FIWTX3LI</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgslCpWaZieFb463otrZIHXBiFx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/2q4ec7QNNmLQYxvxjZrB4AZeb2W.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Esta é a história de dois homens não identificados que foram crucificados ao lado de Jesus e como eles vieram para estar ao lado dele na cruz naquele dia fatídico. Esta é uma história épica que começa com a jornada dos Magos e seu encontro casual com o jovem Dimas e seu irmão Jotão na manjedoura em Belém. Logo depois, os jovens irmãos sofreram uma tragédia indescritível que resultou em serem capturados por um bando de ladrões com tendência para a violência. Lá, eles encontram Gestas, outro jovem que compartilhará seu destino. Juntos, em sua jornada para a cruz, eles tentarão superar seu destino. Mas primeiro, eles devem sobreviver a um centurião romano implacável que ameaça desencadear uma terrível vingança sobre eles. Ao longo do caminho, eles cruzam caminhos com Jesus e outras figuras bíblicas influentes - mas eles logo descobrirão que não há como escapar do fim brutal que os aguarda no Gólgota.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Último Cruzeiro [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6V3WYPKOSJ2XARFDRB33EITZ5BJ5F4D2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mJAoq9YCQd0avbaTICAguHs4GUI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3qi1m46xXSnO58mSA7fHnsjSVAa.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Documentário que acompanha o primeiro e maior surto de COVID-19 fora da China: o do cruzeiro de luxo Diamond Princess.
+[COLOR white][B] Gênero:  [COLOR lime]DOCUMENTARIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Lenda do Submundo [COLOR yellow]( 720p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8d050acf3a0b9427d7e72d0bbf8da13f262db6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i388tln63NS5rI7e60cr8MWp6Ht.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u5Zpl2i1hTPB42YI95u7zeVB3hE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um olhar marcante e oportuno para a luta contra a discriminação galopante na Nigéria hoje, vista através das lentes de vários jovens corajosos e carismáticos, não conformistas que lutam para viver a vida em voz alta. Por meio da mídia social, celebridade e expressão criativa, eles desencadeiam um debate cultural que desafia os ideais de conformidade de gênero e direitos humanos na Nigéria. 
+[COLOR white][B] Gênero:  [COLOR lime]DOCUMENTARIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Amina [COLOR yellow](720p)[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584a4acc5d3e726a674cab7fcb7109615a4abec4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gII53HAH7UA1yx189vROMzWA5ib.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4EJSMQOM1bZPHvzqAQe87suBxdf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No século XVI, em Zazzau, atual Zaria, na Nigéria, Amina usa suas habilidades e táticas militares para defender o reino da família. Baseado em uma história real. 
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / DRAMA / BIOGRAFIA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Apex [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPYP5Q2HRH4QFUZCKS77V7LO7QXWBI5V</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cobRV6hAj8h7dRU4WZ3dkGaRQv2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e3rruLkRBgZDjlP9iQ19H00XCNV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O ex-policial James Malone está cumprindo prisão perpétua por um crime que não cometeu. Ele tem uma chance de liberdade se ele sobreviver a um jogo mortal de Apex, no qual seis caçadores pagam pelo prazer de caçar outro humano em uma ilha remota. Ele aceita e, assim que chega, o inferno desaba
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Vingança e Castigo [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y7EW522GPXNAVJB4PYEZTX3WFTULYRBE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/noyl6uzmHZQz6WggaTYZFo4YtW6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Harder They Fall, quando o fora da lei Nat Love (Jonathan Majors) descobre que seu maior inimigo, Rufus Buck (Idris Elba), será libertado da prisão, ele reúne seu bando em uma busca incessante por vingança. Aqueles que cavalgam com ele incluem o seu antigo amor Stagecoach Mary, seus homens de temperamento forte Bill Pickett e Jack Beckwourth. Rufus ainda conta com a ajuda do "Traiçoeiro" Trudy Smith e Cherokee Bill. É de se tomar cuidado, pois esse não é um grupo que costuma a perder qualquer luta.
+[COLOR white][B] Gênero:  [COLOR lime] DRAMA / FAROESTE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Os Reis da Fraude [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de52b5350471d394e2a614ec8dab564928165d36</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6VbK5WgC670rnb3EYt4tL0wMVW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3lIa9UKjsyLtQmkT7ODrEKLoEwy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Veja a ascensão e queda dos golpistas que enganaram o sistema de cotas de carbono da União Europeia e embolsaram milhões, até o dia em que viraram inimigos.
+[COLOR white][B] Gênero:  [COLOR lime]DOCUMENTARIO[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Verdadeiras Aventuras do Menino Lobo [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:189e2e19cccb40e13d68a54622998257381eecc0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2N8JHD4NHBhtWvfKlA4jqEfPCQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fYx0oyHKOmms61Mf9USTwOnA3gn.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Paul (Jaeden Martell) vive com o pai e tem dificuldade em estabelecer amizades porque ele sofre de Hipertricose Lanuginosa Congênita, uma doença rara que faz com que cresça uma quantidade anormal de pêlos no rosto e no resto do corpo. Quando completa 13 anos de idade, Paul sai de casa para procurar sua mãe biológica, com o objetivo de obter respostas para todas as suas dúvidas. 
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Comitê de Deus [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CY36W5KKT7K2WEH3UTNZCGGNDUT2SZZG</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p1dXPdz5C1tPpPIy3kth3rTCOQe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eYBPToHtTJKx4rsULAjdPSPMqye.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O filme segue o coração de um doador sendo levado a um hospital de Nova York, onde um comitê de transplante tem uma hora para decidir qual paciente é o receptor. A história também explora o impacto dessa decisão seis anos depois. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Assassinas [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZUG5XGNOFZYF6YWFAKMZ74EMNHFLHXJI</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/guEH393qNWWh2wBJoGP7oqmjTK5.jpg</thumbnail>
+<fanart><https://www.themoviedb.org/t/p/original/VOWUUW2VKazNP5T8PpQn9oMcPw.jpg/fanart>
+<info>Sinopse: [COLOR yellow][B]Um relato das duas mulheres condenadas pelo assassinato do meio-irmão de Kim Jong-un, Kim Jong-nam. O filme acompanha os julgamentos das mulheres na tentativa de entender se elas são assassinas treinadas ou simplesmente peões.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / DOCUMENTARIO [/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Quatro Dias Ao Seu Lado [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fadaaa3a57b4f6968adc2eeef1a8e907e357d34</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aXNLEZYr27Q3EfiBFCR62UAVSZN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Deb (Glenn Close), uma mãe que ajuda sua filha Molly (Mila Kunis) a se recuperar do abuso de drogas. O tempo que passam juntas depois de um longo distanciamento, revive ambas as feridas dolorosas que magoaram uma a outra, mas também oferece a oportunidade de reavivar o amor de mãe e filha. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Os Muitos Santos de Newark [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZNUCR23XBZ7JBOMEN5CCGFVW3ATLIP4B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jq9ycHFxR2z8D7sa8yZQFvc0Tw4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3pkAMpiXJQM4rOKrYEPApWx0iY3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O jovem Anthony Soprano (Michael Gandolfini) foi criado em uma das mais tumultuadas épocas da história de Newark, tornando-se um homem justamente quando gângsteres rivais começam a se erguer e desafiar o domínio da soberana família criminosa, os DiMeo, sobre a cidade cada vez mais racialmente dividida. Apanhado nos tempos de mudança está o tio que ele idolatra, Dickie Moltisanti (Alessandro Nivola), que luta para manter as responsabilidades profissionais e pessoais - e cuja influência sobre o sobrinho ajudará a transformar o impressionável adolescente no chefe da máfia todo-poderoso que mais tarde conheceremos: Tony Soprano.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Jogo Perigoso - Most Dangerous Game  [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed5144ca9d9e073e52a6b182b9a9d8d7d1c0fe01</link>
+<thumbnail>https://abutretorrents.com/imagens/jogo-perigoso-most-dangerous-game-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/jogo-perigoso-most-dangerous-game-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Desesperado para cuidar de sua esposa grávida antes que uma doença terminal possa tirar sua vida, Dodge Maynard aceita uma oferta para participar de um jogo mortal onde ele logo descobre que não é o caçador … mas a presa. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Outra Face da Guerra [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d89a34a75fe210511201e717f7d82fc664169b36</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fO46VTvlcvqoJaerPKXcD17Ylez.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de testemunhar sua mãe sendo baleada pelas tropas invasoras alemãs, Arturs, de 16 anos, junto com seu pai, decide se alistar nos batalhões de fuzileiros da Letônia do Exército Imperial Russo, na esperança de se vingar e encontrar a glória. Arturs continua a lutar na Primeira Guerra Mundial na Frente Oriental, onde perde seu pai e irmão, e rapidamente se desilude. Eventualmente, Arturs retorna ao seu recém-proclamado país para lutar na Guerra da Independência da Letônia e começar tudo do zero.
+[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Every Breath You Take  [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:179a8e27bbf1a65422aef7713e671e67207df1c1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ejFaB9D4N17qPYb0eAO9wUcvIe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9mF1YCjzuHbNU3x9sUdR49zAu8X.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um psiquiatra, cujo cliente comete suicídio, vê sua vida familiar interrompida depois de apresentar seu irmão sobrevivente à esposa e à filha.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / SUSPENSE[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Labirinto [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c9bf6120bc1c402596b72a28efc3e6a29963f8f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j5zBj7JZIxBYscYjyOap7TpU2Co.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kxezzsPojSELRAksLliDaNAOiXk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No caminho para a escola, Samantha, de 13 anos, é sequestrada. 15 anos depois ela se encontra no hospital, em estado de choque, mas viva. O Dr. Green, assumi o trabalho em ajudá-la a se lembrar. E juntos eles enfrentam a memória do labirinto, uma prisão subterrânea na qual a ela foi submetida a jogos e enigmas para resolver, recompensando ou a punindo, mas sempre sem revelar as razões de toda essa situação perturbadora.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Adam - Quad [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2ARYR4AHS2VOHCHX5MW4H76TCIT3BLG</link>
+<thumbnail>https://abutretorrents.com/imagens/adam-quad-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/adam-quad-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Adam é um jovem trabalhador que está em seu melhor momento. Além de receber uma promoção, ele vive um romance. No entanto, um acidente faz com que ele fique tetraplégico, mudando a sua vida por completo. 
+[COLOR white][B] Gênero:  [COLOR lime]BIOGRAFIA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Fim de Semana Prolongado [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46e838de8656879a5a6b92b8ff33c4beb03c8350</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aRTTzUIiG6uakLiIuAagxvhRzKS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma história de amor, repleto de realismo mágico, centrada em Bart (Finn Wittrock), um escritor que luta contra a sorte, e a enigmática mulher (Zoe Chao) que entra em sua vida na hora certa. 
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Falsos Milionários[COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba1668651a47c56874ae941060bae68a87ab6b70</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/su2h6EVRM2IlWTpiuBBWfEycFBD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wKHtA2whB5zRZ7RTI2j5SJrRA6O.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os artistas golpistas Theresa e Robert passaram 26 anos treinando sua única filha, Old Dolio, para roubar e enganar em cada oportunidade. Durante um roubo desesperado e mal concebido, eles atraem a atenção de uma estranha, que quer fazer parte do próximo golpe apenas para ver seu mundo virar completamente ao avesso. 
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tempo [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f3c4bab42e9579e58a6a5bab9147ba57634e332</link>
+<thumbnail>https://abutretorrents.com/imagens/tempo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/tempo-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando uma família em férias de verão viajam até uma praia isolada, o dia de relaxamento se transforma em um pesadelo ao perceberam que as poucas horas estão fazendo eles envelhecerem rapidamente... reduzindo suas vidas inteiras em 24 horas. 
+[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / SUSPENTE / TERROR[[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Casa Sombria [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBFPYN7SS2DKYMEJ6BEWV3XKHFGPZ5PM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6IwRWvEManAFXRWEZr5g9LxtVPR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lutando por conta da morte inesperada de seu marido, Beth (Rebecca Hall) vive sozinha em sua casa à beira do lago. Ela tenta o melhor que pode para se manter bem, mas possui dificuldades por conta de seus sonhos: visões perturbadoras de uma presença na casa a chama, acenando com um fascínio fantasmagórico.Indo contra o conselho de seus amigos, ela começa a vasculhar os pertences do falecido, ansiando por respostas. O que ela descobre são segredos terríveis e um mistério que está determinada a resolver. 
+[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / SUSPENTE / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hypnotic [COLOR yellow]( 720p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HXFFFI26VJG6OFGA56VMDR3YOY3K5STS</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iWZCQEI7EeNm5eJHKRGMF2oce8U.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Hypnotic, querendo mudar a vida, uma mulher (Kate Siegel) busca a ajuda de um hipnoterapista bem renomado. Mas depois de uma pesadas sessões, ela descobre que suas sessões e terapia estão lhe fazendo mais mal do que bem, revelando inesperadas e mortais consequências.
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Sem Conexão - Parte 2 [COLOR yellow]( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:258b387aa626e2a11a64a85bc3c1ee435716c16d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txp0Wm5MGTYRJopAC015VRanBab.jpg</thumbnail>
+<fanart><https://www.themoviedb.org/t/p/original/icOUc1llxf2GJr1Z4dBbJYLzuvw.jpg/fanart>
+<info>Sinopse: [COLOR yellow][B]Um grupo de jovens é mandado para um acampamento offline, para diminuir a dependência com a tecnologia, mas acabam tendo que lutar por suas vidas quando se deparam com algo que não achariam nem nos cantos mais sombrios da internet. 
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]After - Depois do Desencontro [COLOR yellow]( 720p)[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKJGTOCCMGOGIURPF2JCEIL7SGPVAAZX</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/stYOdg6kFi9jl9aGLeh9vLSPiFU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4vCh8R4yd6ybOmbxRAPOzaXmLTV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Embora a história de amor entre Tessa Young e Hardin Scott tenha passado por muitas complicações, desta vez o problema é mais complexo do que nunca. Agora que Tessa tomou uma das decisões mais importantes de sua vida, tudo mudou completamente. Os segredos que vêm à tona sobre suas famílias colocam em risco seu relacionamento e seu futuro juntos. Embora a jovem saiba que Hardin a ama, os dois estão cercados de ciúme, ódio e perdão. Será que o amor entre os dois será o suficiente para manter seu relacionamento?
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Jardim da Fé  [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BTENL3BOLINMAUS37UQ2NAQQ3WLJDBNP</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Y2OMKaJ6e6byrum4irkJ5wGzMG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1n1ravUpU0bBY4nBorl2mhAaEKw.jpg</fanart>
@@ -17,14 +273,14 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Minamata [COLOR yellow]( 1080p) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Minamata [COLOR yellow]( 1080p) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7df8197c66db460906579c4876a880eb8b575f2c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c0cCscnApG8WfP44VSu7AFLRf5k.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nrM4AhjUkIJsvUYOmhVc2qtyJ1C.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]W. Eugene Smith ganhou fama fotografando nas linhas de frente durante a Segunda Guerra Mundial, mas agora vive como um recluso. Quando o editor da Life Magazine pede a sua ajuda para expor um grande escândalo, ele retorna ao Japão para revelar ao mundo a realidade dos moradores de Minamata, uma cidade costeira em que a comunidade está sendo envenenada por mercúrio.
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA[/B][/COLOR] 
 ##############################################################################################################
-<item><title>[B][COLOR white]Banha [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Banha [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29fed94f781a7c6e4a55d97d688a2e099c7a4dee</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aCCTRsvSQ7yhUovvxN8LLCYCMde.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xMuiZ0LhBVlIVC5wwMENhK4T5ns.jpg</fanart>
@@ -32,7 +288,7 @@
 plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo.
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA / ROMANCE[/B][/COLOR] 
 ##############################################################################################################
-<item><title>[B][COLOR white]Cry Macho - O Caminho para Redenção [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Cry Macho - O Caminho para Redenção [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee4a0809e3866e096fc86c9a78ef380d3cb60c81</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pLYOULRNhajU3tV1OsqisjTpCnY.jpg</fanart>
@@ -41,7 +297,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [/COLOR][/B]</info></item>
 [/COLOR][/B]</info></item>[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Pequeno Linguarudo [COLOR yellow]( 1080P ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Pequeno Linguarudo [COLOR yellow]( 1080P ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRG5J3FGSIKN2OOU6MIZSUIACUQAIMQZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUaPkPM3epw15ys0htlPJM0Bu0N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4XMCDkVIjznPNJ2EBQdn3Qb6DOk.jpg</fanart>
@@ -49,7 +305,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]COMEDIA / ROMANCE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Coquetel Explosivo [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Coquetel Explosivo [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKW6LPRWRAOCZVZXBXC4A66O2BTRGLR7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOo0jPG6FICGA7mzoKgYNCFzNaU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hugKriLPeBm3lErSCQiFOgQzpkC.jpg</fanart>
@@ -57,7 +313,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Mais que Amigos - Vizinhos [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Mais que Amigos - Vizinhos [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T2JA6DCDOIPBFFO3LEXCCVLYJWWIMYT6</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2FkdO8T5sob67WEiYi6cqcHUAv7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5vNC7KjKQAn4vt4oMmL8c8SpEvA.jpg</fanart>
@@ -65,7 +321,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]COMEDIA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Herói de Dois Mundos [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Herói de Dois Mundos [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LGVHAT5M7YCIE3TE7Z5ZNVBV3UWDIPT5</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wA5DBbGpWOI98gjsg0g6ATVJHFU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tkuVd1LYyltRdiWO50kJ5lc4J9V.jpg</fanart>
@@ -73,7 +329,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Encontradas [COLOR yellow]( 1080p) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Encontradas [COLOR yellow]( 1080p) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N7XMBSD6H5QUGODMQECOZ2OBZEHQIGTM</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eEx8zrZyN6fiRBTsxKYWWCmwJ9e.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pOF3uaktOkymva8HF1WDKfG3W39.jpg</fanart>
@@ -81,7 +337,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / DOCUMENTARIO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Onda de Choque 2 [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Onda de Choque 2 [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a2133eda8ba52edc36758e812d1fb9b9da923fc</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oMtnpQWp8yVZMxbntdEBGFYf4SK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nxXfBygLNR22bmcIHRqaf5dit1f.jpg</fanart>
@@ -89,7 +345,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]No Jogo do Amor [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]No Jogo do Amor [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0655a0dba85aea5af196cc65013857e875279d7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aa6cxHyZpbczm4EekCVUHZH7lg0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/45gfDaBCX45PC7bRZoB4Y2xsSWq.jpg</fanart>
@@ -97,7 +353,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA / ROMANCE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Brothers by Blood [COLOR yellow]( 1080p) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Brothers by Blood [COLOR yellow]( 1080p) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff85b9d68d42f358288a2b63b335309c374be891</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2RKGUCbo2R6IDsufxApL6nRFL4j.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bjfoBpZ5qP71wrUwGCLTZ2tDtw8.jpg</fanart>
@@ -105,7 +361,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]As Passageiras [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]As Passageiras [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFX3PHBOVJZJYW5XDMX4NEVEEM3AHHGC</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lc0Fw312hPatRBfgQufbfvUBvJC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/q6krHSCZk5DfdOhKRK7ejtZbCbN.jpg</fanart>
@@ -113,7 +369,7 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]O Vigia [COLOR yellow]( 1080p ) [COLOR crimson]NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Vigia [COLOR yellow]( 1080p ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8bd68284897fcd4620b8b4791819008c8e5565</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1FrhYbbHjXJcNS1n80DpUghvagD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kiekkPuAC0VtTJdYt8EXLpIsogG.jpg</fanart>
@@ -372,54 +628,6 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 <info>Sinopse: [COLOR yellow][B]Uma senhora corajosa luta para proteger seu amado bairro de uma força maligna que tomou conta do salão de bingo local e está matando os moradores de maneiras terríveis.
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / FANTASIA / TERROR[/B][/COLOR] 
 [/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
-[/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
-[/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
-[/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
-[/COLOR][/B]</info></item>
-##################################################################################################################
-<title>[B][COLOR white] [COLOR yellow]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime][/B][/COLOR] 
-[/COLOR][/B]</info></item>
-##############################################################################################################
-<title>[B][COLOR white]007: Sem Tempo para Morrer[COLOR yellow]( 720p ) [/COLOR][/B]</title>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iED5BlTFVky8lKw8SuG7QX0q6yI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/18Eca3pEMrdk6GkmKWdf02jWpmo.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127</link>
-<info>Sinopse: [COLOR yellow][B]Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / AÇÃO  [/B][/COLOR] 
-[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Infiltrado [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
@@ -507,11 +715,6 @@ plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f51da0c094651ba1260365c6b8d2f102207e8d2f</link>
 <thumbnail>https://abutretorrents.com/imagens/a-gangue-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Uma visão um pouco distópica de Los Angeles, seguimos três adolescentes descontentes, Jessie, Calvin e Nicky, todas vítimas de uma infância extrema, comandando uma revolta hedonista suprema enquanto tentam descobrir um caminho na vida. [COLOR white][B] Gênero : [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]Um Ninho Para Dois[COLOR yellow]( 1080p ) [COLOR lime]COMEDIA / DRAMA[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OOFAGE4M23QZN5AE5Y76YAYK6EBHNUH</link>
-<thumbnail>https://abutretorrents.com/imagens/um-ninho-para-dois-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Após uma tragédia prejudicar o seu casamento, uma mulher entra em uma batalha territorial com um estorninho preto de tamanho considerável que construiu um ninho em seu jardim. [COLOR white][B] Gênero : [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Alucinação Fatal[COLOR yellow]( 1080p ) [COLOR lime]MISTERIO / SUSPENSE / TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96e41faea4b3d9ed85f64d06dbaf1c75ac23ffdc</link>
