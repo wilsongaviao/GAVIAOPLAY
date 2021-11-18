@@ -13,13 +13,15 @@
 <info>Sinopse : [COLOR yellow][B]
 Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então, precisa escapar dos assassinos que começam a caça-lo incessantemente. Ele encontra proteção com Hannah Faber (Angelina Jolie), uma bombeira traumatizada pelo fracasso de sua última missão. Os dois vão precisar lutar muito para sobreviver.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Bartkowiak [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Bartkowiak [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b764d18a2a4b4c308af0eb471cf710b0/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg</thumbnail>
 <fanart>https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQ3_Fnopj5VwTWoFEB_hjLC1jxeRzTGvrvRlOwewYohFzldVsL9AdYVqww1TTOvGd3Zw2YEKGIc5w5o9Sqm9AxfqHToO.jpg?r=f19</fanart>
 <info>Sinopse : [COLOR yellow][B]Tomak Bartkowiak (Józef Pawłowski) é um ex-lutador de MMA que acaba caindo em desgraça após perder uma luta para seu maior rival no ringue ser pego usando drogas. Meses depois, ele aparece trabalhando como segurança em uma boate, onde se envolve em uma briga com um rapper marrento
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Beckett [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Beckett [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_c18f3d05fc454ae2ae5051b369d31348/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg</thumbnail>
 <fanart>https://cenasdecinema.com/wp-content/uploads/2021/08/Beckett_destaque.jpg</fanart>
@@ -32,7 +34,8 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://br.web.img2.acsta.net/r_1280_720/newsv7/21/07/26/16/56/2142011.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Uma mulher com uma doença misteriosa precisa revelar um segredo obscuro para proteger o filho de terroristas que querem sequestrar o avião em que viajam.
 [/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]Esquadrão Trovão [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Esquadrão Trovão [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_aa9e40b298124612a36b4d3bd95fa56d/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/Aej7rR73kpAKce6XXBLeqijAwPD.jpg</thumbnail>
 <fanart>http://woomagazine.com.br/wp-content/uploads/2021/04/Esquadrao-Trovao-2-1.jpg</fanart>
@@ -46,6 +49,13 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <info>Sinopse : [COLOR yellow][B]Jack Halsey e sua família esperam realizar a viagem dos sonhos ao participar de um safari no Quênia, abaixo do sol escaldante africano. Mas sozinhos no parque selvagem, eles acabam ficando reféns de forças da natureza quando são rodeados por um leopardo e um grupo de hienas famintas.
 [/B][/COLOR]</info></item>
 ########################################################################################## 
+<item><title>[B]Godzilla vs. Kong [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_f4f7331b96fe456db02380cf44b32a57/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/5527433.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.
+[/B][/COLOR]</info></item> 
+########################################################################################## 
 <item><title>[B]Jolt Fúria Fatal[COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a95804a4e1224d6788fe83e2e2e6fdeb/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
@@ -57,12 +67,22 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/07/justica-em-familia-divulgacao.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Ele perdeu o amor de sua vida por causa da ganância da indústria farmacêutica. Agora, sua filha está órfã e a justiça não chega. Por enquanto.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Do Fundo do Mar 3[COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Do Fundo do Mar 3[COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_dee15264c598434e8a216cb6c93d67fd/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/azvgqitNO0kConxAP0TUjMlpBUI.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-t_3x-VoHE3E/XxR8a0Li-4I/AAAAAAAADSs/nmUsA0O_S9kqPnWlk8k4YdTczkBd2pbvQCLcBGAsYHQ/s1600/do-fundo-do-mar-3-2.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.
-[/B][/COLOR]</info></item>    ########################################################################################## <item><title>[B]Jiu Jitsu [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+item><title>[B]Ferry [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_9506b4125fac435c8e5b91e0bb929e95/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/w6n1pu9thpCVHILejsuhKf3tNCV.jpg</thumbnail>
+<fanart>https://i0.wp.com/www.ultraverso.com.br/wp-content/uploads/2021/05/Ferry-filme-netflix-critica.jpg?fit=1200%2C675&ssl=1</fanart>
+<info>Sinopse : [COLOR yellow][B]Antes de construir um império de droga, Ferry Bouman regressa a casa numa missão de vingança em que a sua lealdade é posta à prova e um amor lhe muda a vida.
+[/B][/COLOR]</info></item>    
+########################################################################################## 
+<item><title>[B]Jiu Jitsu [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_c7fb011e116347c4ba98c0a22a32c612/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kGv4HC75QVCq0YeqHhChCIZOVqe.jpg</fanart>
@@ -94,7 +114,8 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://www.baixarviamega.com/wp-content/uploads/2021/08/os-renegados-the-misfits-2021-dublado-e-dual-audio-5974-backdrop.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Depois de ser recrutado por um grupo de ladrões não convencionais, o renomado criminoso Richard Pace se vê envolvido em um elaborado assalto a ouro, que promete ter implicações de longo alcance em sua vida e na vida de inúmeras outras pessoas.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Pegue a Bala [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Pegue a Bala [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_45de4782d6bb47eca61e16449b0d62e9/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/m3DUe1cpiBsLg0caIO2JDr7HK5Z.jpg</thumbnail>
 <fanart>https://static.digit.in/OTT/v2/images/catch-the-bullet-374059.jpg</fanart>
@@ -106,14 +127,16 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://epipoca.com.br/wp-content/uploads/2021/04/Sem-Remorso-b.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um agente da CIA busca vingança depois de sua namorada ter sido morta por um traficante de Baltimore.
 [/B][/COLOR]</info></item>                           
-########################################################################################## <item><title>[B]Vanquish [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## <
+item><title>[B]Vanquish [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_c3e615e66bc348cdb6e10021e0b55f61/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/AoWY1gkcNzabh229Icboa1Ff0BM.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/XhF8Aw4oDRk/maxresdefault.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Uma mãe, Victoria, está tentando deixar seu passado sombrio como uma entregadora de drogas russa para trás, mas o policial aposentado Damon força Victoria a cumprir suas ordens, mantendo sua filha como refém.
 [/B][/COLOR]</info></item> 
 
-########################################################################################## <item><title>[B]Velozes & Furiosos 9 [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Velozes & Furiosos 9 [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_98be789d6b044150a194cf18daf36f74/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8L4Mep3KDUK4ztUgf2HlPvUVzZy.jpg</thumbnail>
 <fanart>https://br.web.img3.acsta.net/r_1280_720/newsv7/21/06/25/19/20/5584929.jpg</fanart>
@@ -126,19 +149,22 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/06/xtremo-divulgacao-1-1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Dois anos após o assassinato do pai e do filho, um matador de aluguel aposentado bola um plano para se vingar daquele que cometeu os crimes: seu próprio irmão.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Willy’s Wonderland Parque Maldito [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+########################################################################################## 
+ <item><title>[B]Willy’s Wonderland Parque Maldito [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_ff9d811875ab43b59ee9d07728b75fdc/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg</thumbnail>
 <fanart>https://rotacult.com.br/wp-content/uploads/2021/07/Willys-Wonderland-Parque-Maldito.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um faxineiro é forçado a passar a noite num bizarro parque de diversões onde terá que lutar para sobreviver contra personagens animatrônicos que ganham vida.
 [/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]B13 – 13º Distrito [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## <
+item><title>[B]B13 – 13º Distrito [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_6ac34686bf26476c9457f04876d511d3/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/AoWK4Y4m3bBRmW1XXcQqXyo9gAj.jpg</thumbnail>
 <fanart>https://www.devotudoaocinema.com.br/content/uploads/2020/03/banlieue-13-david-belle-movies-wallpaper-e9f088cd31aa6d1b168768ef6011664d.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Ninguém consegue controlar o 13º Distrito. A polícia tenta aprender como fazer isto. Dois jovens heróis, nascidos quando aquilo se tornou uma terra de ninguém e lutando contra um governo repressor, têm 24 horas para entrar e salvar o que se tornou um local violento e fora de controle.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Ameaça no Espaço [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Ameaça no Espaço [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_05f8c2abe4fd4dac934f6d0fd4eee7b6/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg</thumbnail>
 <fanart>https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F08%2F41%2F8417516_8F2513875EFDF8D7.jpg&width=1400&height=787&resize=CROP&format=JPEG</fanart>
@@ -158,31 +184,36 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://cinepop.com.br/wp-content/uploads/2020/12/ava-cinepop.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Aves de Rapina Arlequina e sua Emancipação Fantabulosa [COLOR yellow](2020  )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Aves de Rapina Arlequina e sua Emancipação Fantabulosa [COLOR yellow](2020  )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_21960d90ce26406fadbd304792490807/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/02/aves-de-rapina.jpeg</fanart>
 <info>Sinopse : [COLOR yellow][BArlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Bad Boys Para Sempre [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Bad Boys Para Sempre [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_8e43628294664e34ab19824e7c5dd15c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lkWYrzLIclGj56r4NJxuWeisK9R.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/01/bad-boys-para-sempre.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Clube da Luta Para Mulheres [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Clube da Luta Para Mulheres [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_105ff5cb4c714022a5cbb68359a87742/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wxBO1PMNnzHm5zFUzvuXqSTX4jc.jpg</thumbnail>
 <fanart>https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F08%2F55%2F8558151_AA377798C22A25E1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Quando Anna Wyncomb é apresentada a um submundo de luta feminina para lidar com toda a bagunça que está a sua vida, ela percebe que está mais conectada à história do clube do que imaginava, redescobrindo a si mesma, sua força interior e seu verdadeiro propósito.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Destruição Final O Último Refúgio [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Destruição Final O Último Refúgio [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f7fedcfabd554069a4fff9103c1117eb/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sJecw4UYpvTgKE2zS9le44Nwuag.jpg</thumbnail>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2020/11/Critica-%E2%80%98Destruicao-Final-O-Ultimo-Refugio.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Quando cientistas descobrem que um cometa atingirá a Terra em poucos dias e provavelmente causará a extinção da humanidade, uma família tenta cruzar o país para chegar a sua única esperança de sobrevivência: um grupo de abrigos subterrâneos em Greenland.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Embattled [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Embattled [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a4986675e9604b53b5f6de7b4cbca61f/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/Foi2Via2fIACRJMB4934D5MP3j.jpg</thumbnail>
 <fanart>https://otakukart.com/wp-content/uploads/2021/08/Embattled-featured.jpg</fanart>
@@ -213,7 +244,8 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://image.tmdb.org/t/p/w780/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O reinado de Nero. A invasão de Pártia foi um fiasco. Duas legiões romanas foram colocadas em pé ainda nas montanhas nevadas da Armênia, e os homens estão morrendo lentamente no frio. O resto do exército romano está na Síria, a apenas duas semanas de distância, mas as montanhas estão repletas de patrulhas partas. A Noreno, um meio romano, é confiada a missão de atravessar as montanhas para pedir ajuda. No entanto, ele pode não ser a melhor opção, ele é um corredor experiente, mas despreza Roma.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Resgate [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Resgate [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_0746ee1976754bdca6722166308c8b4d/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/Pr28WYfuL6fmkfARZMQThaR8g-o=/1200x630/smart/extras/conteudos/59604b4fa56d10efc0f7f9a57936ca47.jpg</fanart>
@@ -224,43 +256,57 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://nerdbreak.com.br/wp-content/uploads/2021/07/Sobreviva-ou-Morra-Tentando.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela fará de tudo para enfrentar os agressores e salvar seus colegas.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Mulher-Maravilha 1984 [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Mulher-Maravilha 1984 [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_ba25f9a96f6544e9a129ba558f794e2e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
 <fanart>https://br.web.img2.acsta.net/newsv7/20/05/18/22/55/1512808.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Pequenos Grandes Heróis [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Pequenos Grandes Heróis [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e3e804968d1d4167af0aa4facd3e75ba/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qz8V4opEXdcY7qeU5djTdrfmuhX.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/12/we-can-be-heroes-poster-social.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Alienígenas capturam os super-heróis da Terra. Agora, os filhos deles precisam aprender a trabalhar em equipe para salvar os pais, e o planeta.
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]A Arte da Autodefesa[COLOR yellow]( 2019 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_e3514c22d0534d55b4b05d35793ee3e6/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nO0odDuMjyoovWfmCumkvPHJKsj.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/crYw4C6kDys/maxresdefault.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Um homem é atacado na rua e se inscreve em um Dojô – liderado por um sensei carismático e misterioso – num esforço para aprender a se defender. O que ele descobre é um mundo sinistro de fraternidade, violência, hiper masculinidade e uma mulher lutando por seu lugar nele.
 [/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]A Ilha [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]A Ilha [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_ba0d530bb10e436383ebe912115688ed/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wMK1SeyE1MgEuemnmqPQeKiyMLQ.jpg</thumbnail>
 <fanart>https://macmagazine.com.br/wp-content/uploads/2021/04/23-filme.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um jovem pai é acusado de assassinato e deve provar sua inocência, relembrando uma noite muito distorcida e escura de eventos.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]As Panteras [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]As Panteras [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_cddc1756e511494fbcecaa0c3c08dc9c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/y5_U2dRroRWTSa3e3iiEuRmP9g0=/1200x630/smart/extras/conteudos/aspanterasdq_xx0lTZo.png</fanart>
 <info>Sinopse : [COLOR yellow][B]Elena, uma cientista brilhante, inventa Calisto, fonte de energia sustentável revolucionária. Quando sua criação acaba nas mão erradas, ela pede a ajuda das Panteras para evitar que o projeto seja usado como arma de destruição em massa.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Ajuste de Contas  [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Ajuste de Contas  [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_bafa245016a8443d9d273c3924ff3074/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg</thumbnail>
 <fanart>https://rotacult.com.br/wp-content/uploads/2020/04/um-ajuste-de-contas.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um ex-executor de um sindicato do crime local prometeu decretar uma punição aos chefes da máfia depois de 19 anos de prisão injusta. A única coisa que desvia seus planos violentos é um novo relacionamento encontrado com seu amado filho.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Com a cor e a coragem 2 [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Com a cor e a coragem 2 [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b44e246b843a4971b8cc39865581e39c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/xq3gCQrMuQxGZwKlVLC4GtvGQxJ.jpg</thumbnail>
 <fanart>https://is3-ssl.mzstatic.com/image/thumb/Video123/v4/25/59/7d/25597d5e-1cc3-62b2-08ef-7f8766673e08/88664_MLSA_BR_UndercoverBrother2_3840x2160.lsr/1200x675.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma avalanche, o irmão do herói disfarçado, Lionel, enfrenta uma ameaça para a comunidade negra e o mundo: a extrema lucidez.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Cores da Justiça [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Cores da Justiça [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_4e6a73f88fb843b48e188d8926186602/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8O76234aBjceZCEOWmpnj7hnhtv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/7GWDrjxeBsh5onaYf5XHjIM9BA1.jpg</fanart>
@@ -272,13 +318,21 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://www.themoviedb.org/t/p/w780/7GWDrjxeBsh5onaYf5XHjIM9BA1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após presenciar e filmar o assassinato de um jovem traficante por policiais corruptos, a oficial novata Alicia West (Naomie Harris) se une a Mouse (Tyrese Gibson), que está disposto a ajudá-la a escapar dos criminosos que querem vingança e da polícia que deseja destruir a gravação incriminadora.
 [/B][/COLOR]</info></item>
+  ########################################################################################## <
+  item><title>[B]Doom – Aniquilação [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_1d55719a0cdc420086be61a42149c54f/720p/mp4/file.mp4</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStzsZLf43cIVNiEUP_k-uJt2Kxl0sbgRn7HH3uWLxaBFLCAxXd</thumbnail>
+<fanart>https://br.web.img3.acsta.net/pictures/20/01/10/12/15/4582070.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Um grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.
+[/B][/COLOR]</info></item> 
 ########################################################################################## <item><title>[B]El Chicano O Mito [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_71b8e676c064462b904eb96ce8505b28/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iz3P41zgLjkNwr3zmAnesgioDAs.jpg</thumbnail>
 <fanart>https://images.justwatch.com/backdrop/133757837/s1920/el-chicano</fanart>
 <info>Sinopse : [COLOR yellow][B]Um filme sombrio de super-heróis de inspiração urbana, detalhando as façanhas do combate ao crime do misterioso vigilante de bairro conhecido como “El Chicano”.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Homem-Aranha Longe de Casa [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Homem-Aranha Longe de Casa [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_774067b869744b2988175578548ce9e2/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
 <fanart>https://teamcomics.com.br/wp-content/uploads/2021/03/Homem-aranha-longe-de-casa-1-1280x720-2.jpg</fanart>
@@ -290,19 +344,22 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/05/john-wick-3.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após assassinar o chefe da máfia Santino D’Antonio no Hotel Continental, John Wick passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Justiça Brutal [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Justiça Brutal [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_6e091c29bba7427e8246de83efeb39ff/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg</thumbnail>
 <fanart>https://ratoscast.files.wordpress.com/2021/03/dragged-across-concrete-cover.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O veterano policial Brett Ridgeman (Mel Gibson) e seu parceiro mais jovem e volátil, Anthony Lurasetti (Vince Vaughn), são suspensos quando um vídeo de suas táticas de trabalho brutais vira notícia. Sem dinheiro e sem opções, eles decidem entrar para o mundo do crime. Porém, o que eles encontram na criminalidade é algo muito mais obscuro do que esperavam.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]O Grande Mestre 4 A Batalha Final  [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]O Grande Mestre 4 A Batalha Final  [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_2f4e3975acb747b4956f33b3488f1b6d/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg</thumbnail>
 <fanart>https://kungfudoc.com.br/wp-content/uploads/2019/03/Ipman-4-capa.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Donnie Yen reprisa seu papel como o lendário mestre de Wing Chun no grand finale da revolucionária série de artes marciais. Após a morte de sua esposa, Ip Man viaja para São Francisco para aliviar as tensões entre os mestres locais de kung fu e seu aluno estrela, Bruce Lee, enquanto procura um futuro melhor para seu filho. Do visionário de ação por trás de Kill Bill e The Matrix, testemunhe conclusão heróica da saga que inspirou uma nova onda de fãs de filmes de artes marciais.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Operação Fronteira [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Operação Fronteira [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b760d9f1ca88406fab133abbb3fc77cb/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2KfhMmTMNAj3NehyhrYtadDO7yc.jpg</thumbnail>
 <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2019/03/operacao-fronteira-netflix-1.png</fanart>
@@ -314,19 +371,22 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://quartaparede.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/08/30203805/rambo-ate-o-fim-poster-oficial.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Shazam! [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Shazam! [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1e1226ae9e144589aae05eb8b7bdc707/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/04/tilezoom_8eep-1200x675.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Billy Batson (Asher Angel) tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar num super-herói adulto chamado Shazam (Zachary Levi). Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana (Mark Strong).
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Velozes & Furiosos Hobbs & Shaw [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Velozes & Furiosos Hobbs & Shaw [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e7c32dc23d5c4a9390eed316f29e98a0/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/08/cropped-fast-furious-presents-hobbs-shaw-5d3707e673d3e-5.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Desde que se conheceram, em “Velozes & Furiosos 7”, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Sequestro Internacional [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+########################################################################################## 
+item><title>[B]Sequestro Internacional [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_94d6d7c0257a41b1b4014bb5cbcbe190/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/jay8E3DtnFgVfeDInMOOHxVUfn3.jpg</thumbnail>
 <fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27242898.jpg%27&ImageUrl=%27242898.jpg%27&EntityType=%27Item%27&EntityId=%2725106%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
@@ -339,19 +399,22 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F04%2F65%2F4652684_E1FA04027329C50B.jpg&width=1400&height=787&resize=CROP&format=JPEG</fanart>
 <info>Sinopse : [COLOR yellow][B]Asher é um ex-agente da Mossad que virou uma arma para alugar, vivendo uma vida austera em um Brooklyn em constante mudança. Aproximando-se do fim de sua carreira, ele quebra o juramento que fez quando jovem e conhece Sophie em um acidente que deu errado. Para ter amor em sua vida antes que seja tarde demais, ele deve matar o homem que ele era, por uma chance de se tornar o homem que ele quer ser.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Homem-Formiga e a Vespa [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Homem-Formiga e a Vespa [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a3f6d57f369342b28806e549733d230f/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg</thumbnail>
 <fanart>https://i1.wp.com/cloud.estacaonerd.com/wp-content/uploads/2018/05/01111752/thumb_homem-formiga-vespa-poster.jpg?fit=1000%2C600&ssl=1</fanart>
 <info>Sinopse : [COLOR yellow][B]Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Lukas [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Lukas [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1375b3a741af489db97c9e128a39db27/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/xI3aKbmVVQcnTpze5f9gIb5jZZx.jpg</thumbnail>
 <fanart>http://www.c7nema.net/galeria/albums/userpics/10001/Van-Damme-The-Bouncer.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]A trama segue Lukas (Van Damme), um segurança de boate em seus 50 anos e que luta para criar sua filha de 8 anos. Um dia, depois de uma briga ele acaba na prisão, e sua filha é colocada sob os cuidados dos serviços sociais. Mas as coisas mudam quando a Interpol recruta Lukas para derrubar um líder holandês que opera da Bélgica em troca da custódia de sua filha.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Missão Impossível – Efeito Fallout[COLOR yellow]( 2018 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Missão Impossível – Efeito Fallout[COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_2e21927a47de41349265ab86f7769b27/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kVv60GGRuh3kF6KI5Hn2T7QWWx0.jpg</thumbnail>
 <fanart>https://start-tv.net/wp-content/uploads/2018/07/986-545-2.jpg</fanart>
@@ -363,18 +426,27 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/08/o-protetor-2-critica.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Robert McCall agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave, no intuito de encontrar pistas sobre o autor do crime.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Rampage Destruição Total  [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Rampage Destruição Total  [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_ffb2e519bec84674956e83fc107c082a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/yeRW8JhHqQznEdOUe97dLWnyeEq.jpg</thumbnail>
 <fanart>https://i2.wp.com/www.portaldonerd.com.br/wp-content/uploads/2018/04/rampageintposters-imagem01.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Davis Okoye é um primatologista, um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Venom [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Venom [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_2aeedd50e7894a02a509ecb933f5c53a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg</thumbnail>
 <fanart>http://cinemagap.com/wp-content/uploads/2018/12/Venom.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie.
 [/B][/COLOR]</info></item>
+########################################################################################## 
+<item><title>[B]1917[COLOR yellow]( 2019 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_d31fd89979bf48db82c963c9280396aa/720p/mp4/file.mp4</link>
+<thumbnail>https://i.pinimg.com/originals/24/bb/b6/24bbb6f9e59b7b55824474c2ddc1e668.jpg</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2020/01/1917-cinepop5.jpg</fanart>
+<info>Sinopse : [COLOR yellow][BOs cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.
+[/B][/COLOR]</info></item> 
 ########################################################################################## <item><title>[B]Atômica [COLOR yellow]( 2017 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_d7a15850b81a4dbc9c377e1160f9ef65/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/oNPmUi8sADtGNwSGk5qTxxUMlUy.jpg</thumbnail>
@@ -395,19 +467,22 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27208236.jpg%27&ImageUrl=%27208236.jpg%27&EntityType=%27Item%27&EntityId=%2718117%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
 <info>Sinopse : [COLOR yellow][B]Por causa de uma promessa antiga, John Wick viaja para Roma com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Logan [COLOR yellow]( 2017 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Logan [COLOR yellow]( 2017 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a69d6c6b9ea14f32b7ee7d827fa3379f/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg</thumbnail>
 <fanart>https://oquartonerd.com.br/wp-content/uploads/2020/05/Logan.png</fanart>
 <info>Sinopse : [COLOR yellow][B]Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar à ativa, Logan é perseguido pelo mercenário Donald Pierce, interessado na menina.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Triplo X Reativado [COLOR yellow]( 2017 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Triplo X Reativado [COLOR yellow]( 2017 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_605fefa255fd42b8bedd5e5d4bfb7ee0/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/csohoj37afZPMZP5H6STMDEZjdx.jpg</thumbnail>
 <fanart>https://i2.wp.com/cromossomonerd.com.br/wp-content/uploads/2017/09/xXx-Reativado-1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Xander Cage desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal, coloca suas mãos em uma arma indestrutível chamada de Caixa de Pandora. Xander recruta os melhores soldados do mundo para destruir o vilão e paralelamente tem que enfrentar uma resistência formada por governos corruptos de todo o mundo.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Velozes & Furiosos 8 [COLOR yellow]( 2017 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Velozes & Furiosos 8 [COLOR yellow]( 2017 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1daac38d8166497a82b2e63775668db8/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/38RVo4cX1O7Ia6k9WXcxkxprHm.jpg</thumbnail>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2018/08/fc48b65d5e3242e68045e51f64d024ff_compressed.jpg</fanart>
@@ -420,42 +495,69 @@ Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então
 <fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27150547.jpeg%27&ImageUrl=%27150547.jpeg%27&EntityType=%27Item%27&EntityId=%276566%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
 <info>Sinopse : [COLOR yellow][B]Um jovem casal apaixonado americano, Michael (Shawn Lock) e Olivia (María Gabriela de Faría) estão de férias em Baja, mas as coisas tomam um rumo assustador quando Olivia é sequestrada por traficante de drogas, que exige que Michael contrabandeie uma mochila cheia de cocaína roubada de um cartel rival, na fronteira dos EUA dentro de doze horas ou então Olivia será morta.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Capitão América: Guerra Civil [COLOR yellow]( 2016 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Anjos da Noite: Guerras de Sangue [COLOR yellow]( 2016 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_36391216f196434d813ef167aba11205/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mNqzSbagMFI3BbF1SPCRjqHLYlk.jpg</thumbnail>
+<fanart>https://poltronanerd.com.br/wp-content/uploads/2016/10/poltrona-anjos-da-noite-guerra-sangue-trailer-final.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Selene (Kate Beckinsale) é uma guerreira vampira que luta para acabar com a guerra eterna entre o clã Lycan de lobisomens sanguinários e a facção de vampiros que a traiu. Quando um novo levante parece tomar forma, ela irá utilizar sua influência e relacionamento com ambas as partes para negociar um cessar fogo.
+[/B][/COLOR]</info></item 
+########################################################################################## 
+<item><title>[B]Batman vs Superman A Origem da Justiça [COLOR yellow]( 2016 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_a7f6c1336296408b98c99d54ebce4126/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/vh6pjeGH0GQupLepPCZn5PylcRg.jpg</thumbnail>
+<fanart>https://cdn.domtotal.com/img/noticias/2020-05/1443517_445627.jpg</fanart>
+<info>Sinopse : [COLOR yellow][BTemendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um com o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.
+[/B][/COLOR]</info></item>
+########################################################################################## 
+<item><title>[B]Capitão América: Guerra Civil [COLOR yellow]( 2016 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b76e79da4ab644008517f57e5b21757c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/cropped-Guerra-Civil-1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Deadpool [COLOR yellow]( 2016 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Deadpool [COLOR yellow]( 2016 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1e9e038d19b3445eb61a738ebc935791/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/swS3PsQYD3wGEWZwtgpUlGRMv1G.jpg</thumbnail>
 <fanart>https://cinemacomrapadura.com.br/imagens/2016/02/20160211-marvel-deadpool-movie.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Deuses do Egito [COLOR yellow]( 2016 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Deuses do Egito [COLOR yellow]( 2016 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_125e900e9364413cbc8d8263479dbe34/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4xJb2Nll3vHKztHVasHwf6603MB.jpg</thumbnail>
 <fanart>https://cinemacomrapadura.com.br/imagens/2016/02/20160304-deuses-do-egito-img01.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]
 Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um soldado, e que vive em um Egito ancestral dominado por deuses e forças ocultas. Quando o impiedoso Set (Gerard Butler), deus da escuridão, toma o trono da nação e mergulha a sociedade no caos, o jovem se unirá a outros cidadãos e com o poderoso Deus Horus (Nikolaj Coster-Waldau), para formar uma expressiva resistência.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Resident Evil 6 O Capítulo Final [COLOR yellow]( 2016 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Resident Evil 6 O Capítulo Final [COLOR yellow]( 2016 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_320042c65def4eb5947c5bb86c84e17a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2016/11/resident_evil_cartaz.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]007 Contra Spectre [COLOR yellow]( 2015 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]007 Contra Spectre [COLOR yellow]( 2015 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_79eabe8ea635488f828736cc0ed61ef5/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg</thumbnail>
 <fanart>https://criticosbotequim.files.wordpress.com/2015/11/007spectre.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]James Bond chega à Cidade do México e está pronto para eliminar Marco Sciarra sem que o chef M saiba da missão. O caso leva à suspensão temporária do agente, que passa a ser constantemente vigiado pelo governo britânico graças a uma tecnologia implantada em seu corpo por Q. Na tentativa de despistar os inimigos e até mesmo alguns de seus parceiros de trabalho, ele se responsabiliza por ajudar a filha de um desafeto. Toda a situação o leva ao centro de uma temida organização denominada Spectre.
 [/B][/COLOR]</info></item>
-########################################################################################### <item><title>[B]Hacker [COLOR yellow]( 2015 )[/COLOR [/B]</title>
+########################################################################################### 
+<item><title>[B]Hacker [COLOR yellow]( 2015 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a54fa15498874056a698d93c35aac47c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/20M7sHjKS0MvuJEMV66tJFdz8YC.jpg</thumbnail>
 <fanart>https://br.web.img3.acsta.net/r_1280_720/pictures/14/09/29/17/20/106409.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O hacker Hathaway (Chris Hemsworth) é um gênio da codificação que foi condenado a 15 anos de prisão. Para sair da cadeia antes da conclusão da pena, ele aceita identificar e capturar um hacker que tem feito danos virtuais terríveis com consequências catastróficas no mundo real.
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]Homem-Formiga [COLOR yellow]( 2015 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_77a0cd631bd74765899b9d0224252238/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg</thumbnail>
+<fanart>https://www.saladacult.com.br/wp-content/uploads/2015/07/ant-man-2015-marvel-movie.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.
 [/B][/COLOR]</info></item>  
 ##########################################################################################
 <item><title>[B]Velozes & Furiosos 7[COLOR yellow]( 2015 )[/COLOR [/B]</title>
@@ -464,36 +566,68 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://cdn.acritica.net/upload/dn_noticia/2020/04/1587902220.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]300: A Ascensão do Império [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]O Grande Mestre 3 [COLOR yellow]( 2015 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_1ae8cbfd9ff1491d9490ff4c3ffd01c1/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/24E7IAfZsmQIBVydzw994navV5b.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/imuK43bSFxg/maxresdefault.jpg</fanart>
+<info>Sinopse : [COLOR yellow][BDonnie Yen terá uma luta explosiva com o ex-campeão mundial dos pesos pesados de boxe Mike Tyson. E a história ainda abordará parte da juventude do maior discípulo de Yip Man: Bruce Lee.
+[/B][/COLOR]</info></item>  
+########################################################################################## 
+<item><title>[B]300: A Ascensão do Império [COLOR yellow]( 2014 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_65b0c72658cf4996bd26400669ce133e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/l9T9hsVca2mh0S29olWRUE3uBpz.jpg</thumbnail>
 <fanart>https://pausadrammatica.files.wordpress.com/2013/12/2014_300_rise_of_an_empire-wide.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia (Eva Green). Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles (Sullivan Stapleton) é o responsável por liderar os gregos.
-[/B][/COLOR]</info></item> ########################################################################################## 
-########################################################################################## <item><title>[B]Anjos da Lei 2 [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+[/B][/COLOR]</info></item>  
+########################################################################################## 
+<item><title>[B]Anjos da Lei 2 [COLOR yellow]( 2014 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_630d5893644a434aa1988a2a118401d0/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/zuObAfwTarh2OqzxRjT3mhK1xWh.jpg</thumbnail>
 <fanart>https://vejasp.abril.com.br/wp-content/uploads/2016/12/22-jump-street.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Os oficiais Schmidt e Jenko têm agora uma nova missão: se infiltrar em uma faculdade local. O problema é que, em meio à investigação, Jenko conhece sua alma gêmea em plena equipe de atletismo e Schmidt, após se infiltrar no centro de arte boêmia, começa a questionar a dupla. Em meio aos inevitáveis problemas de relacionamento, eles precisam encontrar um meio de desvendar o caso que estão investigando.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Capitão América: O Soldado Invernal [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Capitão América: O Soldado Invernal [COLOR yellow]( 2014 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_cd031ba592b44069aa47ac9166d03130/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iBFPjLLHXkBojKpWDluJxnpM24h.jpg</thumbnail>
 <fanart>https://oquartonerd.com.br/wp-content/uploads/2020/01/Captain-America-The-Winter-Soldier-23.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]O Espetacular Homem-Aranha 2: A Ameaça de Electro [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]O Espetacular Homem-Aranha 2: A Ameaça de Electro [COLOR yellow]( 2014 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1770a3db81834891b7832b4a91e17c9c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lDbcaBs1IdBZccCM1R417XmPxKF.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2020/11/O-Espetacular-Homem-Aranha-2-A-Ameaca-de-Electro.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Peter Parker está fascinado com as habilidades de Homem-Aranha. Porém, ele tem que lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]O Protetor [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]John Wick: De Volta ao Jogo  [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_07022a5f6bc14a5497ea58d88f5b385a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-pPzNDA499Ms/W2ukCIAYbGI/AAAAAAAABbA/HuqFnJavc7I2YQfVnBkE6OE_2SRvX6WDgCLcBGAs/s1600/De%2BVolta%2Bao%2BJogo.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
+[/B][/COLOR]</info></item> 
+########################################################################################## <item><title>[B]Os Mercenários 3 [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_70f38a1efe574955a98ca33ec071ea7a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2020/03/Os-Mercen%C3%A1rios-3.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Barney e sua trupe de mercenários resgatam Doc, um dos integrantes do grupo, que estava preso há oito anos. Ao participarem de uma missão, os mercenários são surpreendidos quando reencontram Conrad, um comerciante de armas impiedoso, que Barney pensava ter matado. Novos membros, mais jovens e mais rápidos, entram para equipe e um novo duelo começa.
+[/B][/COLOR]</info></item>  
+########################################################################################## <
+item><title>[B]O Protetor [COLOR yellow]( 2014 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_20bd11e24dc84f02a56f1bb68e7afb5c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-Jg8YYx4a1qg/VXSPGOX9mXI/AAAAAAAAJ_I/SGacFi3Ffss/s1600/O%2BProtetor%2B-%2BEqualizer%2B-%2Bsatelitevertebral.blogspot.com%2B%252811%2529.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.
 [/B][/COLOR]</info></item>
+############################################################ 
+<item><title>[B]Rampage 2: A Punição [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_2390384413cf41718e84bbe86e06baca/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gEFrRSwM9R6SiYOjoyOGZUefhDx.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/69fdfedd9032f8ec9ede44b5737b6f6493c0ae338e27a209d45bdd912f02dee3._RI_V_TTW_.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]O violento anti-herói Bill Williamson tem um plano para mudar o mundo se vingando dos ricos e dilacerando Washington. Ele faz alguns reféns e os usa como plataforma política para disseminar sua mensagem e acordar a humanidade. É hora de destruir o sistema, e a mudança não vai acontecer de forma pacífica.
+[/B][/COLOR]</info></item
 ########################################################################################## 
 <item><title>[B]Homem de Ferro 3 [COLOR yellow]( 2013 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_9994ebb6fab44d408bf04e28f629f3b8/720p/mp4/file.mp4</link>
@@ -507,24 +641,36 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://entreterse.com.br/wp-content/uploads/2019/08/Velozes-e-Furiosos-6-e1566615746149.jpeg</fanart>
 <info>Sinopse : [COLOR yellow][B]Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com US$100 milhões, a equipe se espalhou pelo mundo. Um dia, Hobbs pede a Dom que reúna um grupo de elite em Londres e apreenda uma organização de mercenários nas ruas, cujo mentor é apoiado por Letty, a antiga namorada de Dom que ele acreditava estar morta. A recompensa? Absolvição a todos eles para poderem voltar para as suas casas e tornarem suas famílias completas novamente.
 [/B][/COLOR]</info></item
-########################################################################################## <item><title>[B]Wolverine: Imortal [COLOR yellow]( 2013 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Wolverine: Imortal [COLOR yellow]( 2013 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_d76d691155c44ecf90a37c700fd0207e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sXieFnaJsDMeBxxaBumm8JB4fL9.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.
-[/B][/COLOR]</info></item> > ########################################################################################## <item><title>[B]007 – Operação Skyfall [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+[/B][/COLOR]</info></item> >
+########################################################################################## 
+<item><title>[B]007 – Operação Skyfall [COLOR yellow]( 2012 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1fbe88716f4649ffbd88318b1ba9be9b/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/waOFaJB4FRPyA2KylJncSG57mj0.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-LENZGjLLCPc/UQp1-Jv0OcI/AAAAAAAAANQ/zuM0XDl4uTI/s1600/james-bond-007-skyfall-wallpaper-5.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após uma missão mal sucedida de James Bond, a identidade de agentes secretos é revelada e o M16, atacado. Ajudado por um agente de campo, Bond deverá seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Anjos da Lei [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Anjos da Noite: O Despertar [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_1a001c38fd2849dfa1692f2ce47c908a/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/u6GY91MCrmUdMeUIxbw9JXvblES.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-s9zeAK_VAs0/X6V33QhYQCI/AAAAAAAAB2M/MXOxaAM6-64XHWc4DWDgl7zkXmANGfHhwCLcBGAsYHQ/s1920/1.jpg</fanart>
+<info>Sinopse : [COLOR yellow][BApós ser mantida em estado de coma por quinze anos, a vampira Selene (Kate Beckinsale) descobre que ela possui uma filha de quatorze anos, híbrida de vampiro e lobisomem. Com a ajuda dela, Selene deve impedir a empresa BioCom de criar super lobisomens que possam matar todos os vampiros
+[/B][/COLOR]</info></item>
+########################################################################################## 
+<item><title>[B]Anjos da Lei [COLOR yellow]( 2012 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_7096135db719420f88cfc61e8bdca05b/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/y3rFfmfBmjClMIXjJb80DBUwFQh.jpg</thumbnail>
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2019/01/jumpstreet_a.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Jenko (Channing Tatum) e Schmidt (Jonah Hill) estudaram juntos, mas jamais foram amigos. A situação muda quando se reencontram na academia de policiais, onde passam a ajudar um ao outro. Já formados, se envolvem em uma confusão ao tentar realizar a prisão de um traficante de drogas, que atuava no parque onde trabalhavam. Remanejados para uma divisão comandada pelo capitão Walters (Ice Cube), onde jovens policiais trabalham infiltrados, eles recebem a missão de desvendar quem é o fornecedor de uma nova e perigosa droga. De volta ao ambiente escolar e atuando sob nomes falsos, Jenko e Schmidt precisam se acostumar aos novos tempos sem perder o foco na tarefa que lhes foi incumbida.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Batman: O Cavaleiro das Trevas Ressurge [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Batman: O Cavaleiro das Trevas Ressurge [COLOR yellow]( 2012 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_0e212d418dad4dd5acfee192d1aa6eab/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/zRwO5BPPgkTNo1PoomZPE7wkKvQ.jpg</thumbnail>
 <fanart>http://clubecinema.com.br/wp-content/uploads/2014/11/bat3.jpg</fanart>
@@ -537,13 +683,29 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://serialcookies.com.br/wp-content/uploads/2012/05/MIB3.jpeg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um extraterrestre planeja voltar no tempo para assassinar o Agente K, mudando o curso da História e colocando a humanidade em risco. Para salvar não apenas a vida do parceiro, mas também o mundo, o Agente J também viaja ao passado para impedir o crime.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Os Mercenários 2 [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]O Espetacular Homem-Aranha [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_3372321f288f4ca99f3424798acd1ed5/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
+<fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/2017/10/Spider2-894x545.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]Os Mercenários 2 [COLOR yellow]( 2012 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b85c184b5f524eafb152aa23673c4164/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg</thumbnail>
 <fanart>https://www.proibidoler.com/wp-content/uploads/2014/08/Mercen%C3%A1rios-2.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O grupo de mercenários se unem para evitar que um criminoso roube uma grande quantidade de plutônio, que possibilitaria a produção de armas nucleares. Após o assassinato de um amigo e o sumiço do mapa que leva ao plutônio, o grupo sai em busca de vingança.
-[/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]Capitão América: O Primeiro Vingador [COLOR yellow]( 2011 )[/COLOR [/B]</title>
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]Resident Evil 5 Retribuição [COLOR yellow]( 2012 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_5010afa6825245048f9e276b9bac7f57/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
+<fanart>https://images3.alphacoders.com/218/thumb-1920-218069.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.
+[/B][/COLOR]</info></item>     
+########################################################################################## 
+<item><title>[B]Capitão América: O Primeiro Vingador [COLOR yellow]( 2011 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_33b50b377d1c406bbd55de033339abbf/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
 <fanart>https://cinematologia.com.br/cine/wp-content/uploads/2019/04/value.jpg</fanart>
@@ -555,102 +717,146 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>http://www.pilulapop.com.br/wp-content/uploads/2011/05/poster-nacional-velozes-e-furiosos-5-operacao-rio.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Desde que o ex-policial Brian O’Conner e Mia Torretto libertaram Dom da prisão, eles viajam pelas fronteiras para fugir das autoridades. No Rio de Janeiro, eles fazem um último trabalho antes que possam ganhar sua liberdade definitiva. Montando sua equipe de elite de pilotos de carro, Brian e Dom sabem que têm de enfrentar o empresário corrupto que quer vê-los mortos, antes que o agente federal em sua trilha os encontre.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Homem de Ferro 2 [COLOR yellow](2010  )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Homem de Ferro 2 [COLOR yellow](2010  )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a3cb020430764d15b270360e6f28793c/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/10/iron-man-2.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.
-[/B][/COLOR]</info></item>       
-########################################################################################## <item><title>[B]Resident Evil 4 Recomeço[COLOR yellow]( 2010 )[/COLOR [/B]</title>
+[/B][/COLOR]</info></item>  
+########################################################################################## 
+<item><title>[B]O Grande Mestre 2 [COLOR yellow]( 2010 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_ac9aa54f963c45e6a3c36260b9d2c527/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ik2fNhSATobUCukor4pKjT82Tvb.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tlmywtxx4gs/maxresdefault.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Ip Man imigra para Hong Kong em 1949, depois dos conflitos com os japoneses. Em Hong Kong, ele intenciona propagar sua disciplina Wing Chun de artes marciais para o mundo, mas ele esbarra no ciúme dos seus rivais e na opressão dos britânicos.
+[/B][/COLOR]</info></item>      
+########################################################################################## 
+<item><title>[B]Resident Evil 4 Recomeço[COLOR yellow]( 2010 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_cee133ed4c01483c9801ea30bb8d265a/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/diPrexFmSxHylFEoxVXta0Ok3hw.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-smL8k2UkIgY/V8ZhiTLvlhI/AAAAAAAAIf8/hqmBX_FZ03c6aJo10R0UZ8gLjrQ9lcmpQCLcB/s1600/389536.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Os Mercenários [COLOR yellow]( 2010 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Os Mercenários [COLOR yellow]( 2010 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_7ee8df08a9ca47d5b5558c34b8cc9ab3/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg</thumbnail>
 <fanart>https://spinoff.com.br/wp-content/uploads/OsMercenarios-1200x683.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um grupo de mercenários, liderado por Barney Ross, e seus homens de confiança aceitam uma missão que parece ser rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Salt [COLOR yellow]( 2010 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Salt [COLOR yellow]( 2010 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_26250c8a6bd7456fa12e672d09e86100/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5tmhUKYklYebFdF4tEUs4f9Om43.jpg</thumbnail>
 <fanart>https://i0.wp.com/3.bp.blogspot.com/-ER_9ezBrC-g/V2cFzH7FknI/AAAAAAAABYg/OM_mn7rCFpQwBsJsPEwO8SCLxeBP_uQqACLcB/s1600/salt-504e8b08a35ee.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]13º Distrito – Ultimato [COLOR yellow]( 2009 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]13º Distrito – Ultimato [COLOR yellow]( 2009 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_264a626387994d9592d1923a8f0e2e0e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/dCg2m9xDFlgwYdKld785Q7Ys56U.jpg</thumbnail>
 <fanart>https://c4.wallpaperflare.com/wallpaper/507/211/832/movie-district-13-ultimatum-wallpaper-preview.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Paris, 2016. O governo continua mantendo criminosos de várias etnias e crenças num bairro cercado por muros, o B13. Contudo, um plano radical está em curso para exterminar todos em prol de um programa de reconstrução do bairro. O capitão Damien Tomaso (Cyril Raffaelli) e seu parceiro Leïto (David Belle) se envolvem numa trama de conspiração e união entre inimigos, em busca de uma solução para o problema.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Anjos da Noite A Rebelião [COLOR yellow]( 2009 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Anjos da Noite A Rebelião [COLOR yellow]( 2009 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_c58ed6f02fb241179cae95cffeb49ee0/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/atPv2WJzlD76ZQP3wjaixZooR1l.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/c7JgVgsF2qMp2UbCr9mCx85CIZo.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Viktor, o cruel rei dos vampiros, tem perseguido e escravizado os lycans, uma linhagem de lobisomens nascidos humanos, por séculos. Este tirano ancião exige prata dos nobres, com o propósito de manter o controle dos seus escravos bestiais. Enquanto cresce, o jovem Lucian se apaixona pela filha de Viktor, Sonja, uma vampira insubordinada e imprudente. Juntos, Sonja e Lucian orquestram uma batalha épica, que marca o início de uma longa guerra entre vampiros e lobisomens.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Anaconda 4: Rastro de Sangue [COLOR yellow]( 2009 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Anaconda 4: Rastro de Sangue [COLOR yellow]( 2009 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_6265658d8a6a4f549f5c4ceb36190767/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rCp9VYqvBphiETtC86fGZFSXc63.jpg</thumbnail>
 <fanart>https://blogdokira250242846.files.wordpress.com/2021/07/imagem.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BMurdoch (John Rhys-Davies) está convencido a alcançar a imortalidade pelos poderes regenerativos de uma rara espécie de orquídea. Para comprovar sua teoria, testa um soro experimental em um filhote de cobra. O que ele não sabe é que a inofensiva serpente sofre uma mutação que a faz crescer muito e a deixa praticamente invencível, já que quando cortada ao meio, ela se regenera, criando duas cobras gigantes e agressivas. A herpetologista Amanda (Crystal Allen) e sua equipe devem investigar o caso e impedir que esta nova espécie se prolifere.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Rampage: Sede de Vingança [COLOR yellow]( 2009 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Rampage: Sede de Vingança [COLOR yellow]( 2009 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a4f6dfade9cc4f0da39b1a90ee4273de/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fpjwcFHNqYJKqMF7EIiQNjYjEeR.jpg</thumbnail>
 <fanart>https://www.justwatch.com/images/backdrop/95412724/s640/rampage-sede-de-vinganca</fanart>
 <info>Sinopse : [COLOR yellow][B]Um homem constrói uma armadura e sai em uma matança desenfreada. O tédio da vida de cidade pequena está comendo Bill Williamson vivo. Sentindo-se constrangido e claustrofóbico em seu cotidiano, Bill entra em um estado de loucura e coloca em prática seu violento plano que pode abalar os alicerces da sociedade, pintando as ruas de sangue.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]X-Men Origens: Wolverine [COLOR yellow]( 2009 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]X-Men Origens: Wolverine [COLOR yellow]( 2009 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_07e6c34b7e3b466fa72ea15ae3ecfb8f/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg</thumbnail>
 <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2018/02/v-x-men-wolverine-1-1210x540.jpeg</fanart>
 <info>Sinopse : [COLOR yellow][B]Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.
 [/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]Anaconda 3 [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Anaconda 3 [COLOR yellow]( 2008 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_d9e04261e2d340e7812a1c4238998b46/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gaDcpcw14XdVk4EjJhNzLtmXeDI.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-u1ybHrVl7Xs/V98eIe7E5xI/AAAAAAAASTc/vVZ99GBz0TEAQnYa_gbZGpSnJll6mEL2ACLcB/s1600/Anaconda%2B3.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em um laboratório de pesquisas secretas no interior da Europa, duas cobras rei e rainha (macho e fêmea) gigantescas são submetidas a testes por um brilhante cientista. Mas o gerente de finanças abusa da experiência, e as serpentes escapam, então uma equipe é contratada para matar a cobra, juntamente com Amanda, que ajudou a criar as cobras, após um momento de terror e sangue, chega mais um para completar a equipe, é Hammett,um caçador. Será que eles conseguirão acabar com a ameaça das anacondas?
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]O Caminho do Guerreiro [COLOR yellow]( 2010 )[/COLOR [/B]</title>
+##########################################################################################
+<item><title>[B]O Caminho do Guerreiro [COLOR yellow]( 2010 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_6d8f991ed7a841569292a9391ef0e87b/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gFB9jjKPuGWBUVmIcRHtMQZglin.jpg</thumbnail>
 <fanart>http://images4.fanpop.com/image/photos/16700000/The-Warrior-s-Way-the-warriors-way-16796681-980-561.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Na trama, um assassino oriental é forçado a fugir de seu país em direção à América, onde se esconde no oeste dos Estados Unidos. Mas as forças que o perseguiam não tardam a surgir no novo continente.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Batman: O Cavaleiro das Trevas [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>Velozes & Furiosos 4[COLOR yellow]( 2009 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_9cbe13e01dcd4d12936a4f204258f86d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/09/Velozes-e-Furiosos-4-e1567792881143.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Depois de ser visto rumo ao México no filme que deu origem a série, Dominic “Dom” Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O’Conner numa perigosa missão.
+[/B][/COLOR]</info></item>  
+########################################################################################## 
+<item><title>[B]007 – Quantum of Solace [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_0ca7d3246db7475398135bd3c7e6257b/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg</thumbnail>
+<fanart>https://isabelaboscov.files.wordpress.com/2015/10/quantum_feat.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Após a morte de Vesper Lynd, James Bond faz com que sua próxima missão seja pessoal. A caçada àqueles envolvidos na morte da mulher de sua vida o leva ao encontro do cruel empresário Dominic Greene, que faz parte da organização que coagiu Vesper. Bond descobre que Greene planeja obter o controle total de um recurso natural vital e deve enfrentar perigo e traição para frustrar o plano.
+[/B][/COLOR]</info></item>
+########################################################################################## 
+<item><title>[B]Batman: O Cavaleiro das Trevas [COLOR yellow]( 2008 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_ae55be85fbe24e42bd177ef52ba2051b/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2015/07/120-batman-o-cavaleiro-das-trevas.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Homem de Ferro [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Homem de Ferro [COLOR yellow]( 2008 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_3b1a9e4705344977939193d695ac528f/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/imYhKyT1tjFX3QLgzwIDa7JZhxi.jpg</thumbnail>
 <fanart>https://entreterse.com.br/wp-content/uploads/2019/09/Homem-de-Ferro-2008-r.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.
 [/B][/COLOR]</info></item>       
-########################################################################################## <item><title>[B]O Incrível Hulk [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]O Incrível Hulk [COLOR yellow]( 2008 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_3dd9e151817f4cd4a6f0b32be057ba19/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/b8RddLhz0bHigZwltYlngPZJII0.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/04/the-incredible-hulk-2008-1528814757774.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.
 [/B][/COLOR]</info></item>
- ########################################################################################## <item><title>[B]O Grande Mestre [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+ ########################################################################################## 
+ <item><title>[B]O Grande Mestre [COLOR yellow]( 2008 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_c8cb9de27f3d4f18a90d0dfbd27f51fc/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3v06xJfco8hMDaMYOdUaxquh7hx.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2016/06/o_grande_mestre_ip_man_2008_plano_critico.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Yip Man, um grande mestre da arte marcial Wing Chun, vive em Foshan, na província de Guangdong, no sul da China. Foshan é um famoso centro de aprendizagem para várias disciplinas marciais, mas Man é o mais respeitado dos professores da cidade. Sua vida é complicada pela desaprovação de sua esposa, bem como a presença em Foshan de Jin Shan Zhao, um mestre do norte, que está determinado a desafiar a supremacia de Man.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Rambo IV [COLOR yellow]( 2008 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Rambo IV [COLOR yellow]( 2008 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_05336890989d4948a979fb2630f8912b/480p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/n8oAmmvqPF2PQuUn7p73wdbgciU.jpg</thumbnail>
 <fanart>https://wallpaperaccess.com/full/1794443.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]John Rambo leva uma vida simples e solitária. Até que surgem dois missionários que desejam levar alimentos e remédios às pessoas afetadas pela guerra civil na fronteira com a Birmânia. Rambo aceita a proposta de levá-los pelo rio. Mas 10 dias depois os missionários foram capturados. Agora Rambo deve participar da operação de resgate.
 [/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]Velozes & Furiosos: Desafio em Tóquio[COLOR yellow]( 2006 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_09dc73d8e7ec4d239b748fece9f6780e/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27207318.jpg%27&ImageUrl=%27207318.jpg%27&EntityType=%27Item%27&EntityId=%273875%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>Sinopse : [COLOR yellow][B]Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele.
+[/B][/COLOR]</info></item>
 ########################################################################################## 
 <item><title>[B]Homem-Aranha 3 [COLOR yellow]( 2007 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e8173391d7794a0cb0235179a985fde8/720p/mp4/file.mp4</link>
@@ -658,7 +864,8 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://sitetarjanerd.com.br/wp-content/uploads/2017/05/Black-Spiderman-in-Rain.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.
 [/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]Mandando Bala  [COLOR yellow]( 2007 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Mandando Bala  [COLOR yellow]( 2007 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_0f045a887db64f8da70a0734e97658d6/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/eBxF52lkCwVGNPBXmqnrdllW483.jpg</thumbnail>
 <fanart>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/63/12/41/18799364.jpg</fanart>
@@ -671,31 +878,50 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://1.bp.blogspot.com/-Rzjz7NpE-YE/WwNbuPYWmxI/AAAAAAAABuQ/dDLyBWCqoqwR3YGufLP55_mlclIWjh5tQCLcBGAs/s1600/2007_death_proof_001.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Ao cair da noite, Jungle Julia, a DJ mais sexy de Austin, pode enfim se divertir com as suas duas melhores amigas. As três garotas saem noite adentro, atraindo a atenção de todos os freqüentadores masculinos dos bares e boates do Texas. Mas nem toda a atenção é inocente. Cobrindo de perto seus movimentos está Stuntman Mike, um rebelde inquieto e temperamental que se esconde atrás do volante do seu carro indestrutível.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Resident Evil 3 A Extinção [COLOR yellow]( 2007 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Resident Evil 3 A Extinção [COLOR yellow]( 2007 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_8474b8c1142647e2bee540c15f187a92/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qetrFNiG9kbsI5nyM853S0N9ydP.jpg</thumbnail>
 <fanart>https://images2.alphacoders.com/805/thumb-1920-805023.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que o vírus que transforma humanos em aterrorizantes zumbis contamine todo o mundo.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Sentença de Morte [COLOR yellow]( 2007 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Sentença de Morte [COLOR yellow]( 2007 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_bce8f7e6df9348529e27bd3a66374727/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/418SAp2w6wBH0iRLn0TMtoj5uCC.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BNmNhODllZmEtZmIzNC00YTgxLWFmNTUtNDYyOTdkOWQxOWY0XkEyXkFqcGdeQXVyNjY1OTEzMzc@._V1_.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Nick Hume (Kevin Bacon) é funcionário administrativo feliz com a sua vida. Isso muda após o assassinato do seu filho. O seu único consolo é a captura do homem responsável pelo crime, mas o Departamento de Justiça oferece ao homicida um acordo que o fará cumprir somente 6 meses de cadeia. Hume quer vingança, o que poderá destruí-lo e acabar com o resto de sua família.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]007: Cassino Royale [COLOR yellow]( 2006 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Anjos da Noite A Evolução [COLOR yellow]( 2006 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_72c2fe436bf249889a407db6ff576275/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/bI2VTnT7EjYt4ZJEHn0cmJQYqpV.jpg</thumbnail>
+<fanart>https://static.wixstatic.com/media/7e1518_87101df4049044febcafdbe5a4f4060c~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/7e1518_87101df4049044febcafdbe5a4f4060c~mv2.jpg</fanart>
+<info>Sinopse : [COLOR yellow][BApós o final do primeiro filme, a união de Selene a vampira e seu namorado Michael o vampiro-lobisomen terá de ser mais forte que o amor. Os dois terão de enfrentar uma legião de vampiros e lobisomen, e a evolução das espécies. Além disso, o centenário vampiro Marcus desperta de seu sono, pronto para matá-los.
+[/B][/COLOR]</info></item>
+##########################################################################################  
+<item><title>[B]300[COLOR yellow]( 2006 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_8849a77ff94f4bae9b20f4ac2336cf4d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg</thumbnail>
+<fanart>https://images4.alphacoders.com/102/thumb-1920-102036.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Em 480 a.C., Leônidas, o rei de Esparta, comanda seu pequeno batalhão de 300 soldados contra um exército de mais de 1 milhão na Batalha das Termópilas.
+[/B][/COLOR]</info></item>
+########################################################################################## 
+<item><title>[B]007: Cassino Royale [COLOR yellow]( 2006 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b046881bc1324c2abd6ea5b6311def6c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg</thumbnail>
 <fanart>http://engenhariadocinema.com.br/wp-content/uploads/2020/06/007cassinoroyale.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Depois de obter o status 00 e uma licença para matar, o agente secreto James Bond parte em sua primeira missão como 007. Bond precisa derrotar um banqueiro privado que financia terroristas em um jogo de pôquer de alto risco no Casino Royale, Montenegro.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Batman Begins [COLOR yellow]( 2005 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Batman Begins [COLOR yellow]( 2005 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_94c26e5826ad4b55b70ce24d447867be/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg</thumbnail>
 <fanart>https://www.tricurioso.com/wp-content/uploads/2020/06/batman-begins-confira-as-melhores-curiosidades-sobre-o-longa-tricurioso.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Cão de Briga[COLOR yellow]( 2005 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Cão de Briga[COLOR yellow]( 2005 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_62d1b1c567db4f1a9fcc06d34af85b3d/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c23c8ac07d49db7fc3ebcdf2e198919e4e3d86a35b08c98e590e3360427bd61c._V_SX1080_.jpg</fanart>
@@ -708,37 +934,43 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>http://4.bp.blogspot.com/-4mJd23Jxg14/Va0Vog5nx1I/AAAAAAAAJjc/l0H_5MUIF-k/s1600/elektra_movie_adagas.png</fanart>
 <info>Sinopse : [COLOR yellow][B]Torturada pelo passado, Elektra (Jennifer Garner) é obcecada por sua morte e seu misterioso renascimento. Apesar de ter sido treinada na rígida disciplina do ninjutsu, ela não consegue controlar a fúria que sente pela morte dos pais. Sua ânsia por vingança faz com que parta para o exílio e se torne uma perigosa assassina profissional. Seu novo alvo é Abby (Kirsten Prout), uma garota de apenas 13 anos, e seu pai, Mark (Goran Visnjic), os quais precisam salvar de um perigoso inimigo, que possui poderes sobrenaturais.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Triplo X 2: Estado de Emergência [COLOR yellow]( 2005 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Triplo X 2: Estado de Emergência [COLOR yellow]( 2005 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_4aedcb26230d4e5faaf7da58f591184d/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fnSzxO7T9AsRv4QbSILloZhgAAc.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/txquK_u5pOc/maxresdefault.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O presidente dos Estados Unidos está recebendo ameaças de um grupo de dissidentes radicais engajados no próprio governo. Após sobreviver a um atentado ao quartel-general da Agência de Segurança Nacional, Augustus Gibbons precisa novamente encontrar um pária que possa ajudá-lo. O escolhido é Darius Stone, um condecorado soldado de Operações Especiais que está em uma prisão militar, sob pesada vigilância. Ao ser solto, o novo agente Triplo X precisa se infiltrar para identificar os rebeldes.
 [/B][/COLOR]</info></item>  
-########################################################################################## <item><title>[B]Homem-Aranha 2 [COLOR yellow]( 2004 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Homem-Aranha 2 [COLOR yellow]( 2004 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_ee56422c5e8640ba9b6b544b129ab4ca/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/y06FivvCfqapHB3iETOtbAqWdkD.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/spider-man-2-503bb08d5950c.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após derrotar o Duende Verde a vida de Peter Parker muda por completo. Temendo que Mary Jane sofra algum risco por ser ele o Homem-Aranha, Peter continua escondendo o amor que sente e se mantém longe dela. Ao mesmo tempo precisa lidar com Harry, seu melhor amigo, cuja raiva pelo Homem-Aranha aumenta cada vez mais por considerá-lo como sendo o assassino de seu pai.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Kung-Fusão [COLOR yellow]( 2004 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Kung-Fusão [COLOR yellow]( 2004 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_2e8b7b6bc0b0494981ea5cb1d41e4c01/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/1cSHYv1FSgFNUmTe43lE7jhsaIw.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/02/Kung-Fusao.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em uma cidade controlada pela gangue Axe, Sing (Stephen Chow) quer desesperadamente se tornar um membro. Ele vai para um cortiço comandado por excêntricos senhorios que se revelam mestres do kung fu disfarçados. As ações de Sing eventualmente acabam provocando um explosivo confronto de kung fu entre a gangue Axe e os senhorios. Apenas um lado irá vencer e apenas um herói irá emergir como o maior mestre do kung fu de todos.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Resident Evil 2 Apocalipse [COLOR yellow]( 2004 )[/COLOR [/B]</title>
+##########################################################################################
+<item><title>[B]Resident Evil 2 Apocalipse [COLOR yellow]( 2004 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_b9839682afac4d53b0e32c27dcfeeea1/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ppAMfnKoXkDX5Mh3zr7Qqy4umw6.jpg</thumbnail>
 <fanart>https://tudosobreresidentevil.files.wordpress.com/2012/08/resident-evil-2-apocalypse.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Desde que foi capturada pela Corporação Umbrella, Alice passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine e Carlos Olivera para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]As Panteras: Detonando [COLOR yellow]( 2003 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]As Panteras: Detonando [COLOR yellow]( 2003 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_4eb34459aa474a8aacb0ce26cb9fa12f/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kQod9Q0EI2S63zefzlmyujFH2zH.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/PMBkSzNH4eattp7ofGZ-B3DnXTI=/1200x630/smart/extras/conteudos/as-panteras-2000.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após um arquivo do sistema de proteção à testemunha ser roubado do Governo dos Estados Unidos, uma série de cinco assassinatos de participantes do programa ocorre. Para desvendar o caso é contratada a Agência de Detetives Charles Townsend, que coloca Natalie (Cameron Diaz), Dylan (Drew Barrymore) e Alex (Lucy Liu) na investigação. A principal suspeita de ter cometido o roubo e os assassinatos é Madison Lee (Demi Moore), uma ex-pantera que deixou a agência tempos atrás para entrar no mundo do crime.
 [/B][/COLOR]</info></item> 
- ########################################################################################## <item><title>[B]Anjos da Noite Underworld [COLOR yellow]( 2003 )[/COLOR [/B]</title>
+ ########################################################################################## 
+ <item><title>[B]Anjos da Noite Underworld [COLOR yellow]( 2003 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_300cccda7cec4901974f5adc88f355dc/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg</thumbnail>
 <fanart>https://pontosdecontato.com.br/wp-content/uploads/2019/12/Design-sem-nome-2019-12-01T163039.705.jpg</fanart>
@@ -749,31 +981,43 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://www.cineset.com.br/wp-content/uploads/2020/03/Advogado-de-Defesa-Hulk-2003-Ang-Lee.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]Lara Croft: Tomb Raider – A Origem da Vida [COLOR yellow]( 2003 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Lara Croft: Tomb Raider – A Origem da Vida [COLOR yellow]( 2003 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_bd7da26ccd0b4754886188e0c5a6b659/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/vDySYjyo0tYKG9QcyF9S4q9RtVk.jpg</thumbnail>
 <fanart>https://deveserisso.com.br/blog/wp-content/uploads/2020/03/lara-croft-tomb-raider-a-origem-da-vida.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BA arqueóloga Lara Croft precisa encontrar a Caixa de Pandora, famosa por conter em seu interior todos os males do mundo. O objeto está escondido em um local conhecido como Origem da Vida, localizado no continente africano. Porém em sua jornada, Croft terá que enfrentar o Dr. Jonathan Reiss, um cientista ganhador do Prêmio Nobel que também está atrás do objeto.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]007 – Um Novo Dia Para Morrer [COLOR yellow]( 2002 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]007 – Um Novo Dia Para Morrer [COLOR yellow]( 2002 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_831e5bdbcb294ce7bdc480f5ea18600e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/MqdoX9TD-TOmSUZqoWDMnnphNpo=/1200x630/smart/extras/conteudos/conteudo_22146.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após se libertar de uma prisão na Coreia do Norte, James Bond entra em ação para perseguir o maligno Gustav Graves, que está desenvolvendo uma arma de alta tecnologia capaz de colocar o mundo em risco.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Homem-Aranha  [COLOR yellow]( 2002 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Velozes +Furiosos[COLOR yellow]( 2003 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_01a8d0a5d092466086eaea17384f3fd5/1080p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg</thumbnail>
+<fanart>https://justalrightreviewsdotcom.files.wordpress.com/2017/04/2-fast-2-furious.png</fanart>
+<info>Sinopse : [COLOR yellow][B]Após deixar a polícia, Brian O’Conner é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone, o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce e da agente secreta Monica Fuentes.
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]Homem-Aranha  [COLOR yellow]( 2002 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_015ad7696d354d9e9e4d319c3ac8cac6/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/1Q4Cf7hFbYMi3B4gmTlGOep43Qn.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2017/06/plano-cr%C3%ADtico-homem-aranha-2002.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Triplo X [COLOR yellow]( 2002 )[/COLOR [/B]</title>
+##########################################################################################
+<item><title>[B]Triplo X [COLOR yellow]( 2002 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_8c79e296f4e445a49e308a7a39f1c8d5/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pidUN1PgLjSld1OX22j6RycK7qd.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/705/705847.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O ex-atleta de extremos esportes Xander ” XXX” Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que ele possa ter sucesso onde outros espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Alistado em uma perigosa missão secreta, ele precisa usar todas as suas habilidades extremas para combater o inimigo.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Resident Evil O Hóspede Maldito [COLOR yellow]( 2002 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Resident Evil O Hóspede Maldito [COLOR yellow]( 2002 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_cdde3b3febc74b3880a3b013a882b61a/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/9vJX0Q9LSoOlTio8cTAm2ms0sWz.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-4ZwDMa_MEEo/WIoSyg_f5zI/AAAAAAAAstw/5Mo-k9vL95grXw6BCw0or0UT1W0vKT6dwCLcB/s1600/Resident%2BEvil%2BO%2BH%25C3%25B3spede%2BMaldito%2B%25282002%2529%2BCAPA%2B-%2BC%25C3%25B3pia.jpg</fanart>
@@ -786,13 +1030,15 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://www.planocritico.com/wp-content/uploads/2015/11/154-Velozes-Furiosos.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Dominic Toretto é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian O’Conner, que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes ou se há alguém mais por trás deles.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Gladiador [COLOR yellow]( 2000 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Gladiador [COLOR yellow]( 2000 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_054ee8c991614c03af8b94553519f3aa/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg</thumbnail>
 <fanart>https://www.einerd.com.br/wp-content/uploads/2017/03/Gladiador.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Batman: O Retorno [COLOR yellow]( 1992 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Batman: O Retorno [COLOR yellow]( 1992 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_64c1d53dc3aa4e549b3296f24e206c67/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/s6nN7EG1J2jCXzqHee8JHSrkcx2.jpg</thumbnail>
 <fanart>https://kanto.legiaodosherois.com.br/w1200-h628-cfill/wp-content/uploads/2020/04/legiao_z7G2qIapErb6.jpg.jpeg</fanart>
@@ -805,489 +1051,69 @@ Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um solda
 <fanart>https://entreterse.com.br/wp-content/uploads/2019/04/OS-IRM%C3%83OS-CARA-DE-PAU.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após deixar a cadeia Jake (John Belushi) reencontra seu irmão Elwood (Dan Aykroyd) e juntos vão para o orfanato onde foram criados. Lá eles descobrem que o local será fechado se uma dívida de US$ 5 mil com a prefeitura não for paga. Como a freira (Kathleen Freeman) que dirige o orfanato não aceita de forma alguma dinheiro ganho desonestamente, Jake e Elwood decidem por retomar a The Blues Brothers Band, na intenção de realizar um grande show e arrecadar a quantia necessária para pagar a dívida.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Batman Eternamente [COLOR yellow]( 1995 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Batman Eternamente [COLOR yellow]( 1995 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_347dabc8d16143ad837f8308cf7a23dd/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tEwd28NegRgXmZdiEJeVrclYZfX.jpg</thumbnail>
 <fanart>https://uploads.emaisgoias.com.br/2021/07/a79bf9f5-batman-eternamente.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Duas-Caras e Charada, dois excêntricos bandidos, decidem descobrir a identidade do Homem-Morcego para depois matá-lo. Este por sua vez recebe a ajuda de um jovem que tem sede de vingança, por ter perdido a família em um acidente provocado exatamente pelo Duas-Caras.
 [/B][/COLOR]</info></item>
-########################################################################################## <item><title>[B]O Alvo [COLOR yellow]( 1993 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]O Alvo [COLOR yellow]( 1993 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_28a3176be5c444aa859f172d79fb9714/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</thumbnail>
 <fanart>https://blogviciofrenetico.files.wordpress.com/2019/04/bscap1177.jpg</fanart>
 <info>Sinopse : [COLOR yellow][Bhance Bondreaux é um estivador que trabalha no cais de Nova Orleans e que ajuda Natasha Binder, uma advogada, a encontrar seu pai desaparecido. Em sua investigação Chance descobre uma quadrilha que negocia pessoas, caçando mendigos e ex-combatentes em um safári mortal. É quando ele decide combater Emil Fouchon, o chefe do negócio, e seus capangas.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Top Gang! Ases Muito Loucos [COLOR yellow]( 1991 )[/COLOR [/B]</title>
+##########################################################################################
+<item><title>[B]Top Gang 2! A Missão [COLOR yellow]( 1993 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_4db3b8d3fd5b4a978edee03173b015bc/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/8j1Wt4kasG1BCJJjozScnoVyYbR.jpg</thumbnail>
+<fanart>https://www.devotudoaocinema.com.br/content/uploads/2015/10/Top-Gang-2-A-Missao-1.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Topper Harley (Charlie Sheen) está vivendo em um templo budista, seu incompetente ex-comandante (Lloyd Bridges) está na Casa Branca, e reféns americanos precisam ser resgatados no Oriente Médio! Topper é o único homem para o serviço, mas ele está obcecado demais por sua ex-namorada (Valeria Golino) para aceitar a tarefa – até que uma bela agente da CIA o coloca de volta na sela. É uma missão hilariante que leva Harley e sua Top Gang por uma trilha repleta de ação, de sátiras dos clássicos do cinema e conta com a participação de rostos famosos em cenas divertidas.
+[/B][/COLOR]</info></item> 
+########################################################################################## 
+<item><title>[B]Top Gang! Ases Muito Loucos [COLOR yellow]( 1991 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_2c3b840a65214d9dac1cda2999e5aaa0/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/d8SnIlQoveEyJCJNSvXUmqIj3BI.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-p8bfxCa5I0c/VzZ9Rrry_SI/AAAAAAAAZ5o/4L_HD-Ykp_oVIGmiNPaB5wK2IyQ-gW99QCLcB/s1600/aa.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Piloto talentoso e instável precisa superar os fantasmas de seu pai e salvar uma missão sabotada por fabricantes de armas gananciosos em meio a uma série de confusões e um enorme mal-entendido.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Batman [COLOR yellow]( 1989 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Batman [COLOR yellow]( 1989 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_34950e3ee733483f99f9eb1ef4e1557b/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kbeWnmnHNEnuVej6wcjUv0eY6IL.jpg</thumbnail>
 <fanart>https://naoseinada.com.br/wp-content/uploads/2021/06/batman-1989.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em Gotham City o milionário Bruce Wayne, que quando jovem teve os pais assassinados por bandidos, resolve combater o crime como Batman, o Homem-Morcego. Mas chega o dia em que o vilão Coringa decide dominar a cidade e se torna um grande desafio para o super-herói.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Rambo III [COLOR yellow]( 1988 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Rambo III [COLOR yellow]( 1988 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f728dda0089f4015863f920e39136d7e/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3SKg3XKEyNSZ2oAba3Ucfr0Sxw0.jpg</thumbnail>
 <fanart>https://s2.glbimg.com/TVX4SyIaQGLxgvJtqNijzEKJFqI=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/R/F/MUpYKQQBaLHRrwt5PNlw/rambo.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]O companheiro e superior de John Rambo no Vietna, o coronel Samuel Trautman, foi designado para liderar uma missão de ajuda aos rebeldes que lutam contra a invasao do Afeganistao pelos sovieticos. Durante, a missa, Trautman e capturado e torturado pelo comandante russo Zaysen. A tensao e aventura aumenta quando Rambo tem um plano de sair ele proprio e os aliados rebeldes numa tentativa corajosa de resgatar o amigo das maos do inimigo.
 [/B][/COLOR]</info></item>
- ########################################################################################## <item><title>[B]Zona Mortal [COLOR yellow]( 1994 )[/COLOR [/B]</title>
+ ########################################################################################## 
+ <item><title>[B]Zona Mortal [COLOR yellow]( 1994 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e94a48f527ba4867abc8d2ad71185f3c/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/jcZ6a3Q30FzHHVC5uZpLCPVlmtp.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-7IKQjHPhC0U/W2DvEF-aWvI/AAAAAAAATTc/72wG_Dj82TQbpVLVm9Y9frSDPu4HQUJegCLcBGAs/s1600/drop-zone1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um criminoso consegue fugir de pára-quedas quando é transportado em um avião da polícia. Por causa disso, o agente Pete Nessip (Wesley Snipes) que o acompanhava é suspenso, mas decide procurar o preso fugitivo por conta própria. Assim, ele acaba se infiltrando no mundo dos paraquedistas profissionais e descobre o envolvimento da gangue em uma complicada trama de venda de informações secretas do governo para criminosos.
 [/B][/COLOR]</info></item>                                                                
-########################################################################################## <item><title>[B]Scarface [COLOR yellow]( 1983 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Scarface [COLOR yellow]( 1983 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_9bfde7a868b84e2f9c3b4470bd2c9b43/1080p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/09/3671580-scarface.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Após receber residência permanente nos Estados Unidos em troca do assassinato de um oficial do governo cubano, Tony Montana se torna o chefe do tráfico de drogas em Miami. Matando qualquer um que entre em seu caminho, Tony eventualmente se torna o maior traficante da Flórida, controlando quase toda a cocaína que entra em Miami. Porém, a pressão da polícia, as guerras com cartéis colombianos e sua própria paranoia servem para alimentar as chamas de sua eventual queda.
 [/B][/COLOR]</info></item> 
-########################################################################################## <item><title>[B]Rambo – Programado Para Matar [COLOR yellow]( 1982 )[/COLOR [/B]</title>
+########################################################################################## 
+<item><title>[B]Rambo – Programado Para Matar [COLOR yellow]( 1982 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_0c096cbb452e451ca4c7b799f32625a2/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2FjoG18SxmN9AnCgIXB4FaiOysd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qPcRkMpc8bEnciXSS4RhifaVc78.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.
-[/B][/COLOR]</info></item>       ########################################################################################## <item><title>[B]Batman vs Superman A Origem da Justiça [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_a7f6c1336296408b98c99d54ebce4126/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vh6pjeGH0GQupLepPCZn5PylcRg.jpg</thumbnail>
-<fanart>https://cdn.domtotal.com/img/noticias/2020-05/1443517_445627.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2016 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 151 min. [/COLOR] 
-
-Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um com o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Anjos da Noite: Guerras de Sangue [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_36391216f196434d813ef167aba11205/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/mNqzSbagMFI3BbF1SPCRjqHLYlk.jpg</thumbnail>
-<fanart>https://poltronanerd.com.br/wp-content/uploads/2016/10/poltrona-anjos-da-noite-guerra-sangue-trailer-final.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2016 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 91 min. [/COLOR] 
-
-Selene (Kate Beckinsale) é uma guerreira vampira que luta para acabar com a guerra eterna entre o clã Lycan de lobisomens sanguinários e a facção de vampiros que a traiu. Quando um novo levante parece tomar forma, ela irá utilizar sua influência e relacionamento com ambas as partes para negociar um cessar fogo.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Godzilla vs. Kong [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_f4f7331b96fe456db02380cf44b32a57/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg</thumbnail>
-<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/5527433.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink]Aventura[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 113 min. [/COLOR] 
-
-Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]007 – Quantum of Solace [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_0ca7d3246db7475398135bd3c7e6257b/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg</thumbnail>
-<fanart>https://isabelaboscov.files.wordpress.com/2015/10/quantum_feat.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2008 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 106 min. [/COLOR] 
-
-Após a morte de Vesper Lynd, James Bond faz com que sua próxima missão seja pessoal. A caçada àqueles envolvidos na morte da mulher de sua vida o leva ao encontro do cruel empresário Dominic Greene, que faz parte da organização que coagiu Vesper. Bond descobre que Greene planeja obter o controle total de um recurso natural vital e deve enfrentar perigo e traição para frustrar o plano.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]John Wick: De Volta ao Jogo  [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_07022a5f6bc14a5497ea58d88f5b385a/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
-<fanart>https://4.bp.blogspot.com/-pPzNDA499Ms/W2ukCIAYbGI/AAAAAAAABbA/HuqFnJavc7I2YQfVnBkE6OE_2SRvX6WDgCLcBGAs/s1600/De%2BVolta%2Bao%2BJogo.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 101 min. [/COLOR] 
-
-John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Top Gang 2! A Missão [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_4db3b8d3fd5b4a978edee03173b015bc/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/8j1Wt4kasG1BCJJjozScnoVyYbR.jpg</thumbnail>
-<fanart>https://www.devotudoaocinema.com.br/content/uploads/2015/10/Top-Gang-2-A-Missao-1.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 1993 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 86 min. [/COLOR] 
-
- Topper Harley (Charlie Sheen) está vivendo em um templo budista, seu incompetente ex-comandante (Lloyd Bridges) está na Casa Branca, e reféns americanos precisam ser resgatados no Oriente Médio! Topper é o único homem para o serviço, mas ele está obcecado demais por sua ex-namorada (Valeria Golino) para aceitar a tarefa – até que uma bela agente da CIA o coloca de volta na sela. É uma missão hilariante que leva Harley e sua Top Gang por uma trilha repleta de ação, de sátiras dos clássicos do cinema e conta com a participação de rostos famosos em cenas divertidas.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Anjos da Noite: O Despertar [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_1a001c38fd2849dfa1692f2ce47c908a/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/u6GY91MCrmUdMeUIxbw9JXvblES.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-s9zeAK_VAs0/X6V33QhYQCI/AAAAAAAAB2M/MXOxaAM6-64XHWc4DWDgl7zkXmANGfHhwCLcBGAsYHQ/s1920/1.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2012 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 88 min. [/COLOR] 
-
-Após ser mantida em estado de coma por quinze anos, a vampira Selene (Kate Beckinsale) descobre que ela possui uma filha de quatorze anos, híbrida de vampiro e lobisomem. Com a ajuda dela, Selene deve impedir a empresa BioCom de criar super lobisomens que possam matar todos os vampiros
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Homem-Formiga [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_77a0cd631bd74765899b9d0224252238/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg</thumbnail>
-<fanart>https://www.saladacult.com.br/wp-content/uploads/2015/07/ant-man-2015-marvel-movie.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2015 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 115 min. [/COLOR] 
-
-Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Resident Evil 5 Retribuição [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_5010afa6825245048f9e276b9bac7f57/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
-<fanart>https://images3.alphacoders.com/218/thumb-1920-218069.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2012 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 95 min. [/COLOR] 
-
-O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Sete Homens e Um Destino [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_830223c13eb645f99f715ee6a86f9dd9/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail>
-<fanart>https://miro.medium.com/max/5120/1*FXyPWLoGHgBYttsVWyQ6Rw.jpeg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2016 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Aventura [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 133 min. [/COLOR] 
-
-Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen deseja justiça e pede auxílio ao pistoleiro Sam Chisolm, que reúne um grupo de especialistas para contra-atacar os bandidos.
 [/B][/COLOR]</info></item>
+ 
 
-                       ########################################################################################## 
-<item><title>[B]Matrix[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_ce181a981a6a4de6b39d79ad89603e40/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/etJHvVsM9aefWWrW23r5BXgVK1F.jpg</thumbnail>
-<fanart>https://cdn.ome.lt/_YJ8KsC3g0eGXHQA-NwwF1mzcms=/1200x630/smart/extras/conteudos/matrix_9yMKypp.png</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 1999 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Aventura[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 136 min. [/COLOR] 
-
-Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]X-Men 3: O Confronto Final [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_3310a375e8b742648224634576616a06/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/qdWxPZ1LWNJKSGTegI3q4RYhIHb.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/EdEBbpiXkAAtqbv.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2006 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink]  Aventura, Ação, Ficção Científica, Suspense [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink]  104 min. [/COLOR] 
-
-A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Star Wars, Episódio II: Ataque dos Clones [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_dcce85c58cd64510b36adfd509c9fe2f/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/s2ONgVK8ucLfobZn7VTyaAKH0yA.jpg</thumbnail>
-<fanart>https://i2.wp.com/sociedadejedi.com.br/wp-content/uploads/2015/11/2_swaoc4_lg.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2002 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Aventura [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 142 min. [/COLOR] 
-
- Com a missão de proteger a Senadora Amidala, Anakin Skywalker descobre o seu amor por ela, do mesmo modo que vai conhecendo seu lado sombrio. Obi-Wan Kenobi descobre um exército de clones à medida que a Galáxia caminha para uma grande guerra.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
-<item><title>[B]Matrix Reloaded[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_66ee4166b89a4df5a5bae778ee161a44/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/rQO0qJXk50M/maxresdefault.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2003 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Aventura[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 138 min. [/COLOR] 
-
-Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion e participar da reunião que definirá o contra-ataque para salvar a humanidade da extinção. Entretanto, um recado enviado pelo Oráculo faz com que Neo retorne à Matrix.
-[/B][/COLOR]</info></item>      
-     
-                       ########################################################################################## 
-<item><title>[B]<item><title>[B]As Panteras [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_3b9c8d2e3a464458b286e1bfb0a8eca2/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/2Tsl98OKwckXZzCvfOiTMAXZIEz.jpg</thumbnail>
-<fanart>https://s2.glbimg.com/-yspaEcM-Z5VJq7a1Vr1PhQCvW4=/smart/e.glbimg.com/og/ed/f/original/2020/07/17/as-panteras-2000-drew-barrymore-cameron-diaz-lucy-liu.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2000 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink]  Aventura [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 98 min. [/COLOR] 
-
-Três multitalentosas e inteligentes detetives trabalham para Charlie, chefe de uma agência de detetives que evita sempre o confronto cara-a-cara com suas contratadas. Contrárias ao uso de armas, as Panteras, como são conhecidas, enfrentam seu maior desafio quando passam a investigar o sequestro do bilionário Eric Knox (Sam Rockwell), que pode fazer com que sua empresa, a Knox Tecnologies, perca milhões de dólares.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
-<item><title>[B]A Arte da Autodefesa[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_e3514c22d0534d55b4b05d35793ee3e6/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/nO0odDuMjyoovWfmCumkvPHJKsj.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/crYw4C6kDys/maxresdefault.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 119 min. [/COLOR] 
-
-Um homem é atacado na rua e se inscreve em um Dojô – liderado por um sensei carismático e misterioso – num esforço para aprender a se defender. O que ele descobre é um mundo sinistro de fraternidade, violência, hiper masculinidade e uma mulher lutando por seu lugar nele.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
-<item><title>[B]Velozes +Furiosos[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_01a8d0a5d092466086eaea17384f3fd5/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg</thumbnail>
-<fanart>https://justalrightreviewsdotcom.files.wordpress.com/2017/04/2-fast-2-furious.png</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2003 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
-
-Após deixar a polícia, Brian O’Conner é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone, o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce e da agente secreta Monica Fuentes.
-[/B][/COLOR]</info></item>           
-<item><title>[B]<item><title>[B]Mad Max 2: A Caçada Continua [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_f6c18f0a459e4bcc9d275883691b73cf/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/5hqDHnVaRV5NBTZs99kaz2RcyY5.jpg</thumbnail>
-<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2015/11/melgibsonmadmax.jpeg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 1981 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Aventura[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 97 min. [/COLOR] 
-
-No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max (Mel Gibson) resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.
-[/B][/COLOR]</info></item>
-
-                       ##########################################################################################  
-<item><title>[B]300[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_8849a77ff94f4bae9b20f4ac2336cf4d/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/9W49fy5G7v9Ed3CXtvMi41YqZtt.jpg</thumbnail>
-<fanart>https://images4.alphacoders.com/102/thumb-1920-102036.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2006 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 117 min. [/COLOR] 
-
-Em 480 a.C., Leônidas, o rei de Esparta, comanda seu pequeno batalhão de 300 soldados contra um exército de mais de 1 milhão na Batalha das Termópilas.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Ferry [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_9506b4125fac435c8e5b91e0bb929e95/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/w6n1pu9thpCVHILejsuhKf3tNCV.jpg</thumbnail>
-<fanart>https://i0.wp.com/www.ultraverso.com.br/wp-content/uploads/2021/05/Ferry-filme-netflix-critica.jpg?fit=1200%2C675&ssl=1</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2021 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 106 min. [/COLOR] 
-
-Antes de construir um império de droga, Ferry Bouman regressa a casa numa missão de vingança em que a sua lealdade é posta à prova e um amor lhe muda a vida.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]O Grande Mestre 2 [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_ac9aa54f963c45e6a3c36260b9d2c527/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/ik2fNhSATobUCukor4pKjT82Tvb.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/tlmywtxx4gs/maxresdefault.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2010 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink]  108 min. [/COLOR] 
-
-Ip Man imigra para Hong Kong em 1949, depois dos conflitos com os japoneses. Em Hong Kong, ele intenciona propagar sua disciplina Wing Chun de artes marciais para o mundo, mas ele esbarra no ciúme dos seus rivais e na opressão dos britânicos.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Vingadores: The Avengers  [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_fdac1d09fe6b4de9928be2c250aa2f6d/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg</thumbnail>
-<fanart>https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2628D6065F123B8D4058C1EA908A3E437C102EB2BEE3C734510EA9CC75D83988/scale?width=1200&aspectRatio=1.78&format=jpeg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2012 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Aventura [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 143 min. [/COLOR] 
-
-Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Doom – Aniquilação [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_1d55719a0cdc420086be61a42149c54f/720p/mp4/file.mp4</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStzsZLf43cIVNiEUP_k-uJt2Kxl0sbgRn7HH3uWLxaBFLCAxXd</thumbnail>
-<fanart>https://br.web.img3.acsta.net/pictures/20/01/10/12/15/4582070.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 96 min. [/COLOR] 
-
-Um grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
-<item><title>[B]1917[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_d31fd89979bf48db82c963c9280396aa/720p/mp4/file.mp4</link>
-<thumbnail>https://i.pinimg.com/originals/24/bb/b6/24bbb6f9e59b7b55824474c2ddc1e668.jpg</thumbnail>
-<fanart>https://cinepop.com.br/wp-content/uploads/2020/01/1917-cinepop5.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2019 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 119 min. [/COLOR] 
-
-Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
-<item><title>[B]Velozes & Furiosos: Desafio em Tóquio[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_09dc73d8e7ec4d239b748fece9f6780e/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg</thumbnail>
-<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27207318.jpg%27&ImageUrl=%27207318.jpg%27&EntityType=%27Item%27&EntityId=%273875%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2006 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 104 min. [/COLOR] 
-
-Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
-<item><title>[B]Transformers: A Vingança dos Derrotados[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_1f1605fd15614dc58891a990b349ad2f/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/19AaiftqKuLJQu0cUrfpiPanR6l.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-ZGlQzkc0fsQ/Xy2uMkCv-cI/AAAAAAAAAZM/YeRpU1K_IgcH9iY0O1rr8WPPrG5IPVXnQCPcBGAYYCw/s1920/thumb-1920-801089.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2009 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ficção Científica, Ação, Aventura[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 150 min. [/COLOR] 
-
-Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça humana e tentam ter uma vida normal: Sam está começando a faculdade, enquanto os Autobots trabalham com uma organização militar secreta e tentam construir uma casa para eles na Terra. Porém, um antigo Decepticon conhecido como ‘The Fallen’ aparece para se vingar, então Sam e sua namorada Mikaela precisam desvendar a história dos Transformes e achar um caminho para derrotá-lo.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]O Grande Mestre 3 [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_1ae8cbfd9ff1491d9490ff4c3ffd01c1/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/24E7IAfZsmQIBVydzw994navV5b.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/imuK43bSFxg/maxresdefault.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2015 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink]  105 min. [/COLOR] 
-
-Donnie Yen terá uma luta explosiva com o ex-campeão mundial dos pesos pesados de boxe Mike Tyson. E a história ainda abordará parte da juventude do maior discípulo de Yip Man: Bruce Lee.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Karatê Kid [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_a4892a59cb29456e932f643d51775799/480p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg</thumbnail>
-<fanart>https://nova-acropole.org.br/wp-content/uploads/2019/08/Karate-Kid2.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2010 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink]  Aventura [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink]  140 min. [/COLOR] 
-
-Dre Parker se mudou com a mãe para Pequim, devido ao trabalho dela. Logo ao chegar ele se interessa por Meiying, uma garota que conhece praticando violino na praça. A aproximação deles provoca a irritação de Cheng, que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo sr. Han, o zelador de seu prédio, que é também um mestre de kung fu.
-[/B][/COLOR]</info></item>
-
-<item>
-<title>Velozes & Furiosos 4[COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_9cbe13e01dcd4d12936a4f204258f86d/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg</thumbnail>
-<fanart>https://entreterse.com.br/wp-content/uploads/2019/09/Velozes-e-Furiosos-4-e1567792881143.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2009 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação[/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 107 min. [/COLOR] 
-
-Depois de ser visto rumo ao México no filme que deu origem a série, Dominic “Dom” Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O’Conner numa perigosa missão.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Rampage 2: A Punição [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_2390384413cf41718e84bbe86e06baca/1080p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/gEFrRSwM9R6SiYOjoyOGZUefhDx.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/69fdfedd9032f8ec9ede44b5737b6f6493c0ae338e27a209d45bdd912f02dee3._RI_V_TTW_.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink]  Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink]  93 min. [/COLOR] 
-
-O violento anti-herói Bill Williamson tem um plano para mudar o mundo se vingando dos ricos e dilacerando Washington. Ele faz alguns reféns e os usa como plataforma política para disseminar sua mensagem e acordar a humanidade. É hora de destruir o sistema, e a mudança não vai acontecer de forma pacífica.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]O Espetacular Homem-Aranha [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_3372321f288f4ca99f3424798acd1ed5/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
-<fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/2017/10/Spider2-894x545.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2012 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink]  Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink]  136 min. [/COLOR] 
-
-Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Os Mercenários 3 [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_70f38a1efe574955a98ca33ec071ea7a/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg</thumbnail>
-<fanart>https://entreterse.com.br/wp-content/uploads/2020/03/Os-Mercen%C3%A1rios-3.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2014 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 126 min. [/COLOR] 
-
-Barney e sua trupe de mercenários resgatam Doc, um dos integrantes do grupo, que estava preso há oito anos. Ao participarem de uma missão, os mercenários são surpreendidos quando reencontram Conrad, um comerciante de armas impiedoso, que Barney pensava ter matado. Novos membros, mais jovens e mais rápidos, entram para equipe e um novo duelo começa.
-[/B][/COLOR]</info></item>           
-
-                       ########################################################################################## <item><title>[B]Anjos da Noite A Evolução [COLOR yellow](  )[/COLOR [/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_72c2fe436bf249889a407db6ff576275/720p/mp4/file.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/bI2VTnT7EjYt4ZJEHn0cmJQYqpV.jpg</thumbnail>
-<fanart>https://static.wixstatic.com/media/7e1518_87101df4049044febcafdbe5a4f4060c~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/7e1518_87101df4049044febcafdbe5a4f4060c~mv2.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]
-
-[B] Lançamento: [/B] [COLOR hotpink][B] 2006 [/B][/COLOR]  
-[B] Gênero: [/B] [COLOR hotpink] Ação [/COLOR] 
-[B] Duração:[/B] [COLOR hotpink] 106 min. [/COLOR] 
-
-Após o final do primeiro filme, a união de Selene a vampira e seu namorado Michael o vampiro-lobisomen terá de ser mais forte que o amor. Os dois terão de enfrentar uma legião de vampiros e lobisomen, e a evolução das espécies. Além disso, o centenário vampiro Marcus desperta de seu sono, pronto para matá-los.
-[/B][/COLOR]</info></item>
-
-                       ########################################################################################## 
+                       
