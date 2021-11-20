@@ -1,0 +1,38 @@
+﻿
+########################################################################################## <item><title>[COLOR white][B]Infinito [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_e117fbac28b64a5e8ed2a846fb81301d/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>
+<fanart>https://i2.wp.com/oquartonerd.com.br/wp-content/uploads/2021/08/4nerd_Site-33.png?fit=1260%2C763&ssl=1</fanart>
+<info>Sinopse : [COLOR yellow][BUm jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.
+[/B][/COLOR]</info></item> 
+########################################################################################## <item><title>[COLOR white][B]A-X-L O Cão Robô [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_5aef14951cc343e8acc96946be895d1f/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sigvpZ41dHQlY7QWAXLVyhK5Ymj.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27224058.jpg%27&ImageUrl=%27224058.jpg%27&EntityType=%27Item%27&EntityId=%2721520%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>Sinopse : [COLOR yellow][B]Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles, surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.
+[/B][/COLOR]</info></item>   
+########################################################################################## <item><title>[COLOR white][B]Skylines 3 [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_f3c310cf08c14e36b9915e2424782196/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/07/1S9RdEZqRQHoKXfevluE69Ep7Hg.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Quando um vírus ameaça transformar os híbridos alienígenas amigáveis que agora vivem na Terra contra os humanos, a capitã Rose Corley deve liderar uma equipe de mercenários de elite em uma missão ao mundo alienígena para salvar o que resta da humanidade.
+[/B][/COLOR]</info></item> 
+########################################################################################## <item><title>[COLOR white][B]Mundo em Caos [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_11ec67d023674a7d9ffd0b3666f69a15/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2021/05/Mundo-em-Caos4.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Em um futuro não muito distante, em um mundo onde as mulheres desapareceram e os homens foram afetados pelo “ruído” – uma força que deixa seus pensamentos audíveis – Todd Hewitt encontra Viola, uma jovem misteriosa que aterrissou em seu planeta. Com Viola correndo perigo, Todd jura protegê-la e colocá-la fora de perigo. Para salvá-la, Todd terá que controlar seu “ruído”, descobrir sua própria força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.
+[/B][/COLOR]</info></item>
+##########################################################################################
+<item><title>[COLOR white][B]Círculo de Fogo A Revolta  [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_9f3096f591d2433ebfbc05687462e3fe/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg</thumbnail>
+<fanart>https://falange.net/wp-content/uploads/2018/03/C%C3%ADrculo-de-Fogo-a-Revolta-Pacific-Rim-Uprising.jpg</fanart>
+<info>Sinopse : [COLOR yellow][B]Jake Pentecost, filho de Stacker Pentecost, se junta a Mako Mori para liderar uma nova geração de pilotos Jaeger, incluindo seu rival Lambert e uma hacker de 15 anos, Amara, contra uma nova ameaça Kaiju.
+[/B][/COLOR]</info></item>
+########################################################################################## <item><title>[COLOR white][B]Elysium [COLOR yellow]( 2013 )[/COLOR [/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_d1003d0f2470414d921d720d351c8cf1/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/8659701/s1440/elysium</fanart>
+<info>Sinopse : [COLOR yellow][B]Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.
+[/B][/COLOR]</info></item>
