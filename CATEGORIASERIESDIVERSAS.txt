@@ -12,7 +12,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANIMAL KINGDOM [COLOR lime]DRAMA / POLICIAL[COLOR blue]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANIMAL KINGDOM [COLOR lime]DRAMA / POLICIAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tpnHrx2UuBF0lQiZsGP40t4P9ml.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANIMAL%20KINGDOWN.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vROmQIKHKo0ZRaDFcVyq5eJTsoi.jpg</fanart>
@@ -22,7 +22,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANOS INCRIVEIS [COLOR lime]COMÉDIA / DRAMA[COLOR blue]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANOS INCRIVEIS [COLOR lime]COMÉDIA / DRAMA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOS%20INCRIVEIS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/26JD1Ob6bAeOqHPlTdcdyjtNx5E.jpg</fanart>
@@ -226,7 +226,17 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]RIVERDALE[COLOR lime]DRAMA / MISTÉRIO / ROMANCE [COLOR blue]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PROFECIA DOO INFERNO [COLOR blue]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6jcBS3ioXDXgFwucqpArwBHediA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PROFECIA%20DO%20INFERNO.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg</fanart>
+<info>[B][COLOR yellow]Quando o mundo é invadido por criaturas sobrenaturais que condenam as pessoas ao inferno, surge um grupo religioso afirma ter a justiça divina como maior preceito. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]RIVERDALE[COLOR lime]DRAMA / MISTÉRIO / ROMANCE [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zBWSuYW3Ps1nTfeMS8siS4KUaA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RIVERDALE.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mrGd5M3kPkAKynZruOAwsadsr9w.jpg</fanart>
