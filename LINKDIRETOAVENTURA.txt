@@ -28,20 +28,12 @@
 <info>Sinopse: [COLOR yellow][B]No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max (Mel Gibson) resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Doutor Estranho [COLOR yellow](  )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Doutor Estranho [COLOR yellow]( 2020 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_7d9621bfb1624d0eb2f987326d7b2cd4/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/puNZLqjeMUnz4XdZ46n14SYkhsQ=/1200x630/smart/extras/conteudos/doutorestranho2diretor.jpeg</fanart>
-<info>Sinopse: [COLOR yellow][B] 
-
-[B] Lançamento: [/B] [COLOR lime][B] 2016 [/B][/COLOR]  
-[COLOR white][B] Gênero: [/B] [COLOR lime] Ação, Aventura, Fantasia, Ficção Científica [/COLOR] 
-[B] Duração:[/B] [COLOR lime] 115 min. [/COLOR] 
-
-Da Marvel Studios vem “Doctor Strange”, a história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável – um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange – armado com poderes mágicos recém-adquiridos – é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.
-
-[/COLOR][/B]</info>
-</item>
+<info>Sinopse: [COLOR yellow][B] Da Marvel Studios vem “Doctor Strange”, a história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável – um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange – armado com poderes mágicos recém-adquiridos – é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.
+[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Jumanji: Bem-Vindo à Selva [COLOR yellow]( 2017 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_59f30ed2092e437694b340388b6ef564/720p/mp4/file.mp4</link>
