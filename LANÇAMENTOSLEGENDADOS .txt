@@ -1,3 +1,165 @@
+
+##############################################################################################################
+<item><title>[B][COLOR white]Alerta Vermelho - Red Notice[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c90c6bc105163774aa79107a50a27f55505830e0$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1956e238e5d115a29db662a8bc5d407757c7717b$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dK12GIdhGP6NPGFssK2Fh265jyr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No mundo do crime internacional, a INTERPOL lança um Alerta Vermelho, o que inicia uma caçada para capturar a mais notória ladra de artes do globo.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tick, Tick… Boom! [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c314f0de8e351ab9f1210fb0274d57b8f893f424$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a10848b72307273a205d7b05fd4cd87b585b3f$nome=[B] LINK 2 [COLOR yellow]1080p MP4[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50c4c488f56a5845c9fdae78d2ca3d755daa9c63$nome=[B] LINK 3 [COLOR yellow]1080p MKV[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j03WWYfHXWjIpY1B5V2i1Lczcor.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aI3oDBFdrf8I2vCpEwM15oYyrRN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Durante os anos 90, um aspirante a compositor (Andrew Garfield) trabalha como garçom enquanto escreve o que espera ser o maior musical americano que lhe revelará. Se aproximando de seu aniversário de 30 anos, ele começa a se questionar se perseguir o sonho impossível vale a pena ou não. 
+[COLOR white][B] Gênero:  [COLOR lime]BIOGRAFIA / DRAMA / MUSICAL [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]1921 [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4508070CFDF8491EF3AF22E4FCA03B83A45372FD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hBGsYkNUoDkQTHfTda4bNr8mFIX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/clhwc7Odxfcl6tUAlz5zMqDMwGA.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] A Trama conta a história do início da história de um Partido Comunista durante a era turbulenta, examinando o notável zelo e contrição dos líderes revolucionários chineses pela ascensão do povo chinês.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Lair [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F9EA3CA07BE05005FAB82828882337B54CF0DB5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIainsxPJ2uv3Dfltm6BIkvrxEo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/habfQJf7j7MECs2wUiyAuTO45gn.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma família fragmentada é forçada a enfrentar seus demônios, metafórica e literalmente, à medida que involuntariamente se envolvem na tentativa de um homem de provar a existência do sobrenatural para derrubar a condenação de assassinato de um amigo.
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Cordeiro  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8E09D5A9D28E10DEE74658684FB6898BF17E117</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gP9yviboTGWGolqUZKIB1UkF1C2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m5HXtgHjHqpYtRCr9hSXVqle871.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]María e Ingvar, um casal islandês que não consegue ter filhos,  vive com seu rebanho de ovelhas em uma fazenda bonita, mas remota. Quando descobrem um misterioso recém-nascido em sua terra, decidem mantê-lo e criá-lo como seu. Este desenvolvimento inesperado e as perspectivas de uma nova família trazem-lhes muita alegria antes de finalmente destruí-los.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Language Lessons [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FCD3D864BD104458EE5E5DF50FC08A2470AE8E1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGxGbZB2IUuROT017ZZhSAPZcYQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jPnUy0DOozS3giSSO6Yc0QVzpSf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um professor de espanhol e sua aluna desenvolvem uma amizade inesperada
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Saving Sloane [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8179CB00F24B2BACED9D0FA7EC5C139484EB3505</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mSlOwJ87IUhrGl85gQg3pYWv1wS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eMlhqGRlpHGpXs7f0z5J8ylvskQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois que a mimada garota da cidade Sloane Emerson se mete em problemas mais uma vez, seus pais ricos a enviam para o campo. Lá, a adolescente rebelde acaba formando um vínculo com a última coisa no mundo que ela teria pensado – um cavalo.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Ice Demon( CAM )[COLOR yellow](1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9025DA69FCDDD2E52213E221C8794FBB82F0D6AA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lHOKic9F9S9oRI2ZTZy0HXfSawz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kTZGrB3ucnvLak0dAigS9TrqTZX.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ksyusha mal se lembra do pai: ele desapareceu quando ela era criança. Incrivelmente, ele dá sinais de vida, apesar de estar em coma. O homem voltou para casa nesta condição. Sua esposa agora se casou novamente. A família fica em desordem com o retorno do ex-dono da casa coisas terríveis estão acontecendo na casa, e a mãe de Ksyusha começa a se comportar de maneira estranha ... Ksyusha começa a suspeitar que algo sobrenatural, gelado e sem vida voltou para casa com ela pai. E agora Ksyusha e seu padrasto estão prestes a se descobrir protegendo sua família de um demônio.
+[COLOR white][B] Gênero:  [COLOR lime]TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Bezonians [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2549137e960bd9819003a4e357b6df57af1860b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b1GJEmUhpvnNQfdv7Vpq2RRUNix.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e5ITYx7iXuBNxtxdqDLzKWgVkI2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No clube social Bezonians, no norte de Londres, um grupo de pobres e pobres trama, trama e sonha em se tornar rico e romper a monotonia de suas vidas sombrias e financeiramente impotentes. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / POLICIAL / SUSPENSE [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Lenda de Candyman [COLOR yellow]( 1080p / 4 K )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02dfb96ced0ada2464926cb5627204be8c7d0522$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4c9bc5133c2378ad54a5c3e720cf6b2c3625a41$nome=[B] LINK 2 [COLOR yellow]4 K[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg</thumbnail>
+<fanart><https://www.themoviedb.org/t/p/original/g1cMEQnEptUJ7Sv8SRjWBTTHyMv.jpg/fanart>
+<info>Sinopse: [COLOR yellow][B]Em um bairro pobre de Chicago, a lenda de um espírito assassino conhecido como Candyman assolou a população anos atrás. Agora, o local foi renovado e é lar de cidadãos de alta classe. Quando o espírito retorna, os novos habitantes também serão obrigados a enfrentar a ira de Candyman.
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Pretenders [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:672299FFFEE4C64F377434C6F61134AC246D574A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vLhu213cVS8LSym61M2CalvqKWK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vLhu213cVS8LSym61M2CalvqKWK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Fartos de serem perdedores, Jasper, Hannah e Nick criam identidades falsas para mentir, roubar e planejar seu caminho durante as férias nesta comédia temática de praia LGBTQ ensolarada. 
+[COLOR white][B] Gênero:  [COLOR lime]COMEDIA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]One More Flip [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:735ACC800F28A3EFF484F26CEE3BFCD98D42497F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A7ab6mjmrdviAR6x11VldlSl6qU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sjjtKXClveUbbFMkFPXrcEaWt7D.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Há uma razão para que o pai solteiro Sorada (Tsukada Ryoichi) sempre use o uniforme escolar e frequente o ensino médio em meio período. Quando ele era um estudante do ensino médio, ele sofreu de uma doença grave e não podia ir à escola, então ele passou a maior parte de sua juventude em um quarto de hospital. Na idade adulta, após vencer a doença, ele se casa com uma amiga de infância, mãe solteira, e eles têm uma filha de 10 anos. No entanto, embora esteja feliz, ele está sozinho com sua filha e sem sua esposa. Ele decide se matricular no sistema escolar em tempo parcial, o que também era desejo de sua falecida esposa. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Attached - Paranormal  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEFB08B1984134C77BA37DC0FFC53B899060CDF9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/juBY3D3KC9qa2Z1HVELO1a8oAPl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xgnEz8LC1GQ9vzWyOOwcR4vn4rI.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um homem é encontrado morto em sua casa há anos considerado suicídio pelas autoridades locais. Anos depois, as fitas do incidente repentinamente foram divulgadas por um filho de detetives local. Você acredita no paranormal?.
+[COLOR white][B] Gênero:  [COLOR lime]TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Estate [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1A315917B646A7A17D46CCDFDEF05CF26D46486</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jIsZsaaqp0XcYoaQy1WYBSSQaGW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7H34IkoyZH91HaLfzli89ot2a65.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando o filho mimado e a mais nova esposa de um patriarca bilionário conspiram para matá-lo, eles formam um vínculo psico-sexual com seu assassino brutalmente bonito enquanto matam e matam (e matam) em sua busca por riqueza e reconhecimento.
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / SUSPENSE[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Trick [COLOR yellow](1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7635726800F0075A31D594DC69D0716E887E0A2E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r0JaMlwpFunKsoXyaVr38HAu6Kw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hNafvq2tvC3ddbziMK25EOzwtwz.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]The Trick conta a história do mundialmente conhecido Professor Philip Jones; Diretor de Pesquisa Climática da Universidade de East Anglia, que em 2009 se viu no centro de uma tempestade na mídia internacional e vítima do ciberterrorismo. Com o tempo se esgotando contra um inimigo invisível, The Trick analisa as consequências potencialmente devastadoras para a humanidade da negação da mudança climática; como uma tempestade na mídia minou a confiança do público na ciência e como o conceito de “verdade” ficou para trás, fazendo-nos perder uma década de ação. 
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Time Now  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17B5909785BF1399650A2BAE6714AA0A12F485F5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0DQB6PMeN6DwKekrxUjgydSSNd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/keNBZelNsVlj7YDhwa8aXJtQEIe.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem mãe retorna à sua distante cidade natal, Detroit, após a morte repentina de seu irmão gêmeo e mergulha em seu grupo de amigos, logo descobrindo que sua morte não é o que parece.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / SUSPENSE [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Women Is Losers  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8104B85A8F44D4916EBB0E53140ED5869003788</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Q0nxmmRvCpUiO9HuUvFV4khIQa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bWik72BLWuV3XQbngVuvYGlufTP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 1960 em São Francisco, a brilhante e talentosa estudante católica Celina Guerrera sobreviveu a uma difícil vida doméstica seguindo as regras. Isso até que uma indiscrição crie uma série de consequências devastadoras. Enquanto Celina enfrenta os obstáculos combinados de ser jovem e sozinha, ela se propõe a superar a opressão da pobreza e investir em um futuro que abre novos precedentes para a época.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Night at the Eagle Inn [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:becf887a334490a01b4cc93662b51c70243d0761</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vN6xGxxTJ5z9i3CEMLd3ln6BLSb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w220_and_h330_face/vN6xGxxTJ5z9i3CEMLd3ln6BLSb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]
+
+Os gêmeos fraternos Spencer e Sarah Moss embarcam em uma peregrinação a uma pousada remota em Vermont para investigar o último paradeiro conhecido de seu pai, que desapareceu misteriosamente na noite em que nasceram. Depois de fazer o check-in, o estalajadeiro misterioso e zelador enigmático guiam os gêmeos através da história trágica e aterrorizante da instituição. Não querendo deixar pedra sobre pedra, Spencer e Sarah vão desonestos e mergulham mais fundo – sua exploração levando a revelações chocantes quando os segredos sombrios da propriedade os enredam em um labirinto infernal do qual eles devem escapar antes do amanhecer. Partes iguais The Innkeepers, The Shining e Vacancy, Night at the Eagle Inn é um terror e mistério em ritmo acelerado carregado de intriga,
+[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / SUSPENSE / TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Vivandière [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90c4ff65054ce75d279179b24eece213eb69ca10</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgdGXzrS4mhSxhcXZM6neThTGDF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3xcCVcc0qTV2IN0tXdXOoKgxwMd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No auge da Guerra Civil, uma garota de quinze anos se voluntaria para se tornar uma enfermeira do campo de batalha - uma vivandière - com o exército confederado, imediatamente empurrando-a para a linha de frente. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÂO [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Spore [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82c98366e90b5de09f7190b320f789d111592b5c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xEHfhAIZpyddeZs2lAsR8cNoCww.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1lXhkUz8L4cv4JCBJGicZtSrrFa.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]As vidas de dez estranhos se cruzam através de uma terrível cadeia de eventos quando um fungo mutante começa a se espalhar por uma pequena cidade, exterminando todos que entram em contato com ele. 
+[COLOR white][B] Gênero:  [COLOR lime]TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Spirit Quest [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e82bd374e9fcea30e3bfde26925784a6e49d1332</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eP5PMAUAyihjfGyUxWM40okZZ1b.jpg</thumbnail>
+<fanart>https://www.imdb.com/title/tt10919446/mediaviewer/rm138839809/?ref_=ext_shr_lnk</fanart>
+<info>Sinopse: [COLOR yellow][B]Velhos amigos Tip e Brent fazem uma viagem alucinógena em forma de cogumelo pelo deserto para enfrentar seus medos, dúvidas e fracassos na esperança de chegar à iluminação … mesmo que isso signifique apenas aprender como trocar um pneu. 
+[COLOR white][B] Gênero:  [COLOR lime]COMEDIA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Bom Velhinho Voltou [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce637f31d858e5566d1a2ca3820ac34041ed9000$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf56e359e3aa70261026a90269fdfc673ba05d4b$nome=[B] LINK 2 SEM COMPACTAÇÃO[COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tiMKVnlh4gMHJg3ekt8gRvMH6e9.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quatro irmãs em conflito precisam aprender sobre união familiar na marra depois que o pai reaparece para o Natal na elegante mansão ancestral da família.
+[COLOR white][B] Gênero:  [COLOR lime]COMEDIA [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Venom - Tempo de Carnificina [COLOR yellow](1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32775F44230948ED3851B7C823F3BD8029B4C909$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
@@ -44,6 +206,27 @@
 <info>Sinopse: [COLOR yellow][B]m grupo de amigos aluga uma casa isolada no lago de propriedade de um homem obcecado por fitness com intenções misteriosas.
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / TERROR[/B][/COLOR] 
 [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]South of Heaven [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62D6F6AACA2E90F4BAAB6D75D1030C20661C0F4D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sUdlWpnpNIWPIvXDnucLRjDHOvQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c72kDHmXtkP3vdkN4cKvkOVsp11.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O criminoso condenado Jimmy obtém liberdade condicional após cumprir 12 anos por assalto à mão armada. Após a sua libertação, ele promete dar a Annie, seu amor de infância, agora morrendo de câncer, o melhor último ano de sua vida – infelizmente não é tão simples.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / POLICIAL [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Silent Hours [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A690E75C571679C521F7A67A88F7B6F6DEEB7DE6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jaz7LlPq92tm4eCquZg1c3P68YL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wUMLX8t7f9yVIyCFj2tYu7Wmion.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O detetive particular John Duval, um ex-tenente comandante da Marinha Real e da Inteligência Naval, se torna o principal suspeito em uma caçada policial por um assassino sexual quando três mulheres são brutalmente assassinadas. 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Our Father [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDBCA6BA0E2856A5726B413E279EC635D4402B7D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3qLA24qfFk38X1PW6cEYtNIcoZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aRSvQhvX1Qt17cx2E1djSGgBhKC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Duas irmãs afastadas procuram seu tio, uma figura misteriosa que pode ser a chave para o suicídio de seu pai e a infelicidade de sua família. 
+[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / DRAMA [/COLOR][/B]</info></item>
 #############################################################################################################
 <item><title>[B][COLOR white]Sobre Nós [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D59561D62BD1D585988B603A983BD775B3329A63</link>
