@@ -17,8 +17,8 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f7d892489a2731fe5321d565c2f3edb0f434b06$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccfe0b9bfe7a3548b95e0119a73c6f067aa40363$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7af36d00cb73e784d117ff5842757dbe5fba344$nome=[B] LINK 3 [COLOR yellow]1080p [/COLOR][/B]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rAksPS6LjBONzY84szQBz5gGej6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA [/COLOR][/B]</info></item>
 ##############################################################################################################
