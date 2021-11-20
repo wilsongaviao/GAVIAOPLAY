@@ -20,6 +20,16 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COWBOY BEBOP[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/hygpySmaINdWqL37JzjuoJvT8MG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/COWBOY%20BEBOP.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/fqKoCBkllbGeXF5jKmERtAy5eMP.jpg</fanart>
+<info>[B][COLOR yellow]Grupo de caçadores de recompensas viajam pela galáxia atrás dos bandidos mais perigosos do universo. Eles estão prontos para salvar o mundo — se forem bem pagos, lógico![/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CRIMINAL MINDS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6YeRYN5ukiNeUSL0LHuoBByHcnC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CRIMINAL%20MINDS%23.txt</externallink>
