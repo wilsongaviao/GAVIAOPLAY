@@ -1,4 +1,19 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Noite Passada em Soho[COLOR yellow]( 4k )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eeecaba6013e71822541cb24493900395300a19$nome=[B] LINK 1 [COLOR yellow]4kp[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=mmagnet:?xt=urn:btih:0d0631012a925a96cbe344c6656cd4aecb9ae9dc$nome=[B] LINK 2 [COLOR yellow]4k[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3qYnuYly2qspRkxtSSMhh4Xd6qx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nZP1rGsOh3G2HbYfRqO58zg0V4Y.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]. Uma jovem apaixonada por moda misteriosamente ganha a chance de voltar aos anos 60 e encontrar sua ídola, uma encantadora cantora aspirante. Mas a Londres dessa década não é o que parece e logo o tempo começa a desmoronar com perigosas consequências.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / TERROR[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [COLOR yellow](1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d87046de83b4d42f350a0d28f20f83728d70bd52</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rAksPS6LjBONzY84szQBz5gGej6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]A Lenda de Candyman [COLOR yellow]( 2021)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e375ae65e17c45b52a1344e94580ba51bcea1b14$nome=[B] LINK 1[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02dfb96ced0ada2464926cb5627204be8c7d0522$nome=[B] LINK 2 [/COLOR][/B]</link>
