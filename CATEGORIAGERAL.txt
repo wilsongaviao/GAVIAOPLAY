@@ -151,10 +151,10 @@
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES AVULSOS [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/cHdFTHkv/FILMESAVULSOS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIAFILMESAVULSOSACAO.txt</externallink>
-<fanart>https://i.postimg.cc/WzRZcY7j/fanartfilmesavulsos.jpg</fanart>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE LINK DIRETO [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/50xkX8XK/CINELINKDIRETO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINELINKDIRETO.txt</externallink>
+<fanart>https://i.postimg.cc/8cYyX3tx/FANART-LINK-DIRETO.jpg</fanart>
 <info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,COLETANEA COM VARIOS FILMES DE SUCESSOS, OBS: SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
 </channels>
 </channel>
