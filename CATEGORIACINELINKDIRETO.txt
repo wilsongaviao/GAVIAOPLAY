@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/W3YgS8CF/LINKDIRETOA-O.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOACAO.txt</externallink>
 <fanart>https://i.postimg.cc/DfD1XC1R/FANARTLINK-DIRETOA-O.jpg</fanart>
 <info>[B][COLOR yellow]SUPER COLETANEA CONTENDO FILMES DE AÇÃO,[COLOR crimson] OBS: [COLOR white]SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
 </channels>
