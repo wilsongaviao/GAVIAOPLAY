@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AVENTURA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/zvLWQWYd/LINKDIRETOAVENTURA.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOAVENTURA.txt</externallink>
 <fanart>https://i.postimg.cc/wMSJYv69/FANARTLINK-DIRETOAVENTURA.jpg</fanart>
 <info>[B][COLOR yellow]SUPER COLETANEA CONTENDO FILMES DE AVENTURA,[COLOR crimson] OBS: [COLOR white]SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
 </channels>
