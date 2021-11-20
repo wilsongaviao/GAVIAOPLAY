@@ -32,9 +32,9 @@
 ##################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] ANIMAÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/KYZT2Cy3/LINKDIRETODIVERSOS.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOANIMA%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/rFrxCSJs/FANARTLINK-DIRETODIVERSOS.jpg</fanart>
 <info>[B][COLOR yellow]SUPER COLETANEA CONTENDO FILMES DE DIVERSOS ESTILOS,[COLOR crimson] OBS: [COLOR white]SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
 </channels>
