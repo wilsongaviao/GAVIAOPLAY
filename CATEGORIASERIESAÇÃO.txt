@@ -20,7 +20,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COWBOY BEBOP[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COWBOY BEBOP[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/hygpySmaINdWqL37JzjuoJvT8MG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/COWBOY%20BEBOP.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/fqKoCBkllbGeXF5jKmERtAy5eMP.jpg</fanart>
@@ -40,7 +40,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CROSSING LINES[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CROSSING LINES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xraj4mL476xVyevEM2dNoTfvPMS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CROSSING%20LINES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/46CHPlDDTRNyMuSMQ64FS4nUrtM.jpg</fanart>
@@ -215,7 +215,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHADOWHUNTERS - CAÇADORES DE SOMBRAS[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHADOWHUNTERS - CAÇADORES DE SOMBRAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQLNxAC1X91cY4rFgQDHs7nx3qQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHADOWHUNTERS%20-%20CA%C3%87ADORES%20DE%20SOMBRAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/o0PtXGp2XyoRu0S1uPYzDpMnkOM.jpg</fanart>
@@ -244,7 +244,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]S.W.A.T. - FORÇA DE INTERVENÇÃO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]S.W.A.T. - FORÇA DE INTERVENÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/S.W.A.T.%20-%20For%C3%A7a%20De%20Interven%C3%A7%C3%A3o.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/jEz0xhUlQb0QWt3Xow4c9aAcCIR.jpg</fanart>
