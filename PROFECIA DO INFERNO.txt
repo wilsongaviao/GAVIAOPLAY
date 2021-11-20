@@ -1,0 +1,15 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] PROFECIA DO INFERNO [COLOR lime] 1ª TEMPORADA[COLOR crimson] DUBLADA[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MAU5TGFF5OF4QZKNGV3XJCWMHBYPGNXE</link>
+<thumbnail>https://abutretorrents.com/imagens/profecia-do-inferno-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dNcZUxFnFe6NMv6NQPuQMw5B9u0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando o mundo é invadido por criaturas sobrenaturais que condenam as pessoas ao inferno, surge um grupo religioso afirma ter a justiça divina como maior preceito. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] PROFECIA DO INFERNO [COLOR lime] 1ª TEMPORADA[COLOR crimson] LEGENDADA [COLOR yellow]######[/COLOR][/B]</title>
+<thumbnail>https://abutretorrents.com/imagens/profecia-do-inferno-1-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67604b1aa2ab9df9a3c74f37410c6dc44794974$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acdb7da058e8e03f94d6a8c95f654afe8c1e7ab3$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<fanart>https://www.themoviedb.org/t/p/original/dNcZUxFnFe6NMv6NQPuQMw5B9u0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando o mundo é invadido por criaturas sobrenaturais que condenam as pessoas ao inferno, surge um grupo religioso afirma ter a justiça divina como maior preceito. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
