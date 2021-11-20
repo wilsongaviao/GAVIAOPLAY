@@ -1,0 +1,16 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] COWBOY BEBOP [COLOR lime] 1ª TEMPORADA -  [COLOR yellow]DUBLADA[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f87d21e24d29f1a7be84b4cfdafbed2cf9fb8d89</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qLnPSN31qZe8R5XvkIsCnY1nxt7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5y6MNs4pbkqXkmiA26uMQJGnL7m.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Grupo de caçadores de recompensas viajam pela galáxia atrás dos bandidos mais perigosos do universo. Eles estão prontos para salvar o mundo — se forem bem pagos, lógico![/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] COWBOY BEBOP [COLOR lime] 1ª TEMPORADA COLOR yellow]LEGENDADA[COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be526f3a7334a1dd8944e4c9754b7a27e34b14bd$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd8dc7e44d4fe8ffc98d5f46f7590479c777ee83$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/qLnPSN31qZe8R5XvkIsCnY1nxt7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5y6MNs4pbkqXkmiA26uMQJGnL7m.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Grupo de caçadores de recompensas viajam pela galáxia atrás dos bandidos mais perigosos do universo. Eles estão prontos para salvar o mundo — se forem bem pagos, lógico![/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
