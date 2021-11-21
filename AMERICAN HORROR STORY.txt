@@ -1,0 +1,220 @@
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 10ª TEMPORADA [COLOR lime] Caracteristica Dupla[COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/koJeTvCpmkBx69UD8ekwPEFaG2a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ZQmiX2iOsclXLOLgSUeN2ZmmUT.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A decima temporada de American Horror Story, intitulada Double Feature, terá de volta os atores veteranos Sarah Paulson, Evan Peters e Lily Rabe e será dividida em duas partes: Red Tide e Death Valley. A primeira parte acompanha Harry Gardner (Finn Wittrock) e sua esposa Doris (Lily Rabe) enquanto fazem uma viagem para uma comunidade costeira. Mas nesse estranho lugar, Harry se vê influenciado por moradores locais com intenções misteriosas enquanto sua família é perseguida por uma estranha figura pálida.a segunda parte da temporada deve abordar histórias que envolvem uma invasão alienígena[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca1ca73b27addf6e83d202f929691f0149a149db</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/koJeTvCpmkBx69UD8ekwPEFaG2a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ZQmiX2iOsclXLOLgSUeN2ZmmUT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03 / 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39580ef6db8e45972beb1a86f95f4d6ee149193a</link>
+<thumbnail></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ZQmiX2iOsclXLOLgSUeN2ZmmUT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05 / 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d30e126567208b69acccc6d2cde0593157aecf6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/koJeTvCpmkBx69UD8ekwPEFaG2a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ZQmiX2iOsclXLOLgSUeN2ZmmUT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07 / 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b345f23ee93512e04e64b08f3400672e7f50499c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/koJeTvCpmkBx69UD8ekwPEFaG2a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ZQmiX2iOsclXLOLgSUeN2ZmmUT.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09 / 10 [COLOR white] EM BREVE[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/koJeTvCpmkBx69UD8ekwPEFaG2a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ZQmiX2iOsclXLOLgSUeN2ZmmUT.jpg</fanart></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 9ª TEMPORADA [COLOR lime] 1984 [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc3df3da588b993584d72c050700394824746531</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5sXeavmKqLfdnZQcvHKUpHFSjOT.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 9ª temporada de American Horror Story começou a ser exibida em 18 de setembro de 2019.
+No verão de 1984, cinco amigos escapam de Los Angeles para trabalhar como conselheiros no Camp Redwood. À medida que se adaptam a seus novos empregos, eles aprendem rapidamente que a única coisa mais assustadora do que as histórias da fogueira é o passado que vem te assombrar.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 8ª TEMPORADA [COLOR lime] Apocalipse [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07a19d0c07dc0541788f1e9769e5f3471e7a25a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3Ua0MOkXe5kSJKRDMerDMAMjXKx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rbeEnBuAEqwRKRe5Z7Ai4RUMr8E.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 8ª temporada de American Horror Story começou a ser exibida em 12 de setembro de 2018.
+Após o apocalipse nuclear, a elite escolhida pelo mundo sobrevive em postos avançados criados pela misteriosa Cooperativa. Na costa oeste americana, a Sra. Wilhemina Venable e a Sra. Miriam Mead comandam o Posto Avançado Três com punho de ferro. A chegada inesperada de Michael Langdon, um representante da Cooperativa determinado a salvar a sociedade com um paraíso secreto, joga sua ordem no caos. No entanto, por baixo da superfície da salvação da humanidade está um campo de batalha pelo conflito final entre o bem e o mal.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 7ª TEMPORADA [COLOR lime] Culto ao Medo [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/w2Fh4jg0vJDDOOZ5qaTVcapHgmg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kuZ6DPMRhkoshPxbLiUp5pNm8Cq.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] A 7ª temporada de American Horror Story começou a ser exibida em 5 de setembro de 2017.
+A cidade fictícia de Brookfield Heights, Michigan, ficou dividida pela eleição presidencial dos EUA de 2016 e segue uma comunidade dilacerada por um perigoso líder de seita que usa o medo como arma. A proprietária de um restaurante local, Ally Mayfair-Richards, está totalmente perturbada com a vitória de Donald Trump e várias de suas fobias de longa data, incluindo coulrofobia, hemofobia e tripofobia, intensificam-se como resultado.
+[/COLOR][/B]</info></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 >>> 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bafd94c9c2bc820ea0076bf6ea37833a38284bd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/w2Fh4jg0vJDDOOZ5qaTVcapHgmg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kuZ6DPMRhkoshPxbLiUp5pNm8Cq.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05 >>> 11/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9930E07A77B42DC2F008356F762A888B96479C3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/w2Fh4jg0vJDDOOZ5qaTVcapHgmg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kuZ6DPMRhkoshPxbLiUp5pNm8Cq.jpg</fanart></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 6ª TEMPORADA [COLOR lime] Pesadelo em Roanoke [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6094e9464232856f702f4c26babaf6595d38877</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xfhfwB5XjhQ3QwqJn84cDkE8uQy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t15Uc3vsyln858vgvgje2kU6CQ7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 6ª temporada de American Horror Story começou a ser exibida em 14 de setembro de 2016.
+Após um incidente perturbador, um jovem casal muda-se para uma casa aparentemente perfeita construída no século 18 na floresta da Carolina do Norte. No entanto, o prédio fica próximo ao local do desaparecimento da lendária Colônia Perdida e, à medida que eventos sobrenaturais horríveis ocorrem na casa, o casal começa a sentir algo escuro sob a fachada.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 5ª TEMPORADA [COLOR lime] Hotel [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 5ª temporada de American Horror Story começou a ser exibida em 7 de outubro de 2015.
+A história da temporada se passa no Hotel Cortez, um enigmático hotel art déco de seis andares com sede em Los Angeles. A trama segue A Condessa, a dona do hotel, enquanto ela tenta se proteger e a seus filhos da fúria de seu ex-amante que busca vingança contra ela, assim como John Lowe, um detetive de homicídios de Los Angeles na força-tarefa por uma série de assassinatos horríveis que o levam na direção do hotel.
+[/COLOR][/B]</info></item>
+
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C38E2CAB7612A7E300E578B1B8293CA3B780DF72</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C27330855216FFA050B9179AAA763DD1215158A0</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF79AD973FC1A486B049BD5D402B651B246A601F</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D7A1E4080DEA4A0AB36441A56B0C4E26CB23D7D</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1429A707FAC11C10A1D1B8C60246B61C08DF837</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4138554BF408F62731FA7F987343483DA2D978AC</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09C154F2EE5BB80492B3B8FB8B4A20FEC12CCF63</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F34CAFF96CB647C771ABDCE57BBFEE409D49E9AA</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB487990BAAF8BFDE0530C8E2FD03E3540564AD5</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02409AEF5E94C61094FDAF010BED76A9AEAA9B16</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2A4B4613933FAC5F3E640FC3E99A2A19BF14246</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01160B7878AE89EDE8F95ECBDA78298BDD71D46C</link>
+thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n7KiigfPtaK5qurOpMez444oU7W.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 4ª TEMPORADA [COLOR lime]Show de Horrores [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D347A3C69CEF3A9D81BCBBDB7C737B8C93591DF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mE9ozDhPXNjlSw4ASKjjZxDrzDL.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 4ª temporada de American Horror Story começou a ser exibida em 8 de outubro de 2014.
+Freak Show começa seu conto no tranquilo e sonolento vilarejo de Júpiter, Flórida. O ano é 1952. Uma trupe de curiosidades humanas acaba de chegar à cidade, coincidindo com o estranho surgimento de uma entidade sombria que ameaça ferozmente a vida dos habitantes da cidade e também de aberrações.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 3ª TEMPORADA [COLOR lime] O Clã [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qw5ER3ZOyFMrzbv1F0GDW9OToLX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 3ª temporada de American Horror Story começou a ser exibida em 9 de outubro de 2013.American Horror Story: Coven conta a história secreta de bruxas e bruxaria na América. Mais de 300 anos se passaram desde os dias turbulentos dos julgamentos das bruxas em Salem e aqueles que conseguiram escapar agora estão em risco de extinção. Ataques misteriosos têm aumentado contra sua espécie e meninas estão sendo mandadas para uma escola especial em Nova Orleans para aprender como se proteger. Envolvida na turbulência está a nova chegada, Zoe, que está abrigando um terrível segredo próprio. Alarmada com a agressão recente, Fiona, a Suprema há muito ausente, volta para a cidade determinada a proteger o Coven e determinada a dizimar qualquer um que fique em seu caminho.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 2ª TEMPORADA [COLOR lime] Manicomio [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE6E472A07CD00307C0212F3CF82FF3F2EB97AEF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kLANmrQIepV5KLySxipyVoScPDv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l8S5FAkj1ICJuyxjH5pQ7B2Eyvf.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 2ª temporada de American Horror Story começou a ser exibida em 17 de outubro de 2012.
+Em um sanatório da Nova Inglaterra, presidido por ministros da fé e da ciência, os inocentes e os loucos fogem de perigos maiores e de seu próprio passado. Completado por explorações modernas das ruínas, um mistério mais sombrio está à espera de novas vítimas.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] AMERICAN HORROR STORY [COLOR lime] 1ª TEMPORADA [COLOR lime] A Casa dos Assassinatos [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69cc960bc6d8b311d06103cfeacc26811865573e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8wk2gW66QUIKoCYEGnM7scfmg8s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Y8gWy1oVQHDkc2TRlAgAAsaHVv.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A 1ª temporada de American Horror Story começou a ser exibida em 5 de outubro de 2011.
+É centrado na família Harmon: Dr. Ben Harmon, Vivien e sua filha Violet, que se mudaram de Boston para Los Angeles depois que Vivien teve um aborto espontâneo e Ben teve um caso. Eles se mudam para uma mansão restaurada, sem saber que a casa é assombrada pelos fantasmas de seus ex-moradores e suas vítimas.
+[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
