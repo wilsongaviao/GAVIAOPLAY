@@ -3,7 +3,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AS CRÔNICAS DE SHANNARA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AS CRÔNICAS DE SHANNARA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVKiNcO4Lp1pj3uXwzASceQ19pa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/AS%20CRONICAS%20DE%20SHANARA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/8RNoJJn2S8DlA331OyIqTh3zr68.jpg</fanart>
@@ -32,11 +32,21 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ERA UMA VEZ  ( ONCE UPON A TIME )[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ERA UMA VEZ  ( ONCE UPON A TIME )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/5AcRJx2OnTJnYXI3xecvktopnNz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/Once%20Upon%20a%20Time.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7ST96HKMZJmmNq7a4NJUY9Rzczm.jpg</fanart>
 <info>[B][COLOR yellow]Na cidade fictícia de Storybrooke, no Maine, Regina (Lana Parrilla) é uma rainha má que rouba memórias graças à maldição obtida por meio de Rumplestiltskin (Robert Carlyle). Suas vítimas viveram, portanto, uma realidade imutável durante 28 anos, sem ter qualquer noção de sua idade. Todas as esperanças estão depositadas em Emma Swan (Jennifer Morrison), filha da Branca de Neve (Ginnifer Goddwin) e do Príncipe Encantado (Josh Dallas). Ela é a única pessoa com a capacidade de quebrar a maldição e recuperar as lembranças perdidas, pois foi transportada do mundo de conto de fadas antes de ser atingida pelo feitiço. [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FUNDAÇÃO [COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzM97zqip5u7qq88aBkiGRBdYXC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FUNDA%C3%87%C3%83O.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/8RWKNmz5IEcCyC0vGt3ykoXvtRg.jpg</fanart>
+<info>[B][COLOR yellow]Inspirada nas obras de romance de Isaac Asimov, Foundation retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
@@ -78,7 +88,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KILLJOYS ( AGENTES ESPACIAIS )[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KILLJOYS ( AGENTES ESPACIAIS )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/sI9PteHyVUOjTV62dxLKSh8HGxt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KILLJOYS%20.1.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/pv2vwHdELOYTLpgReMAFxLcJzj5.jpg</fanart>
@@ -88,7 +98,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KRYPTON[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KRYPTON[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHgkffPNJsRDNjaJ66jj32fIQc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KRYPTON.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2ZDH1mj5OthywHyWDnVrurOitAX.jpg</fanart>
@@ -117,7 +127,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MACGYVER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MACGYVER[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MACGYVER.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/v2moumGovVAmDASYkjakIl2WrOM.jpg</fanart>
@@ -137,7 +147,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MARCO POLO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MARCO POLO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yImawhSjc6NFAW6J9bBscedAxDA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MARCO%20POLO.txt</externallink>
 <fanart>https://apaixonadosporseries.com.br/wp-content/arquivos/2016/07/marco-polo-2x02-Mei-Lin-Marco-Polo.jpg</fanart>
@@ -177,7 +187,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O LEGADO DE JÚPITER[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O LEGADO DE JÚPITER[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20LEGADO%20DE%20JUPITER.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/hT4HTQJhfnWNl7tHBY3E6Nda9M6.jpg</fanart>
@@ -186,7 +196,7 @@
 </channel>
 ###################################################################################################################
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O REINO PERDIDO DOS PIRATAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O REINO PERDIDO DOS PIRATAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNraOcyTMzwzTvbh4Bp570Q23Hv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20REINO%20PERDIDO%20DOS%20PIRATAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/61AZhYnjayWHld2ocdYtX9k6PKH.jpg</fanart>
@@ -205,7 +215,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS ASTRONAUTAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS ASTRONAUTAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5byDyeVYxUQTm5fqcE4pQedyPJ3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/OS%20ASTRONAUTAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7oE8sytCE6wnFTInZacDDkC6pqK.jpg</fanart>
@@ -214,7 +224,7 @@
 </channel>
 ###################################################################################################################
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PANICO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PANICO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jIWO8GKclxOJgtC0jXAyJgMMla8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PANIC.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/5HJCrRGlQJppSQAzNwCpwnVn2XX.jpg</fanart>
@@ -233,7 +243,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SCORPION - SERVIÇO DE INTELIGÊNÇIA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SCORPION - SERVIÇO DE INTELIGÊNÇIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1Edm68SE8JeOzyTafZnTOOuLTx.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SCORPION.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mUBOpIZClH4pO32SIpCwKAyKU9y.jpg</fanart>
