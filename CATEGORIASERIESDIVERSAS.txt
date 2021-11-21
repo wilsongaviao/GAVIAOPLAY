@@ -22,6 +22,16 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AMERICAN HORROR STORY [COLOR blue] NEW[COLOR lime] DRAMA / SUSPENSE / TERROR [/COLOR][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/p9eatCOmRQMojacETmlcX2PKJai.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/AMERICAN%20HORROR%20STORY.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/lnJ7Nut71LBWgDmh2aRAQDo6Jco.jpg</fanart>
+<info>[B][COLOR yellow]A série gira em torno dos Harmon, uma família de três que se desloca de Boston para Los Angeles a fim de resolver alguns problemas do passado. O que eles não sabem é que a casa escolhida como nova moradia está assombrada. E não assombrada por pálidos fantasmas amigáveis, mas sim por criaturas demoníacas. Criaturas que têm como hábito não apenas assustar os moradores da residência como também devorá-los. Após morar no local assombroso, o psiquiatra e patriarca da família, Ben, poderá acabar precisando de um psiquiatra para ele mesmo.[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]ANOS INCRIVEIS [COLOR lime]COMÉDIA / DRAMA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOS%20INCRIVEIS.txt</externallink>
