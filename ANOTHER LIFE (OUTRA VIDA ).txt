@@ -1,0 +1,17 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white]ANOTHER LIFE ( OUTRA VIDA ) [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c06617a84b7830eb402e388b7be50a9d1d11825d$nome=[B] LINK 1 [COLOR lime] DUBLADO [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ygiUWflbmz5p2LFc3COVHriQzK.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um enorme artefato alienígena pousa na Terra, e Niko Breckinridge tem de liderar uma missão interestelar para rastrear sua origem e fazer contato com os extraterrestres.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ANOTHER LIFE ( OUTRA VIDA ) [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db5f99000f14220423c790d653cafb60a4cd2406$nome=[B] LINK 1 [COLOR lime] DUBLADO [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6b4be8f227e604fac7ab00c5a07d65e079eefc5$nome=[B] LINK 2 [COLOR lime] LEGENDADO[COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb462a8394553704fd460b0f81ac249663e2ae1$nome=[B] LINK 3 [COLOR lime] LEGENDADO[COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/gW3FJouZ3Ab57OR50Fy2jLaKAKH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bQaEYajqxuzMiJVbGK5lVR9Zqjm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um enorme artefato alienígena pousa na Terra, e Niko Breckinridge tem de liderar uma missão interestelar para rastrear sua origem e fazer contato com os extraterrestres.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
