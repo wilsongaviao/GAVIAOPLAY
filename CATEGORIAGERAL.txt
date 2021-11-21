@@ -151,7 +151,7 @@
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE LINK DIRETO [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE LINK DIRETO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/50xkX8XK/CINELINKDIRETO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINELINKDIRETO.txt</externallink>
 <fanart>https://i.postimg.cc/8cYyX3tx/FANART-LINK-DIRETO.jpg</fanart>
