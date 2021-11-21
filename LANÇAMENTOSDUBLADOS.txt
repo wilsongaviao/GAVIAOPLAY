@@ -1,10 +1,18 @@
+
+
+<item><title>[B][COLOR white]Ghostbusters - Mais Além [COLOR yellow]( CAM )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3779dd9f106872b159b76605ba96908a5f152046</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e9nSrwh0H9n1YCbITxO4d2nN9xm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qknLmBKDyjGMC40b7ZehqdfIi2A.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma mãe solteira resolve se mudar para uma pequena cidade do interior com seus filhos, e acaba descobrindo uma conexão com os Caça-Fantasmas originais e o que o seu avô deixou para trás como legado. 
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA / FANTASIA [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Tick, Tick… Boom! [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3779dd9f106872b159b76605ba96908a5f152046</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j03WWYfHXWjIpY1B5V2i1Lczcor.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aI3oDBFdrf8I2vCpEwM15oYyrRN.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Durante os anos 90, um aspirante a compositor (Andrew Garfield) trabalha como garçom enquanto escreve o que espera ser o maior musical americano que lhe revelará. Se aproximando de seu aniversário de 30 anos, ele começa a se questionar se perseguir o sonho impossível vale a pena ou não. 
 [COLOR white][B] Gênero:  [COLOR lime]BIOGRAFIA / DRAMA / MUSICAL [/COLOR][/B]</info></item>
-
 ##############################################################################################################
 <item><title>[B][COLOR white]Alerta Vermelho - Red Notice[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FT22K6T7LG5TSEJWDXXMSL7L7XTKE75H</link>
