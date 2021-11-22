@@ -1,115 +1,115 @@
 
 ########################################################################################## 
-<item><title>[COLOR white][B]Infinito [COLOR yellow]( 2021 )[/COLOR [/B][COLOR yellow](  )[/COLOR [/B]</title>
+<item><title>[B]Infinito [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e117fbac28b64a5e8ed2a846fb81301d/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BUm jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.[/B][/COLOR]</info></item> 
 ########################################################################################## 
-<item><title>[COLOR white][B]A-X-L O Cão Robô [COLOR yellow]( 2018 )[/COLOR [/B][COLOR yellow](  )[/COLOR [/B]</title>
+<item><title>[B]A-X-L O Cão Robô [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_5aef14951cc343e8acc96946be895d1f/480p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sigvpZ41dHQlY7QWAXLVyhK5Ymj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5bE4YCIobmpakrQKigtMLlUhvDO.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles, surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.[/B][/COLOR]</info></item>   
 ########################################################################################## 
-<item><title>[COLOR white][B]Skylines 3 [COLOR yellow]( 2020 )[/COLOR [/B][COLOR yellow](  )[/COLOR [/B]</title>
+<item><title>[B]Skylines 3 [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f3c310cf08c14e36b9915e2424782196/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3ombg55JQiIpoPnXYb2oYdr6DtP.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Quando um vírus ameaça transformar os híbridos alienígenas amigáveis que agora vivem na Terra contra os humanos, a capitã Rose Corley deve liderar uma equipe de mercenários de elite em uma missão ao mundo alienígena para salvar o que resta da humanidade.[/B][/COLOR]</info></item> 
 ########################################################################################## 
-<item><title>[COLOR white][B]Mundo em Caos [COLOR yellow]( 2021 )[/COLOR [/B][COLOR yellow](  )[/COLOR [/B]</title>
+<item><title>[B]Mundo em Caos [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_11ec67d023674a7d9ffd0b3666f69a15/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oMSumadgRiygK1DUtBurdnZb9Jz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ovggmAOu1IbPGTQE8lg4lBasNC7.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em um futuro não muito distante, em um mundo onde as mulheres desapareceram e os homens foram afetados pelo “ruído” – uma força que deixa seus pensamentos audíveis – Todd Hewitt encontra Viola, uma jovem misteriosa que aterrissou em seu planeta. Com Viola correndo perigo, Todd jura protegê-la e colocá-la fora de perigo. Para salvá-la, Todd terá que controlar seu “ruído”, descobrir sua própria força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam.[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[COLOR white][B]Círculo de Fogo A Revolta  [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+<item><title>[B]Círculo de Fogo A Revolta  [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_9f3096f591d2433ebfbc05687462e3fe/720p/mp4/file.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mo5EJsExrQCroqPDwUwp6jeq0xS.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Jake Pentecost, um promissor piloto Jaeger, cujo lendário pai deu a própria vida para garantir a vitória da humanidade contra os monstruosos "Kaiju". Agora uma ameaça alienígena ainda mais assustadora surgiu no mundo e Jake foi chamado de volta à ação, por seu ex-copiloto, Lambert, e uma hacker Jaeger, de 15 anos, Amara. Criados para se tornar a mais poderosa força de defesa a andar sobre a terra, eles vivem uma nova e espetacular aventura, de proporções monumentais.
 [/B][/COLOR]</info></item>
 ########################################################################################## 
-<item><title>[COLOR white][B]Elysium [COLOR yellow]( 2013 )[/COLOR [/B][COLOR yellow](  )[/COLOR [/B]</title>
+<item><title>[B]Elysium [COLOR yellow]( 2013 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_d1003d0f2470414d921d720d351c8cf1/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dgCfxotSzXcvSos7CBCxrQ1FPBu.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]A Presença [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+<item><title>[B]A Presença [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_2e4ce0254b4347398e5d7de220e1aefb/1080p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w06CakAbJi8Im5L12MM6DHmrHPS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jm2kJQZRmYRzHJzB07oOOVDiQD1.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um jovem cientista trabalha para a NASA, ele é abduzido por extraterrestres. Quando ninguém acredita em sua história, ele fica obcecado em encontrar provas que o levem a uma jornada de descoberta.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Passageiro Acidental [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+<item><title>[B]Passageiro Acidental [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f3de2b7f0b404b34b1c691b42a744fa4/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n91IdvTOxogvs08HN0mYK7nY5T7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4FPP2n1uazvlWvzIqn8ysaOpEID.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Três pessoas em uma missão de dois anos para Marte enfrentam um dilema fatal depois que um passageiro inesperado coloca todos em risco[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Onde Está Segunda? [COLOR yellow]( 2017 )[/COLOR [/B]</title>
+<item><title>[B]Onde Está Segunda? [COLOR yellow]( 2017 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_dad7ebdc56b3498e91b31b5d967f8cba/1080p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mMeTPAh5mekQA77Ue8fgpzQpfFb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jTcH96i57VTS4NKtl0c0y4gADCG.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Situado num mundo fragilizado pela superpopulação, onde famílias só podem ter um filho, sete irmãs gêmeas dividem os dias da semana para poderem conviver no mundo, sendo cada uma nomeada com seu respectivo dia em que é permitida sair. Quando Segunda desaparece, as outras seis tem que se juntar para descobrir o paradeiro dela enquanto são caçadas pelas forças do governo.[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Doom – Aniquilação [COLOR yellow]( 2019 )[/COLOR [/B]</title>
+<item><title>[B]Doom – Aniquilação [COLOR yellow]( 2019 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_1d55719a0cdc420086be61a42149c54f/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kNGW6f47HUk0hISjj1AvXoLNL3L.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Skylines 3 [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+<item><title>[B]Skylines 3 [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f3c310cf08c14e36b9915e2424782196/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3ombg55JQiIpoPnXYb2oYdr6DtP.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Quando um vírus ameaça transformar os híbridos alienígenas amigáveis que agora vivem na Terra contra os humanos, a capitã Rose Corley deve liderar uma equipe de mercenários de elite em uma missão ao mundo alienígena para salvar o que resta da humanidade.[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Elektra[COLOR yellow]( 2005 )[/COLOR [/B]</title>
+<item><title>[B]Elektra[COLOR yellow]( 2005 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f1384033dd2b48ca9d9f18e5478489b1/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bmSMWeXbk0p381HJNecq0lWONn5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cu2UDW5cOBTVixzhKr1ytgDyj0Z.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BTorturada pelo passado, Elektra (Jennifer Garner) é obcecada por sua morte e seu misterioso renascimento. Apesar de ter sido treinada na rígida disciplina do ninjutsu, ela não consegue controlar a fúria que sente pela morte dos pais. Sua ânsia por vingança faz com que parta para o exílio e se torne uma perigosa assassina profissional. Seu novo alvo é Abby (Kirsten Prout), uma garota de apenas 13 anos, e seu pai, Mark (Goran Visnjic), os quais precisam salvar de um perigoso inimigo, que possui poderes sobrenaturais.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Ameaça no Espaço [COLOR yellow]( 2020 )[/COLOR [/B]</title>
+<item><title>[B]Ameaça no Espaço [COLOR yellow]( 2020 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_05f8c2abe4fd4dac934f6d0fd4eee7b6/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um jovem clandestino está a bordo de uma arca interestelar para a Nova Terra. Com a ajuda de um experiente companheiro de tripulação, ele deve superar um terror cósmico malévolo com a intenção de usar a nave espacial como arma.[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Interestelar [COLOR yellow]( 2014 )[/COLOR [/B]</title>
+<item><title>[B]Interestelar [COLOR yellow]( 2014 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f0ff8954b1734f55ad5aeb34d72a811a/1080p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.[/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Level 16 [COLOR yellow]( 2018 )[/COLOR [/B]</title>
+<item><title>[B]Level 16 [COLOR yellow]( 2018 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_0db83d4cafad4c838682e49d4fe555d7/480p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kILAL9kJdW3f6wk9Ai0tavgi6mp.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mJYPSAPBHTFPr2rKQJMLUywDtqM.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um autoritário e rígido sistema escolar para meninas esconde grandes mistérios. Após descobrirem informações perturbadoras, algumas alunas iniciam um motim.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Efeito Borboleta  [COLOR yellow](  2004 )[/COLOR [/B]</title>
+<item><title>[B]Efeito Borboleta  [COLOR yellow](  2004 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_7bbe9ce1774a4eac80cc638e6c8e7c03/1080p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Evan (Ashton Kutcher) é um jovem que luta para esquecer fatos de sua infância. Para tanto ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas ele termina por criar novos, já que toda mudança que realiza gera consequências em seu futuro.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Programada para Matar [COLOR yellow]( 2021 )[/COLOR [/B]</title>
+<item><title>[B]Programada para Matar [COLOR yellow]( 2021 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_05536e797e214de08b075a1b31de1db5/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXENORB2EAbO7OUE7CfZRSdYoua.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tjYoG6lBlQyhEdC4k0rc3n5Fht.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BEm 2040, uma inteligência artificial mulher em um corpo robótico humanóide é hackeada pelo marido e forçada a sequestrar o filho do vice-presidente dos EUA para executá-lo ao vivo na televisão.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B][COLOR white]Extermínio [COLOR yellow]( 2002 )[/COLOR [/B]</title>
+<item><title>[B]Extermínio [COLOR yellow]( 2002 )[/COLOR [/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a8ac429f8722416aadefd0aac196deb1/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tKAqttsESgFYAz3pkjxey3JxYUn.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f1tnO7PvxmECOSIeU9OLn9MssKp.jpg</fanart>
