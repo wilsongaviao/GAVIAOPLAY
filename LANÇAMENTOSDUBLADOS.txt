@@ -179,7 +179,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA ; FICÇÃO[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##################################################################################################################
-<title>[B][COLOR white]Duna [COLOR yellow]( 720 / 1080p / 4k)[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Duna [COLOR yellow]( 720 / 1080p / 4k)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d78443e84fef632effa68ddaded8422d9011867$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[B] LINK 3 [COLOR yellow]4k[/COLOR][/B]</link>
@@ -189,7 +189,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / DRAMA[/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<title>[B][COLOR white]007: Sem Tempo para Morrer[COLOR yellow]( 720p ) [/COLOR][/B]</title>
+<item><title>[B][COLOR white]007: Sem Tempo para Morrer[COLOR yellow]( 720p ) [/COLOR][/B]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iED5BlTFVky8lKw8SuG7QX0q6yI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/18Eca3pEMrdk6GkmKWdf02jWpmo.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67B02D9A55AD61BBE5FF17C56DC662E725A7B127</link>
