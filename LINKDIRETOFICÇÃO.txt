@@ -9,7 +9,7 @@
 ##############################################################################################################
 <item><title>[B][COLOR white]A Natureza Contra ataca[COLOR yellow](2009)[/COLOR][/B]</title>
 <link>https://ia601507.us.archive.org/19/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
-<link>https://ia804507.us.archive.org/18/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
+>https://ia804507.us.archive.org/18/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4
 <thumbnail>https://i.pinimg.com/236x/ab/59/a9/ab59a9a867949ef7b931f521b47e6d91.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwx5tScJDLw1hLmcLIhtNIkdtcMRJjcoueg&usqp=CAU</fanart>
 <info>Sinopse: [COLOR yellow][B]Com um engenhoso plano para controlar o clima, o bilionário Robert Terrell quer mudar o mundo. Mas seus experimentos insanos ameaçam destruí-lo quando tudo foge do seu controle, empurrando o planeta para uma iminente destruição. Agora o mundo depende de um cientista, que estava por trás do plano original, e uma repórter de TV, que têm a coragem salvar o planeta.3
@@ -17,8 +17,8 @@
 
 ##############################################################################################################
 <item><title>[B][COLOR white] Zona Fri[aCOLOR yellow] ( 2017 )[/COLOR][/B]</title>
-<link> https://ia801800.us.archive.org/13/items/zona-fria/Zona%20Fria.mp4$nome=[B] 1 </link></link>
-<link>https://ia803405.us.archive.org/23/items/catastroes2/Zona%20Fria.mp4$nome=[B]21 [COLOR yellow]760p</link></link>
+<link> https://ia801800.us.archive.org/13/items/zona-fria/Zona%20Fria.mp4</link>
+https://ia803405.us.archive.org/23/items/catastroes2/Zona%20Fria.mp4$nome=[B]21 [COLOR yellow]760p
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7e6HVE6JOJhZREu8SsZV2pLZyce.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8KTbw7tK0qOXIFk4JWNvCotb6db.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Sem ninguém ter previsto nada, uma tempestade glacial está chegando. Em meio a essa catástrofe climática me grande escala, uma família deve sobreviver às temperatura baixíssimas que podem destruir o planeta Terra por completo. 
