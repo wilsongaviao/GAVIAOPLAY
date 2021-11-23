@@ -1,5 +1,22 @@
+
 ##############################################################################################################
-<item><title>[B][COLOR white] Zona FriaCOLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Fim Do Mundo [COLOR yellow]()[/COLOR][/B]</title>
+<link>https://ia804507.us.archive.org/25/items/o-fim-do-mundo_202107/O%20Fim%20do%20Mundo.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZsk45d9zARmvyW4pXvIhx7izRA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z2MJxdJVLYgaLZlxyf9AlPQW5PC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Terremotos e misteriosas esferas de plasma atingem o planeta. Os poucos sobreviventes precisam se preparar para superar o desastre. É o começo do fim, e o futuro da Terra agora depende de heróis improváveis., o destino da humanidade está nas mãos de dois caras que administram uma locadora de vídeo e são fãs de filmes “obcecados por ficção científica”. E quem melhor para salvar o mundo do que caras que viram todos os filmes e todas as formas “por aí” de salvá-lo !?
+[COLOR white][B] Gênero:  [COLOR lime] ( FICÇÃO )[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Natureza Contra ataca[COLOR yellow](2009)[/COLOR][/B]</title>
+<link>https://ia601507.us.archive.org/19/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
+<link>https://ia804507.us.archive.org/18/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
+<thumbnail>https://i.pinimg.com/236x/ab/59/a9/ab59a9a867949ef7b931f521b47e6d91.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwx5tScJDLw1hLmcLIhtNIkdtcMRJjcoueg&usqp=CAU</fanart>
+<info>Sinopse: [COLOR yellow][B]Com um engenhoso plano para controlar o clima, o bilionário Robert Terrell quer mudar o mundo. Mas seus experimentos insanos ameaçam destruí-lo quando tudo foge do seu controle, empurrando o planeta para uma iminente destruição. Agora o mundo depende de um cientista, que estava por trás do plano original, e uma repórter de TV, que têm a coragem salvar o planeta.3
+[COLOR white][B] Gênero:  [COLOR lime] FICÇÃO[/COLOR][/B]</info></item>
+
+##############################################################################################################
+<item><title>[B][COLOR white] Zona Fri[aCOLOR yellow] ( 2017 )[/COLOR][/B]</title>
 <link> https://ia801800.us.archive.org/13/items/zona-fria/Zona%20Fria.mp4$nome=[B] 1 </link></link>
 <link>https://ia803405.us.archive.org/23/items/catastroes2/Zona%20Fria.mp4$nome=[B]21 [COLOR yellow]760p</link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7e6HVE6JOJhZREu8SsZV2pLZyce.jpg</thumbnail>
