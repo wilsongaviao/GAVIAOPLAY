@@ -162,8 +162,8 @@ https://ia601706.us.archive.org/18/items/meteoro-o-futuro-esta-em-jogo/METEORO%2
 [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Supernova - O Dia Que O Mundo Pegou Fogo[COLOR yellow] ( 2006 )[/COLOR][/B]</title>
-<link>https://ia802809.us.archive.org/34/items/vds_20200208/DMDOPGFG.mp4</link>
-https://ia801704.us.archive.org/31/items/o-dia-em-que-o-mundo-pegou-fogo_202101/O%20DIA%20EM%20QUE%20O%20MUNDO%20PEGOU%20FOGO.ia.mp4
+<link>https://ia801704.us.archive.org/31/items/o-dia-em-que-o-mundo-pegou-fogo_202101/O%20DIA%20EM%20QUE%20O%20MUNDO%20PEGOU%20FOGO.ia.mp4</link>
+https://ia802809.us.archive.org/34/items/vds_20200208/DMDOPGFG.mp4
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/zow3NJJWpAG19fcLnMehCIJJNyv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9n46ONadB3wz2gi2R7vR5NgRAQ4.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Uma conferência científica internacional é realizada na Austrália quando o Dr. Austin Shepard desaparece misteriosamente. O colega do Dr. Shepard, Christopher Richardson e outras pessoas logo se deparam com a realidade de uma crise iminente e uma tentativa de manter as informações longe do público. Embora uma supernova totalmente desenvolvida não ocorra, explosões no Sol causam danos massivos na Austrália e são mostradas frequentemente em Sydney e em várias outras cidades e países do mundo.[/COLOR][/B]</info></item>
