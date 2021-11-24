@@ -1,32 +1,17 @@
 
-##############################################################################################################
-<item><title>[B][COLOR white]O Fim Do Mundo [COLOR yellow]()[/COLOR][/B]</title>
-<link>https://ia804507.us.archive.org/25/items/o-fim-do-mundo_202107/O%20Fim%20do%20Mundo.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZsk45d9zARmvyW4pXvIhx7izRA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/z2MJxdJVLYgaLZlxyf9AlPQW5PC.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Terremotos e misteriosas esferas de plasma atingem o planeta. Os poucos sobreviventes precisam se preparar para superar o desastre. É o começo do fim, e o futuro da Terra agora depende de heróis improváveis., o destino da humanidade está nas mãos de dois caras que administram uma locadora de vídeo e são fãs de filmes “obcecados por ficção científica”. E quem melhor para salvar o mundo do que caras que viram todos os filmes e todas as formas “por aí” de salvá-lo !?
-[COLOR white][B] Gênero:  [COLOR lime] ( FICÇÃO )[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]A Natureza Contra ataca[COLOR yellow](2009)[/COLOR][/B]</title>
-<link>https://ia601507.us.archive.org/19/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
-<thumbnail>https://i.pinimg.com/236x/ab/59/a9/ab59a9a867949ef7b931f521b47e6d91.jpg</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwx5tScJDLw1hLmcLIhtNIkdtcMRJjcoueg&usqp=CAU</fanart>
-<info>Sinopse: [COLOR yellow][B]Com um engenhoso plano para controlar o clima, o bilionário Robert Terrell quer mudar o mundo. Mas seus experimentos insanos ameaçam destruí-lo quando tudo foge do seu controle, empurrando o planeta para uma iminente destruição. Agora o mundo depende de um cientista, que estava por trás do plano original, e uma repórter de TV, que têm a coragem salvar o planeta.3
-[COLOR white][B] Gênero:  [COLOR lime] FICÇÃO[/COLOR][/B]</info></item>
-
-##############################################################################################################
-<item><title>[B][COLOR white] Zona Fri[aCOLOR yellow] ( 2017 )[/COLOR][/B]</title>
-<link> https://ia801800.us.archive.org/13/items/zona-fria/Zona%20Fria.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7e6HVE6JOJhZREu8SsZV2pLZyce.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8KTbw7tK0qOXIFk4JWNvCotb6db.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Sem ninguém ter previsto nada, uma tempestade glacial está chegando. Em meio a essa catástrofe climática me grande escala, uma família deve sobreviver às temperatura baixíssimas que podem destruir o planeta Terra por completo. 
-[COLOR white][B] Gênero:  [COLOR lime]  FICÇÂO [/COLOR][/B]</info></item>
 ########################################################################################## 
 <item><title>[B]Infinito [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e117fbac28b64a5e8ed2a846fb81301d/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BUm jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.[/B][/COLOR]</info></item> 
+##############################################################################################################
+<item><title>[B][COLOR white]A Natureza Contra ataca[COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>https://ia601507.us.archive.org/19/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
+<link>https://ia804507.us.archive.org/18/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
+<thumbnail>https://i.pinimg.com/236x/ab/59/a9/ab59a9a867949ef7b931f521b47e6d91.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwx5tScJDLw1hLmcLIhtNIkdtcMRJjcoueg&usqp=CAU</fanart>
+<info>Sinopse: [COLOR yellow][B]Com um engenhoso plano para controlar o clima, o bilionário Robert Terrell quer mudar o mundo. Mas seus experimentos insanos ameaçam destruí-lo quando tudo foge do seu controle, empurrando o planeta para uma iminente destruição. Agora o mundo depende de um cientista, que estava por trás do plano original, e uma repórter de TV, que têm a coragem salvar o planeta.3[/COLOR][/B]</info></item>
 ########################################################################################## 
 <item><title>[B]A-X-L O Cão Robô [COLOR yellow]( 2018 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_5aef14951cc343e8acc96946be895d1f/480p/mp4/file.mp4</link>
@@ -85,12 +70,6 @@
 <info>Sinopse : [COLOR yellow][B]Um grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.
 [/B][/COLOR]</info></item>
 ##########################################################################################
-<item><title>[B]Skylines 3 [COLOR yellow]( 2020 )[/COLOR][/B]</title>
-<link>https://video.wixstatic.com/video/16f3d4_f3c310cf08c14e36b9915e2424782196/720p/mp4/file.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3ombg55JQiIpoPnXYb2oYdr6DtP.jpg</fanart>
-<info>Sinopse : [COLOR yellow][B]Quando um vírus ameaça transformar os híbridos alienígenas amigáveis que agora vivem na Terra contra os humanos, a capitã Rose Corley deve liderar uma equipe de mercenários de elite em uma missão ao mundo alienígena para salvar o que resta da humanidade.[/B][/COLOR]</info></item>
-##########################################################################################
 <item><title>[B]Elektra[COLOR yellow]( 2005 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_f1384033dd2b48ca9d9f18e5478489b1/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bmSMWeXbk0p381HJNecq0lWONn5.jpg</thumbnail>
@@ -116,6 +95,19 @@
 <fanart>https://www.themoviedb.org/t/p/original/mJYPSAPBHTFPr2rKQJMLUywDtqM.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um autoritário e rígido sistema escolar para meninas esconde grandes mistérios. Após descobrirem informações perturbadoras, algumas alunas iniciam um motim.
 [/B][/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Meltdown Dias De Destruição[COLOR yellow] ( 2006)[/COLOR][/B]</title>
+<link>https://ia601807.us.archive.org/8/items/meltdown-dias-de-destruicao/Meltdown-Dias%20De%20Destrui%C3%A7%C3%A3o.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bsCYTME9KGpzPuH9uzGCzun9jta.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vHoaiCnl6XyJdvScaT1SeZUnSOK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um asteróide gigante muda a órbita da Terra ao atinger sua atmosfera, causando um desastre catastrófico. Agora, o Planeta Água está mais próximo do sol e as condições de vida vão diminuir drasticamente. As temperaturas aumentam. Água e luz tornam-se bens tão preciosos que as pessoas vão matar por eles. Tom Brackett, um policial de Los Angeles, tenta manter a ordem, mas qualquer tentativa pode ser uma perda de tempo enquanto a sociedade mergulha numa completa e cruel anarquia.[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] ]Meteóro: O Futuro Está Em Jogo [COLOR yellow](2011)[/COLOR][/B]</title>
+<link>https://ia802809.us.archive.org/34/items/vds_20200208/MTRFTRSTMJG.mp4</link>
+https://ia601706.us.archive.org/18/items/meteoro-o-futuro-esta-em-jogo/METEORO%2CO%20FUTURO%20ESTA%20EM%20JOGO.ia.mp4
+<thumbnail>https://media.fstatic.com/WBen62ih30vWs2zIc_FD7h5lVYw=/fit-in/290x478/smart/media/movies/covers/2011/10/7a5196ba9d343c28daa220f76d938e89.jpg</thumbnail>
+<fanart>https://www.cinemadebuteco.com.br/wp-content/uploads/2016/06/meteoro-o-futuro-esta-em-jogo.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Num observatório isolado, Dr. Lehman (Christopher Lloyd, de “De Volta Para o Futuro) descobre um meteoro com aproximadamente três vezes o tamanho do Monte Everest, chamado Kassandra, vindo diretamente em direção do planeta Terra. Em seguida localizam terríveis chuvas de meteoritos que começam a atingir as maiores cidades do Globo terrestre. O desastre iminente faz aflorar o melhor e o pior das pessoas, que podem tanto ajudar uns aos outros, como querer tirar vantagem da situação.[/COLOR][/B]</info></item>
 ##########################################################################################
 <item><title>[B]Efeito Borboleta  [COLOR yellow](  2004 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_7bbe9ce1774a4eac80cc638e6c8e7c03/1080p/mp4/file.mp4</link>
@@ -123,6 +115,58 @@
 <fanart>https://www.themoviedb.org/t/p/original/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Evan (Ashton Kutcher) é um jovem que luta para esquecer fatos de sua infância. Para tanto ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas ele termina por criar novos, já que toda mudança que realiza gera consequências em seu futuro.
 [/B][/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Onda De Fogo[COLOR yellow] ( 2014 )[/COLOR][/B]</title>
+<link>https://ia801804.us.archive.org/23/items/onda-de-fogo/Onda%20de%20Fogo.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kgZe0zeTosBhXDA3SizXtKhVk1E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kgZe0zeTosBhXDA3SizXtKhVk1E.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Eve Adams criou Helios, uma poderosa fonte de energia. Mas quando a tecnologia é usada sem os devidos cuidados, a vida no planeta é colocada em risco, e apenas ela poderá reverter a situação.[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] O Dia Depois De Amanhã[COLOR yellow] ( 2004 )[/COLOR][/B]</title>
+<link>https://ia801802.us.archive.org/32/items/o-dia-depois-de-amanha/O%20Dia%20Depois%20de%20Amanh%C3%A3.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4QX88XpXSYhtyyBb0ioKFGlmZp6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A Terra sofre alterações climáticas que modificam drasticamente a vida da humanidade. Com o norte se resfriando cada vez mais e passando por uma nova era glacial, milhões de sobreviventes rumam para o sul. Porém o paleoclimatologista Jack Hall segue o caminho inverso e parte para Nova York, já que acredita que seu filho Sam ainda está vivo.
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Fim Do Mundo [COLOR yellow]( 2009 )[/COLOR][/B]</title>
+<link>https://ia804507.us.archive.org/25/items/o-fim-do-mundo_202107/O%20Fim%20do%20Mundo.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZsk45d9zARmvyW4pXvIhx7izRA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z2MJxdJVLYgaLZlxyf9AlPQW5PC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Terremotos e misteriosas esferas de plasma atingem o planeta. Os poucos sobreviventes precisam se preparar para superar o desastre. É o começo do fim, e o futuro da Terra agora depende de heróis improváveis., o destino da humanidade está nas mãos de dois caras que administram uma locadora de vídeo e são fãs de filmes “obcecados por ficção científica”. E quem melhor para salvar o mundo do que caras que viram todos os filmes e todas as formas “por aí” de salvá-lo !?[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Quantum Apocalipse  [COLOR yellow]( 2010 )[/COLOR][/B]</title>
+<link>https://ia601706.us.archive.org/11/items/o-apocalipse/O%20Apocalipse.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hMBhDknvIDFtkohTcggXvIwYxg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5tjLs17GK6XHAU1oztx97U97WF3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Objetos não identificados estão a caminho de se chocar contra a Terra. Os melhores cientistas se unem para tentar evitar o fim do planeta, mas inúmeras cidades ao redor do mundo estão sendo atingidas e destruídas. Enquanto isso, numa pequena cidade no estado de Louisiana, descobre-se que a chave para salvar a humanidade está bem ali: um garoto autista.[/COLOR][/B]</info></item>
+ ##############################################################################################################
+<item><title>[B][COLOR white]Stonados [COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link> https://ia601800.us.archive.org/14/items/stonados_202101/Stonados.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJXcOTPUP9NPNdlwsLc5OlvHS0Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vaeDiIOXI94STXvl8kaYV4NzKgF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma tempestade chega à costa de Boston e o caçador de tornados Joe Randall fica intrigado com as mudanças climáticas. Porém, quando o tornado se aproxima, Joe percebe que esta não é uma tempestade qualquer.
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] SUPER ERUPÇÃO[COLOR yellow] ( 2012)[/COLOR][/B]</title>
+<link>https://ia601702.us.archive.org/20/items/super-erupcao/SUPER%20ERUP%C3%87%C3%83O.ia.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6gQ7C9ePdWxv88TApTe25J5QZUv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/26SPOgiwiKzXjSSVWLrndaZyWT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de milhares de anos, uma erupção do supervulcão Yellowstone põe em risco milhões de vidas, não só nos seus arredores. Um geólogo e uma guarda florestal terão que dispersar as emissões de gás antes que o mundo todo fique isolado do sol.[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]  Sunshine Alerta Solar[COLOR yellow] ( 2007 )[/COLOR][/B]</title>
+<link>https://ia601803.us.archive.org/6/items/sunshhttps://www.themoviedb.org/t/p/original/vaeDiIOXI94STXvl8kaYV4NzKgF.jpgine-alerta-solar/Sunshine%20-%20Alerta%20Solar.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nSEehMAGrxLqLrk7PABWZZKekK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um futuro não muito distante, a morte do sol anuncia o fim da humanidade. Em um último esforço para salvar o planeta, uma tripulação de oito pessoas vai ao espaço com um dispositivo que poderia reviver o sol. No entanto, um acidente, um erro grave e uma nave espacial perdida há muito tempo coloca a tripulação e sua missão em perigo.
+[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Supernova - O Dia Que O Mundo Pegou Fogo[COLOR yellow] ( 2006 )[/COLOR][/B]</title>
+<link>https://ia802809.us.archive.org/34/items/vds_20200208/DMDOPGFG.mp4</link>
+https://ia801704.us.archive.org/31/items/o-dia-em-que-o-mundo-pegou-fogo_202101/O%20DIA%20EM%20QUE%20O%20MUNDO%20PEGOU%20FOGO.ia.mp4
+<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/zow3NJJWpAG19fcLnMehCIJJNyv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9n46ONadB3wz2gi2R7vR5NgRAQ4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma conferência científica internacional é realizada na Austrália quando o Dr. Austin Shepard desaparece misteriosamente. O colega do Dr. Shepard, Christopher Richardson e outras pessoas logo se deparam com a realidade de uma crise iminente e uma tentativa de manter as informações longe do público. Embora uma supernova totalmente desenvolvida não ocorra, explosões no Sol causam danos massivos na Austrália e são mostradas frequentemente em Sydney e em várias outras cidades e países do mundo.[/COLOR][/B]</info></item>
 ##########################################################################################
 <item><title>[B]Programada para Matar [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_05536e797e214de08b075a1b31de1db5/720p/mp4/file.mp4</link>
@@ -130,6 +174,25 @@
 <fanart>https://www.themoviedb.org/t/p/original/tjYoG6lBlQyhEdC4k0rc3n5Fht.jpg</fanart>
 <info>Sinopse : [COLOR yellow][BEm 2040, uma inteligência artificial mulher em um corpo robótico humanóide é hackeada pelo marido e forçada a sequestrar o filho do vice-presidente dos EUA para executá-lo ao vivo na televisão.
 [/B][/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tempestade Solar [COLOR yellow]()[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/14/items/tempestade-solar/Tempestade%20Solar%20.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f69MoJZkvXJGa80rLC33SwCHTDp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5GHBREB2JmjzkaLmi9F1xX8zlY2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O mundo assiste com admiração enquanto o Roebling Clipper é lançado ao espaço. Usando motores escalares de última geração para voar ao redor da Lua e voltar em poucas horas, a viagem inaugural da primeira nave de passageiros translunar está prestes a fazer história. Entre os que estavam a bordo: a primeira-dama Simone Mathany, o empresário de exploração espacial Steve Roebling, a Dra. Denise Balaban, a piloto Fiona Henslaw e uma sortuda ganhadora da loteria. Mas, durante a viagem, uma enorme explosão solar desencadeia uma explosão de raios cósmicos que acelera o motor de Aurora e leva a nave para longe da órbita da Terra. Agora fora de controle, está indo direto para o sol.[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Terremoto 10.5 O Dia Em Que A Terra Não Aguentou [COLOR yellow]( 2005 )[/COLOR][/B]</title>
+<link>https://ia801806.us.archive.org/2/items/terremoto-10.5-o-dia-em-que-a-terra-nao-aguentou/Terremoto10.5%20-%20O%20Dia%20Em%20Que%20A%20Terra%20N%C3%A3o%20Aguentou.mp4</link>
+<thumbnail>https://media.fstatic.com/LoOijnQHigzBMdpEECsfoZ-2zg4=/290x478/smart/media/movies/covers/2018/08/fnyatHtrQmh6ceZYrmljZObCacP.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4o5OGLSndKU/maxresdefault.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após um terremoto que rasgou o Oeste dos Estados Unidos, a sismóloga Samantha Hill guia o país durante a reconstrução. Como ela temia, outros cataclismas decorrentes do terremoto ameaçam a nação enfraquecida: um tsunami varre do mapa ilhas do Pacífico, tornados, vulcões e enchentes parecem que vão levar tudo à ruína. No entanto, o pior ainda está por vir: toda esta movimentação das placas tectônicas da Terra estão ameaçando romper a falha geológica do Texas, que passa entre as duas maiores usinas atômicas do país. O rompimento destas duas usinas selaria para sempre o destino de milhões de vidas. O Presidente Hollister e Samantha concordam que a única ajuda que eles podem conseguir viria do Professor Earl Hill, que previu esta situação há muito tempo e que se encontra desaparecido, possivelmente vítima do terremoto de Las Vegas. Samantha desesperadamente precisa achar o professor, seu pai, antes que a voracidade do terremoto arremesse todos num apocalipse atômico.[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] The Blackout[COLOR yellow] ( )[/COLOR][/B]</title>
+<link>https://ia801803.us.archive.org/10/items/the-blackout_202101/The%20Blackout.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/avl9MEQhtvokNnzoWepkmHBZ2ss.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7XI7BDoZPvQTx30i26ZifdR7DKd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]]A conexão com a maior parte da Terra foi repentinamente interrompida. Os choques não afetaram apenas uma pequena parte, ou seja, 10% do território da Rússia e territórios parcialmente vizinhos. Essa parte foi chamada de "círculo da vida". As pessoas conduziram uma nova fronteira, estabeleceram um perímetro defensivo e enviaram grupos de reconhecimento para fora dela. Eles perceberam que houve um ataque à Terra, como resultado do qual quase todas as coisas vivas morreram. Para repelir o misterioso inimigo, eles mobilizaram o exército e construíram postos avançados além do perímetro.
+ [/COLOR][/B]</info></item>
 ##########################################################################################
 <item><title>[B]Extermínio [COLOR yellow]( 2002 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_a8ac429f8722416aadefd0aac196deb1/720p/mp4/file.mp4</link>
@@ -137,3 +200,16 @@
 <fanart>https://www.themoviedb.org/t/p/original/f1tnO7PvxmECOSIeU9OLn9MssKp.jpg</fanart>
 <info>Sinopse : [COLOR yellow][B]Um poderoso vírus está a solta. Transmitido em uma gota de sangue e com efeito devastador em alguns segundos, o vírus mantém os infectados em um estado permanente de descontrole assassino. Dentro de 28 dias, o país está tomado e um punhado de sobreviventes inicia esforços para garantir algum futuro à raça humana, mas o que não percebem é que o vírus mortal não é única coisa que os ameaça.
 [/B][/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Zona De Desastre Um Vulcão Em Nova York [COLOR yellow ] ( 2006 )[/COLOR][/B]</title>
+<link>https://ia801803.us.archive.org/9/items/zona-de-desastre-um-vulcao-em-nova-york/Zona%20de%20Desastre%20Um%20Vulc%C3%A3o%20em%20Nova%20York.mp4?cnt=0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBorzOFEMIrC4rYxxUdEwK7J7Uw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v8WMYY1vXaTl5qEVrnf2azXAjYG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mais uma vez a cidade de Nova York está à beira da destruição. Uma experiência ilegal envolvendo energia geotérmica sai tragicamente do controle, criando uma abertura para uma, até então, desconhecida reserva de magma, situada exatamente sob Manhattan. Desta vez caberá a um grupo de geólogos salvar a Big Apple. Será que eles conseguirão?[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Zona Fria[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link> https://ia801800.us.archive.org/13/items/zona-fria/Zona%20Fria.mp4</link>
+<link>https://ia803405.us.archive.org/23/items/catastroes2/Zona%20Fria.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7e6HVE6JOJhZREu8SsZV2pLZyce.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8KTbw7tK0qOXIFk4JWNvCotb6db.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Sem ninguém ter previsto nada, uma tempestade glacial está chegando. Em meio a essa catástrofe climática me grande escala, uma família deve sobreviver às temperatura baixíssimas que podem destruir o planeta Terra por completo. [/COLOR][/B]</info></item>
