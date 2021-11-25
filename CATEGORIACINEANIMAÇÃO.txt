@@ -11,7 +11,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES ANIMADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/PxG5ZvhF/FILMESANIMADOS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMESANIMADOS.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINE%20ANIMA%C3%87%C3%83O.txt</externallink>
 <fanart>https://i.postimg.cc/9QMdgKTH/fanartfilmesanimados.jpg</fanart>
 <info>[B][COLOR yellow]SUPER COLETÂNEA DE SUCESSOS COM FIMES ANIMADOS DE TODOS OS GENEROS [/COLOR][/B]</info></item>
 </channels>
