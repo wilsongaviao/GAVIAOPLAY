@@ -1,10 +1,15 @@
 
+<item><title>[B]Duna [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<link>https://video.wixstatic.com/video/16f3d4_ae9dbf505c1c469db21a1d5395b7b613/720p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
+<fanart>https://sm.ign.com/ign_br/movie/d/dune/dune_1947.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.[/B][/COLOR]</info></item> 
 ########################################################################################## 
 <item><title>[B]Infinito [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>https://video.wixstatic.com/video/16f3d4_e117fbac28b64a5e8ed2a846fb81301d/720p/mp4/file.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>
-<info>Sinopse : [COLOR yellow][BUm jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.[/B][/COLOR]</info></item> 
+<info>Sinopse : [COLOR yellow][B]Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.[/B][/COLOR]</info></item> 
 ##############################################################################################################
 <item><title>[B][COLOR white]A Natureza Contra ataca[COLOR yellow] ( 2009 )[/COLOR][/B]</title>
 <link>https://ia601507.us.archive.org/19/items/a-natureza-contra-ataca/A%20natureza%20contra%20ataca.mp4</link>
