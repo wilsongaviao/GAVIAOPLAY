@@ -68,6 +68,15 @@
 <fanart>https://www.themoviedb.org/t/p/original/a17F3zXnmuwqxfiDa46mtlosjrv.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.
 [COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] Pokemon O Filme - Mewtwo Contra-Ataca: Evolução[COLOR yellow]()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4824024b8841273f8a3b06adb3be5eb325bf1ee2$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a777d78483e4b9cf5fc8bce70d8f29f134bf903$nome=[B] LINK 2 
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/54TouWa5dWkxPtuzoqVEbgUWBVT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/olQLBp49qFpbWSt0z5OdNpFHP3g.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mewtwo Contra-Ataca: Evolução é a refilmagem em computação gráfica da animação original de 1998 que conta a história de um Pokémon criado por humanos, Mewtwo, que foi clonado a partir de um amostra do pelo do raro Mew. Ao perceber que foi criado artificialmente, e não naturalmente, Mewtwo se revolta. 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]A Abelhinha Maya e o Ovo Dourado [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBXRYLLSJJ4KV6KHPPFS76G5AYPEAZGA</link>
@@ -75,6 +84,13 @@
 <fanart>https://www.themoviedb.org/t/p/original/5p58L6344twjfH2vfo5UXBcyUyY.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Quando Maya, uma abelhinha teimosa, e seu melhor amigo Willi resgatam uma formiga princesa, eles se encontram no meio de uma batalha épica de insetos que os levará a estranhos mundos e testará sua amizade até o limite.
 [COLOR white][B] Gênero:  [COLOR lime]AVENTURA [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Digimon - O Filme [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EE656E2DEEF23B4778298DA52CFD8053697C08C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCcsd92GO6f9lMDXb0mkzde22PG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1ZFUt0LtYkF568iCkRXCScgBP5g.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O primeiro filme de Digimon dublado e com excelente qualidade. Um grupo de crianças é transportado para o DigiMundo, onde conhece um grupo de monstros digitais chamado Digimon, com os quais se unem para combater o mal. Entretanto, Diaboromon, um Digimon maligno, cria um vírus de internet que destrói dados do sistema de defesa dos Estados Unidos, no intuito de causar o envio de um míssil para o território japonês. Para evitar o desastre, todos os habitantes do DigiMundo se unem para salvar o mundo real e também seu próprio mundo. 
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / AÇÃO / FICÇÃO [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Ataque dos Mortos-Vivos [COLOR yellow]( 1080p)[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZONRVIEROVYWAT5CBW4CSVYZGZOF7DQM</link>
