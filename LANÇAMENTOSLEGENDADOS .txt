@@ -1,5 +1,40 @@
 
 ##############################################################################################################
+<item><title>[B][COLOR white]Aiyai - Wrathful Soul[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E4D83077B9A1924D376221A880F417564CF7DAE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/56Q2h96x7KubP6pmPuWSE2H9DyD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g2C0ar1P5G5BoNi0vOWYE9R7B79.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma vizinhança é atormentada por misteriosas tragédias quando um jovem se torna o canal para um espírito desconhecido, o "Aiyai", que atrai as vítimas para seus destinos assustadores.
+[COLOR white][B] Gênero:  [COLOR lime] MISTERIO / SUSPENSE[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Grizzly II - Revenge [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKHoRIicgHLoNPKiRJpRPHd96Gx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2rGYlO0x9HFHyDmTlICGUj51AIJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O inferno começa quando um urso gigante, reagindo ao massacre de seus filhotes por caçadores furtivos, ataca um grande show de rock no Parque Nacional. [Esta sequência de “Grizzly” (1976) foi deixada inacabada após a produção ser encerrada prematuramente em 1983, e não foi oficialmente lançada até 2020, embora uma versão bootleg já estivesse em circulação alguns anos antes disso.] 
+[COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Escape from Death Block 13 [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF411841CF411689FC80719C97A9BCE6C4C7C211</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwsy6jEkC8hxe4PigcLB0b4LP3W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xhaytJzTav8CnIFl2970flQg426.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um homem que, depois de ser preso, relutantemente concorda em ser um informante enquanto está lá dentro, mas infelizmente sua maior ameaça não vem dos prisioneiros, mas vem de algo muito pior. 
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ferida [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96c49f097e835c4ea1917bc4a31c1f32a24c6b42</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/axibOQF9QnThrr8M37ufAYurP4R.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5BiKWM5VyNWz42vU3CpCgt4xHNk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Jackie Justice, uma veterana lutadora de MMA, enfrenta o pior momento de sua carreira após uma grande derrota. No entanto, quando Manny, o filho que ela abandonou, reaparece, Jackie terá que fazer o possível para dar a volta por cima - tanto no esporte, quanto na vida como mãe. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Menino Chamado Natal  [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60917ac6a074ee7526f32483811d6a8558e63a93</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1PqZMn3ZKIwO7GeaEfuecqiBPfV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um garoto chamado Nikolas embarca em uma aventura extraordinária em busca de seu pai, que está à procura da lendária Vila dos Duendes. Acompanhado de uma rena teimosa e um rato de estimação, Nikolas acaba encontrando seu destino. Uma história emocionante, divertida e cheia de magia, onde descobrimos que nada é impossível.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Alerta Vermelho - Red Notice[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c90c6bc105163774aa79107a50a27f55505830e0$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1956e238e5d115a29db662a8bc5d407757c7717b$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
