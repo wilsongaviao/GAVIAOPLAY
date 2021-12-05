@@ -1,6 +1,16 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VARIEDADES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/d1dgQ9d1/LINKDIRETOVARIEDADES.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINK%20DIRETO%20VARIEDADES</externallink>
+<fanart>ttps://i.postimg.cc/DfD1XC1R/FANARTLINK-DIRETOA-O.jpg</fanart>
+<info>[B][COLOR yellow] COLETANEA CONTENDO FILMES DE VARIOS GENEROS,[COLOR crimson] OBS: [COLOR white]SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
+</channels>
+</channel>
+
+###################################################################################################################
+
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/W3YgS8CF/LINKDIRETOA-O.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOACAO.txt</externallink>
@@ -9,8 +19,7 @@
 </channels>
 </channel>
 ##################################################################################################################
-<channels>
-<channel>
+
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] AVENTURA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/zvLWQWYd/LINKDIRETOAVENTURA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOAVENTURA.txt</externallink>
@@ -20,8 +29,7 @@
 </channel>
 ##################################################################################################################
 
-<channels>
-<channel>
+
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FICÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/N0pHfbgJ/LINKDIRETOFIC-O.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOFIC%C3%87%C3%83O.txt</externallink>
@@ -30,8 +38,7 @@
 </channels>
 </channel>
 ##################################################################################################################
-<channels>
-<channel>
+
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] ANIMAÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/KYZT2Cy3/LINKDIRETODIVERSOS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LINKDIRETOANIMA%C3%87%C3%83O.txt</externallink>
