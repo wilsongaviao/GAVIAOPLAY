@@ -25,7 +25,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE 2( iptv teste)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TV%20ON%20LINE2(IPTV)</externallink>
+<externallink>http://abre.ai/canalsensei58</externallink>
 <fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
 <info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV , LISTAS IPTV, LINKS PODEM FICAR INSTÁVEIS[/COLOR][/B]</info>
 </channel>
