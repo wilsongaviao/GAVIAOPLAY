@@ -3,7 +3,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAIS DE TV( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/lricardobrlj/Vtv-canais/main/Lista%20De%20Canais</externallink>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/Vtv-canais/864f094ea1c29d7a9c9a29cf19a3e2fe6a91f225/Lista%20De%20Canais</externallink>
 <fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
 <info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
 </channel>
