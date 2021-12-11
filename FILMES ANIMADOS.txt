@@ -1,103 +1,88 @@
+
 ##############################################################################################################
-<item><title>[B][COLOR white]Flummels - Extintos! [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BOSGDIU3WRY4X23N5FSABFBZ7QMSAKEI</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mqa3vQPN2jvxIIcfK287WhaJAh1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Quando dois Flummels (uma espécie adorável de animais fofinhos com buracos no centro) são transportados magicamente até os dias atuais, eles descobrem que suas espécies estão extintas e esquecidas. Eles agora devem viajar no tempo para tentar salvar sua raça de desaparecer para sempre.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Próxima Parada - Lar Doce Lar [COLOR yellow](1080p)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:057e2a3bd168c0516e9b604ff8fe9517704485aa</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Eles são perigosamente fofos! A caçada começa quando um grupo de animaizinhos letais (e um coala-celebridade chamado Pelúcio) escapa do parque onde vivem na Austrália e tentam voltar para seu lar.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Aya e a Bruxa [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Mundo Mágico de Rufus [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7c662ebbffaadadbd394856810eabf200b485fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xA6GjkuxpW4lx2lDTd1LgYPFndo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/36belqb85Hb1vbXuJ2odMl72RXJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] lime] Na casa de sua avó, Scott e sua amiga Emily encontram Rufus, uma criatura peluda que implora a eles que ajudem a restaurar seu reino em extinção. O livro de feitiços de Wizard Abbott contém a fórmula mágica de cura, mas o antigo inimigo de Abbott, Lilith, posando como serva da avó, também quer o livro! Nesta divertida e emocionante aventura familiar, Scott e Emily devem enfrentar um jacaré gigantesco, um esqueleto de dinossauro, uma coruja e um dragão que cospe fogo para resgatar o mundo mágico de Rufus. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família / Fantasia[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ron Bugado [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242A9EFE08565D8C37F2B222FFDB1AC26A68303D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bet9oVOsHPOVGGG2MpkS6jDc4c.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/99OiyEOsFecBiS5XkhQAB98rlP6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ron's Gone Wrong ocorre em um futuro próximo, onde, em vez de telefones celulares, a nova tecnologia é um B-Bot, um robô de formato arredondado que preenche todas as necessidades do usuário, desde a mídia social até o GPS e experiências. A história segue Barney, uma criança de uma família muito pobre que não tem condições de comprar um modelo novo. Ao receber um modelo antigo, com 5% de funcionalidade, Barney cria um vínculo com seu novo robô, o Nicknaming Ron. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Viagem ao Topo da Terra [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56b2b4c2b72629fcfa0a175ef1c8848288f7f1a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iowz7MwaTWMYlfLUE6GeM0m3Hze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s46UYRkMY33leTQ9Y6gc3XVJnHR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]George Mallory e seu companheiro Andrew Irvine foram os primeiros homens a escalar o Everest em 8 de junho de 1924? Apenas a pequena câmera Kodak que eles levaram pode revelar a verdade. Em Katmandu, 70 anos depois, um jovem repórter japonês chamado Fukamachi reconhece a câmera nas mãos do misterioso Habu Jôji, um alpinista pária que se acreditava desaparecido há anos. Fukamachi entra em um mundo de montanhistas obsessivos famintos por conquistas impossíveis em uma jornada que o leva, passo a passo, ao cume dos deuses. Versão animada do filme Everesuto: Kamigami no itadaki (2016). 
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Diário de um Banana - Diary of a Wimpy Kid [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BG7DSCLQEVP3TFBPDKMR2KKWG5ON2NV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vPUoz6a3UfLhSAu6XLPQZXQODiI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hbCau5jcxQ3mblwSW3EsNdQuYpy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Greg Heffley é um garoto magricela, mas ambicioso, com uma imaginação ativa e grandes planos de ser rico e famoso, ele só precisa sobreviver ao ensino fundamental primeiro. Como detalhes de suas hilárias, e muitas vezes desastrosas tentativas de preencher as páginas de seu diário, Greg aprende a apreciar os verdadeiros amigos e a satisfação de defender o que é certo.
+[COLOR white][B] Gênero:  [COLOR lime] Comedia[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Batman - Morte em Família [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HRFG4LF2WOAB55J73INKUOT4IWPJNA3E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97zKwVhOLyTnFbnuLZHbOboLyrM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kU7ZiyeUwcpTkYj3UcxSqGdZmxY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Baseado na HQ “Batman: Morte em Família”, o longa conta a história da relação do Batman com seu pupilo Jason Todd, o segundo Robin. Após a relação entre os dois ficar abalada por conta do comportamento extremo de Jason em suas rondas, o Coringa o mata, levando o Batman ao limite.
+[COLOR white][B] Gênero:  [COLOR lime] Ação [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Bobbleheads - O Filme[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26311d6a2f6e0444fc72234d1fd71e3669b33989</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3kC7JbrTxEQZMWkcp6mlRot56Hk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gaAZDBzZdX9lRb8fyi8qf0ZGZsI.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Tres bonecos Bobblehead devem trabalhar junto com um novo Bobblehead (Deuce) que foi adicionado ao grupo para expulsar parentes intrusos da casa de uma família antes que eles roubem um dos Bobbles.
+[COLOR white][B] Gênero:  [COLOR lime]Familia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Sabiá Sabiazinha  [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCQD3KPPRTXHTZAX3EQG5FOPP7WXDCN7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8MRDdTrh0O6iG60d4UoepxVI0lj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de seu ovo rolar rumo a um depósito de lixo, a passarinha Robin é criada por uma família de camundongos. Com o passar do tempo, fica cada vez mais evidente que ela é diferente dos outros. Incomodada, Robin parte em uma missão para provar à família que pode ser uma ótima roedora, mas acaba descobrindo quem é de verdade. 
+[COLOR white][B] Gênero:  [COLOR lime] Aventura[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Encanto - CAM  [COLOR yellow]( CAM )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HTUZE6UNKS65HPELE6GUQEPUDZLFVOTL</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5i3ghCXVLNhewrBjTesMgy4FHT7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma garota chamada Mirabel Madrigal cresce como o único membro não mágico de sua família, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Aya e a Bruxa [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9f3b27be6d10f988e6509e01b16ca43e29f653f</link>
 <thumbnail>https://abutretorrents.com/imagens/aya-e-a-bruxa-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Earwig vive em um orfanato – e até gosta disso, até ser adotada por uma bruxa e ser levada para uma casa assombrada. Entretanto, em vez de ficar horrorizada, a esperta garota se mostra determinada em se transformar a mestra de sua nova situação.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]O Poderoso Chefinho 2 - Negócios da Família [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p033k6k8V9USI0TWZavIxoYzsGi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uSWyMhLCKGCXgOk9dDEXHMtkT3U.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Em O Poderoso Chefinho 2 acompanha novamente os irmãos Tim e Ted, agora adultos e vivendo vidas separadas. Enquanto Tim construiu uma vida calma no subúrbio com sua esposa, Carol, e as filhas, Tabitha e Tina, Ted se transformou em um mega empresário que resolve todos os problemas com dinheiro. Mas quando Tim descobre que sua filha caçula também é agente do BabyCorp, ele precisará da ajuda do irmão mais novo para lidar com a situação.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Flummels - Extintos! [COLOR yellow] 1080p ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BOSGDIU3WRY4X23N5FSABFBZ7QMSAKEI</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mqa3vQPN2jvxIIcfK287WhaJAh1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando dois Flummels (uma espécie adorável de animais fofinhos com buracos no centro) são transportados magicamente até os dias atuais, eles descobrem que suas espécies estão extintas e esquecidas. Eles agora devem viajar no tempo para tentar salvar sua raça de desaparecer para sempre.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Os Simpsons em Plusniversário [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbd55705d2ac8041e9a8dd5810678e17125a41e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hYNFywlOCBGBz8ZX7nDVpDHbsSG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nqkWyKJf3D32vmOVX9Lx85ZgGHK.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Os Simpsons organizaram uma festa para o Dia do Disney+ e todos foram convidados… menos o Homer. Com amigos do serviço de streaming e músicas dignas de princesas da Disney, o Plusaniversário é o evento do ano em Springfield.
-[COLOR white][B] Gênero:  [COLOR lime]COMEDIA [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]As Aventura De Pil [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B] legendado</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f9dad580e4be29d062fe0bd50a4698c76a6b10b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mRblB0JaUEC9OZSu3yMyJ1CSSux.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vOwYumTlCZCRRzquAanPQUzfZIk.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Pil, uma garotinha vagabunda, mora nas ruas da cidade medieval de Roc-en-Brume, junto com suas três doninhas domesticadas. Ela sobrevive de comida roubada do castelo do sinistro Regent Tristain. Um dia, para escapar de seus guardas, Pil se disfarça de princesa. Assim, ela embarca em uma aventura louca e delirante, junto com Crobar, um guarda grande e desajeitado que se julga uma nobre, e Rigolin, um jovem bobo doido. Pil vai ter que salvar Roland, legítimo herdeiro do trono sob a maldição de um feitiço. Esta aventura virará todo o reino de cabeça para baixo e ensinará a Pil que a nobreza pode ser encontrada em todos nós. 
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / FANTASIA [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Cantando de Galo - O Resgate dos Ovinhos [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:479689abec09a58955d21fcb00ec4a6efc7cee06</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/KPVw3cVSyLq5B00Cik5ux3Iczy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uHmvk8FnoxpgujDU0RIXLkv2fNt.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Toto e seus amigos devem resgatar seus filhos do ovo depois que eles são levados para um evento de comida gourmet na África. 
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Descendentes - O Casamento Real [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5061d865d2312c9eadcfc881e84967d1702e8f4b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzNIgQ4hjeNFln9DdLuJmNXVV9j.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8F9BF4siFR3BDg5Vta3JGfAT7dx.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]O casamento de Mal e Ben é o maior evento que Auradon já viu, mas Hades ameaça estragar tudo para Mal. Com muito drama, amizade, humor e amor, o dia do casamento cria conflitos que podem mudar tudo!
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]O Campo Secreto para Nazistas nos EUA [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e4fdcefef1309f6609b33f6acd14dc820a9e95</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOwaUeFNsQt5ALBfZNPye33vBrS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/x3kWhf5FrXQKyRnIzCnSqQvGsP7.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Neste curta documental, veteranos da Segunda Guerra revelam um campo militar secreto nos EUA onde soldados judeus interrogaram prisioneiros de guerra nazistas. Camp Confidential: Americas Secret Nazis, um curta documental com animação, dirigido por Daniel Sivan e Mor Loushy (The Devil Next Door, The Oslo Diaries) e produzido por Benji e Jono Bergmann (Wirecard, Mau). 
-[COLOR white][B] Gênero:  [COLOR lime] DOCUMENTARIO[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Injustice [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKFVNU4U7XIVP3ICKBUF66W3B7SSFPP</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iy3Q3QcarTjvsE5ZzPCABZLH4mJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/q4h2ZbhHKhnWvrrqzcjT778zlbn.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Em uma Terra alternativa, o Coringa engana Superman para matar Lois Lane, o que causa um furor no herói. Superman decide assumir o controle da Terra, Batman e seus aliados terão que tentar detê-lo.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Patrulha Canina - O Filme [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5b91efc659198b6a70af069c86e1cb15be8dc30</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a17F3zXnmuwqxfiDa46mtlosjrv.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA [/COLOR][/B]</info></item>
-#############################################################################################################
-<item><title>[B][COLOR white] Pokemon O Filme - Mewtwo Contra-Ataca: Evolução[COLOR yellow]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4824024b8841273f8a3b06adb3be5eb325bf1ee2$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a777d78483e4b9cf5fc8bce70d8f29f134bf903$nome=[B] LINK 2 
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/54TouWa5dWkxPtuzoqVEbgUWBVT.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/olQLBp49qFpbWSt0z5OdNpFHP3g.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Mewtwo Contra-Ataca: Evolução é a refilmagem em computação gráfica da animação original de 1998 que conta a história de um Pokémon criado por humanos, Mewtwo, que foi clonado a partir de um amostra do pelo do raro Mew. Ao perceber que foi criado artificialmente, e não naturalmente, Mewtwo se revolta. 
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]A Abelhinha Maya e o Ovo Dourado [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBXRYLLSJJ4KV6KHPPFS76G5AYPEAZGA</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5p58L6344twjfH2vfo5UXBcyUyY.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Quando Maya, uma abelhinha teimosa, e seu melhor amigo Willi resgatam uma formiga princesa, eles se encontram no meio de uma batalha épica de insetos que os levará a estranhos mundos e testará sua amizade até o limite.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA [/COLOR][/B]</info></item>
-#############################################################################################################
-<item><title>[B][COLOR white]Digimon - O Filme [COLOR yellow]( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EE656E2DEEF23B4778298DA52CFD8053697C08C</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCcsd92GO6f9lMDXb0mkzde22PG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1ZFUt0LtYkF568iCkRXCScgBP5g.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]O primeiro filme de Digimon dublado e com excelente qualidade. Um grupo de crianças é transportado para o DigiMundo, onde conhece um grupo de monstros digitais chamado Digimon, com os quais se unem para combater o mal. Entretanto, Diaboromon, um Digimon maligno, cria um vírus de internet que destrói dados do sistema de defesa dos Estados Unidos, no intuito de causar o envio de um míssil para o território japonês. Para evitar o desastre, todos os habitantes do DigiMundo se unem para salvar o mundo real e também seu próprio mundo. 
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / AÇÃO / FICÇÃO [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Ataque dos Mortos-Vivos [COLOR yellow]( 1080p)[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZONRVIEROVYWAT5CBW4CSVYZGZOF7DQM</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvjADLvRB4UhWDMnfBOHDdDpFqk.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/r6vzIBZgijcxKcovGvqcHNXcmcQ.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Uma releitura animada de ‘Night of the Living Dead’, em que um grupo de pessoas em uma casa de fazenda rural luta para sobreviver à ameaça de zumbis sedentos de sangue.
-[COLOR white][B] Gênero:  [COLOR lime]tTERROR [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Leo Da Vinci - Mission Mona Lisa [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f7d3b7e57c9cdcf4f437ca5c441ca4fe10d4674</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vyJBGnjaSHCgmgbx5YsLjDhOuJu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9dqcagS5QaKJ5UlD4IN7ofhwoHF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Leo e sua amiga Lisa retornam de uma viagem para descobrir que sua casa está em chamas. Che tem que ser ajudado! A solução parece estar à mão com a chegada de um mago estranho que fala de um tesouro escondido. E assim começa uma grande aventura…
+[COLOR white][B] Gênero:  [COLOR lime] Aventura[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]My Little Pony - Nova Geração[COLOR yellow]( 1080p ) [COLOR lime]AVENTURA / COMEDIA [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5XWPOZNF42RCUGCBYRQBRFBJO5ZVKGLQ</link>
@@ -157,7 +142,7 @@
 <item><title>[B][COLOR white]Vixen - O Filme[COLOR yellow]( 1080p ) [COLOR lime] [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWU5NPTUC3J5NMT5QYQEOIMKQPTJFSUZ</link>
 <thumbnail>https://abutretorrents.com/imagens/vixen-o-filme-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]IXEN: The Movie combina as duas primeiras temporadas da série digital CW em uma única história uniforme e inclui 15 minutos de conteúdo totalmente novo, nunca antes visto. As características especiais incluem um featurette novo e dois episódios focalizados em Vixen de Justice League Unlimited escolhidos a dedo pelo ícone de animação super-herói Bruce Timm. Assista até o final dos créditos. [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]vixen: The Movie combina as duas primeiras temporadas da série digital CW em uma única história uniforme e inclui 15 minutos de conteúdo totalmente novo, nunca antes visto. As características especiais incluem um featurette novo e dois episódios focalizados em Vixen de Justice League Unlimited escolhidos a dedo pelo ícone de animação super-herói Bruce Timm. Assista até o final dos créditos. [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Scooby! - O Filme[COLOR yellow]( 720 / 1080p / 4K ) [COLOR lime]AVENTURA / COMEDIA [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a26727876bc0383a55d57a9bab3f6412106840e7$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
@@ -186,11 +171,6 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HFJNWSEEMKYCIVEPNLAOOBCYY6XZZ3CF</link>
 <thumbnail>https://abutretorrents.com/imagens/teen-titans-go-see-space-jam-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Em Teen Titans Go! See Space Jam, os Teen Titans são visitados pelos Nerdlucks, os icônicos vilões do Space Jam que tentaram escravizar Michael Jordan e os Looney Tunes. Surpreso ao descobrir que seus colegas Titãs nunca viram o Space Jam, Cyborg organiza um festa exclusiva para assistir o longa. Claro, se os Jovens Titãs estão assistindo a um filme, não espere que o silêncio valha a pena. Ravena e Estelar fazem os comentários, Cyborg apresenta os fatos divertidos, Mutano aponta as cenas estranhas e Robin … bem, Robin não confia em seus novos amigos alienígenas. [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]Vixen - O Filme[COLOR yellow]( 1080p )[COLOR lime] FANTASIA / FICÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWU5NPTUC3J5NMT5QYQEOIMKQPTJFSUZ</link>
-<thumbnail>https://abutretorrents.com/imagens/vixen-o-filme-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]VIXEN: The Movie combina as duas primeiras temporadas da série digital CW em uma única história uniforme e inclui 15 minutos de conteúdo totalmente novo, nunca antes visto. As características especiais incluem um featurette novo e dois episódios focalizados em Vixen de Justice League Unlimited escolhidos a dedo pelo ícone de animação super-herói Bruce Timm. Assista até o final dos créditos. [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Scooby! - O Filme[COLOR yellow]( 1080p )[COLOR lime] AVENTURA / COMÉDIA[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6856ABBE998BED8E206E7BEEBA6806D0F126AD4B</link>
