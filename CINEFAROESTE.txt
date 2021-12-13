@@ -18,8 +18,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/noyl6uzmHZQz6WggaTYZFo4YtW6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em Harder They Fall, quando o fora da lei Nat Love (Jonathan Majors) descobre que seu maior inimigo, Rufus Buck (Idris Elba), será libertado da prisão, ele reúne seu bando em uma busca incessante por vingança. Aqueles que cavalgam com ele incluem o seu antigo amor Stagecoach Mary, seus homens de temperamento forte Bill Pickett e Jack Beckwourth. Rufus ainda conta com a ajuda do "Traiçoeiro" Trudy Smith e Cherokee Bill. É de se tomar cuidado, pois esse não é um grupo que costuma a perder qualquer luta.
-[COLOR white][B] Gênero:  [COLOR lime] DRAMA / FAROESTE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime] DRAMA / FAROESTE[/B] [/COLOR][/B]</info></item>
 ##########################################################################################################
 <item><title>[COLOR white][B] O Caçador De Recompensas [COLOR yellow](2021)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00b5d4f095d4b69ee6e61852a2f3ca4be1119021</link>
@@ -29,9 +28,11 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cd308b2ed4bb4a84cbf318abdc094ac21ae1b6</link>
 <thumbnail>https://abutretorrents.com/imagens/alem-da-liberdade-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]O carcereiro Samuel Tillery trabalha como guarda dos prisioneiros mais perigosos do Missouri enquanto eles esperam o julgamento. Quando a população se revolta, Samuel é levado ao limite para defender aquilo em que acredita.[/COLOR][/B]</info></item>
 ##########################################################################################################
-<item><title>[COLOR white][B]Terra Dos Bravos [COLOR yellow](2021)[/B][/COLOR]</title>
+<item><title>[COLOR white][B]Terra Dos Bravos [COLOR yellow]( 1080p )[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f99e361c90a16e24409310e582030071613ac167</link>
-<thumbnail>https://abutretorrents.com/imagens/terra-dos-bravos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]O detetive Matthias Breecher é contratado para rastrear o pior dos criminosos de guerra confederados. Enquanto ele percorre o Velho Oeste em busca de justiça, sua determinação é testada quando ele conhece uma pioneira mulher que é muito mais do que parece. [/COLOR][/B]</info></item>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bvbgUujcz9UF1fBe31v755bOmFG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wHAFxti28GVWlSUrt97P2Y1j198.jpg</fanart>
+<info>[B][COLOR yellow]O detetive Matthias Breecher é contratado para rastrear o pior dos criminosos de guerra confederados. Enquanto ele percorre o Velho Oeste em busca de justiça, sua determinação é testada quando ele conhece uma pioneira mulher que é muito mais do que parece. [/COLOR][/B]</info></item>
 ##########################################################################################################
 <item><title>[COLOR white][B]Big Kill: A Cidade do Medo[COLOR yellow](2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d9994da163e30613e1a52e7d44da0ac53171afb</link>
