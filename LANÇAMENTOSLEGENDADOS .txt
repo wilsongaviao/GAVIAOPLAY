@@ -1,5 +1,6 @@
+
 ##############################################################################################################
-<item><title>[B][COLOR white]Com Amor, Anônima  [COLOR yellow]( 720p / 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Com Amor, Anônima  [COLOR yellow]( 720p / 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:2cb383c80622d4b74526afaa7b5ca0ee6d485fc9[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85d80e8aeb19c663cc9213c72d0acd6f582e0967$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
@@ -8,49 +9,49 @@
 <info>Sinopse: [COLOR yellow][B]Uma mensagem de texto enviada por engano se transforma em uma amizade virtual com gostinho de romance, mas o casal não se dá conta de que já se conhece na vida real. 
 [COLOR white][B] Gênero:  [COLOR lime]	Drama / Romance [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Imperdoável  [COLOR yellow](1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Imperdoável  [COLOR yellow](1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02313d3790dbb763dedba8468545e23173e0f514</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iehlEYH2bl2JPI5cz9oDKfQFOpC.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após cumprir pena por um crime violento, Ruth volta ao convívio na sociedade, que se recusa a perdoar seu passado. Discriminada no lugar que já chamou de lar, sua única esperança é encontrar a irmã, que ela havia sido forçada a deixar para trás.
 [COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Shit e Champagne [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Shit e Champagne [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jaDT0JYnSyIdSllLXVnL88x9PGR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1C865Qr9J1MLjhtdffrdBzQedaC.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A stripper de SF Champagne White (talento multi-hifenato D’Arcy Drollinger) espera que seu namorado Rod faça a pergunta; quando, em vez disso, ele conta a ela sobre uma trama secreta envolvendo colisões de butim e a maior loja de varejo do mundo, cabe ao intrépido ecdisiasta salvar o dia. Com uma estética de filme de exploração lo-fi dos anos 70 e um senso de absurdo e ultrajante no estilo John Waters, Drollinger adapta seu show de grande sucesso para a tela grande, apresentando talentos extraordinários do mundo do drag, incluindo Alaska 5000 de RuPaul’s Drag Raça. 
 [COLOR white][B] Gênero:  [COLOR lime] Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] The Infiltrators [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] The Infiltrators [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4AE10EFDD264F825691E60DA11071F6ED3411A35</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSiSbi5opkDx0C5potEY9rkjdir.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSiSbi5opkDx0C5potEY9rkjdir.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Um grupo maltrapilho de jovens indocumentados - sonhadores - deliberadamente é detido pela Patrulha de Fronteira para se infiltrar em um sombrio centro de detenção com fins lucrativos. 
 [COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Not Alone [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Not Alone [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4AE10EFDD264F825691E60DA11071F6ED3411A35</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCtp3rTun6vkDL6zyL0DiknvJhI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCtp3rTun6vkDL6zyL0DiknvJhI.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Fugindo da cidade em uma tentativa desesperada de lidar com a perda de seu falecido marido, a recente viúva Jessica é sequestrada e trancada na cabana de um misterioso homem. 
 COLOR white][B] Gênero:  [COLOR lime] Suspense / Terror[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Asteroid [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Asteroid [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA230689DB086AB1B0A2F73230F9CDE8E6356ECC</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j969VUvzkiKSCeSq4vgLr3z0wEr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2gr4ROfjMuLKriCOjKIBXM5Xv14.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Uma família muda-se da cidade grande para a casa dos seus sonhos nos arredores de uma pequena cidade logo antes do apocalipse. 
 [COLOR white][B] Gênero:  [COLOR lime]	Ação / Comédia / Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dashcam [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dashcam [COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E90F854299CA87919C2C08715D9BB3E9F3974DA3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dw97zev5ywZJUdqCYJXYXO0YyxR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/oxVthxYs7WCrMt2ZIPpHVUJCcL7.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Annie é uma influencer americana negacionista cuja maneira favorita de ganhar engajamento nas redes é inflamando tópicos e ofendendo aos outros. Porém, durante uma viagem até Londres, seu comportamento a coloca numa posição perigosa que culmina numa noite aterrorizante registrada através de uma live. 
 [COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Night Night[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Night Night[COLOR yellow]( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=	Suspense / Terror</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlMWJmU8tTrspbtly2qh4LvZpF8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlMWJmU8tTrspbtly2qh4LvZpF8.jpg</fanart>
@@ -2880,7 +2881,7 @@ pag 18 lançamentos
 <thumbnail>https://abutretorrents.com/imagens/drifter-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Centra-se em um homem com amnésia chamado Hemingway que vagou nu na costa de uma determinada região e a série de incidentes misteriosos que ocorrem ao seu redor. Emissora: TV Asahi • Episódios: 10 • Duração: 60 min. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[COLOR white][COLOR yellow] ( 1080p )[COLOR lime] MISTERIO / SUSPENSE / TERROR [/COLOR]</title>
+<item><title>[COLOR white]The Boy - Behind The Door[COLOR yellow] ( 1080p )[COLOR lime] MISTERIO / SUSPENSE / TERROR [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B26C800279ECB69796DEB1F75497B5401C25555A</link>
 <thumbnail>https://abutretorrents.com/imagens/the-boy-behind-the-door-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]O jovem Bobby (Lonny Chavis) é sequestrado junto com seu melhor amigo a caminho do treino de baseball da escola. Sem chance de conseguir ajuda e a quilômetros de casa, Bobby precisa resgatar seu amigo e descobrir uma maneira de sair da situação antes que eles virem os novos nomes em uma longa lista de crianças desaparecidas. [/COLOR][/B]</info></item>
@@ -3014,39 +3015,39 @@ pag 18 lançamentos
 ##############################################################################################################
 <item><title>[B][COLOR white]Journey to a Mothers Room - Viaje al cuarto de una madre[COLOR yellow]( 1080p  )[COLOR lime] DRAMA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDD9EF75CB6A4E7D92AF97E75F9129D2B8224B7C</link><thumbnail>https://abutretorrents.com/imagens/journey-to-a-mothers-room-viaje-al-cuarto-de-una-madre-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow] UMA FILHA SAI DE CASA PELA PRIMEIRA VEZ. SUA MÃE, DEIXADA PARA TRÁS, NÃO SABE COMO PREENCHER O NINHO VAZIO.[/COLOR][/B]</info></item>
+<info>[B][COLOR yellow] Uma filha sai de casa pela primeira vez. sua mãe, deixada para trás, não sabe como preencher o ninho vazio.[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]The Birthday Cake[COLOR yellow]( 1080p  )[COLOR lime]POLICIAL/SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E641C1AFAF88CAD2A3BD41B884490F11543C9F62</link><thumbnail>https://abutretorrents.com/imagens/the-birthday-cake-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]NO 10º ANIVERSÁRIO DA MORTE DE SEU PAI, GIOVANNI RELUTANTEMENTE ACEITA A TAREFA DE LEVAR UM BOLO PARA A CASA DE SEU TIO, UM CHEFE DA MÁFIA, PARA UMA CELEBRAÇÃO. A VIDA DE GIO MUDA PARA SEMPRE. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]No 10º aniversário da morte de seu pai, giovanni relutantemente aceita a tarefa de levar um bolo para a casa de seu tio, um chefe da máfia, para uma celebração. a vida de gio muda para sempre. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Profile[COLOR yellow]( 1080p  )[COLOR lime]MISTERIO/SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F1DDBD1F95D574EBB68DFB4CDC9CA390F3EE7E8</link><thumbnail>https://abutretorrents.com/imagens/profile-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]UMA JORNALISTA BRITÂNICA FICA ENCOBERTA E INFILTRA-SE NOS CANAIS DE PROPAGANDA DIGITAL DO CHAMADO ESTADO ISLÂMICO, QUE TEM MOBILIZADO UM NÚMERO CADA VEZ MAIOR DE JOVENS MULHERES DA EUROPA. SEUS CONTATOS DIÁRIOS NA INTERNET COM OS RECRUTADORES DO ISIS GRADUALMENTE A PUXAM PARA DENTRO E PRESSIONAM OS LIMITES DA SUA INVESTIGAÇÃO. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Uma jornalista britânica fica encoberta e infiltra-se nos canais de propaganda digital do chamado estado islâmico, que tem mobilizado um número cada vez maior de jovens mulheres da europa. seus contatos diários na internet com os recrutadores do isis gradualmente a puxam para dentro e pressionam os limites da sua investigação. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Minamata[COLOR yellow]( 1080p  )[COLOR lime] DRAMA[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7365658D45BFD448374300889557DE15796767D7</link><thumbnail>https://abutretorrents.com/imagens/minamata-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]W. EUGENE SMITH GANHOU FAMA FOTOGRAFANDO NAS LINHAS DE FRENTE DURANTE A SEGUNDA GUERRA MUNDIAL, MAS AGORA VIVE COMO UM RECLUSO. QUANDO O EDITOR DA LIFE MAGAZINE O PEDE AJUDA PARA EXPOR UM GRANDE ESCÂNDALO, ELE RETORNA AO JAPÃO PARA REVELAR AO MUNDO A REALIDADE DOS MORADORES DE MINAMATA, UMA CIDADE COSTEIRA EM QUE A COMUNIDADE ESTÁ SENDO ENVENENADA POR MERCÚRIO. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]W. EUGENE SMITH ganhou fama fotografando nas linhas de frente durante a segunda guerra mundial, mas agora vive como um recluso. quando o editor da life magazine o pede ajuda para expor um grande escândalo, ele retorna ao japão para revelar ao mundo a realidade dos moradores de minamata, uma cidade costeira em que a comunidade está sendo envenenada por mercúrio. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Dentro da Escuridão[COLOR yellow]( 1080p  )[COLOR lime]DRAMA/MISTERIO/TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D148D883A8EC83689436C14193AFD721ADD2A94</link><thumbnail>https://abutretorrents.com/imagens/dentro-da-escuridao-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]UM ADOLESCENTE ASSOMBRADO SOFRE UM EXORCISMO ATERRORIZANTE NA ESPERANÇA DE DESVENDAR SEGREDOS CHOCANTES SOBRE A IGREJA E SUA FAMÍLIA. [/COLOR][/B]</info></item>
+<info>[b][color yellow]um adolescente assombrado sofre um exorcismo aterrorizante na esperança de desvendar segredos chocantes sobre a igreja e sua família. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Falso Positivo[COLOR yellow]( 1080p  )[COLOR lime]DRAMA/SUSPENSE/TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C46365F5F00ECFFA632CA6477ED4B5210899E768</link><thumbnail>https://abutretorrents.com/imagens/false-positive-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]APÓS DIVERSAS TENTATIVAS DE ENGRAVIDAR, O CASAL LUCY (ILANA GLAZER) E ADRIAN (JUSTIN THEROUX) DECIDE SE CONSULTAR COM UM DOS MAIS RESPEITADOS ESPECIALISTAS EM FERTILIDADE DO MUNDO, O ILUSTRE DR. HINDLE (PIERCE BROSNAN). MAS APÓS CONSEGUIR FICAR GRÁVIDA COM UMA BEBÊ SAUDÁVEL, LUCY COMEÇA A PERCEBER ALGO SINISTRO POR TRÁS DO CHARME INEGÁVEL DO DR. HINDLE, A LEVANDO A DESCOBRIR UMA PERTURBADORA VERDADE SOBRE ELE E SOBRE SUA PRÓPRIA GESTAÇÃO. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Após diversas tentativas de engravidar, o casal lucy (ilana glazer) e adrian (justin theroux) decide se consultar com um dos mais respeitados especialistas em fertilidade do mundo, o ilustre dr. hindle (pierce brosnan). mas após conseguir ficar grávida com uma bebê saudável, lucy começa a perceber algo sinistro por trás do charme inegável do dr. hindle, a levando a descobrir uma perturbadora verdade sobre ele e sobre sua própria gestação. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Counting Bullets[COLOR yellow]( 1080p  )[COLOR lime]AÇÃO/FAROESTE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCCECAA2720FC43EEF8DE1A9291AB10C530BF4A1</link><thumbnail>https://abutretorrents.com/imagens/counting-bullets-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]COUNTING BULLETS CONTA A HISTÓRIA DE UM PEQUENO GRUPO DE SOLDADOS DE CAVALARIA QUE SÃO IMOBILIZADOS EM UM DESFILADEIRO PELO INIMIGO. AO LONGO DE ALGUNS DIAS, ELES SÃO FORÇADOS A ENFRENTAR SUAS DIFERENÇAS E CONFIAR EM CADA UM DE SEUS INSTINTOS PARA SOBREVIVER. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Counting bullets conta a história de um pequeno grupo de soldados de cavalaria que são imobilizados em um desfiladeiro pelo inimigo. ao longo de alguns dias, eles são forçados a enfrentar suas diferenças e confiar em cada um de seus instintos para sobreviver. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Amityville Vampire[COLOR yellow]( 1080p  )[COLOR lime]SUSPENSE/TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4578FA3826A996DBCBD0CB182ACA2E605764451F</link><thumbnail>https://abutretorrents.com/imagens/amityville-vampire-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]TOTALMENTE INCONSCIENTE DE QUE A CASA ESTRANHAMENTE VAZIA ESTÁ IMBUÍDA DA FORÇA DEMONÍACA POR TRÁS DOS BRUTAIS ASSASSINATOS DE DEFEO NA AVENIDA OCEÂNICA 112, UMA EQUIPE DE LIMPEZA DESAVISADA COMEÇA A TRABALHAR. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Totalmente inconsciente de que a casa estranhamente vazia está imbuída da força demoníaca por trás dos brutais assassinatos de defeo na avenida oceânica 112, uma equipe de limpeza desavisada começa a trabalhar. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]A Mother of No Destination[COLOR yellow]( 1080p  )[COLOR lime]FICÇÃO/SUSPENSE [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C1B2911BF9BAF2CFCC9D01494E44C9AA7269CCC</link><thumbnail>https://abutretorrents.com/imagens/a-mother-of-no-destination-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]ASTRÔNOMOS DETECTAM ANOMALIAS NO SISTEMA SOLAR DA TERRA. A ELITE RICA MANTÉM A DESTRUIÇÃO DA RAÇA HUMANA EM SEGREDO PARA QUE ELES POSSAM SE PREPARAR PARA SALVAR APENAS A SI MESMOS. DEPOIS QUE O DESASTRE PASSA, O QUE RESTA DA ESPÉCIE HUMANA TENTA INCANSAVELMENTE SOBREVIVER ÀS SUAS VIDAS INTERESTELARES EM UMA NAVE-MÃE INSTÁVEL. [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]Astrônomos detectam anomalias no sistema solar da terra. a elite rica mantém a destruição da raça humana em segredo para que eles possam se preparar para salvar apenas a si mesmos. depois que o desastre passa, o que resta da espécie humana tenta incansavelmente sobreviver às suas vidas interestelares em uma nave-mãe instável. [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Judas e o Messias Negro[COLOR yellow]( 1080p  )[COLOR lime] DRAMA[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27becfd2c128371298a46a5061b9c89c2cc33fb1</link><thumbnail>https://abutretorrents.com/imagens/judas-e-o-messias-negro-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -3154,10 +3155,6 @@ pag 18 lançamentos
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf423f9bb611a928a69a6736f0e168d192ab2edb</link><thumbnail>https://abutretorrents.com/imagens/missao-planeta-terra-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Em 1991, oito homens e mulheres foram selados na Biosfera 2, um terrário hermético no deserto do Arizona, contendo uma réplica em miniatura do ambiente da Terra. Financiada por um magnata do petróleo do Texas que esperava adquirir tecnologias licenciáveis para a colonização espacial, a missão da Biosfera 2 era manter um ambiente isolado e sustentável por dois anos. Foi uma missão que se tornou uma simulação distópica da crise ecológica, após a qual um consultor corporativo assumiu o empreendimento, desaparecendo com os dados coletados no projeto. [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white][COLOR yellow]( 1080p  )[COLOR lime] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-##############################################################################################################
 <item><title>[B][COLOR white]The Reckoning[COLOR yellow]( 1080p  )[COLOR lime] TERROR[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb46b113ee405b8d6b6cd4ab5c047c3df47a9946</link><thumbnail>https://abutretorrents.com/imagens/the-reckoning-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Durante o século XVII, uma viúva se vê acusada de bruxaria pelo seu senhorio Joseph, após rejeitar suas investidas. Evelyn precisa enfrentar a perseguição física de um dos caçadores de bruxas mais impiedosos da Inglaterra e encarar seus demônios internos enquanto o próprio Diabo encontra maneiras de entrar em sua cabeça. [/COLOR][/B]</info></item>
@@ -3186,10 +3183,6 @@ pag 18 lançamentos
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48e8529c57cbf7db5d2b359f2cbf4aa8fd9d35b9</link><thumbnail>https://abutretorrents.com/imagens/occupation-rainfall-cam-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Mestres do Yin-Yang - O Sonho da Eternidade[COLOR yellow]( 1080p  )[COLOR lime] AÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e39760a5783d09d1911aaf238847d1e335744da</link><thumbnail>https://abutretorrents.com/imagens/mestres-do-yin-yang-o-sonho-da-eternidade-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]Uma serpente demoníaca desperta, obrigando os Mestres de Yin-Yang a investigar um assassinato e proteger seus reinos contra uma conspiração sombria. Quando a serpente retorna para aterrorizar o Reino da China, os Mestres Yin-Yang precisam se unir para resolver um mistério. Enquanto isso, uma grande conspiração também ameaça a corte real. Agora o mestre Qing Ming aceita o último desejo de seu conselheiro e viaja para Tianducheng, onde deve assistir a importante cerimônia do céu que o guiará para seus caminhos no futuro. [/COLOR][/B]</info></item>
-##############################################################################################################
 <item><title>[B][COLOR white]Algumas águas do sul[COLOR yellow]( 1080p  )[COLOR lime] SUSPENSE[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0913ce68aacfbe3e621b800f072ee5a892b493a</link><thumbnail>https://abutretorrents.com/imagens/some-southern-waters-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Após a morte de sua namorada, um músico sem rumo se transforma em um sonho febril que dobra o gênero[/COLOR][/B]</info></item>
@@ -3197,34 +3190,6 @@ pag 18 lançamentos
 <item><title>[B][COLOR white]Trégua - Respite[COLOR yellow]( 1080p  )[COLOR lime] AÇÃO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485680e1fd70f0afd447f398ba4661387e3ffb19</link><thumbnail>https://abutretorrents.com/imagens/tregua-respite-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]O detetive particular Jimmy Baz relutantemente assume um caso para encontrar um estudante universitário desaparecido quando cadáveres de muçulmanos começam a aparecer, levando-o a acreditar que agora está procurando por um assassino em série[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Ria - Override [COLOR yellow]( 1080p  )[COLOR lime] FICÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e4d6c56ab907469c3cc2afbd94899600964567</link><thumbnail>https://abutretorrents.com/imagens/ria-override-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow] Em 2040, uma fêmea humanoide A.I. Em 2040, uma fêmea humanoide A.I. É hackeada pelo marido e forçada a sequestrar o filho do vice-presidente dos EUA e executá-lo ao vivo na TV, enquanto o culpado busca vingança pela morte do próprio filho. [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Ghost Light[COLOR yellow]( 1080p  )[COLOR lime] SUSPENSE[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7b0239709608aa958da7064cdc2491d55710a32</link><thumbnail>https://abutretorrents.com/imagens/ghost-light-full-hd-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]O oportunista e mentiroso Joseph Watkins encena uma peça num teatro com um passado assassino para impressionar Virginia, um ator que está prestes a deixar a cidade. Ao fugir de dois detetives e para o alarme de seu diretor de palco, Joseph fica obcecado com o espírito do teatro e começa a matar aqueles que ficam em seu caminho. [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]The Furnace[COLOR yellow]( 1080p  )[COLOR lime] AVENTURA[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fed0f03b2b4171e54fb3ebef239833e8182576ba</link><thumbnail></thumbnail>
-<info>[B][COLOR yellow]Para escapar do outback, um jovem cameleiro afegão se encontra com um misterioso bosquímano em fuga com o ouro da Coroa roubado. [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Brothers by Blood[COLOR yellow]( 1080p  )[COLOR lime] AÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d19ca4047601b0196af6307749bd21be58cf17</link><thumbnail>https://abutretorrents.com/imagens/brothers-by-blood-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]Uma história de família, amizades e traição no mundo violento da máfia da Filadélfia. [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]No Mans Land [COLOR yellow]( 1080p  )[COLOR lime] AVENTURA[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b85820ac8df61591c54dfbba9212c33671327316</link><thumbnail>https://abutretorrents.com/imagens/no-mans-land-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]Pai e filho são patrulheiros enfrentando o caos depois que Jackson Greer acidentalmente mata um garoto imigrante. Quando seu pai tenta assumir a culpa, Jackson foge para o sul a cavalo, se tornando um gringo “ilegal” no México. Perseguido pelo Texas Rangers e mexicanos federais, Jackson embarca em uma peregrinação para pedir perdão ao pai vingativo do menino morto, e se apaixona pela terra que ele aprendeu a odiar[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Police - Night Shift[COLOR yellow]( 1080p  )[COLOR lime] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e4461203c9473d1dcca5c042e52964200886ba</link><thumbnail>https://abutretorrents.com/imagens/police-night-shift-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]Virginie, Erik e Aristide, três policiais de Paris, são forçados a aceitar uma missão incomum: levar um estranho de volta à fronteira. No caminho para o aeroporto, Virginie entende que o prisioneiro corre o risco de morrer se voltar ao seu país. Diante desse insuportável caso de consciência, ela tenta convencer seus colegas a deixá-lo escapar. [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]A Soldiers Revenge[COLOR yellow]( 1080p  )[COLOR lime] FAROESTE[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=</link><thumbnail>https://abutretorrents.com/imagens/a-soldiers-revenge-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow] Assombrado pelas memórias e horrores da Guerra Civil, um ex-soldado vive como caçador de recompensas. Quando duas crianças pedem sua ajuda para encontrar a mãe desaparecida, o cowboy terá que enfrentar seu passado e capturar um antigo inimigo[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Born a Champion [COLOR yellow]( 1080p  )[COLOR lime] Drama[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf82e9b4e30f1643dc56c6a7e1dd6a77ba1d887a</link><thumbnail>https://abutretorrents.com/imagens/born-a-champion-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -3250,9 +3215,173 @@ pag 18 lançamentos
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbe7b6d00decf122a412595a61f6da5c473455b9</link><thumbnail>https://abutretorrents.com/imagens/go-dont-go-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Adam, um homem introvertido, é o último ser humano vivo na Terra. Assim ele acha. [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Jalikattu [COLOR yellow]( 1080p  )[COLOR lime]Ação[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Jalikattu [COLOR yellow]( 1080p  )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab1a7a51c532b7a2510d98e86b3ab3758c73a55d</link><thumbnail>https://abutretorrents.com/imagens/jallikattu-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]A fuga de um búfalo acarreta uma onda de violência insana num pequeno vilarejo. Um búfalo fugitivo desencadeia um frenesi de violência extática em uma aldeia remota. [/COLOR][/B]</info></item>
+<fanart></fanart>
+<info>[B][COLOR yellow]A fuga de um búfalo acarreta uma onda de violência insana num pequeno vilarejo. Um búfalo fugitivo desencadeia um frenesi de violência extática em uma aldeia remota. 
+[COLOR lime]Ação[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mestres do Yin-Yang - O Sonho da Eternidade[COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e39760a5783d09d1911aaf238847d1e335744da</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPUccEdipd9dTWmz2GpxVCsw7Gv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qletQdagnYZ7StKZH209AkgKEVf.jpg</fanart>
+<info>[B][COLOR yellow]Uma serpente demoníaca desperta, obrigando os Mestres de Yin-Yang a investigar um assassinato e proteger seus reinos contra uma conspiração sombria. Quando a serpente retorna para aterrorizar o Reino da China, os Mestres Yin-Yang precisam se unir para resolver um mistério. Enquanto isso, uma grande conspiração também ameaça a corte real. Agora o mestre Qing Ming aceita o último desejo de seu conselheiro e viaja para Tianducheng, onde deve assistir a importante cerimônia do céu que o guiará para seus caminhos no futuro.
+ [COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Fantasia / Ficção / Mistério[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Some Southern Waters[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0913ce68aacfbe3e621b800f072ee5a892b493a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VTQWRpgoY2WMjW6dhKFBI2sRfG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vOIqfnZiyeqiGzrAvhBO50EmFvh.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após a morte de sua namorada, um músico sem rumo se transforma em um sonho febril que dobra o gênero. 
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Olhos Sonhadores [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0bf72e5715598d8bf3b5128d7eb11da134a917a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u5V0GWFK3HJPZBYYFPTZKrBczEP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9c4rBHKWTDDYtC5UPObT2FvOQF5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mắt Biəc (Olhos Sonhadores) conta a história do amor unilateral de Ngan por Ha Lan — seu amigo de infância.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Assombração de La Llorona [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c68a0ac813a2bcce5a1dffccdc83f818511bef76</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogpb8E4tNc9TJ6YxuCnueOeoICW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ogpb8E4tNc9TJ6YxuCnueOeoICW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os gritos das crianças ecoam durante toda a noite como uma lembrança violenta de um demônio do passado. La Llorona, uma força paranormal voltou e procura o sangue dos inocentes, provando que a lenda é real.
+[COLOR white][B] Gênero:  [COLOR lime] Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Like [COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5adf05dd2e8043d3f0266f15948d840fd7d6a6da</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dw4E9lwtO0A19ZLpkFobwh1btyn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4VoTU9sdgWCb35KscVbHn1toEbX.jpg</fanart>
+<info>Sinopse :[COLOR yellow][B]Rosie, adolescente de Woodstock, em luto pelo primeiro aniversário da morte de sua irmã mais nova, descobre que o homem misterioso que explorou sexualmente e intimidou sua irmã para que cometesse suicídio está de volta à procura de novas vítimas. Depois que as autoridades se recusaram a se envolver, ela encontra uma escuridão que nunca soube que tinha quando faz justiça com as próprias mãos.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Os Pequenos Vestígios [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0641619fdcf46d7538f2d7402a069b1b96d682f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1KNf7qHuce6U39Iygxz9fYRv0ny.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oxcVeK5QqDwgXgc4Web2IKsxj8W.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Deke (Denzel Washington), um xerife do condado de Kern se alia ao detetive do Departamento do condado de Los Angeles, Baxter, para pegar um serial killer astuto. O nariz de Deke para as “pequenas coisas” mostra-se assustadoramente preciso, mas sua disposição em contornar as regras, acaba envolvendo Baxter em um dilema que abala a alma. Todo o tempo, Deke luta com um segredo sombrio de seu passado. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Policial / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Ultimate Playlist of Noise  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec7016964af91dfc2ab267bd03db32a65213862</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9e0SRcHiFLcKCOL7HKUcVor49Va.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qZjI7zR78Q17q6G6fE3Q94zNQoj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após descobrir que precisa fazer uma cirurgia que lhe custará a audição, o jovem Marcus (Keean Johnson) decide fazer uma playlist de barulhos com seus sons favoritos. Nessa jornada, ele conhece Wendy (Madeline Brewer), uma charmosa música que está tentando conseguir sua grande chance em Nova York. Juntos, eles saem completando a lista ao longo do país, até que dolorosas revelações forçam Marcus a encarar sua realidade e seu futuro sem som.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Psycho Goreman [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d126e1cb054d3b792b0a057cbc2f0ff353e9db3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/foQnDv051kQ7satMQkbkPsUxzkD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ldUfP9TCStQrvc8aVZ5F5Sv7hTg.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os irmãos Mimi e Luke involuntariamente ressuscitam um antigo senhor alienígena. Usando um amuleto mágico, eles forçam o monstro a obedecer a seus caprichos infantis e, sem querer, atraem uma galeria de assassinos intergalácticos para uma pequena cidade.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Ficção / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Programada Para Matar [COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e4d6c56ab907469c3cc2afbd94899600964567</link>
+<fanart>https://www.themoviedb.org/t/p/original/tjYoG6lBlQyhEdC4k0rc3n5Fht.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eXENORB2EAbO7OUE7CfZRSdYoua.jpg</thumbnail>
+<info>[B][COLOR yellow] Em 2040, uma fêmea humanoide A.I. Em 2040, uma fêmea humanoide A.I. É hackeada pelo marido e forçada a sequestrar o filho do vice-presidente dos EUA e executá-lo ao vivo na TV, enquanto o culpado busca vingança pela morte do próprio filho. 
+[COLOR white][B] Gênero:  [COLOR lime] Ficção[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Trégua - Respite[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485680e1fd70f0afd447f398ba4661387e3ffb19</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jjM7dy4oIJI3YRIWbTZ9lAAts7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jjM7dy4oIJI3YRIWbTZ9lAAts7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O detetive particular Jimmy Baz relutantemente assume um caso para encontrar um estudante universitário desaparecido quando cadáveres de muçulmanos começam a aparecer, levando-o a acreditar que agora está procurando por um assassino em série. 
+[COLOR white][B] Gênero:  [COLOR lime] 	Ação / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ghost Light[COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7b0239709608aa958da7064cdc2491d55710a32</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Am17vjQNcJ8R0vxf9XGtND1OeWx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2yHiitkiA03tOyWm5s5yQwGuCfL.jpg</fanart>
+<info>[B][COLOR yellow]O oportunista e mentiroso Joseph Watkins encena uma peça num teatro com um passado assassino para impressionar Virginia, um ator que está prestes a deixar a cidade. Ao fugir de dois detetives e para o alarme de seu diretor de palco, Joseph fica obcecado com o espírito do teatro e começa a matar aqueles que ficam em seu caminho. 
+[COLOR white][B] Gênero:  [COLOR lime] Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Caged  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1dc44909f617a70fe70fab070d16ea764f54a77</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r8VK9WvMh2CDkqfX6XVkSAwTjVh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bWCr83UNhTnWoiXfwNwAVwaCE6z.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um renomado psiquiatra afro-americano (Edi Gathegi), condenado pelo assassinato de sua esposa (Angela Sarafyan), é condenado à prisão perpétua é enviado para a solitária. Lutando para entrar com um recurso, ele cai na loucura, levado ao limite por uma guarda abusiva (Melora Hardin) obstinada em sua própria forma de justiça e perseguido por sua esposa morta, levando-o a questionar sua própria inocência e sanidade .
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dark Whispers - Volume 1 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:573bf39f0a4fcc07c6f3fd272d033f40365c8611</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4u7T30VqMof9Rv1f3gPv92dHMbV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kdyd5A80lahzJPhnldcNl544sfS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando Clara descobre o reverenciado?Livro dos Sussurros Negros? de sua falecida mãe, ela não consegue parar de ler as histórias estranhas dentro de suas páginas místicas. Cada estranho conto revela uma nova faceta da psique humana distorcida … ou a não tão humana, conforme o caso. Do horror da tristeza ao desastre de viver em casa compartilhada, do pavor existencial aos vampiros de golpe direto, há algo para todos os gostos; Contanto que esses gostos sejam distorcidos! 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Simmer [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc2d95a027c5614ec2e9d02a700235d92e233782</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qnSBMK5dCk7XoKsEHfSEU3uZJq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qnSBMK5dCk7XoKsEHfSEU3uZJq.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando Chef descobre que sua família será deportada se ele não pagar as taxas impostas pelo governo, ele recorre a seu chefe, que lhe oferece a oportunidade de ganhar o dinheiro como motorista do mercado negro.
+[COLOR white][B] Gênero:  [COLOR lime] Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Furnace[COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fed0f03b2b4171e54fb3ebef239833e8182576ba</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3iDH6tEiHkihWoQUQTOIhHvswSH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jaeMl8p5BAmhkBV8lO25XIHPOyi.jpg</fanart>
+<info>[B][COLOR yellow]Para escapar do outback, um jovem cameleiro afegão se encontra com um misterioso bosquímano em fuga com o ouro da Coroa roubado. 
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Drama / Epico / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Virus Shark [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04a85b4d9a0d5613c3dac67b4393f9b00f0e50c7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wKDbnQFetHy6oa639ZMiuHFDDn4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wKDbnQFetHy6oa639ZMiuHFDDn4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma picada de tubarão espalha um vírus por todo o globo, virando o mundo de cabeça para baixo. Bem abaixo do oceano, um grupo de pesquisadores corre contra o tempo para encontrar uma cura. Algo infectou os técnicos de laboratório e é uma corrida contra o tempo para chegar à superfície com um antídoto antes que todos sejam mortos por si mesmos e os tubarões espreitando dentro da piscina de teste e fora do oceano.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Brothers by Blood[COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d19ca4047601b0196af6307749bd21be58cf17</link><thumbnail>https://abutretorrents.com/imagens/brothers-by-blood-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma história de família, amizades e traição no mundo violento da máfia da Filadélfia. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama /[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]No Mans Land [COLOR yellow]( 1080p  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b85820ac8df61591c54dfbba9212c33671327316</link><thumbnail>https://abutretorrents.com/imagens/no-mans-land-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Pai e filho são patrulheiros enfrentando o caos depois que Jackson Greer acidentalmente mata um garoto imigrante. Quando seu pai tenta assumir a culpa, Jackson foge para o sul a cavalo, se tornando um gringo “ilegal” no México. Perseguido pelo Texas Rangers e mexicanos federais, Jackson embarca em uma peregrinação para pedir perdão ao pai vingativo do menino morto, e se apaixona pela terra que ele aprendeu a odiar.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Faroeste / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Police - Night Shift[COLOR yellow]( 1080p  ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e4461203c9473d1dcca5c042e52964200886ba</link><thumbnail>https://abutretorrents.com/imagens/police-night-shift-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Virginie, Erik e Aristide, três policiais de Paris, são forçados a aceitar uma missão incomum: levar um estranho de volta à fronteira. No caminho para o aeroporto, Virginie entende que o prisioneiro corre o risco de morrer se voltar ao seu país. Diante desse insuportável caso de consciência, ela tenta convencer seus colegas a deixá-lo escapar. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Estranho Passageiro - Sputnik  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A960CD1346BAD02AB8C583F36690D6DEDD8EC8C5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cPQveAuNitVN9N1zG56t1mM4KxF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/90Hjx5iXwNRIqm3MvgYMKNuHoQe.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O único sobrevivente de um misterioso acidente espacial não voltou para casa sozinho — escondendo-se em seu corpo está uma perigosa criatura. Sua única esperança é uma doutora disposta a fazer o que for preciso para salvar seu paciente. 
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Ficção / Suspense / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Psycho Stripper [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12db589676c8d23441fbee216060756837d77c80</link>
+<thumbnhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/oy1TEz3p4nheVaf1vH5sei4JzWg.jpgail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oy1TEz3p4nheVaf1vH5sei4JzWg.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]Uma semana antes de seu casamento, a instrutora de estúdio de dança Amber Clarke repentinamente se viu obcecada por Hunter, o melancólico dançarino sexy de sua despedida de solteira, que está abrigando uma vingança sombria. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] O Marido Errado[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7239f7b97a49e069d59d846e67b7e73c003ac1f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fAF5ommrpBsXzR6KxYKh4A73MSa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nn3lmoKVftr4eGzyFGeQMbFtKqG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Melanie suspeita que seu marido Derrick não seja o homem com quem ela se casou. Agora ela deve embarcar em uma missão para descobrir o que há de errado - estudar seu comportamento estranho, seguir cada movimento seu e sondar seu passado.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Ten Minutes to Midnight[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:474c9a9477133a35421f0fad5142f250e08bbd9f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k8xmHHVnkb2c52lDVautBEi23jb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gfG356pRBVAkUV9x2asKUxlPgXb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na véspera de sua aposentadoria forçada, Amy Marlowe e a equipe da rádio WLST ficam presos devido um violento furacão. Enquanto isso, a misteriosa substituta segue cada movimento da veterana apresentadora. 
+[COLOR white][B] Gênero:  [COLOR lime] Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Quarantine Girl [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e1b66a70ba95cca9b6d8518a1cef22e3f2b0b7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xdfyxUR65XfF1NDm6vJKpdRyedj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jAhdteoZU3MPfgl4XiBonwJLcsu.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O estado mental de uma mulher se deteriora à medida que ela se isola durante uma epidemia.
+[COLOR white][B] Gênero:  [COLOR lime] Suspense / Terror[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Foxtrot Six[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16074f50a165af6080a1ed6436245736e1a9e8a6</link>
