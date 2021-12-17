@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa [COLOR yellow] ( C A M )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ECLTLLSRAYHFMGLGJFLGZVXQUE4VXGT</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6vVRYbIjDLMMwZJ2jo6enrdN76U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/VlHt27nCqOuTnuX6bku8QZapzO.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Com Amor, Anônima  [COLOR yellow]( 720p / 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:2cb383c80622d4b74526afaa7b5ca0ee6d485fc9[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
