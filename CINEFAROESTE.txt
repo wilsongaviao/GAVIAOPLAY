@@ -19,6 +19,13 @@
 <fanart>https://www.themoviedb.org/t/p/original/noyl6uzmHZQz6WggaTYZFo4YtW6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em Harder They Fall, quando o fora da lei Nat Love (Jonathan Majors) descobre que seu maior inimigo, Rufus Buck (Idris Elba), será libertado da prisão, ele reúne seu bando em uma busca incessante por vingança. Aqueles que cavalgam com ele incluem o seu antigo amor Stagecoach Mary, seus homens de temperamento forte Bill Pickett e Jack Beckwourth. Rufus ainda conta com a ajuda do "Traiçoeiro" Trudy Smith e Cherokee Bill. É de se tomar cuidado, pois esse não é um grupo que costuma a perder qualquer luta.
 [COLOR white][B] Gênero:  [COLOR lime] DRAMA / FAROESTE[/B] [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Texas Red [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F407A7ABEAC3B43C220DBEC63F64A8256CEE081</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/491IoXft2qQp8oYgcRPM7ORC9E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9IbbXmSkkgjtbTeLVc5TdUXQuIQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]filme conta a história de Texas Red, um homem afro-americano que foi caçado por centenas no deserto de inverno do Mississippi. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Faroeste / Epico [/COLOR][/B]</info></item>
 ##########################################################################################################
 <item><title>[COLOR white][B] O Caçador De Recompensas [COLOR yellow](2021)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00b5d4f095d4b69ee6e61852a2f3ca4be1119021</link>
