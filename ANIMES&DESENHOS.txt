@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Snoopy apresenta - Feliz ano novo, Lucy! [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NFKQ2OG2O3BLZ2CGMB7K33A4XAG6OXKN</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqx5WTWPX4H4g9LUCmnrtg9BIPZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7tJSulnvERJn6R9Ih2C2Uvpm8zy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após descobrir que sua avó não irá para o Natal, Lucy decide dar uma grande festa de Ano Novo para se animar. Enquanto isso, Charlie Brown tenta cumprir uma de suas resoluções antes que o relógio marque meia-noite.
+[COLOR white][B] Gênero:  [COLOR lime]  Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] A Serpente Verde[COLOR yellow](1080p )[/COLOR][/B]</title> pg 7
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ff0680e913954b5b308416fe9d1555c58fc782</link>
@@ -27,7 +33,14 @@
 <fanart>https://www.themoviedb.org/t/p/original/ybGEvB6725PkVuUfEo2txLGRwTj.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A rainha Poppy (Anna Kendrick) e Branch (Justin Timberlake) fazem uma descoberta surpreendente: há outros mundos Troll além do seu, e suas diferenças criam grandes confrontos entre essas diversas tribos. Quando uma ameaça misteriosa coloca todos os Trolls do país em perigo, Poppy, Branch e seu grupo de amigos devem embarcar em uma jornada épica para criar harmonia entre os Trolls rivais e uní-los contra um mal maior. 
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família / Fantasia / Musical [/COLOR][/B]</info></item>
-##################################################################################################################
+##############################################################################################################
+<item><title>[B][COLOR white]Master Moley em O Convite Real [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG2M6N4YKP7NU5AO2JZNTQMTBYTQJCUX</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/99h0I9Lj00KkXVuput3vlgzjQSt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w1nEdMswtBrQ1PUyM4IXO3I2y2d.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem toupeira pega uma rosa no Jardim da Rainha, sem saber que esse simples ato mudará não apenas sua vida, mas a vida de todas as toupeiras.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
+#################################################################################################################
 <item><title>[B][COLOR white]Children of the Whales[COLOR yellow]( 720 / 1080p )[COLOR lime]DRAMA / FANTASIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:834d83c9fde64a7168c003e2b3150a56f2c39faa&$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ef3e20e76281c27b17777b72512960c98150a18&$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
