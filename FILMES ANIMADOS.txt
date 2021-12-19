@@ -1,6 +1,19 @@
-
 ##############################################################################################################
-<item><title>[B][COLOR white]Próxima Parada - Lar Doce Lar [COLOR yellow](1080p)[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Porta dos Fundos - Te Prego Lá [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25e2c1886c2e8d23650bbafe98d3437b16a8cd63</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k06TIjqtbwplF2Q0EIHT229qUvC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cbwyxMrZhbUwdzPmc5hxa7TPvLP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Todo mundo sabe que ser adolescente não é fácil, ainda mais quando se é um semideus com poderes ilimitados e correndo o risco de ser crucificado a qualquer momento, essa é a vida de Jesus Cristo em sua escola nova.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]StarBeam - Aventura de Ano-Novo [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9b6ea36eb3048dc8bb1a6afc57edc68e6412f42</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wEg51AiGCVdMb3GwylnTD8dfySZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eNPdTKx6XBbhkrlue7uNNHp4boz.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os maiores vilões de Summersette unem forças no ano-novo para enfrentar Zoey e a equipe Beam. Agora, a prima descolada Zara precisa salvar o dia! 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Próxima Parada - Lar Doce Lar [COLOR yellow](1080p)[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:057e2a3bd168c0516e9b604ff8fe9517704485aa</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg</fanart>
