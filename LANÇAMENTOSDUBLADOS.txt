@@ -9,6 +9,140 @@
 <info>Sinopse: [COLOR yellow][B]Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white]A Sonata Maldita [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a66b1b6d31f6852bc447b808ebc7f08954f8640c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e2Dq3UKNViKk7FlwuAiD1mTIKZv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Klfe4c9DLMhhB648SuWDTkSGH6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem violinista desvenda o passado do pai perdido há muito tempo, desencadeando forças sombrias que vão além de sua imaginação.
+[COLOR white][B] Gênero:  [COLOR lime] Terror / Mistério / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Luccas Neto em - O Hotel Mágico 2  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:381bd8939d6197c7322ab3109bdf27ead3badb9f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zjKdP6mXzpeATxsbDUfMyenbJe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aauX53zgdJkAGcytXBiicTKz9ej.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Luccas Neto e Gi são convidados por Camila para passar as férias em um Hotel Mágico. O que não imaginam é que o Elfo Mizinho tem um plano maluco: transformá-los em ratinhos para sempre. Será que conseguirão escapar dessa armadilha felpuda?
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Purity Falls[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edd2a63cae53469716a0e17c070e0c78b09bf78b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zjKdP6mXzpeATxsbDUfMyenbJe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iOKmnJ743Ld3FP1csyyIKzJ1v7T.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após a morte do marido, uma mãe se muda com o casal de filhos para a idílica Purity Falls, onde o menino se envolve em uma espiral de acontecimentos que cercam um negócio local.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Suspense[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Uma Esposa de Natal [COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488648fcdffb6a173b9e19bd5bdab20b5de20dff</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hjTLVkjJ5fuGpTSNTOTrGYqFtMA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yQYUhTAymvT1UCKdBOtTa962l7R.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Três filhos correm para cumprir o desejo de sua mãe de trazer esposas para casa no Natal, enquanto ela luta para planejar uma festa de Natal pela qual sempre será lembrada.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Romance [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] A Disputa[COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ER7H3CJB247IG7JRMFFN2WR3DB4NZFY3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYFaFJPg79ngwBrxjQw4aThzen4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4G5SIWPjpJ8zMolW89Om75I9JTp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Inspirado por verdadeiros eventos da primavera de 1944, quando os nazistas organizaram uma partida de futebol entre uma equipe de internos do campo e uma equipe de elite nazista no aniversário de Adolf Hitler. Uma partida que os prisioneiros estão determinados a vencer, aconteça o que acontecer.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Epico [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Refens [COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:992f198ea24d269d61a4767cee49f7d066857b1f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8NqVX14i0d9gmKsZFcTRa8xuac.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pobh994bRC3zjQWIjOWwwjhH4m4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O casamento em dificuldades de um casal é posto à prova quando eles são mantidos como reféns em um aluguel de temporada isolado por uma Voz invisível que comanda todos os seus movimentos
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense / Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]A Fortaleza [COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BIR6DEYUNYWS5ZH5LNR4JZP7DY2EECL2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hYi00SLc8v92h5i4MoluCvIwLG1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hnDzr5xesqae5Km9YbFqOhlQ48g.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história gira em torno de um resort ultrassecreto para oficiais de inteligência aposentados dos EUA. Um grupo de criminosos liderados por Balzary rompeu o complexo, infernalmente se vingou de Robert, forçando o oficial aposentado e seu filho a salvar o dia.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] O Natal Foi Cancelado[COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qi5vnjspWNNxmWNBjq78n07Yink.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uVflhRHoW3ttVs6KxI7BFVZLBBu.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A jovem Emma descobre que terá que passar as festas de fim de ano com seu pai, um viúvo, e a nova namorada dele, uma antiga colega de escola de Emma. Desesperada, ela fará de tudo para separar o casal antes do Natal.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Canto do Cisne  [COLOR yellow] ( 720p / 1080 p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HKA3GBH6M55SAND5FOUG47BPTEEQDM7U$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z3EQESS4TY6YENXATWZ2OUH5Z3RUIHS7$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2EaSwcTF4b7ano51FhwiPOKl1kh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qjg4UmsD5TFl3mDRDPi78KOeQVQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Cameron Turner é um pai e marido dedicado, diagnosticado com uma doença terminal. Perante uma solução experimental que promete proteger sua família do sofrimento, ele luta para mudar seu destino nesta história de amor, perdas e sacrifício.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Pânico na Floresta - A Fundação [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIE7H23TJONBXWJ6RVJJVSKVAQYWO66T</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rHmZDnvNy19PKv6dRNZGAj28e5o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u5WUCO6irZoq27qbYYrtLUrCGDV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um grupo de amigos de Nova Iorque fazem uma viagem de caminhada para as belas montanhas da Virgínia Ocidental, mas inadvertidamente caem presa de uma seita selvagem conhecida como a Fundação.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Herdeiro [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52dcc9c5ce1a3ec9d6587c5f21b489af6ba1d860</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6QStvZ0RBahnz5YZ584yeZLb5x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k6JZgUPCPWsKRUQR9EPpXyct0CR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando um menino contrai uma doença misteriosa, sua mãe deve decidir o quão longe ela irá para protegê-lo das forças terríveis de seu passado.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Um Por Todos[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ae829d38bf9ad1615af2a3665554c4ec419a079</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/etsooG5MBGSTwQ6WzRRf0lZNbYZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gOrep0jUQSb5bQSQPajPEVuiEQy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]David Verdaguer (indicado para um prêmio Goya® por sua performance) é Aleix, um novo professor que deve enfrentar uma situação difícil: ajudar um menino a se reintegrar na classe após uma longa doença. O problema é que nenhum de seus alunos o quer de volta e David deve ensinar às crianças, e aprender ele mesmo, a importância de perdoar e pedir perdão.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Brinde ao Natal - Luzes da Cidade [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:096c8b1730d723a769d517b8f02d318b21fe6331</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qzd2mRhJe5etP9KCsKGsCIHtxg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nKY641jtdotgzw5xxCFcCttd9GP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Já faz um ano que Callie e Joseph se apaixonaram, e eles estão mais felizes do que nunca administrando sua fazenda de laticínios e vinícola, até que os negócios e as obrigações familiares o chamam de volta para a cidade – e ameaçam atrapalhar seu romance.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]24 Horas para o Natal [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8b9a38576bf359c2c562176f311789bbe126d82</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qtwhbcbG9N7yR9Wq5e0UZVAJqUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x4dSE6eA52tFu5jOJQYPwuXVuQd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os planos de Elle para a reunião de Natal são frustrados pelo trabalho. Para obter uma promoção de mudança de carreira, ela é forçada a se juntar a uma campanha publicitária, que tem uma visão completamente diferente das festas de fim de ano. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Namorado Para o Natal [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d831a58ad82bc766fe4af50729cd06df77bd81f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ms52kt8qXWyStP1ZYhg5DkTIs98.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/MAdYfCmGFOyBUhqnLZHrSxkzFi.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O namorado de Brooke termina com ela pouco antes do Natal, então ela concorda em viajar com Joel, um ator que vai se passar por seu namorado.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Espíritos Obscuros [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SVTPLYOOQYKKK4KD3O7P745XHPHKSWLA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d2c8DlW3qfu4w6fgn4lMrI6wEfM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/muejeAIfCiWALDE1hLqCsKON0E7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem professora descobre que o pai e irmão mais novo do seu aluno problemático escondem um segredo sobre-humano mortal. Tendo decidido tomar conta do menino, ela deve lutar pela sobrevivência dos dois contra horrores além da imaginação.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Mão de Deus  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33745225c2d82d9206aa3bf60e732aaa25e02ab4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dhbloyrxkA1P6xXyknKXTdLVU3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/og5eM3bVUfTkIpHBDgelJh4w6F4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história de um garoto na tumultuada Nápoles dos anos 1980, um jovem louco por futebol se vê diante de uma tragédia familiar que define seu futuro incerto, porém promissor, como cineasta.
+[COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Natal Por Escrito [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EY4N3MKTU2QDDKY23RGM2INULKUZPDL3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75A7CYrZ2DwLBkOExDmqsDD09I2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rx3Y4wVfNe3gdEbGzrobYLf61v8.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após perder sua coluna no jornal às vésperas do Natal, Kayleigh retorna à cidade onde cresceu. Lá, ela recebe uma visita inesperada, e percebe que o amor pode surgir quando menos se espera.
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Slow Hustle - Corrupção e Morte na Polícia de Baltimore [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518303f8b39b992b130026de06b2e3014bae802e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wvxt5PKAArMgcRTzxcoUnuiM6Kz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dyvMhkg2BqyNUbPbHoqxgYTcx4G.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A morte do veterano policial Sean Suiter levanta novas questões de corrupção no Departamento de Polícia de Baltimore. As perguntas sobre sua morte continuam sem resposta e alguns acreditam que o departamento pode estar envolvido. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+##############################################################################################################
 <title>[B][COLOR white]007: Sem Tempo para Morrer[COLOR yellow]( 720p / 1080p ) [/COLOR][/B]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iED5BlTFVky8lKw8SuG7QX0q6yI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/18Eca3pEMrdk6GkmKWdf02jWpmo.jpg</fanart>
@@ -18,7 +152,14 @@
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Ação  [/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Minha Morte [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Fim da Sentença [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:815710bbeb10ec2c45c643d34ba5dde4951ff196</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cOdvL6czWKyh3cVD7l0cnywRyyS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o0s8d9qsOY5UGb6HGIJmuVMlySN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um homem viúvo embarca relutante em uma viagem para honrar o último desejo de sua esposa e cumprir sua promessa de levar seu filho, de quem está distanciado.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Minha Morte [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d7e492b8304b730be9af31fa38aac0b9ce728d8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Zuwdd8FqYZTUci4Hbsk3rciA8V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qBxvZJoM2EJBh2eRWSYTWKZVhcd.jpg</fanart>
