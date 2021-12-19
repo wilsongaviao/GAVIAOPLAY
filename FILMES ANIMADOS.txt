@@ -56,6 +56,13 @@
 <info>Sinopse: [COLOR yellow][B]Depois de seu ovo rolar rumo a um depósito de lixo, a passarinha Robin é criada por uma família de camundongos. Com o passar do tempo, fica cada vez mais evidente que ela é diferente dos outros. Incomodada, Robin parte em uma missão para provar à família que pode ser uma ótima roedora, mas acaba descobrindo quem é de verdade. 
 [COLOR white][B] Gênero:  [COLOR lime] Aventura[/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white]Batman - A Alma do Dragão [COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c67f0b0f00e6e9bac17884d6fb97b0a903837674</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqBGQUV1IsLP1zXwMxwgXwYfNG2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dFYPh90NtYXrBm2P18CsPRRgXly.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na década de 1970, Bruce Wayne enfrenta uma ameaça mortal de seu passado com a ajuda de três ex-colegas das artes marciais: Richard Dragon, Ben Turner e Lady Shiva.
+[COLOR white][B] Gênero:  [COLOR lime]Ação  / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Encanto - CAM  [COLOR yellow]( CAM )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HTUZE6UNKS65HPELE6GUQEPUDZLFVOTL</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</thumbnail>
@@ -114,7 +121,7 @@
 <thumbnail>https://abutretorrents.com/imagens/batman-o-longo-dia-das-bruxas-parte-2-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]O assassino conhecido como Holiday continua a perseguir a família do crime Falcone, enquanto uma nova classe de criminosos fantasiados sobe em Gotham City. Batman suspeita que um ex-aliado pode ser o assassino em série. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Mortal Kombat Legends - A Batalha dos Reinos[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / AVENTURA [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Mortal Kombat Legends - A Batalha dos Reinos[COLOR yellow]( 1080p ) [COLOR lime]AÇÃO / AVENTURA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee8888ec04081ec90ce7f538a32b3500e5970eec</link>
 <thumbnail>https://abutretorrents.com/imagens/mortal-kombat-legends-a-batalha-dos-reinos-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Os heróis de Earthrealm devem viajar para Outworld e lutar pela sobrevivência de sua terra natal, invadida pelas forças do malvado senhor da guerra Shao Kahn, no torneio para encerrar todos os torneios: o Mortal Kombat final.[/COLOR][/B]</info></item>
@@ -172,11 +179,6 @@
 <thumbnail>https://abutretorrents.com/imagens/teen-titans-go-see-space-jam-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Em Teen Titans Go! See Space Jam, os Teen Titans são visitados pelos Nerdlucks, os icônicos vilões do Space Jam que tentaram escravizar Michael Jordan e os Looney Tunes. Surpreso ao descobrir que seus colegas Titãs nunca viram o Space Jam, Cyborg organiza um festa exclusiva para assistir o longa. Claro, se os Jovens Titãs estão assistindo a um filme, não espere que o silêncio valha a pena. Ravena e Estelar fazem os comentários, Cyborg apresenta os fatos divertidos, Mutano aponta as cenas estranhas e Robin … bem, Robin não confia em seus novos amigos alienígenas. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Scooby! - O Filme[COLOR yellow]( 1080p )[COLOR lime] AVENTURA / COMÉDIA[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6856ABBE998BED8E206E7BEEBA6806D0F126AD4B</link>
-<thumbnail>https://abutretorrents.com/imagens/scooby-o-filme-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. [/COLOR][/B]</info></item>
-##################################################################################################################
 <item><title>[B][COLOR white]Demon Slayer - Mugen Train - O Filme[COLOR yellow]( 1080p )[COLOR lime] AÇÃO / AVENTURA[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FXK56T7UBOSD6635H4G4CRPVN7XHYM5</link>
 <thumbnail>https://abutretorrents.com/imagens/demon-slayer-mugen-train-o-filme-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -211,11 +213,59 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78a2b82bc9469f20564a04568ccf7dd6a74c2aa3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w342/5hO4RYsWZqP7U9ikLZquJAB3oSH.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Banido novamente de Asgard, Loki enfrenta seus mais ferozes rivais até então: os Simpsons e os heróis mais poderosos de Springfield. O Deus da Trapaça se junta a Bart Simpson em uma derradeira fusão de personagens para homenagear o universo cinematográfico dos super-heróis e vilões da Marvel. [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Bombay Rose[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c75ca5c9f0c9e8822551660051daba7ae58aa362</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MXu4MS4Ylu3GADRGprgekeUfrg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fxFRVz23ZfSBy3ZDXMvCbPJ4rLB.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em meio à agitação de uma cidade efervescente e multifacetada, dois sonhadores precisam encarar o dever e a e religião para viver um grande amor.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Romance [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Batman - O Longo Dia das Bruxas - Parte 01[COLOR yellow]( 1080p)[COLOR lime] AÇÃO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HUMBPEABT3YH2V3VWXPWIGMOZ5OLO5VN</link>
 <thumbnail>https://abutretorrents.com/imagens/batman-o-longo-dia-das-bruxas-parte-01-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Um assassinato brutal no Halloween leva o jovem vigilante de Gotham, o Batman, a formar um pacto com os dois únicos homens da lei não corruptos (o Capitão de Polícia James Gordan e o Promotor Distrital Harvey Dent), a fim de derrubar ‘The Roman’, chefe da notória e poderosa Família do Crime, Falcone. Mas quando mais mortes ocorrem no Dia de Ação de Graças e no Natal, fica claro que, em vez da violência comum de gangues, eles também estão lidando com um assassino em série cuja identidade, a cada pista conflitante fica mais difícil de discernir. Poucos casos testaram a inteligência do Maior Detetive do Mundo como o mistério por trás deste Assassino de Feriados [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Caçadores de Trolls - A Ascensão dos Titãs[COLOR yellow]( 1080P)[COLOR lime]Animação / Aventura [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b6e507162e18835e5b82f456878b0014bb1cad</link>
+<thumbnail>https://abutretorrents.com/imagens/cacadores-de-trolls-a-ascensao-dos-titas-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3OwaKVZf3A2NdnarqKbwzFEhKir.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Arcádia pode parecer uma cidade comum, mas está no centro de linhas mágicas e místicas que a tornam um nexo para muitas batalhas entre criaturas de outro mundo, incluindo trolls, alienígenas e magos. Agora, vários heróis se unirão em uma aventura épica onde devem lutar contra a Ordem Arcana pelo controle da magia que os une.[COLOR white][B] Gênero : [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Scooby-Doo! E a Espada [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BZ63L3IRRBXJXGZ4RO5CIITUZPJAILNP</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgWvMAmaWeuybWcUoKaX5EAkGDG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/osJ8zcMMJM2Rm2apf1e4bgigYCn.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma feiticeira malvada transporta a gangue de volta para a era dos cavaleiros cavalheirescos, magos de lançamento de feitiços e dragões cuspidores de fogo.
+[COLOR white][B] Gênero:  [COLOR lime]Ação  / Aventura / Comédia /  Mistério [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Xico - O Cachorro Mágico [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:689f2bdbbea221d6a01264037188502abf44bcdc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/orOMIRLONNoNkDRScVlfYiDKz4n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sxQNg9yNKsoNdDEWCX2Sr8tMCNX.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma menina, seu melhor amigo e um cachorro fazem de tudo para impedir que uma empresa explore uma montanha especial. Será que eles vão conseguir?
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tom e Jerry - O Filme [COLOR yellow] ( C A M )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc763e8f08fe13d8387462a60d3dd0a387d2d00</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7IrQ5vwmTHppBCf51HRFzSd7xMi.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Superman - O Homem do Amanhã [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RPVOJ7U4NNNASXLFICGF7RNOKDJ6POBT</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqK0aiv6Fb3lIO2L8LRmv2Bb39t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bazlsLkNuhy3IuhviepqvlMm2hV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Mas como o estagiário do Daily Planet Clark Kent – trabalhando ao lado da repórter Lois Lane – secretamente exerce seus poderes alienígenas de voo, super-força e visão de raio-x na batalha para sempre, há problemas ainda maiores no horizonte.
+[COLOR white][B] Gênero:  [COLOR lime]Ação [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Super Urso - Um Resgate na Cidade Grande [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35DQQ4VAQDTDA3CBZKMGWYRAMFNOLDDU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mOQEn51mD518IXuILNWezEwyOAE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n3YWf6thcBTsVtWELTp2TpEFPiy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Pai urso vive no deserto com seu filho Xi Ha, mas quando o filhote é capturado por um criminoso humano e vendido no mercado negro. Padre Urso se aventura na cidade grande para procurá-lo. Para salvar seu filho, ele se junta ao Cão Espião chamado Heng Te. O pai pode salvar o filho? Como bombardeios ainda heroicos policiais amigos para derrubar os criminosos. "Super Urso" é sobre o confronto furioso entre o pai solteiro e o espião animal, com uma aventura bem-humorada que conta o eterno tema de família e amor.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Modest Heroes - Ponoc Short Films Theatre[COLOR yellow](720 / 1080p )[COLOR lime] Ação / Aventura[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbe729a4d332a1797af455e58d1ca961f181b83c$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
