@@ -1,3 +1,11 @@
+
+##############################################################################################################
+<item><title>[B][COLOR white]Matrix Resurrections [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSHYF6437VX27Q543L5H4GYRZICOKB5W</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3NiiRAKt2L5bUuAvSOkv6Yn7u6T.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]"Matrix Resurrections" é uma continuação da história estabelecida no primeiro filme "Matrix". Ela reúne Keanu Reeves e Carrie-Anne Moss como os ícones cinematográficos Neo & Trinity numa expansão de sua história que se aventura de volta à Matrix e ainda mais fundo na toca do coelho.Uma nova aventura alucinante com ação e escala épica, que se passa num mundo familiar, mas ainda mais provocativo, onde a realidade é mais subjetiva do que nunca e tudo o que é necessário para ver a verdade é libertar sua mente. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa [COLOR yellow] ( C A M )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ECLTLLSRAYHFMGLGJFLGZVXQUE4VXGT</link>
@@ -5,6 +13,104 @@
 <fanart>https://www.themoviedb.org/t/p/original/VlHt27nCqOuTnuX6bku8QZapzO.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Later Days [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58F40C01AEAAB90426458580C05CCA7197979CA0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lgk6WHLGAuQzvD0OpoSvdZEXBJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gQH0aM2664wCieSZRoXwxGdSIL2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nostálgico por seus dias de glória, um pai frustrado que fica em casa convida todos os seus amigos do Facebook do colégio para uma festa surpresa temática dos anos 80 para sua exausta esposa corporativa. 
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Christmas Thieves [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1467B8018829E955FF241DE70E45FE7C66487AC9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/flVj08Gc2WMs7qRXnt3RGPVgQqn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6AwvpQ6nasX1crIDzmxVknVaokX.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois que um roubo dá errado, Frank e Vince invadem uma casa quando duas crianças os confundem com babás. Na esperança de fazê-los adormecer para que possam fugir, Frank lê histórias de um livro de magia que roubou durante o roubo, levando-os ao mundo encantado dos Amigos do Ártico. Os dois ladrões têm que suportar as intrigas do garoto enquanto eles fazem várias tentativas absurdas de escapar.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Canto do Cisne  [COLOR yellow] ( 1080 p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7791550cf83a2b032649733bba5da02ed9ab9cc6$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2EaSwcTF4b7ano51FhwiPOKl1kh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qjg4UmsD5TFl3mDRDPi78KOeQVQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Cameron Turner é um pai e marido dedicado, diagnosticado com uma doença terminal. Perante uma solução experimental que promete proteger sua família do sofrimento, ele luta para mudar seu destino nesta história de amor, perdas e sacrifício.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Snakehead [COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:633D30477AA0C8341CF5A9D23630ABC185598771</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1lX2sV9B2svRPB44GluZlaw911z.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A irmã Tse é trazida para Nova York por um Snakehead, um contrabandista de humanos. Embora ela esteja em dívida com a família do crime responsável por seu transporte, seus instintos de sobrevivência a ajudam a ganhar o favor da matriarca, e ela sobe rapidamente na hierarquia. Logo Tse deve reconciliar seu sucesso com seu verdadeiro motivo para vir para a América – para encontrar a criança que foi tirada dela. No final, a irmã Tse deve usar a força que encontrou para transformar sua condição de vítima em poder. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Policial [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dont Say Its Name [COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5FCBC859915463D2DC89E246CEA6E0FC945E341</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOWq3zhuZ189abx3YF6Klb00yFT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dp26LJ1AOz9pa8nl6ZWQQRifjKy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma entidade sobrenatural assombra terras tribais ameaçadas pela mineração de carvão. Depois que a ativista ambiental Kharis Redwater é chamada de volta ao mundo dos vivos por sua mãe, Mary Lynn, após um acidente questionável que custou a vida de Kharis, um espírito ancestral renasce fora de uma pequena cidade do norte como vingança pela perda da vida de sua filha . Kharis retorna como um Wheetago, uma criatura feroz que fica mais faminta quanto mais come. Será que uma ex militar Park Ranger, Stacy Cole, e uma policial, Betty Stonechild, podem retornar aos seus ensinamentos tradicionais para parar Kharis antes que ela continue a se alimentar de todos que estão em seu caminho? 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Atividade Paranormal 7  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74C78DFCF55AC6E49E53B3C0C31FBD699CC1D3E9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bXAVveHiLotZbWdg3PKGhAzxYKP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/39EQTf94Lckdo8yzS1CdWQSgmen.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Margot, uma cineasta de documentários, dirige-se a uma comunidade Amish isolada na esperança de aprender sobre sua mãe perdida e seus parentes. Após uma série de ocorrências e descobertas estranhas, ela percebe que essa comunidade pode não ser o que parece.
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Eat, Brains, Love  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BCFA9328A4F0A84764CC4A44341D5C9F1809EE9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bpN7nQJD6W4LmJXYVcaurA5ej1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kTGqhfJlx2dC6XBe5BI7VLdnjue.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando Jake e sua garota dos sonhos, Amanda, contraem um misterioso vírus zumbi, eles acabam fugindo de Cass, uma adolescente vidente enviada pela ultrassecreta Divisão de Controle Necrótico do governo para rastreá-los enquanto buscam uma cura.
+[COLOR white][B] Gênero:  [COLOR lime]	Comédia / Romance / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Curtis [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:459d68e445bc2226852f6b626ef6f4bb3e96fee8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ZVTIyoXkNNKpfWnGzk2rxqASGk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ZVTIyoXkNNKpfWnGzk2rxqASGk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Enquanto vasculha as ruas de Detroit em busca do anel do campeonato perdido, um ex-astro do basquete, sofrendo de doença mental, se vê preso em um túnel do tempo e incapaz de enfrentar a vida como ela é agora.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Welcome to the Show [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FDD22A98622686847579B82ED8EE8D62D3905C42</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yC5bEjLpHmC6zPwRM4GUB4eoZwz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jhWuT9zPlV5ZB3x2makRz2O1WaM.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um convite para uma peça de teatro misteriosa, "The Show", envia quatro melhores amigos para uma toca de coelho de desconfiança e loucura enquanto eles tentam descobrir quem são os atores, quem é o público, quem está fazendo isso com eles e por que . 
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Cannoneers Burning Soul [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C2314156EC42DB78AE0A27672F2B208EC4E6812</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2nq2QB67XIMuyKCePQIqCiAiWJ0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2nq2QB67XIMuyKCePQIqCiAiWJ0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 1592, Toyotomi Hideyoshi unificou o Japão e invadiu a Coréia na tentativa de conquistar o Império Ming. Quase todo o país de Joseon caiu diante dos invasores e não teve escolha a não ser pedir a ajuda do imperador Wanli da dinastia Ming. Por essa ajuda, Joseon 
+[COLOR white][B] Gênero:  [COLOR lime]Ação [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] My Wonderful Wanda [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25879B71C7D85E3F4D3F3AF80E91CFE483C7B519</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28VX3cLQdjMQBwsDCwz0mvsx1Fa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fmreDy1BvcsCCYWiHdxmmlZgN9x.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A família Wegmeister-Gloor vive em uma grande propriedade. O chefe da família Josef sofre um derrame, desde então ele é dependente de ajuda o tempo todo. A enfermeira polonesa Wanda chega, e traz um sopro de ar fresco para a propriedade, e para a família. Então tudo muda, e cabeça para baixo, especialmente quando ela engravida, de Josef. 
+[COLOR white][B] Gênero:  [COLOR lime] Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Soul Hunter [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DFCFD1C077355C45578C30AC7258E3E4D4E8B23</link>
+<thumbnail>https://abutretorrents.com/imagens/soul-hunter-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/soul-hunter-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No vasto universo, existe um planeta chamado “Domínio da Fantasia”, no qual vive uma antiga espécie inteligente. Esta raça é altamente civilizada e de bom coração. Envia tribos de e para outros planetas do universo. Eles são dedicados às pessoas em todos os planetas, mas têm uma obsessão de longa data. Na terra, eles são chamados de “Mestres Zhu Nian”.
+[COLOR white][B] Gênero:  [COLOR lime]	Aventura / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Espíritos Obscuros [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e63edfce688c1b4b3ada3ff2b26e64bfede7f9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d2c8DlW3qfu4w6fgn4lMrI6wEfM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/muejeAIfCiWALDE1hLqCsKON0E7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem professora descobre que o pai e irmão mais novo do seu aluno problemático escondem um segredo sobre-humano mortal. Tendo decidido tomar conta do menino, ela deve lutar pela sobrevivência dos dois contra horrores além da imaginação.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Listy do M. 4] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359B9F3A33A89D03298B02A7DCE391A93F234F7D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIfADVNTqbHQxrW4WBbZIyAAD9I.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bT9bZXp3BCk5poZZHGxv8DNh7ds.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Tudo pode acontecer durante a véspera de Natal. Mel tem que enfrentar novos desafios profissionais e se adaptar aos novos padrões vigentes no trabalho. Em seguida, Karina e Stephan planejam introduzir mudanças sérias na criação dos filhos. Eles decidem mudar sua abordagem e aplicar métodos educacionais um tanto sofisticados. Uma nova mulher se colocará entre Karolina e Filip, e o passado será lembrado de Rudolf.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Com Amor, Anônima  [COLOR yellow]( 720p / 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:2cb383c80622d4b74526afaa7b5ca0ee6d485fc9[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
