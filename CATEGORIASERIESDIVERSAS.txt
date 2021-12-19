@@ -122,7 +122,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BROOKLYN NINE-NINE[COLOR lime] COMÉDIA / POLICIAL[COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BROOKLYN NINE-NINE[COLOR lime] COMÉDIA / POLICIAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wd5JwnNOqEDIKZ672wjEo8hzL7k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BROOKLYN%20NINE-NINE.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg</fanart>
@@ -130,6 +130,16 @@
 </channels>
 </channel>
 
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] CHOSEN ( ESC0LHIDO ) [COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4tLOlMF7YMwsnm4qkhnkOEArZfB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CHOSEN.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zTOqdt45jnw5fyEOvgWuiiCx2S3.jpg</fanart>
+<info>[B][COLOR yellow]Ian Mitchell (Milo Ventimiglia) é um advogado de defesa que luta para criar sua filha após o término conturbado do casamento com sua ex-mulher Laura Mitchell (Nicky Whelan). Sua vida muda completamente quando ele recebe uma caixa que contém uma arma, uma foto de um estranho e instruções para matar aquele estranho em três dias. Antes que Ian pudesse imaginar o que era aquilo, ele se vê dentro de um jogo e percebe que também é o alvo de alguém. Ele agora faz parte de um jogo mortal que cerca as pessoas todos os dias, embora nem todos saibam disso.[/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
