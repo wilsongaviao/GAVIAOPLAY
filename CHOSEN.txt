@@ -1,0 +1,22 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CHOSEN ( ESCOLHIDO ) [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D6459EB625B5EE8C1717A8A0212BE07A1A39C90</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/s7EHYKEaB1DswymDR2NPRRDyXA2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xMomjOcmbycObmcFuKx5mcmrMWY.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] CHOSEN ( ESCOLHIDO )[COLOR lime]2 ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58DB8B35515843CB2ED2EA62AE609FE6FE804788</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/eqbf7EvZQzB03uHbSm9KO2URhSi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zTOqdt45jnw5fyEOvgWuiiCx2S3.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] CHOSEN ( ESCOLHIDO ) [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fed659a9561677c7e72ac2652d2eb0e9f2955805</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8DRX6SIxbzuO60FAWcfYXs47f1S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yWS6hpgRRgwLmGV4kHrMua5u66Q.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
