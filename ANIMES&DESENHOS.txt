@@ -1,3 +1,32 @@
+
+##############################################################################################################
+<item><title>[B][COLOR white] A Serpente Verde[COLOR yellow](1080p )[/COLOR][/B]</title> pg 7
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ff0680e913954b5b308416fe9d1555c58fc782</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5QWHHjwIPoaJYHNVL0D00bxDUUC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ao tentar libertar a irmã das garras de Fahai, Xiao Qing chega em uma cidade distópica e encontra um homem misterioso que não se lembra do passado. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação  / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] O Poderoso Chefinho 2 - Negócios da Família[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ceeb0fcc46af65f0175e5140290a08a277e3482</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p033k6k8V9USI0TWZavIxoYzsGi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em O Poderoso Chefinho 2 acompanha novamente os irmãos Tim e Ted, agora adultos e vivendo vidas separadas. Enquanto Tim construiu uma vida calma no subúrbio com sua esposa, Carol, e as filhas, Tabitha e Tina, Ted se transformou em um mega empresário que resolve todos os problemas com dinheiro. Mas quando Tim descobre que sua filha caçula também é agente do BabyCorp, ele precisará da ajuda do irmão mais novo para lidar com a situação.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Raya e o Último Dragão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJFBKQJXM3K4BP7APKMZ7JTNMDS32GBB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rcUcYzGGicDvhDs58uM44tJKB9F.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Muito tempo atrás, humanos e dragões viviam juntos em harmonia no mundo de Kumandra. Mas a ameaça de uma força do mal fez com que os dragões se sacrificassem para salvar a humanidade. Agora, 500 anos depois, o perigo ressurge e a solitária guerreira Raya embarca em uma incrível jornada para encontrar o último dragão e salvar seu mundo.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Trolls 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:140650a334c7cd3d617d20f3a415e8bf8b3e8be4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4aOyZTiybSidipdjtv7xpeO4TZp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ybGEvB6725PkVuUfEo2txLGRwTj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A rainha Poppy (Anna Kendrick) e Branch (Justin Timberlake) fazem uma descoberta surpreendente: há outros mundos Troll além do seu, e suas diferenças criam grandes confrontos entre essas diversas tribos. Quando uma ameaça misteriosa coloca todos os Trolls do país em perigo, Poppy, Branch e seu grupo de amigos devem embarcar em uma jornada épica para criar harmonia entre os Trolls rivais e uní-los contra um mal maior. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família / Fantasia / Musical [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Children of the Whales[COLOR yellow]( 720 / 1080p )[COLOR lime]DRAMA / FANTASIA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:834d83c9fde64a7168c003e2b3150a56f2c39faa&$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
@@ -9,6 +38,13 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46IS4DDPI2ZI3FRCONXFQODC2R44BJBA</link>
 <thumbnail>https://abutretorrents.com/imagens/mobile-suit-gundam-hathaway-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow] Uma trilogia de filmes comemorando o 40º aniversário da franquia Gundam e o segundo projeto no "Projeto UC NexT 0100" que abordará o futuro da linha do tempo da UC. UC 0105 - doze anos após a Segunda Guerra Neo Zeon, a paz na Terra e suas colônias são perturbadas por "Mufti", uma organização terrorista empenhada em impedir a Federação da Terra de privatizar a Terra para os privilegiados. Estúdio: SUNRISE.Gênero: Ação, Drama, Ficção científica, Mecha, Militar. mudar a vida de algumas pessoas daquela cidade para sempre.. [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]100% Lobo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5M43BB5JEBUPXLSD5LKDDDM6GUQQELFV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Freddy Lupin, herdeiro de uma orgulhosa família de lobisomens, fica chocado quando, no seu 14º aniversário, seu primeiro 'warfing' dá errado, transformando-o em um poodle feroz. Os anciões da matilha dão a Freddy até o próximo nascer da lua para provar que ele tem o coração de um lobo, ou corre o risco de ser expulso para sempre. Com a ajuda de um aliado improvável em uma rua perdida chamada Batty, Freddy deve provar que é 100% Lobo.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia  [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Surpreendentes X-Men[COLOR yellow]( 720p)[COLOR lime]AÇÃO / FICÇÃO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E489F6E25035071C134020626B3924655E26BBA</link>
