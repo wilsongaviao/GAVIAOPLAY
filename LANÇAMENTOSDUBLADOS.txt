@@ -58,6 +58,13 @@
 <info>Sinopse: [COLOR yellow][B]A história gira em torno de um resort ultrassecreto para oficiais de inteligência aposentados dos EUA. Um grupo de criminosos liderados por Balzary rompeu o complexo, infernalmente se vingou de Robert, forçando o oficial aposentado e seu filho a salvar o dia.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
 #############################################################################################################
+<item><title>[B][COLOR white]Natal Para Sempre [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f52ecbe0ad29b610f7ea8c4ef93d4918d1e1d24a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hsSqM0ZX1o7qBW46Qq9CUxQnXPi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xs1X7xBIfMX4SCFHTIW5qufN36z.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A romancista Izzi precisa acabar seu novo projeto e entregá-lo até o Natal. Em busca de inspiração, ela viaja e acaba conhecendo um homem que parece o protagonista de seus livros.
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Romance [/COLOR][/B]</info></item>
+#############################################################################################################
 <item><title>[B][COLOR white] O Natal Foi Cancelado[COLOR yellow] ( 1080P )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qi5vnjspWNNxmWNBjq78n07Yink.jpg</thumbnail>
