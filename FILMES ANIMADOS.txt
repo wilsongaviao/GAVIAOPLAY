@@ -6,6 +6,27 @@
 <info>Sinopse: [COLOR yellow][B]Todo mundo sabe que ser adolescente não é fácil, ainda mais quando se é um semideus com poderes ilimitados e correndo o risco de ser crucificado a qualquer momento, essa é a vida de Jesus Cristo em sua escola nova.
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white]Agência Secreta de Controle de Magias [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6282d7829695a622608554c20360f2feb2a13f64</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/B3Xz48iyIh9ejffVtfCxwzTO7n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sdgzEjmGT42yP2DB2Rg9nH6rcVQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os famosos João e Maria do conto de fadas agora são agentes secretos que precisam usar magia, pensar rápido e trabalhar em equipe para encontrar um rei desaparecido.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item
+##############################################################################################################
+<item><title>[B][COLOR white]As Fantasias de Nicolas [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XNBDEWFPYDTXGY2CORZYRBU4MYI3RWT4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/razgQWxwMFXyhI6musNJBTgCUbb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rABqUZSOS2uaCkGm0NV4EXyxlhc.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nicolás é um menino de 10 anos com Síndrome de Down e o maior dos corações e da imaginação. Quando a mãe de Nicolás morre, ele se muda para a casa de seus avós com seu primo David, um adolescente que não tem paciência para aprender a se dar bem com ele. Eles terão que resolver suas diferenças quando Nicolás descobrir um portal para um reino cujos sonhos precisam ser salvos.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Barbie Aventura da Princesa [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29c6f6c98bb9e3e635c41f7cf2e8bb6c08c9ed68</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmZVWuXM1hpP2GKFABCUkoscKu4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nesta aventura musical em que conhece novas amigas num reino novo, Barbie aprende o que significa ser ela mesma quando troca de lugar com uma sósia da realeza.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Musical [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]StarBeam - Aventura de Ano-Novo [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9b6ea36eb3048dc8bb1a6afc57edc68e6412f42</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wEg51AiGCVdMb3GwylnTD8dfySZ.jpg</thumbnail>
@@ -13,12 +34,41 @@
 <info>Sinopse: [COLOR yellow][B]Os maiores vilões de Summersette unem forças no ano-novo para enfrentar Zoey e a equipe Beam. Agora, a prima descolada Zara precisa salvar o dia! 
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR whiteOs Croods 2 - Uma Nova Era] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a08aecdbc6515b76f3dff9bbecf8d72017fef52$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48fc86c04d422608f713c299ebf75acee3d6b025$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fmIp40ev4VGquK2bMo52PQgaV2d.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia  [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Big Pai, Big Filho 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6674399f7c48e87475c70cc095c47f6a0ec7a725</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Wqr1Jthqs801DAsNI71PnrPjdX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u6GALns99aM7nDdcY4Cxf6sACdC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Big Pai, Big Filho 2, o adolescente Adam (Pappy Faulkner), parte em uma jornada épica e ousada para descobrir o mistério por trás de seu pai que esteve perdido há muito tempo, apenas para descobrir que ele é o lendário Pé Grande. O pai está escondido nas profundezas da floresta há anos para proteger a si e sua família da HairCo., uma corporação gigante que deseja realizar experimentos científicos com seu DNA especial. Quando pai e filho começam a compensar o tempo perdido, Adam logo descobre que ele também é dotado de superpotências além da imaginação.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Octonautas e o Círculo de Fogo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81d74ef8be0a615f5383b37b2f5c0a171bf84bd7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aGFtQaLlhpQ2zmmx9dcx8dNYLuI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gXNXD1eou71RWNUQx37bUbjbPmA.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Com vulcões em erupção desencadeando desastres por todo o oceano, os Octonautas se unem para enfrentar o maior desafio de todos.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Próxima Parada - Lar Doce Lar [COLOR yellow](1080p)[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:057e2a3bd168c0516e9b604ff8fe9517704485aa</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Eles são perigosamente fofos! A caçada começa quando um grupo de animaizinhos letais (e um coala-celebridade chamado Pelúcio) escapa do parque onde vivem na Austrália e tentam voltar para seu lar.
 [COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Sapatinho Vermelho e os Sete Anões  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0f569f4eb59684bebf65f432515188452157d4e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqrSjDbIN4beOs7BwpZJNM3OpBr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ahobCL27xHAf5MJmS9kTlCsL0on.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nesta releitura do famoso conto da Branca de Neve, o beijo da princesa de sapatos vermelhos (Chloe Grace Moretz) é a única cura para os sete anões que, na verdade, são sete príncipes arrogantes. A disputa pelo beijo da princesa fará com que eles mudem suas visões de mundo e entendam o verdadeiro significado da beleza.
+[COLOR white][B] Gênero:  [COLOR lime] Ação /  Aventura / Comédia / Romance[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]O Mundo Mágico de Rufus [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7c662ebbffaadadbd394856810eabf200b485fa</link>
