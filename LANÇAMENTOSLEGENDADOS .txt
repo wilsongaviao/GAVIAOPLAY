@@ -993,12 +993,14 @@ pag 18 lançamentos
 <thumbnail>https://abutretorrents.com/imagens/church-people-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Um filme de comédia sincero e risonho, Church People é a história de pessoas reais com lutas reais e seus caminhos únicos para descobrir o que é a fé em Jesus. Tudo começa quando o “Pastor da Juventude da América”, Guy Sides, percebeu que está preso na mega máquina de marketing da igreja e quer encontrar sua paixão novamente. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[COLOR white]Prisioneiros da Terra[COLOR yellow] ( 720 / 1080p )[COLOR lime]AÇÃO / SUSPENSE / TERROR [/COLOR]</title>
+<item><title>[COLOR white]Ghostland: Terra Sem Lei[COLOR yellow] ( 720 / 1080p )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e7c11c90b0a3c5452ddcd9b223991c7af8c82e0$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b24fe61ed7a159871ddb01ee89548f857c52051$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a87e2dd837a8ea435a717b8723508648c159b7d$nome=[B] 3 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail></thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Na traiçoeira cidade fronteira de Samurai Town, um assaltante de banco implacável (Nicolas Cage) é resgatado da prisão pelo chefe de guerra, The Governor (Bill Moseley), cuja neta adotiva Bernice (Sofia Boutella) desapareceu. The Governor oferece ao prisioneiro a sua liberdade em troca da descoberta da sua neta. Amarrado com um fato de cabedal que se autodestruirá dentro de cinco dias, o bandido parte numa viagem para encontrar a jovem e o seu próprio caminho para a redenção. [/COLOR][/B]</info></item>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBNVjog86fRYEnjwl4yRbIoXUxC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f4HdheJwLMaLgG466Cp4gJTmwQL.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Na traiçoeira cidade fronteira de Samurai Town, um assaltante de banco implacável (Nicolas Cage) é resgatado da prisão pelo chefe de guerra, The Governor (Bill Moseley), cuja neta adotiva Bernice (Sofia Boutella) desapareceu. The Governor oferece ao prisioneiro a sua liberdade em troca da descoberta da sua neta. Amarrado com um fato de cabedal que se autodestruirá dentro de cinco dias, o bandido parte numa viagem para encontrar a jovem e o seu próprio caminho para a redenção. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Suspense / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white]Four Good Days[COLOR yellow] ( 1080p )[COLOR lime]DRAMA [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edf708fb19af1a5e1dd42ff5693ebe95db3e0806$nome=[B] 1 [COLOR yellow]1080p[/COLOR][/B]</link>
