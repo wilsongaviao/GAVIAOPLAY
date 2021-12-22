@@ -3080,11 +3080,6 @@ pag 18 lançamentos
 <thumbnail>https://abutretorrents.com/imagens/skinwalker-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Depois de saquear o cemitério de um nativo americano, um caçador solta o lendário Skinwalker, um demônio que muda de forma, para um mundo desavisado. [/COLOR][/B]</info></item
 ##################################################################################################################
-<item><title>[COLOR white]Match[COLOR yellow]( 1080p )[COLOR lime]Drama[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2E1E1113573B00B6B87FA9DF4857A8638A1D0F9</link>
-<thumbnail>https://abutretorrents.com/imagens/match-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow]Match, é uma abordagem adulta da intimidade e do isolamento no mundo moderno através das lentes do namoro online, devido principalmente pela COVID-19. [/COLOR][/B]</info></item
-##################################################################################################################
 <item><title>[COLOR white]The Blackout Experiment[COLOR yellow]( 1080p )[COLOR lime] Drama / Suspense[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C58A1B4FBFB52426D3B8A923ABA3BC55675C762D</link>
 <thumbnail>https://abutretorrents.com/imagens/the-blackout-experiment-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -3222,6 +3217,7 @@ pag 18 lançamentos
 <item><title>[B][COLOR white]Os Servos Inglórios[COLOR yellow]( 1080p  )[COLOR lime] AÇÃO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:654096700abc0a19512d781c50cb978ad1c592cb</link><thumbnail>https://abutretorrents.com/imagens/the-inglorious-serfs-cam-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Ayako entra en territorio ucraniano em busca de venganza contra o comprador de esclavos Harimoto.Ao longo do caminho, Akayo conhece Taras, que também busca vingança e resgata sua amada.[/COLOR][/B]</info></item>
+
 ##############################################################################################################
 <item><title>[B][COLOR white]Algumas águas do sul[COLOR yellow]( 1080p  )[COLOR lime] SUSPENSE[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0913ce68aacfbe3e621b800f072ee5a892b493a</link><thumbnail>https://abutretorrents.com/imagens/some-southern-waters-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -3256,6 +3252,111 @@ pag 18 lançamentos
 <fanart></fanart>Drama / Histórico / Suspense
 <info>[B][COLOR yellow]A fuga de um búfalo acarreta uma onda de violência insana num pequeno vilarejo. Um búfalo fugitivo desencadeia um frenesi de violência extática em uma aldeia remota. 
 [COLOR lime]Ação[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item> pg 177
 ##############################################################################################################
 <item><title>[B][COLOR white]A Morte Salvou Minha Vida [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97C814C3C43E8F5E32501102A1742F914E49C0AC</link>
