@@ -63,6 +63,20 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E489F6E25035071C134020626B3924655E26BBA</link>
 <thumbnail>https://abutretorrents.com/imagens/surpreendentes-x-men-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>>
 <info>[B]Sinopse:[COLOR yellow]Do mestre contador de histórias Joss Whedon (Os Vingadores) e artista premiado John Cassaday, quatro histórias dos quadrinhos de tirar o fôlego, que prometem abalar as estruturas dos X-Men para sempre! [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Sonhos S.A [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f868565d5e0a64f241025d344a31fc29e0eb9da</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/atlvvY0QnnW5WrW0UEWfcpdIIX9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iVpjYzVvCU9n4FpYk7gnZWbKcg.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em A Fábrica de Sonhos, Minna é uma jovem menina que descobre recentemente seus poderes de criar e controlar os sonhos de outras pessoas. Determinada a ensinar uma lição à sua meia-irmã, Minna faz mal uso de sua capacidade sobrenatural, mas quando a meia-irmã não consegue mais acordar, Minna precisa entrar no mundo dos sonhos para salvá-la.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Novos Deuses , Nezha Reborn[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58cb0ff12ef3363909be206d4dd436622abf61fe</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/suoAUkRys9B6LEpHNzVxKhxgLfY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nezha, um fã de corridas que ganha a vida como entregador, encontra velhos inimigos e precisa redescobrir seus poderes para proteger a família e os amigos.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]LEGO Star Wars - Especial de Festas[COLOR yellow]( 720p ) [COLOR lime]AÇÃO / AVENTURA / COMÉDIA / FICÇÃO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f8f933b69b32838e76a8a1f9d5e25145090d74f</link>
