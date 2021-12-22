@@ -1,4 +1,66 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Hideout [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:083487BFE1A7433024356662504F3F99A3F11B54</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckAui0w734hvNsHxfL9zZfpGefN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tLhHcnnRn7U7StTdTF5QmhTw33w.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Fugindo da polícia em uma casa de fazenda remota depois de se atrapalhar em um roubo, quatro criminosos descobrem que a família que vive lá não é quem parecem ser.
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Black Friday [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F8F85FCA4A9305A0DD018EB59DFCF64741C8B46F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vOx9OwFjgXilKRWCQacXmp2rFLC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8RzFDrncOcpgo0w45MYF3BbeFC5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um grupo de empregados de uma loja de brinquedos deve proteger-se mutuamente de uma horda de compradores infectados por parasitas.
+[COLOR white][B] Gênero:  [COLOR lime]	Comédia / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Justice Of Bunny King  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21A6BE2C05ADCBC05E82E00BF994E1BA6D03C249</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xj7yOVClcRx7X89FndDSvyHnELQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qkXvwfFwQVcEmphdoq5Ydr9nOqY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Bunny King, uma mãe de dois filhos com um passado superficial e uma língua afiada trabalha nos cruzamentos de trânsito. Bunny acha suas frustrações difíceis de conter, e acaba entrando em conflito com o público e a polícia. Encontrando-se sem os filhos ou uma casa, ela cai na casa da irmã, onde sua estadia é interrompida por um confronto com o parceiro dela. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Fisher [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:494DF6405C5C4101DE11231F03C0C3BF950B8A22</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pbXaF6V6sDQ7xuB9QLdpPpLRJR2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/80ZCnLBCfRcD8emx7VO8SCMuUzs.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na pequena cidade de Eden, Tennessee, uma adolescente negligenciada e ingênua chamada Clara Banks adquiriu o hábito de enganar as pessoas online por presentes, uma manobra conhecida como "pesca do gato". Ela acha que é tudo diversão e jogos até que ela prenda a atenção da pessoa errada. Pouco tempo depois, os eventos colocados em movimento espiralam fora de controle quando alguém começa a perseguir Clara e seus amigos. Conforme as consequências de suas ações voltam a assombrá-la, mensagens distorcidas começam a aparecer na casa de Clara, fazendo-a temer por sua vida. Ela vai se sentir segura novamente agora que o mal veio bater?
+[COLOR white][B] Gênero:  [COLOR lime] Mistério / Suspense / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Fear PHarm 2 [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F72F1EA7E3C109C80B3BBE420EA7DE1ADFEFCA0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxh1SDLVHvIfKIruApyC3rtCfNT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/olVF0B4ON5tPWUgmNHM0DLefG2K.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de lutar por sua vida dentro de um labirinto de campos de milho e tentar escapar de uma série de psicopatas assassinos, Melanie recobrou a consciência ao descobrir que agora está sendo mantida refém pela família Walker, para que eles possam continuar a colher sua pele para a nova pele. creme de cuidado. Os negócios estão prosperando para os Walkers e Melanie logo descobre que não está sozinha. Dezenas de outras pessoas estão sendo mantidas em cativeiro por causa de suas peles, já que a família tem planos de expandir o negócio internacionalmente. Com uma tentativa de fuga fracassada em seu currículo, Melanie deve mais uma vez lutar pela oportunidade de sobreviver.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hide and Seek  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6170BAD630D8BE58B5D14F5B2C3BA6DCF70470BC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4osu6px7spCjIP8ZkS4IJ8K0ZyW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/82egprZtqx2z0fAOJkDeGj6LADN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Remake americano do suspense coreano "Hide and Seek", que conta a história de um homem em busca de seu irmão desaparecido e acaba descobrindo verdades assustadoras sobre o ocorrido. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Autumn Road [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F887AD55E730EB6DED2E4C1964403A0678E0158</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nV6kTHNwU7M9CgzFNQrycXKTbix.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nV6kTHNwU7M9CgzFNQrycXKTbix.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Dez anos após o sumiço de uma menina na noite de Halloween, sua irmã a retorna à cidade natal para fazer as pazes com seu passado não resolvido. Ao longo do caminho, ela se envolve com dois gêmeos que agora comandam a atração mal-assombrada à beira da estrada da cidade 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Adopted [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B688EAE7813C078998A005EB2C9632A279B39E9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9u8HFtdvmCW4ldM527CveUc2IJr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ad0nPo8xuGXSJ6mhQcT0oIuUrgQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A decisão de uma família de adotar parece nobre até que os laços familiares levem a consequências mortais. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A House on the Bayou [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A3242E70237B0DD4872EB70DC7399CF572D4089</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3qCUy997QKgZDieby5sF6mMHAsB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xb4NEMXNBbWcdb3kygitvc8cPCJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um casal com o relacionamento em crise e sua filha pré-adolescente viajam até a zona ribeira da Louisiana para passar as férias numa casa isolada, onde poderão se reconectar como família. Mas quando visitas inesperadas chegam, a farsa por trás de sua união familiar começa a aparecer, levando segredos assustadores à tona.
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Matrix Resurrections [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSHYF6437VX27Q543L5H4GYRZICOKB5W</link>
@@ -14,6 +76,14 @@
 <info>Sinopse: [COLOR yellow][B]Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white]BLACKPINK - The Movie [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495d1c0bb8cca90a4c158c1f56cc890330afd67e$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e393f72d2031e8dd6ec8c7c3068005f573529c6$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5jA4t58FEw3ZPeyxVItjxdJW70h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jf4tG5KFSt4VPPt6MU6Ff1DBiXl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]'BLACKPINK', a banda K-pop global amada pelo mundo, celebra o 5º aniversário de sua estreia com o lançamento deste filme, que também é um presente especial para os 'BLINK', o querido fandom de 'BLACKPINK', poderem revisitar antigas lembranças e curtir empolgantes apresentações no espírito festivo.
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Later Days [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58F40C01AEAAB90426458580C05CCA7197979CA0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lgk6WHLGAuQzvD0OpoSvdZEXBJ.jpg</thumbnail>
@@ -21,7 +91,7 @@
 <info>Sinopse: [COLOR yellow][B]Nostálgico por seus dias de glória, um pai frustrado que fica em casa convida todos os seus amigos do Facebook do colégio para uma festa surpresa temática dos anos 80 para sua exausta esposa corporativa. 
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Christmas Thieves [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Christmas Thieves [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1467B8018829E955FF241DE70E45FE7C66487AC9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/flVj08Gc2WMs7qRXnt3RGPVgQqn.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6AwvpQ6nasX1crIDzmxVknVaokX.jpg</fanart>
@@ -2764,7 +2834,7 @@ pag 18 lançamentos
 <thumbnail>https://abutretorrents.com/imagens/caca-jurassica-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Uma aventureira se arrisca em um safári de dinossauros em um parque selvagem remoto, mas quando o guia acaba morto, os caçadores de repente se tornam a caça. [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE / TERROR [/COLOR][/B]</title>
+<item><title>[B][COLOR white]A Maldição De Rose[COLOR yellow]( 1080p ) [COLOR lime]DRAMA / SUSPENSE / TERROR [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95A7A3CEB81F713648270B9D50CA208813E7082A</link>
 <thumbnail>https://abutretorrents.com/imagens/a-maldicao-de-rose-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]Após o brutal assassinato de sua família pelas mãos de seu pai, Rose é enviada para morar em um convento no nordeste dos Estados Unidos. No entanto, os demônios que atormentavam o pai, seguem despertando os pesadelos de seu passado. [/COLOR][/B]</info></item>
@@ -3130,12 +3200,6 @@ pag 18 lançamentos
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27becfd2c128371298a46a5061b9c89c2cc33fb1</link><thumbnail>https://abutretorrents.com/imagens/judas-e-o-messias-negro-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]A história de ascensão e queda de Fred Hampton (Daniel Kaluuya), o ativista dos direitos dos negros e revolucionário líder do partido dos Panteras Negras. Um jovem proeminente na política, ele atrai a atenção do FBI, que com a ajuda de William O’Neal (LaKeith Stanfield) acaba infiltrando os Panteras Negras e causando o assassinato de Hampton[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Monster Hunter[COLOR yellow]( 1080p  )[COLOR lime] AVENTURA[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd91e90a1c367c9fa46bcc2894d9b60c80c9f2d3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f3fa6d42cb279ccf9ed7bf15fef62fc7f5fc36</link>
-<thumbnail>https://abutretorrents.com/imagens/monster-hunter-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B][COLOR yellow] Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência. [/COLOR][/B]</info></item>
-##############################################################################################################
 <item><title>[B][COLOR white]The Ice Road[COLOR yellow]( 1080p  )[COLOR lime]AÇÃO/AVENTURA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4FC9EEA383E5DC6E8B42A7EA1B7DF38AA23BD3D</link><thumbnail>https://abutretorrents.com/imagens/the-ice-road-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR yellow]Uma mina remota de diamantes desmorona no extremo norte do Canadá, um motorista de estrada de gelo deve conduzir uma missão de resgate impossível em um oceano congelado para salvar os mineiros presos. [/COLOR][/B]</info></item>
@@ -3195,9 +3259,591 @@ pag 18 lançamentos
 ##############################################################################################################
 <item><title>[B][COLOR white]Jalikattu [COLOR yellow]( 1080p  )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab1a7a51c532b7a2510d98e86b3ab3758c73a55d</link><thumbnail>https://abutretorrents.com/imagens/jallikattu-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
+<fanart></fanart>Drama / Histórico / Suspense
 <info>[B][COLOR yellow]A fuga de um búfalo acarreta uma onda de violência insana num pequeno vilarejo. Um búfalo fugitivo desencadeia um frenesi de violência extática em uma aldeia remota. 
 [COLOR lime]Ação[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Morte Salvou Minha Vida [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97C814C3C43E8F5E32501102A1742F914E49C0AC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yUcQ50AiuJ5YFYkLOrZQ6kfoBI2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Superficialmente, parece que Jade tem tudo, incluindo uma carreira de marketing de sucesso, um marido admirado e respeitado na comunidade e uma filha que ambos amam. No entanto, a portas fechadas, sua vida está longe de ser perfeita.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Jakobs Wife[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D92BCBB41A348B863CB5C6E058D63941E622068D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hsOSdY9ALwBLP41c6tAF5UXkpc0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hYntGbI6AymNmMX2ogXHuTXflGE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Anne (Barbara Crampton) é casada com um pastor de cidade pequena e sente que sua vida e seu casamento a encolheram nas últimas três décadas. Após um encontro com “O Mestre”, ela descobre um novo apetite pela vida e pelo poder, a dividindo entre a sua vida de antes e sua atraente nova existência.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Assassino entre nós [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE649E7225290E707009C6C3AF0F0978C67BF19E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pyGB4nD6k1qKnvcuDeuwMbZwThY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yzQmakwJ6PqL6NNCRKcfr6Qx6Jy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No dia 4 de julho, um serial killer passa por uma crise moral ao descobrir que sua última vítima é um estudante do ensino médio; simultaneamente, um policial novato e um detetive experiente correm contra o relógio para salvar sua vida.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]No Way Out[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEA1A057B9E642C9EEF25F4AA6BF254E5B237712</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IxZqwaqJUqMlasGgKdpvGFooWx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IxZqwaqJUqMlasGgKdpvGFooWx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Tentando salvar um relacionamento, dois casais vão em um acampamento de fim de semana apenas para descobrir que não estão sozinhos na floresta.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Homunculus [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5801c222173fbf932bbd2c7b2a8837835e524a9c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnqmGW6N9fxEyPEylC2qT4bbUmd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jCDw1mk9DSdBx8MrEo8FhuIAXx7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Verdade e ilusão se misturam depois que um homem desperta de uma experiência médica com a habilidade de ver os traumas mais íntimos das pessoas. Assista o quanto quiser. Go Ayano (Twisted Justice) estrela esta adaptação da série de mangás de Hideo Yamamoto (Ichi the Killer).
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Mistério / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Chernobyl: O Filme - Os Segredos do Desastre [COLOR yellow] ( C A M )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ED0BFA82131EDF6EC3A95A0B71DB6BAD9AF5A4F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xebsOi7C3Wt7HEgzlbXEJ0YCvMG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/avNuNHG5JuXKlfT2HGAWYIb43Iu.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma história sobre um bombeiro heróico que trabalhou como um dos síndicos de Chernobyl. Três heróis silenciosos prontos para arriscarem suas próprias vidas para evitar uma catástrofe ainda maior na usina nuclear de Chernobyl. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Cavaleiros de Newgate [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8DFC1EB4B9B8AAB9FFAEF7A823C4806CFD89AD30</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/27YIy1z4wuoWmLlfQnddqSxPGT8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/shNK9xWHtZEACtqkzKN504dLMg1.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um templo secreto nas profundezas da cidade de Londres, um cavaleiro imortal e um demônio lutam pela posse de uma chave que pode abrir uma porta para o inferno.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura  [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Night of the Sicario [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:136FDF266E4EDD92B5C2FC3C9E576E8225BCE9B6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgFewciOc5lFXVoUDuboN87vbwO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4y6d7X7AdfBq9V4lIlhtjdYBu2E.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]aylor é forçada a esconder a filha de uma colombiana na proteção a testemunhas que testemunhará contra um poderoso cartel de drogas na Justiça Federal, enquanto sicários implacáveis ​​pretendem caçá-los. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Breeder - Fabrica De Humanos [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AFA0380E09F80940C49C8A53C5AEF9F3DBED28E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8VKsq26fe7reSHyLgCqLL5ezJgU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xqVfmPM0zm9iNX4BuWj22yZl1gX.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma empresa de produtos de saúde e beleza está sequestrando meninas para fazer experiências com o DNA de seus bebês para um tratamento que reverta o processo de envelhecimento. Quando Mia sai para investigar este assunto, ela é presa pela rede desta fazenda humana.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Chadwick Boseman - Homenagem a um Rei [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0f4f64a82c073bd72603d3a0f31d81bf64b02e3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jHW4QRwqkgMLGTfBKd8Dn2GEgJw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pRTscbxgCpvX1hoQMUgLM2zKLGT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma homenagem à vida, ao legado e à carreira do astro de "Pantera Negra", Chadwick Boseman, e a marca que ele deixou nas telas e fora delas. Apresentado por Robin Roberts, este especial mostra celebridades, figuras políticas e fãs de todo o mundo, além daqueles que estrelaram ao lado dele e o conheciam bem, e explica a doença que ele enfrentou. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Stay [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54FD9DF95ECA59C3D7FC87E098827E2DF76C446B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clhGYEY7aLNVpBlRlW3N5Cc9PnS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clhGYEY7aLNVpBlRlW3N5Cc9PnS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na cidade que nunca dorme, Olivia está conquistando o mundo da moda. Uma garota da capa em formação, Olivia está contratando grandes clientes e trazendo seu público do YouTube para o passeio. Com o dinheiro recém-ganho, ela se muda para um apartamento elegante. Sua fachada lustrosa, no entanto, esconde um segredo sinistro nascido anos antes. Repentinamente extenuada, seu tênue controle sobre a realidade começa a se dissipar. Linda, mas cada vez mais instável, Olivia faz uma escolha chocante que leva a uma batalha por sua alma. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Refens [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4FD84D8C449B94AC81E695DF19E0BBB2B3C1E3A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8NqVX14i0d9gmKsZFcTRa8xuac.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/EkAWEfbIoKJqOce2AKWAdyrBIj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O casamento em dificuldades de um casal é posto à prova quando eles são mantidos como reféns em um aluguel de temporada isolado por uma Voz invisível que comanda todos os seus movimentos
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense / Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] Meu verdadeiro conto de fadas[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55AC15DC4098C7DAB7A22EE00EE53CD8C8B01611</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8Y5c7WgD1tG4qFnec79KcGtFK0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8Y5c7WgD1tG4qFnec79KcGtFK0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Angie Goodwin sempre sonhou que um dia seria a super-heroína de seu próprio conto de fadas. Depois de acidente de carro horrível, ela decide curar secretamente os relacionamentos de seus amigos e familiares. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Mistério / Suspense [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Donas de Alegria [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c526ab99ff2852ff1298719fc4d9aba9496599b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wJxemIZ94RxEXluJnUw4xwbNDcV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x5V8ccWlB5OHeQKfEqZ8dwR99EC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Donas de alegria conta três histórias de mulheres durante um verão escaldante entre o norte da França e a Bélgica. Axelle, Conso e Dominique nada têm em comum a não ser que são colegas e que, todos os dias, juntas, cruzam a fronteira.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]O Casamento e a Bruxa [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b6ab298cd5a8659fd4c69c6fef5e0369377482b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qHpEGFx13ntiAVl94e08EJ5ss4U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tctSp3V05bCspn3s0JSZB16kmeZ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Roohi se passa em uma cidade fictícia do norte da Índia. O filme gira em torno de dois meninos de uma pequena cidade, Bhaura e Kattanni, que estão presos em uma floresta com Roohi. Mas há um espírito insidioso os seguindo com os pés virados para trás.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia / Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Atos de vingança [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E544DFA04FA01C3DF257040BB00FEDBAC104F789</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5CM3iSYdKWQOd8D2a66EXpuWvaA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5CM3iSYdKWQOd8D2a66EXpuWvaA.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A situação fica violenta depois que um ex-detetive da polícia (Richard Tyson) e um psiquiatra (Kurt Sinclair) manipulam um pai enlutado (Matt Cinquanta) em busca de justiça.
+[COLOR white][B] Gênero:  [COLOR lime]Drama /  Suspense [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Assistant  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4325D5863D1A40D683B4FF6BAFB318758D563718</link>
+<thumbnail>https://abutretorrents.com/imagens/assistant-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/assistant-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma ambiciosa assistente de Hollywood se encontra em uma situação de vida ou morte quando concorda em viver isolada com um ator que quer uma experiência extrema longe da civilização enquanto se prepara para seu próximo papel. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Pixie [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A22E19A180FB96561AEF7300F50B8DDA4056B2A7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nyFHl2BWixlLGHjXEoOKROWwOmy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yvMlwqo3ILtSTu6NOAOwufQNQ8U.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Pixie quer vingar a morte de sua mãe planejando um assalto, mas seus planos dão errado e ela se vê foragida com dois jovens através do campo selvagem irlandês por gangsters. Ela tem que se concentrar contra todos, assumindo o patriarcado para reivindicar o direito de moldar sua própria vida. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Suspense[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Rose [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:677AC9E9561930BCD5AF28FE0977D2F95F8B9712</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3OoqaAsZjC8FkyrQd8IQC51qTHR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ope5yZUtgYt4rebx7XYc6K0U1w4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história de um jovem casal que vive sozinho na floresta, que enfrenta uma doença que altera sua vida e que se manifesta de forma violenta e assustadora. A doença de Rose é uma sede vampírica parasitária de sangue. À medida que sua fome aumenta, toda a humanidade parece dar lugar a uma violência feroz que a prejudica e aos que a cercam. Seu relacionamento amoroso se estremece com o fardo da doença de Rose, e é apenas uma questão de tempo até que a vida isolada que eles construíram seja totalmente destruída.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]O Homem Que Vendeu Sua Pele [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9E50E3E9D544C23DC91D2FE8465F12E2C545AA1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4RpjxB4LslhxhidjcFehHSqzGyn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fzXHPUEuORa6In55WoImwc3pEXJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Sam Ali, um jovem sírio sensível e impulsivo, trocou seu país pelo Líbano para escapar da guerra. Para poder viajar para a Europa e viver com o amor de sua vida, ele aceita ter suas costas tatuadas por um dos artistas contemporâneos mais cultuados do mundo, transformando seu próprio corpo em uma obra de arte de prestígio. Sam, entretanto, percebe que sua decisão pode significar qualquer coisa, menos liberdade.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Under the Stadium Lights [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2D37162B41D63094EA94EE9F5E22CB4D45B0BFC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSxVt7yW4s8lqnGCCXDGJT2UxMZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jE34XTl3qOsO0EX0iHtvthVEXd6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]História verídica sobre o time de futebol da Abilene High School de 2009
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Falling[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394B42E193086D0EE7BB21D72F80B246F617E04A</link>
+<thumbnail>https://abutretorrents.com/imagens/falling-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/falling-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]John Peterson mora com seu parceiro Eric e sua filha adotiva no sul da Califórnia. Quando ele é visitado por seu pai idoso, Willis, de Los Angeles, que está procurando um lugar para se aposentar, seus dois mundos muito diferentes se chocam. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Senhora de Guadalupe [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D160ECE5B37556ACCAEE07DE830DF8C4AFC06D3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itIjhwzELVcfIIrSKuon9iKtdFY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cTL00gmV029FgE5Q8f1bvcsdHzF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Baseado em fatos reais, A Senhora de Guadalupe é uma comovente descoberta religiosa que justapõe o folclore e os dias atuais. Recriações historicamente significativas são usadas para ilustrar a origem de seu simbolismo prevalente e poderoso da identidade e fé mexicana. Quando um jovem e ambicioso repórter (Guillermo Iván) recebe um artigo sobre a fé, ele se vê envolvido na lenda de Juan Diego e Nossa Senhora de Guadalupe. Cético em relação aos milagres e à importância do cristianismo moderno, a investigação do repórter o leva de cínico a verdadeiro crente, enquanto seus limites pessoais são testados. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Nemesis [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0D6EBC5627355604148DDCAABFB7A423EFBCB76</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYZqOjtouDag7EGjRigdr3YEoKC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qa7qLyWllw8l3bq4XmTLIYXlTay.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O passado de um chefão do submundo o alcança quando ele retorna a Londres, iniciando uma cadeia explosiva de eventos que termina em vingança e assassinato. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Reap [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF22B7CAF43D578030F1D59216EFE9E2EF4CD70D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iDHuZ4sP96FjsMXnKUojMvs5XhT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iDHuZ4sP96FjsMXnKUojMvs5XhT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando um visitante inesperado aparece numa festa e informa aos convidados que eles estão destinados a morrer naquela noite, os farristas condenados precisam arrumar almas substitutas para tomar seus lugares. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mortal Kombat [COLOR yellow] ( C A M )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11D8A5F056BB3E9EAFBDB2EA55F4C0718E166B36</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44aCR6cjH0FbzW6PMw3Ega178iW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O lutador de MMA Cole Young deve treinar para liberar seu verdadeiro poder para unir-se aos maiores campeões mundiais contra inimigos da Exoterra em uma batalha decisiva pelo universo.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura  / Ficção / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Original Gangster [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A11502A9633042F3288A928F02E8CF2C26C50126</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6rYaAtAfKkXhgx4FAepplAidZIV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x09hPApMVD81WrINaUuxxLLgEsa.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]As crônicas estóicas de Castor, órfão quando criança, forçado a sobreviver na selva e sua jornada colorida pelo submundo do crime de Londres. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Aventura [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Você Já Viu Vagalumes? [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f785cc780a288324d777d4bb833d079b17293e52</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obiroU0bUT4yeiROMl7DwbGVsLN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l3eIZRHxMJgIvSlGUtQC7P2ShPQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Gülseren (Ecem Erkek) é uma jovem prodígio com espírito rebelde e irreverente. No meio de inúmeros conflitos políticos da Turquia, ela navega entre amor, perda e solidão enquanto uma grande mudança social ocorre em seu país. Mas sua natureza sonhadora e positiva não deixará nada abalar a autoconfiança. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Danyka[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80dc5b5186e6fc6a3debdbcccfa3270c1e7ec357</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ah14RS4ftgyTobHfKzYmehxImX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/92rV828X2Ra3LMONYQxlzxIXLSk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um homem de meia-idade questiona suas escolhas de vida e sua própria moral após um flerte com uma adolescente na praia. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dois Estranhos [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=agnet:?xt=urn:btih:93aabf460df407827642d5cafd52b22b10f83eb5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ZRncL9WLV0aLOG4WKvML4Ljoq0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3VvwYXUYcBxMAW2EjhxXunBybaL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em "Dois Estranhos", as repetidas tentativas do cartunista Carter James de voltar para casa e encontrar seu cachorro são frustradas por um encontro mortal recorrente que o força a reviver o mesmo dia terrível uma e outra vez.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Stray [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:533E0701DDC87968793938E7E35112FC45832618</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8D2RIVfeZ5QkyBnGJvXjgSPj6e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eq9I8HOVirpoLMX7auaXoBWUjC0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]STRAY explora o que significa viver como um ser sem status ou segurança, seguindo três extraviados - Zeytin, Nazar e Kartal - enquanto eles embarcam em viagens discretas pela sociedade turca que nos permitem um retrato nua e crua da vida humana - e sua própria cultura canina. Zeytin, ferozmente independente, embarca em aventuras pela cidade à noite; Nazar, carinhosa e protetora, facilmente torna-se amiga dos humanos ao seu redor; enquanto Kartal, um cachorrinho tímido que vive na periferia de uma construção, encontra companheiros nos seguranças que cuidam dela. As vidas díspares de Zeytin, Nazar e Kartal se cruzam quando cada um deles forma laços íntimos com um grupo de jovens sírios que compartilham as ruas com eles. Quer nos conduzam a ruas movimentadas ou ruínas decrépitas, o olhar desses perdidos atua como uma janela para os cantos esquecidos da sociedade: mulheres em casamentos sem amor, manifestantes sem armas, refugiados sem santuário. STRAY é uma observação crítica da civilização humana através do olhar desconhecido dos cães e uma viagem sensorial em novas maneiras de ver.
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ambers Descent [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9BB801AF359F01204EE553580F507D9BA485A01F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78MWfEZyeMEgSCmIRd3sAlTiQH1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t9kNWJ3tfIm66kM4P42Gpn2hLYj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de sobreviver a um encontro violento, a renomada pianista Amber Waltz muda-se para uma casa de fazenda rural para completar sua última sinfonia. Quando a música misteriosamente começa a se escrever, Amber lentamente descobre que esta peça pode ser a última
+[COLOR white][B] Gênero:  [COLOR lime] Suspense / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hyde [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1FFDD7D339C60C3A9CE082637AD8267BB79317D8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2RQJzTIC1zNC3fuRAhkX4MDt0qg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2RQJzTIC1zNC3fuRAhkX4MDt0qg.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jornalista acorda do coma depois de perder dez anos de memória. Texas Rangers e uma gangue assassina de psicopatas mascarados, liderados pelo criminoso HYDE, perseguem-na a cada passo enquanto ela luta para descobrir quem ou o que ela se tornou. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Take Back [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5681162B4204DA374FD74151562F473F9DC41114</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n33F8ceJKOMPOeKK3fkFknqhQIT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/10NS0wKi2kKDTzMQIBV7TTMlxDP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Sara (Gillian White) e Brian (Michael Jai White) estão vivendo uma vida aparentemente perfeita quando um homem misterioso (Rourke) do passado de Sara sequestra sua filha adolescente. Com a ajuda de um xerife de cidade pequena (Russo), o casal corre para salvar sua filha antes que ela seja vendida e desapareça no comércio sexual. 
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Desaparecidas [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0058B6C6C9F4B5E8BB11AC939814DAB659BA4460</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2VE2p3pb5smLroQhSnJxhv91yL9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zmILeYVFmmXf2DyVfGpLAsGNEDx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um detetive de uma cidadezinha investiga um professor de Sociologia quando um corpo é encontrado e algumas alunas de sua classe se encontram desaparecidas. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama  / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Witness Infection [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D3E5E6E004EEF2ADF1A6275115320AFF5E1D726</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zXN3bsLTcFhKazWuFGzSF3Ln8NI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zXN3bsLTcFhKazWuFGzSF3Ln8NI.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Às vezes, o passado volta para te morder. Às vezes, o passado volta para te morder. Duas famílias rivais da máfia são transferidas da Agência de Proteção de Testemunhas por engano para a mesma cidade, Temecula, CA. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Funny Face [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A296E19A313736119C368EAB245635E580416FA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fD2ZAcCt4BEhKGpTxdBFoSRCn1Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pm8F3rTk4N3NXSQeM9xQdM9uURm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A destruição da casa de seus avós leva um jovem a se vingar sob uma persona mascarada. Em um Brooklyn ameaçado pela desfiguração de empreendedores urbanos gananciosos, dois jovens se encontram em uma bodega tarde da noite. O vínculo inesperado assume um tom romântico e traz consolo a esses dois super-heróis impotentes diante da opressão. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Romance / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Diário do Pescador [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cbeb0fa3278ad5287900e393e03a3a3e46de642$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1876353b6d65866e5d4255d3d70efd44e33b488b$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qHFXpTGgI9EdD3cL0WQSHo7YD7v.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xeMNR1GIYg5z2XtN2yrwrcV4LlT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ekah (Faith Fidel), uma menina de 12 anos, é inspirada pela história da mais jovem Vencedora do Prêmio Nobel da Paz: Malala Yousafzai. Agora está determinada a ir para a escola em uma vila de pescadores onde a educação de uma menina é considerada um tabu. Seu impulso ardente e determinação para quebrar esse velho estigma a deixa envolvida com a experiência anterior de seu pai, Solomon (Kang Quintus), com relação à educação de meninas. 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Coded Bias [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2020d9edaf53c8c7f8047dba48a6edbe148bef65</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2PknXfJbjxIkrC5RqiNEmywSPOY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tY8RUkGmiZ41e6GiZFkRPx5HAqw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Coded Bias, quando a pesquisadora do MIT Media Lab, Joy Buolamwini, descobre que a maioria dos softwares de reconhecimento facial não identifica com precisão os rostos de pele mais escura e os rostos das mulheres, ela inicia uma investigação do viés generalizado dos algoritmos
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Honeydew [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:005EC498F6C269446A2EC446AFFB89BE786D3355</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tmFHbar8YYkITTaXmI4k3Q7cLHB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sWLq9tGGhfsRxCQ2pIezg8oprNk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Anseios estranhos e alucinações acontecem a um jovem casal depois de buscar abrigo na casa de um fazendeiro idoso e seu filho peculiar.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Viagem para a Escuridão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10dad27558554a24d8751eab3be7c9d96492bdec$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10dad27558554a24d8751eab3be7c9d96492bdec$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cePtRJSY9UCOrgBI2K6SeThOxz5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y4gH72vCllHx7vJ09Qur81NPKDw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma pane no carro obriga um casal a buscar refúgio na casa de um desconhecido. Até que surge a suspeita de que haja um assassino entre eles
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Homesick  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51ECB258E9487EB0259CE46FEB3A1815600E72CA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUjP4DUz3WZvRsSb784OoCUT0sP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9ieLA4wWbU6evDC7tFprrlvlcKC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um estudante universitário volta para casa para se isolar durante o bloqueio. Ele está totalmente sozinho, ele pegou o vírus e para lidar com isso, ele começou a falar consigo mesmo.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Violação [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:763708B978E2B34FE5EF618C4582AFC28DC7BDC3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i1U0xWdB821xFQ8BSAWDvpJkwSX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mDh0Izzx4uFNyWG7MHONp0nG4ql.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma mulher com um relacionamento conturbado viaja para a casa da irmã mais nova depois de anos afastadas. Mas quando ela e seu cunhado traem sua confiança, ela embarca numa violenta jornada de vingança. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Banishing [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5161F7BB0438A1044AF6ED6D4283EE4A38F3539</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xD9mc8JCVXA8T8u4Od7qOUBuGH4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zPR4GaGZte1MDySYplCCbloBejd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um jovem reverendo, sua esposa e filha, se mudam para uma mansão com um terrível segredo. Quando um espírito demoníaco possui a garota e ameaça destruir sua família, o Reverendo se vê forçado a confrontar suas crenças. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] The Arbors[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39AB856CF88620431F91037B283F0B659D406A11</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sqOzUdbCjWYeY1BmCC82zMNqR3V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gRtCnrhlo6sA9JotBr3HzHnyeRs.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A vida de Ethan dá uma reviravolta perturbadora depois de encontrar uma pequena criatura estranha e formar uma conexão misteriosa.
+[COLOR white][B] Gênero:  [COLOR lime]	Ficção / Suspense [/COLOR][/B]</info></item>pg 189
+##############################################################################################################
+<item><title>[B][COLOR white]O Setimo Dia [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0062DFC27947F75704226274C18CEC13BD8895D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2NBiv0mpQJppmm5U912XXnokjnN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pqktf3Ul7OaAIlUdEAb4BH1br7D.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um exorcista renomado que se junta a um padre novato em seu primeiro dia de treinamento. À medida que mergulham mais fundo no inferno na terra, as linhas entre o bem e o mal se confundem e seus próprios demônios surgem.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Toll [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17F30A183CE44B1FDA8E662BD9211F0D084E0EDD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4ZGCd0jz0F4rguSPKuFHpc1xhvg.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um motorista socialmente desajeitado e um passageiro cansado tentam chegar ao seu destino enquanto são perseguidos por uma ameaça sobrenatural.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Encontrando o Amor [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e55193030ca236d35170cd32682233a5a0d9713d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yv3cB3O13ivlT7eUB6rnN8yHKP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xKC6u2KjEF7hBLjh05a3bBZ9Dkl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O longa de comédia romântica acompanha a vida de Yura. A jovem perdeu a mãe, ainda quando tinha apenas dois anos de idade. Por isso, ela teve que viver a vida com sua madrasta, Indah Besari, que sempre tratou mal. Seu pai biológico, Gerry Hartono, é um músico que está com a carreira em declínio. Dessa maneira, sua madrasta tem que arcar com todas as necessidades econômicas da família. Por outro lado, Yura tem Nisa, um meio-irmão, o qual ela considera. Eles moram em uma casa simples. No entanto, o foco de Encontrando o amor fica na amizade que Yura tem como Oka e Christian, acabam fazendo com que ambos se apaixonem. De maneira brincalhona, mas falando sério, Oka diz que Christian deveria convidar Yura para namorar, embora Oka na verdade ame Yura por um longo tempo. Sabendo que Christian está desaparecido, Oka aceita a proposta de Yura para se casar com ela. Um triângulo amoroso pode surgir, com a possibilidade de muitas indecisões. 
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Romance[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Worth[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7A5D7F3CB9AD46CC951BBD3B67CBF452AC0F900</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1brDOGYaNFncyj4nCtiNHGNRlBf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uzrgrSXpJThTkMQ8ZoTpjzndtZ0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ricky, um dos principais competidores no Muay Thai Kickboxing, treina para o cinturão do título, o tempo todo lidando com novos relacionamentos, problemas de dinheiro e drama familiar. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / drama / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Genesis Code [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B34301D8E69BC201F837D23E3C69447983D43132</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xj7VuN5dRhWe7FaP3SLuZQSZR00.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xj7VuN5dRhWe7FaP3SLuZQSZR00.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] David Harris está à beira da loucura. Ele vê sua esposa morta, Abby, em todos os lugares: nos espelhos do banheiro, nos reflexos das janelas e até mesmo em seus sonhos. E agora ficou mais intenso. Abby está aparecendo diante de seus próprios olhos. Para complicar ainda mais a situação, David é o principal suspeito do assassinato de Abby e é acusado de ser responsável pelo misterioso desaparecimento do renomado cientista Charlie Miller. Com a evidência policial que aponta para ele, David foge. Sua inocência depende de estabelecer quem matou Abby e o que aconteceu com Charlie Miller. 
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Mistério / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Iron Girl Final Wars [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E64B3AB28F5B7C461DC0CDE30B451FB0FA2C77EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pVQBKL4tLblzukZgnuZAaGN14yz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9wjNaPviEX1X2tLzmYnXX88lM8y.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 20XX, o Japão está cheio de ciborgues. Humano desenvolveu a Inteligência Artificial JUDA para proteger a Terra. No entanto, o JUDA começou a atacar os humanos já que os humanos planejavam uma guerra nuclear e eles são o verdadeiro inimigo da Terra. A luta entre humanos e ciborgues arrasou o Japão. Uma empresa militar começou a desenvolver uma arma secreta. Antes de sua conclusão, a arma foi roubada. Se a arma for concluída, haverá uma guerra final. O Vigilante?Resistência? percebeu o perigo e se levantou. Enquanto isso, as pessoas foram transformadas em uma Arma do Assassinato após sua morte. Esses ciborgues incluem Chris havia perdido suas memórias. Um dia, Chris tem um encontro fatídico com uma garota misteriosa, Sara. No entanto, a misteriosa menina Sara foi a arma final SARA. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Infinitum - Assunto desconhecido [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0EDC84E3B606F514641B177C3B9B1459ED478B5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qrcqNcct1Y2bAUoVDQalMQZg29o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/34UJJp2BF7Ovdlmq3ZF4k65fwYv.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Jane acorda em um sótão estranho, em um mundo paralelo, aparentemente sem saída. Ela está presa em um loop temporal, destinada a reviver o mesmo dia repetidamente, com pouca memória de tê-lo feito antes. Mas com cada ‘reset’ ela começa a se lembrar mais e mais e começa a juntar as peças do que pode estar acontecendo com ela, com pistas apontando para o Professor Aaron Ostergaard. Ela segue seu caminho até o misterioso Wytness Quantum Research Center, administrado por Charles Marland-White, para tentar encontrar uma saída. 
+[COLOR white][B] Gênero:  [COLOR lime]Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Heiress [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:811785CF7D1193AAAB750B5D35400D7F32D866A8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49zpb5xvc3vB3oy3ZDF7O4hzlaP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/60lM0vQZdalDSvDdZnaplJGZy6v.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Clare e Anna são irmãs dedicadas que moram juntas. Clare sofre de convulsões e Anna cuida de Clare entre o tempo no trabalho e a visita ao namorado. No entanto, quando Clare começa a ter visões fantasmagóricas dentro da casa, Anna tem dificuldade em acreditar nela. Conforme as visões pioram, elas testam a sanidade de Clare, até que uma noite ela ataca Anna por engano - acreditando que ela seja um dos fantasmas. Clare está hospitalizada, mas as visões continuam a assombrá-la. Mas Clare nunca foi o verdadeiro alvo, os espectros estavam atrás de Anna e seu filho por nascer o tempo todo. Agora Clare deve descobrir como proteger sua irmã, enquanto está trancada em uma clínica psiquiátrica segura.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Garota Estranha [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e802814a885f8f6af5348711e40eeae32a4726cc</link>
+<thumbnail>https://abutretorrents.com/imagens/garota-estranha-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iQaFFd7jcmUN5sD4Oi43BQH7B3H.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Viúva logo após o casamento, uma jovem luta contra a incapacidade de sofrer, parentes peculiares e uma descoberta surpreendente sobre seu falecido marido
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hawk and Rev - Vampire Slayers [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EAA7ED5D97FD2256C3593C05B35CE3D518222E1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9PqIiBeQcS2HUsjfCVyuHC9ymtM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l4T23omUraHw0pK5axVCL1NC4ea.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Hawk não sonha apenas em matar vampiros ... Ele come, dorme e respira! Uma noite, eles aparecem em seu trabalho e, claro, ninguém acredita nele, exceto seu amigo Rev, um vegano pacifista estúpido. Juntos, eles unem forças para salvar sua cidade natal!
+[COLOR white][B] Gênero:  [COLOR limeComedia] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Stay [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3A790E3B94F14F60EACDEE4F6263465DAE7287B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a9qGrbwcNpfpZbwnKAZOVtj7Ixw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mjcVoumXgFid9NZFFFjQuT5erqU.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Dois casais alugam uma casa isolada para uma escapadela de fim de semana e encontram um estranho zelador enquanto enfrentam um segredo perigoso.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Sacrilege [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10732CBE9EBB5AC6C199873B3F631E240B7468EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eskH1oSrcKauYQKmU55h3dPFSO5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mQaH80P9ybXCLy5H7vLtxBuLxip.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quatro amigos de longa data vão para um alojamento remoto para um fim de semana de diversão. O que começa como um retiro idílico rapidamente se transforma em uma luta por suas vidas quando um culto pagão local os oferece à sua Deusa como um sacrifício pelo Solstício.
+[COLOR white][B] Gênero:  [COLOR lime] Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Phobias [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FB543FB6ABCE5A67615E08C753FEC0FB022081D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ejUdqkmzYXkdGPPo9i78vUFn9VZ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Cinco pacientes perigosos, que sofrem de fobias extremas em uma instalação de testes do governo, são submetidos ao teste final sob a supervisão de um médico louco e sua busca para transformar o medo em uma arma.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Deadly Radio Romance [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F8A03D60396C5FE3ED16EE17240997B4244171F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wx6LxcdOzARUb6tIGOELmTTLxDJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wx6LxcdOzARUb6tIGOELmTTLxDJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um DJ de rádio começa a questionar as intenções de seu ex quando de repente ele volta a entrar em sua vida no momento em que um misterioso perseguidor começa a atacá-la em seu programa de rádio. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Alegre - se [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8BE100E1667E4D0B4C490E3AE759F96434C611A4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uCV98jOIxwd0SMICfHFNcuo5CHS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yYWOJcYw15VaHCkY1z6TjtVzg2r.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma comédia romântica sombria. Tom e Janet são casados ​ há anos. Mas a visita de um estranho misterioso leva os dois a um cadáver, muitas perguntas e uma viagem tensa de casais com amigos que podem não ser amigos de verdade.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia /  Romance / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]American Liar [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:029C0293886DF355E2F565A13EB6D7927B8675BA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cRmYuV0VcrpTaS4AkX1l2NHvH99.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5Mt47HbJRGIfZO3KLqrQNldwCSP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após serem sequestrados, três adolescentes são trancados em quartos separados, onde são atormentados por uma voz misteriosa e monitorados por um homem mascarado que registra seus movimentos. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Noite de Reis [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EE51FCF9F333668288DAE60A5D7396C0F4E312F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dewj8UND9iugT3rAMlu36IOz4iq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1ehvfd0q1LBB2fRtg9vv575Tafk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um jovem é enviado para "La Maca", uma prisão da Costa do Marfim no meio de uma floresta governada por seus prisioneiros. Com a lua vermelha nascendo, ele é designado pelo chefe para ser o novo "romano" e deve contar uma história aos outros prisioneiros.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Em Torno do Sol [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07690DD603293FF8921BF0C2AAB4437D1AD43B14</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94TeQcKA5jWNfgLu0T1JqhswFSM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eRxR5MnEOQTdD3ymBlrYkY7DYKQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Visitando um château recuperado, um caçador de locações se apaixona por seu representante sedutor, que conta a história de um livro influente escrito lá. Mas a conexão no tempo presente é real ou apenas uma projeção dos personagens do livro do século 17 ?
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mãe e Filha [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79034DF98857B0B8456E9A48819221860061C999</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUcRAy9rgRRX4PxYVVdRMxH1er7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7av3NtQgXnz3NbpdCv5Ls03oNah.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Asia tornou-se mãe muito cedo, o que moldou o relacionamento complicado que tem com sua filha adolescente Vika. Apesar de viverem juntas, elas mal interagem uma com a outra. Asia se concentra em seu trabalho como enfermeira, enquanto Vika passa o tempo andando de skate com as amigas. Mas a rotina da mãe é abalada quando a saúde da filha se deteriora rapidamente. Agora, Asia precisa tomar coragem e se tornar a mãe de que Vika tanto precisa.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Ataque Do Dedo Gigante [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BFEAEB99EFE6A660F447872B0A56C72A23EDC381</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2UGkwXuj2btO8dk7ZI4vrn8uWW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aqd56AbcnRTSMk2iqFB5TN0UZIh.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nesta comédia de terror de ficção científica boba, seca e irônica, um dedo borrado gigante desce do espaço sideral e aterroriza uma mulher, interrompendo sua noite solitária em casa.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia / Ficção / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Exilio [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:693CA57FB1BDE832EE1A1391F079E1E9C66758E5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6A5wwu8wXstvf0I983wgJwJnzBY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qayYoiomdj0ojaa2WdBSNyxDtKY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um engenheiro químico de origem estrangeira se sente discriminado e intimidado no trabalho, e mergulha numa crise de identidade.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Luz Da Luz [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BAA77AEA98C8B3A045510EE484EB6618363618B4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fu9BsfaUtQKojvryp7eoRLO8nv8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h6d8q2b0fFEKwbl1OkB0X89pN2x.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Shelia, uma mãe solteira e investigadora paranormal, é alistada para investigar uma possível "assombração" na fazenda de um viúvo no leste do Tennessee.
+[COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]His Killer Fan [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BC1EE8B56B49F1DDA88D5FBC6B5B47F87F24953</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xY4iJzfV0Rr9gfvAMHD3F5QmFNb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vajwT7OTMgXrgTb1CsHmkwWJJ02.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem ciumenta trama um esquema tortuoso quando sua melhor amiga desenvolve um romance com um músico promissor.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Lucky - Uma Mulher de Sorte [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9959C703E777221D149867DBAB2EDA45AE8CA79C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLeg58YcLbJIDbLeEMYvQlcUmC6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kfRT9yXgIM37ZgdEg2gN1ONJ2Pm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma mulher luta para ser acreditada enquanto é perseguida por uma figura ameaçadora que retorna a sua casa noite após noite. Quando não consegue obter ajuda dos que a rodeiam, ela é forçada a tomar as coisas em suas próprias mãos.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Rams [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65C5987F2AB1626046E6CC35406C76D4A5D6061D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2WkyqJE2QiXkFPi8MZiYUiwbeL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/no0MSLdISIrcjC5BEZQ8ioXJxsl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na remota Austrália Ocidental, dois irmãos fazendeiros distantes, Colin e Les, estão em guerra. Mas quando o ram do prêmio les é diagnosticado com uma doença rara e letal, as autoridades ordenam o expurgo de todas as ovelhas do vale — então os irmãos devem trabalhar juntos para reunir sua família, salvar seu rebanho e reunir sua comunidade novamente.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Herdeiro [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3747EF3F376407064EF2E0B54E6B297EFF5D26E7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6QStvZ0RBahnz5YZ584yeZLb5x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bob2GmQY6gA9wrd6slZVnMNfFHp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando um menino contrai uma doença misteriosa, sua mãe deve decidir o quão longe ela irá para protegê-lo das forças terríveis de seu passado.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mães de Verdade [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:779924C9C92B005AFDA6F5075BF1F90FF48F52DA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17iON4r2gsn6QBriAvj5Nk8tIe2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7durQZKR3Vj8rOUq7ZX3zIqBnbB.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Kiyokazu Kurihara e Satoko são um casal que, no desejo de ter um filho, adota um bebê. Seis anos depois, enquanto vivem um feliz casamento, eles recebem uma ligação de uma mulher chamada Hikari Katakura, alegando ser a mãe biológica de Asato, o filho adotado do casal. Hikari diz querer seu filho de volta, chantageando a família com a pedida de uma alta quantia de dinheiro.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Estados Unidos Vs Billie Holiday [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1BDDC2E8CDF80C1D0CCC8C00BC0155A937657B8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2zMgNepldhcB2oMHZDJFhyiaqu2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uZy1hBh2v4NsKSjDO12RXkF3B1N.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A trama mostra a famosa cantora de jazz Billie Holiday (Andra Day) durante o auge de sua carreira. Então ela se torna alvo do Departamento Federal de Narcóticos em uma operação secreta liderada pelo Agente Federal negro Jimmy Fletcher (Trevante Rhodes), com quem ela teve um caso tumultuado no passado.
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Village in the Woods [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gNv20Mnfcku1qnN4q0d7ayNQafZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/20T3Yiej7vFTu8sceJo7VkmhqwW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Cada aldeia, cada pessoa, tem um segredo ... nada mais do que os habitantes desta aldeia isolada e sombria, cujo destino depende da sedução de dois peões desavisados ​​para satisfazer seu apetite e determinar seu ser. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Um Fascinante Novo Mundo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAFF41172F086445DAF3D3FB53FC6DDBC5E1A225</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/as59RjHMv1q92aiLgGYslB3pVJx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eIcMFyHJPydabnRfhw6MsSkTupe.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Duas mulheres estabelecem uma íntima conexão, no isolamento da fronteira americana do meio do século XIX. Em algum lugar ao longo da fronteira da costa leste americana em meados do século 19, dois casais vizinhos lutam contra as dificuldades e o isolamento, testemunhados por uma paisagem esplêndida, mas desafiadora, que os desafia tanto 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Veias do Mundo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52CF6BC647B73D32429EBC7C9A63EE6A37C89C7C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oWesd3r1QIdMHR5lktLzVo7hEpw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eOGANsdCovKDlHS35GI0Ud0Zgnb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Amra mora nas estepes da Mongólia. Ele tem uma vida comum para um menino de 11 anos: seu pai o leva para a escola todas as manhãs, ele cuida das ovelhas e cabras da família à tarde e sonha em participar de um popular show de talentos. Mas a infância do garoto é brutalmente interrompida quando seu pai morre em um acidente. Amra decide honrar o legado deixado a ele e assume a luta do pai, que enfrentava as empresas mineradoras que exploram a sua região. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Notturno [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED4CE00150AC291E3F24A0C2C265BC7E61F0F75A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUs5syG57q6BV2A7Sr4eBzL1pTr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pqNt028UkXCsfFue54zkR37xeKW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Filmado ao longo de três anos nas fronteiras entre Iraque, Curdistão, Síria e Líbano, Notturno relata as dificuldades diárias de quem tenta reconstruir suas vidas em meio aos efeitos devastadores das guerras civis, ditaduras, invasões estrangeiras e a presença mortal do grupo terrorista ISIS
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Seaspiracy: Mar Vermelho [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb04c4be73ef51e20ab920c36971103c7587dab5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4fr01lKMjStOo3VboaiGUFweVrx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/loVi2ifAvu38CwZvbr31n6RIQTT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Apaixonado pela vida nos oceanos, um cineasta resolve documentar os danos causados pelo ser humano às espécies marinhas e acaba descobrindo uma rede de corrupção global.
+[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Exodus[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86c6b26633134a809abe07552fa4f5b27f526291</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wL0F4SBJ2u3Jl6xG0V75wPT6trd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjhlYKlVWHPSMfAAqFBbCvFkJHz.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando uma fita VHS prova a existência de uma suposta entrada para o paraíso, um jovem abandona sua decadente cidade natal em busca da porta da salvação, fugindo de perseguidores vingativos ao longo do caminho.
+[COLOR white][B] Gênero:  [COLOR lime]Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Isolados: Medo Invisível [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a381baf3f896b3ff3b11a9ae3332fc58b3ae271</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/irojlZd3fTBWgiLyxS7zmElokH7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2XQPcgGMyw2qSssv3CsCaOP61l3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 2024, a mortalidade por coronavírus está em mais de 50% e os infectados são levados para campos de quarentena. Quando Sara suspeita ter sido contaminada por COVID-23, seu namorado, imune ao vírus, fará de tudo para evitar que ela seja presa ou algo pior.
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Ficção / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Monster Hunter[COLOR yellow]( C A M  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f24061fce9e2198671277b58b7f8108b66dc0d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Am1ipOQiOMrH55tCCT2ObNiF1rW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z8TvnEVRenMSTemxYZwLGqFofgF.jpg</fanart>
+<info>[B][COLOR yellow] Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência. [COLOR white][B] Gênero:  [COLOR lime] Aventura[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tem Algum Chorão Aí?[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9dc629363f0fe199812db260f81a17bafcb79d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mFP7XlZ3O1kH7bO5KK1lA43tIyW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/30Zull8rh9fOvf6zUlhWbDoZH30.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um homem nu e bêbado aparece em uma TV nacional ao vivo no meio de um festival sagrado de Namahage, onde homens vestidos com fantasias de ogro visitam casas para assustar as crianças a não fazerem coisas ruins no próximo ano. O homem, o jovem pai Tasuku, é condenado ao ostracismo por envergonhar a aldeia e sua tradição, foge sozinho para Tóquio. Depois de dois anos, ele volta para sua cidade natal para fazer as pazes com sua ex-esposa e sua filha pequena, mas a realidade o incomoda.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR whiteHospital [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d01be249d0fffd180ebc842813f23bba44254068</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w3gWxpVyybi93kz6acWgPSFhyiW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8EGWT5hRmfwEPrK8ZY78jYz4AXp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um hospital abandonado em Tainan, visitantes que buscam se comunicar com o espírito dos familiares são aterrorizados por eventos sobrenaturais perturbadores. 
+[COLOR white][B] Gênero:  [COLOR limeTerror [/COLOR][/B]</info></item>197
 ##############################################################################################################
 <item><title>[B][COLOR white] O Mestre do Yin Yang[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f25ed0e918088702d82df501c89cd553bc934c08</link>
