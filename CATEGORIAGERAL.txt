@@ -19,8 +19,9 @@
 <info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV , LISTAS IPTV, LINKS PODEM FICAR INSTÁVEIS[/COLOR][/B]</info>
 </channel>
 </channels>
+
 ###############################################################################################################################
-#
+
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE 2( iptv teste)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
