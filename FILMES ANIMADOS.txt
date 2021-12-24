@@ -1,3 +1,10 @@
+#############################################################################################################
+<item><title>[B][COLOR white]South Park Pós Covid  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CGHRLOA7FMP3YVFOAESMTDH4GIIQSVE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6fzWzx6hKZaJyd5crOIgdss2ylt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em South Park: Post Covid, encontraremos a resposta de um grande questionamento: "O que aconteceu com as crianças que sobreviveram à pandemia?". Stan, Kyle, Cartman e Kenny sobreviveram, mas não são mais os mesmos após a covid.
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Porta dos Fundos - Te Prego Lá [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25e2c1886c2e8d23650bbafe98d3437b16a8cd63</link>
@@ -5,6 +12,13 @@
 <fanart>https://www.themoviedb.org/t/p/original/cbwyxMrZhbUwdzPmc5hxa7TPvLP.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Todo mundo sabe que ser adolescente não é fácil, ainda mais quando se é um semideus com poderes ilimitados e correndo o risco de ser crucificado a qualquer momento, essa é a vida de Jesus Cristo em sua escola nova.
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]O Carneiro - O Filme - A Fazenda Contra-Ataca [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bc4f1b8e36c1389ad0a08da58bf766d7dcfabea</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Shaun e seu rebanho tentam ajudar uma adorável alienígena a voltar para seu planeta, mas eles precisam fugir de agentes do governo que estão atrás dela.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia  / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Agência Secreta de Controle de Magias [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6282d7829695a622608554c20360f2feb2a13f64</link>
@@ -284,10 +298,12 @@
 <info>Sinopse: [COLOR yellow][B]Em meio à agitação de uma cidade efervescente e multifacetada, dois sonhadores precisam encarar o dever e a e religião para viver um grande amor.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Romance [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Batman - O Longo Dia das Bruxas - Parte 01[COLOR yellow]( 1080p)[COLOR lime] AÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HUMBPEABT3YH2V3VWXPWIGMOZ5OLO5VN</link>
-<thumbnail>https://abutretorrents.com/imagens/batman-o-longo-dia-das-bruxas-parte-01-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Um assassinato brutal no Halloween leva o jovem vigilante de Gotham, o Batman, a formar um pacto com os dois únicos homens da lei não corruptos (o Capitão de Polícia James Gordan e o Promotor Distrital Harvey Dent), a fim de derrubar ‘The Roman’, chefe da notória e poderosa Família do Crime, Falcone. Mas quando mais mortes ocorrem no Dia de Ação de Graças e no Natal, fica claro que, em vez da violência comum de gangues, eles também estão lidando com um assassino em série cuja identidade, a cada pista conflitante fica mais difícil de discernir. Poucos casos testaram a inteligência do Maior Detetive do Mundo como o mistério por trás deste Assassino de Feriados [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Sociedade da Justiça - 2ª Guerra Mundial [COLOR yellow]( 1080p)[COLOR lime] AÇÃO[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB4RKVCOZAL26ETKAULAAKVDONQLPGY4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/haFimehtZoP6rSz53kEqXSKianS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8LHSDyRizQ4kQz5rEHPKyXPvMG3.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A viagem relaxante de Barry Allen para Metrópolis está prestes a dar errado. Enquanto corre para ajudar em uma luta inesperada, o Flash rompe as barreiras do tempo, e acaba parando no meio da Segunda Guerra Mundial. É lá que o Flash conhece a Mulher Maravilha e a equipe supersecreta dela, conhecida como Sociedade da Justiça da América. Testemunhe os rumos turbulentos da guerra, combates envolventes e a velocidade da honra enquanto o Flash luta para voltar ao seu próprio tempo!
+[COLOR white][B] Gênero :[COLOR lime]Ação  / Aventura / Fantasia / Ficção[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Caçadores de Trolls - A Ascensão dos Titãs[COLOR yellow]( 1080P)[COLOR lime]Animação / Aventura [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b6e507162e18835e5b82f456878b0014bb1cad</link>
