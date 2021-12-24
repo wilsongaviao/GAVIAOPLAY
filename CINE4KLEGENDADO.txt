@@ -114,11 +114,12 @@
 ##############################################################################################################
 <item><title>[B][COLOR white]Aqueles Que Me Desejam a Morte [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81214c19ef7147af85f2fbac4cebb949caba11eb</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gPFlBElSqV2cPPKivrMxVEcZxgT.jpg></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gPFlBElSqV2cPPKivrMxVEcZxgT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em Aqueles que me Desejam a Morte, Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então, precisa escapar dos assassinos que começam a caça-lo incessantemente. Ele encontra proteção com Hannah Faber (Angelina Jolie), uma bombeira traumatizada pelo fracasso de sua última missão. Os dois vão precisar lutar muito para sobreviver.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / SUSPENSE[/B][/COLOR] 
 [/COLOR][/B]</info></item>
+
 ##############################################################################################################
 <item><title>[B][COLOR white]Até a Morte [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12860ed8c6d6ba71e2366147024f380ad62b144a</link>
