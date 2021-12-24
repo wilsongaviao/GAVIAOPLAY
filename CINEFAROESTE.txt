@@ -252,11 +252,13 @@
 ##########################################################################################################
 <item><title>[COLOR white][B]À Procura da Vingança[COLOR yellow](2010)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeed9b75c070fd2f4cdf14e39d494e14e3ac6dd6</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DLOaSIovu5SMkA5fkzLfTXydTE.jpg</thumbnail><info>[B][COLOR yellow]Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon (Pierce Brosnan), o coronel Carver (Liam Neeson) parte em sua busca.[/COLOR][/B]</info></item>
+
 ##########################################################################################################
 <item><title>[B][COLOR white]Os Indomáveis[COLOR yellow](2009)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b259deea7fd35c88d233fd265196bcf50f98146</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6d791338cf3da9e085fde76cc67f9326b255988</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg</thumbnail><info>[B][COLOR yellow]Dan Evans (Christian Bale) é um jovem rancheiro, que enfrenta dificuldades financeiras e está prestes a perder as terras onde vive com sua família. Após realizar mais um assalto a diligência, o perigoso Ben Wade (Russell Crowe) segue para uma pequena cidade do velho oeste. Lá ele é preso e logo é organizado um grupo para levá-lo até uma cidade distante, onde poderá ser enviado à prisão de Yuma através de um trem. Evans se oferece para integrar o grupo, desde que receba uma recompensa financeira que resolva seus problemas. A proposta é aceita, mas fazer com que Wade embarque no trem não será uma tarefa fácil, já que os demais integrantes de seu bando estão vindo em seu resgate[/COLOR][/B]</info></item>
+
 ##########################################################################################################
 <item><title>[B][COLOR white]O Caminho do Guerreiro[COLOR yellow](2010)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:039950b0af187599bced5e6d74fa2345dc1ab88e</link>
