@@ -1,3 +1,10 @@
+#############################################################################################################
+<item><title>[B][COLOR white]Apresentando os Ricardos [COLOR yellow] ( 720p / 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85cb9b17e5d60af264c610ce8b34315475fde0c3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4wfA61Mi6E8GncUn8ze4w0jz0Za.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lucille Ball e Desi Arnaz se casaram em 1940 e viram sua fama decolar após estrearem uma das mais memoráveis sitcoms americanas chamada "I Love Lucy". Entretanto, quando tudo parecia estar indo bem, os dois são envolvidos em uma trama de acusações chocantes que ameaçam sua vida pessoal e profissional. Ao longo da semana mais tensa de gravações, o relacionamento complexo dos dois será posto à prova, enquanto algumas verdades vêm à tona.
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Noite Passada em Soho[COLOR yellow]( 4k )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eeecaba6013e71822541cb24493900395300a19$nome=[B] LINK 1 [COLOR yellow]4kp[/COLOR][/B]</link>
