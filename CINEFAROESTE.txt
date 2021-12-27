@@ -152,11 +152,25 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F655F454824C1F435EC9E2A1DCD3B5D6E0959501</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04B13BCD0CAA84EE932910F5DD8BE99A492FBCAB</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZOWoWHH8Ukwtxl6MASFtXfy84c.jpg</thumbnail><info>[B][COLOR yellow]Liz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas passa a ser perseguida por um padre (Guy Pearce). Diante dessa adversidade, Liz é uma verdadeira sobrevivente, que vai lutar para criar uma vida melhor para ela e sua filha. Custe o que custar, Liz fará de tudo para trazer retribuição.[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Billy The Kid - O Fora da Lei [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a91391a307d41b74bc331439d9424ac34374f081</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vlhQKwzEPoZC5cTfzLHrmKjbsk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qogeijTQKJB3XtopMolADVQcnBG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No Velho Oeste, Rio Cutler é um jovem garoto que mata o pai para proteger a mãe da violência dentro de casa. Quando seu tio Grant descobre, ele inicia uma violenta caçada pelo menino que foge com a irmã Sara. Logo, a dupla se vê em meio a um embate memorável entre o fora da lei Billy 'The Kid' e o xerife Pat Garrett, deixando tudo ainda mais caótico.
+[COLOR white][B] Gênero:  [COLOR lime]Ação  / Drama / Faroeste [/COLOR][/B]</info></item>
 ##########################################################################################################
 <item><title>[COLOR white][B]Sete Homens e Um Destino[COLOR yellow](2016)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AB103ADE05B1159CB93CB1983AAE8CA2A04582F</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1B9729D5563E412B5C74F6BF2C98C59A51E5D33</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg</thumbnail><info>[B][COLOR yellow]Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen deseja justiça e pede auxílio ao pistoleiro Sam Chisolm, que reúne um grupo de especialistas para contra-atacar os bandidos[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Potters Ground[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:473FAAAAA2778567ABEFBC5C5A83AD334867BF16</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vsw6fmSCjrQrnvAT3YMDjFuZvII.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8PvtGUos3jNUYUj56UdPsXFdTBf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um ex-saqueador confederado tenta começar do zero em uma fazenda de terra no Texas com sua esposa e filha. Ele aprende rapidamente que às vezes o passado simplesmente não fica enterrado. DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Suspense[/COLOR][/B]</info></item>
 ##########################################################################################################
 <item><title>[COLOR white][B]Em Busca Da Justiça[COLOR yellow](2016)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09B8F3B59EA98235E77ECC4C61D665DDCCC6D4EA</link>
@@ -177,6 +191,13 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D5F3589F4AC5EEC112AFA9CF16DDFF34913F8B7</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FECE4DAC3557DE936DE7380798090C8986331AB2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg</thumbnail><info>[B][COLOR yellow]Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald. Guiado pela força de vontade e pelo amor de sua família, Glass deve navegar um inverno brutal em uma incessante busca por sobrevivência e redenção.[/COLOR][/B]</info></item>
+##########################################################################################################
+<item><title>[COLOR white][B]Terra Dos Bravos [COLOR yellow]( 1080p )[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f99e361c90a16e24409310e582030071613ac167</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bvbgUujcz9UF1fBe31v755bOmFG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wHAFxti28GVWlSUrt97P2Y1j198.jpg</fanart>
+<info>[B][COLOR yellow]O detetive Matthias Breecher é contratado para rastrear o pior dos criminosos de guerra confederados. Enquanto ele percorre o Velho Oeste em busca de justiça, sua determinação é testada quando ele conhece uma pioneira mulher que é muito mais do que parece. 
+[COLOR white][B] Gênero : [COLOR lime]Ação / Aventura / Faroeste[/COLOR][/B]</info></item>
 ##########################################################################################################
 ]<item><title>[COLOR white][B]Um Refugio[COLOR yellow](2015)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DDD1B85F0C92AA5A1BF430D71B32F8A911771C8</link>
@@ -252,13 +273,11 @@
 ##########################################################################################################
 <item><title>[COLOR white][B]À Procura da Vingança[COLOR yellow](2010)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeed9b75c070fd2f4cdf14e39d494e14e3ac6dd6</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DLOaSIovu5SMkA5fkzLfTXydTE.jpg</thumbnail><info>[B][COLOR yellow]Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon (Pierce Brosnan), o coronel Carver (Liam Neeson) parte em sua busca.[/COLOR][/B]</info></item>
-
 ##########################################################################################################
 <item><title>[B][COLOR white]Os Indomáveis[COLOR yellow](2009)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b259deea7fd35c88d233fd265196bcf50f98146</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6d791338cf3da9e085fde76cc67f9326b255988</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg</thumbnail><info>[B][COLOR yellow]Dan Evans (Christian Bale) é um jovem rancheiro, que enfrenta dificuldades financeiras e está prestes a perder as terras onde vive com sua família. Após realizar mais um assalto a diligência, o perigoso Ben Wade (Russell Crowe) segue para uma pequena cidade do velho oeste. Lá ele é preso e logo é organizado um grupo para levá-lo até uma cidade distante, onde poderá ser enviado à prisão de Yuma através de um trem. Evans se oferece para integrar o grupo, desde que receba uma recompensa financeira que resolva seus problemas. A proposta é aceita, mas fazer com que Wade embarque no trem não será uma tarefa fácil, já que os demais integrantes de seu bando estão vindo em seu resgate[/COLOR][/B]</info></item>
-
 ##########################################################################################################
 <item><title>[B][COLOR white]O Caminho do Guerreiro[COLOR yellow](2010)[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:039950b0af187599bced5e6d74fa2345dc1ab88e</link>
