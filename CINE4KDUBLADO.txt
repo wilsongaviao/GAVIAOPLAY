@@ -1,6 +1,4 @@
 ##############################################################################################################
-
-
 <item><title>[B][COLOR white]Venom - Tempo de Carnificina [COLOR yellow]( 4K)[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33bf6d77f72d222a03bf1ea15ec80ed2b0c6b943</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
@@ -20,133 +18,116 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uh1xY834MyV0Dfr334CjS1vU76F.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Madison passa a ter sonhos aterrorizantes de pessoas sendo brutalmente assassinadas e acaba descobrindo que, na verdade, são visões dos crimes enquanto acontecem. Aos poucos, ela percebe que esses assassinatos estão conectados a uma entidade do seu passado chamada Gabriel. Para impedir a criatura, Madison precisará investigar de onde ela surgiu e enfrentar seus traumas de infância.
-[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / POLICIAL / TERROR  [/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / POLICIAL / TERROR  [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Velozes e Furiosos 9 [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBFA89AE2BE5EAD927BB7FA7224B7F5C7A473F90</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fWjcUTKOKsAPK4VUAzEQW4kN4K6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / POLICIAL  [/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / POLICIAL  [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Viúva Negra [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UWCGHN75PQZBBZDCGHWCT7MHBD5IOYX4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38SVfXq1O45HKQ2RFUPvECz8Pse.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7sHiTGLBxSQIeoWM3N0vMKhdw3B.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FICÇÃO  [/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FICÇÃO  [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Jungle Cruise [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PIQLMGIFGIHMO55K3SQ6OBTGKB6UB6FI</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UwGwHhRYVnI8bnEFNfu2kpVQkB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tbTjcH6l4SS6ccmdFsVDyKX2NZ9.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O destemido capitão Frank Wolff e a intrépida pesquisadora Lily Houghton se aventuram pela Amazônia a bordo da peculiar embarcação La Quila. Determinados a encontrar uma árvore cujos poderes de cura podem mudar o futuro da medicina, nem mesmo as águas perigosas e as forças sobrenaturais que enfrentam pelo caminho poderão detê-los. Mas os riscos aumentam ainda mais conforme os segredos da árvore se revelam, o destino de Lily e Frank e também de toda a humanidade está em jogo.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / COMÉDIA  [/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / COMÉDIA  [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Space Jam - Um Novo Legado [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KUGVZGQGPLDWODFFVLF4237ZTB3MQAVW</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kU0NbsUVoUMcYxoISmBCxFmgWYC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8s4h9friP6Ci3adRGahHARVd76E.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho. Em Space Jam: Um Novo Legado, a inteligência artificial, Al G (Dom Cheadle) sequestra o filho de Lebron James e envia o lendário jogador dos Los Angeles Lakers para uma realidade paralela, onde vivem apenas os personagens de desenho animado da Warner Bros. Para resgatar o seu filho, ele precisará vencer uma partida épica de basquete contra superversões digitais das maiores estrelas da história da NBA e da WNBA. Para essa dura missão, King James terá a ajuda de Pernalonga, Patolino, Lola Bunny, dentre outros personagens. 
-[COLOR white][B] Gênero:  [COLOR lime]ANIMAÇÃO / AVENTURA / COMÉDIA  [/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]ANIMAÇÃO / AVENTURA / COMÉDIA  [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Mortal Kombat [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a48d164f856298036dae1ea6108950532eb4d0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/71z7cXagPriquYJWDLIQ5WhElPV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hHF8FMuwUEkaklS7i3mpSBeSMOc.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O lutador de MMA Cole Young (Lewis Tan), acostumado a ser pago para perder lutas, não imagina que vem uma de linhagem rara — nem que esse é o motivo para ele estar sendo caçado por guerreiros de outro mundo enviados pelo Imperador Shang Tsung. Para proteger sua família, ele embarca numa violenta jornada onde treinará para enfrentar os maiores campeões de combate do universo. 
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA / FICÇÃO / SUSPENSE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA / FICÇÃO / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Invocação do Mal 3 - A Ordem do Demônio [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b95463cf2dc21a579eb91f8be95b9536363114a9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fUCP8rxYZHNdqmuzuHYabTl41M8.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Um dos casos mais sensacionais de seus arquivos começa com a luta pela alma de um garoto e depois os leva para além de qualquer coisa que já tenham visto. Esse caso marcou a primeira vez na história dos Estados Unidos em que um suspeito de assassinato alegou possessão demoníaca como defesa.
-[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / SUSPENSE / TERROR[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]MISTÉRIO / SUSPENSE / TERROR[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B]o[COLOR white]Kingsman - Serviço Secreto [COLOR yellow]( 2015 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B758659AB76B7E73658FEFDA7DC0EF841C438C5F</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wDhy1Ga9BoLwkHOI0jJISQem28v.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/phZkfrDQEoebigPSYnsBg7OF2qd.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Eggsy (Taron Egerton) é um jovem com problemas de disciplina que parece perto de se tornar um criminoso. Determinado dia, ele entra em contato com Harry (Colin Firth), que lhe apresenta à agência de espionagem Kingsman. O jovem se une a um time de recrutas em busca de uma vaga na agência. Ao mesmo tempo, Harry tenta impedir a ascensão do vilão Valentine (Samuel L. Jackson). Adaptação da série de quadrinhos criada por Mark Millar e Dave Gibbons.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / ESPIONAGEM / SUSPENSE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / ESPIONAGEM / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Harry Potter e o Cálice de Fogo [COLOR yellow]( 2005)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7005DE9ADA47E5334E631C21B85F8549DF2FE1F2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Versão que foi exibida nos cinemas totalmente em 4K. Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter (Daniel Radcliffe) é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort (Ralph Fiennes) ao término da Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar. 
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / FAMÍLIA / FANTASIA / MISTÉRIO[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / FAMÍLIA / FANTASIA / MISTÉRIO[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Godzilla 2 - Rei dos Monstros [COLOR yellow]( 2019 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241C0F27F2EADEC5A56C98310D91AEB182FC4B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dl7EuiY3cI5lfMMus3kU1vBttlI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xwZBmMUGr4A30TJAXDX2zLvNcON.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Membros da agência Monarch enfrentam monstros gigantescos, incluindo o poderoso Godzilla, que entra em choque com Mothra, Rodan e seu maior inimigo, King Ghidorah, o monstro de três cabeças. Essas antigas superespécies disputam a supremacia, deixando a própria existência da humanidade em risco.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA / FICÇÃO[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA / FICÇÃO[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]As Aventuras do Dr. Dolittle [COLOR yellow]( 2020 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea7433f9342e02645db557c1a2c9265c30ef3ef2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xcUf6yIheo78btFqihlRLftdR3M.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles diariamente. Quando a jovem rainha Victoria fica doente, o excêntrico médico e seus amigos peludos embarcam em uma aventura épica em uma ilha mítica para encontrar a cura.
-[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA / FAMÍLIA / FANTASIA[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA / FAMÍLIA / FANTASIA[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]1917 [COLOR yellow]( 2020 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31F581A4F6F95DE1B5DB3AF7C2F37A1C1FC6D3FB</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qi7PCLXNhHnJZBljI3xwF1G0g4i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.
-[COLOR white][B] Gênero:  [COLOR lime]DRAMA / GUERRA[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / GUERRA[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Robin Hood - A Origem [COLOR yellow]( 2019 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58F65238D3E28A117F7819ADE9F45261961CF9CF</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iHSmgYGHA9Z5p3CxjHE3D2NrDFC.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A origem da famosa lenda sobre o ladrão que rouba dos ricos para dar aos pobres é contada a partir de quando Robin Hood (Taron Egerton) volta das Cruzadas e surpreende-se ao encontrar a Floresta Sherwood infestada de criminosos. Ele não deixará que as coisas permaneçam desse jeito e contará com a ajuda de John (Jamie Foxx) e Marian (Eve Hewson) para trazer justiça à cidade.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / SUSPENSE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Rambo 4[COLOR yellow]( 2008)[/COLOR][/B]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dcmxK6Zx9PjINDPDKWI8b5H2L1T.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7082FFAE84D0E069D30A18BE061F93802B9F99F</link>
 <fanart>https://www.themoviedb.org/t/p/original/sKJJXjcLVAleeubBpJvtrnjSUJt.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]John Rambo leva uma vida simples e solitária. Até que surgem dois missionários que desejam levar alimentos e remédios às pessoas afetadas pela guerra civil na fronteira com a Birmânia. Rambo aceita a proposta de levá-los pelo rio. Mas 10 dias depois os missionários foram capturados. Agora Rambo deve participar da operação de resgate.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Godzilla vs. Kong [COLOR yellow]( 2021 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33396bcce244a06d3e6328e94a3ccb6d46b63aab</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iopYFB1b6Bh7FWZh3onQhph1sih.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / FICÇÃO / SUSPENSE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / FICÇÃO / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Mulher-Maravilha 1984 [COLOR yellow]( 2020 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42eb1c513fde6c74d0b42d388e95ab8e1e15d31</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1FM0GRbayYWbrXsXET11Z7wiSZO.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FANTASIA[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]O Silêncio dos Inocentes [COLOR yellow]( 1991 )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08F14C9AF2A2E9B63DADBC23DC314AE1587DEA95</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pI9B4wppGflpsOD2T6rxgC5Clmz.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Clarice Starling, uma das melhores estudantes da academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento, que cumpre prisão perpétua por vários atos de assassinato e canibalismo. Crawford acredita que Lecter pode ter uma visão em um caso e que Starling, como uma mulher jovem e atraente, pode ser a isca para atraí-lo.
-[COLOR white][B] Gênero:  [COLOR lime]DRAMA / POLICIAL / SUSPENSE[/B][/COLOR] 
-[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / POLICIAL / SUSPENSE[/COLOR][/B]</info></item>
