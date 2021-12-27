@@ -27,6 +27,13 @@
 <info>Sinopse: [COLOR yellow][B]Em O Poderoso Chefinho 2 acompanha novamente os irmãos Tim e Ted, agora adultos e vivendo vidas separadas. Enquanto Tim construiu uma vida calma no subúrbio com sua esposa, Carol, e as filhas, Tabitha e Tina, Ted se transformou em um mega empresário que resolve todos os problemas com dinheiro. Mas quando Tim descobre que sua filha caçula também é agente do BabyCorp, ele precisará da ajuda do irmão mais novo para lidar com a situação.
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white] Pretty Guardian Sailor Moon Eternal - O Filme[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J56KZIZWJPCR4K4HLUFQWUEDXPBIUO44</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wcMrvKvvwrsJaNtraMUUb7q0yE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3FvokGWH2yMz4CbjpcHPFYBP8qb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A nova aventura acontece em abril, quando as cerejeiras florescem e Tóquio está em festa, celebrando o maior eclipse solar do século. A lua nova começa a tapar o sol, reduzindo gradualmente sua luz. Usagi e Chibi-Usa encontram Pegasus, que procura a donzela escolhida, capaz de romper o selo do Cristal Dourado. Enquanto isso, um misterioso grupo chamado Dead Moon Circus aparece na cidade, com o plano nefasto de espalhar pesadelos conhecidos como Lemures pelo mundo para roubar o domínio do Cristal de Prata sobre a lua e a Terra e, por fim, conquistar o universo todo.
+[COLOR white][B] Gênero:  [COLOR lime] Ação /  Aventura / Comédia / Drama /  Romance [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Raya e o Último Dragão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJFBKQJXM3K4BP7APKMZ7JTNMDS32GBB</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
