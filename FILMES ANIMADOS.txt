@@ -6,6 +6,13 @@
 <info>Sinopse: [COLOR yellow][B]Em South Park: Post Covid, encontraremos a resposta de um grande questionamento: "O que aconteceu com as crianças que sobreviveram à pandemia?". Stan, Kyle, Cartman e Kenny sobreviveram, mas não são mais os mesmos após a covid.
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white] Juntos Novamente[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db5f6127390c9fddb753158b3920d089233cfe57</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auQ1qgmJF3yry56cLJBKw4xv43t.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mtiV9I1OswrwfMT2yWa3HRDgQXP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em uma cidade vibrante, pulsando com ritmo e movimento, um homem idoso e sua esposa de espírito jovem reacendem sua paixão juvenil pela vida e um pelo outro em uma noite mágica. Os anos passam à medida que a alegria de dançar os impulsiona pela emocionante paisagem urbana de sua juventude, revivendo boas lembranças.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] Porta dos Fundos - Te Prego Lá [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25e2c1886c2e8d23650bbafe98d3437b16a8cd63</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k06TIjqtbwplF2Q0EIHT229qUvC.jpg</thumbnail>
@@ -19,6 +26,13 @@
 <fanart>https://www.themoviedb.org/t/p/original/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Shaun e seu rebanho tentam ajudar uma adorável alienígena a voltar para seu planeta, mas eles precisam fugir de agentes do governo que estão atrás dela.
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia  / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Família Mitchell e a Revolta das Máquinas [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6341c28f3fc4fbe30544c30f8736d5e79455458</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1p10mLm1uM1jqR7RlzB0SalD00.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1p10mLm1uM1jqR7RlzB0SalD00.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Katie Mitchell é aceita na faculdade de cinema dos seus sonhos e seu pai decide aproveitar para realizar uma viagem em família para levá-la à universidade. Porém, seus planos são interrompidos por uma revolução robótica e agora os Mitchells terão que unir forças em família para trabalhar juntos para salvar o mundo.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Agência Secreta de Controle de Magias [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6282d7829695a622608554c20360f2feb2a13f64</link>
