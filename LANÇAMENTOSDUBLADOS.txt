@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Ghostland - Terra Sem Lei  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5LXBWUVVJBU4B5DFKRKBBAFEQ6MG7WIH</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBNVjog86fRYEnjwl4yRbIoXUxC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aSgFDRnfppKxRGZE8BWOfgzAR3k.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na traiçoeira cidade fronteiriça de Samurai Town, um implacável ladrão de banco foi libertado da prisão pelo rico senhor da guerra O Governador, cuja neta adotiva Bernice está desaparecida. O governador oferece ao prisioneiro sua liberdade em troca de resgatar o fugitivo. Amarrado em um terno de couro que se autodestruirá em cinco dias, o bandido sai em uma jornada para encontrar a jovem – e seu próprio caminho para a redenção.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Ficção / Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Victoria e Mistério [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H6I4NFRIRAQ7BDC6XOTCWJWQL3IA6MIO</link>
