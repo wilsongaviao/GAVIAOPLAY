@@ -1,10 +1,81 @@
+
 ##############################################################################################################
-<item><title>[B][COLOR white] Major Grom Contra o Dr. Peste[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c701b09ac9ca6c731de4be702688d63c7cff7f93</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rShV4uPtjxy3T9OmblG1APJHGIj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/p42K2nYaXJ1xQDN9pxgSwglZguf.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Um assassino mascarado aterroriza a cidade. Agora um detetive rebelde e seu parceiro novato são os únicos que podem resolver o problema.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Hydra Mutante [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C94AD2962E8AD8A8660882F2B61CD421840D2001</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pzFUwwRB0ElKWhdGDQXHFnibuGR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pzFUwwRB0ElKWhdGDQXHFnibuGR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O jovem cientista Bai Jingtian está procurando uma hidra assassina, conduzindo um grupo de pessoas para a vasta selva montanhosa. Ele pensou que era apenas uma expedição científica comum. Inesperadamente, um perigo após o outro segue: "sombra fantasma" bloqueando estradas, monstros em fúria e corações imprevisíveis das pessoas.(DUBLAGEM NÃO OFICIAL) 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Zona 414 [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RPONBK5IO7ZQASHETHTSMFHZI7F6N7PC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gxr3YtExqUPCJCj9GL1FXNcX9Fl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um futuro próximo numa colônia de robôs humanóides de última geração, a filha do seu criador desaparece, ele contrata o investigador particular David Carmichael, para trazê-la para casa. David se junta a Jane, uma IA altamente avançada e autoconsciente, para rastrear a filha desaparecida. Atravessando a perigosa selva de ferro, eles rapidamente juntam o mistério, descobrindo um crime que os leva a questionar as origens da Zona 414 e o verdadeiro propósito por trás da “Cidade dos Robôs”. 
+[COLOR white][B] Gênero:  [COLOR lime] Ficção / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Separação [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MXP34XEBP6V4LWMUUUGP2MKFD2DRVXET</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHbSC2Np17CRsRXIbaE0YY1Hora.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n9Z0uiorAvtZp0CmNRFlw78jw1E.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após a morte acidental da mãe durante o processo de divórcio, a vida da pequena Jenny (Violet McGraw) fica mais complicada do que nunca. Com o avô tentando conseguir a custódia única do seu pai (Rupert Friend) e sua babá se tornando cada vez mais presente como a mulher da casa, logo uma presença maligna se aproveita da desunião para se apresentar pra garota. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] A Filha Perdida[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W7V6STVBQTHZSW7E6DE4Z6XI4N6TBTI6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dT4BGGOpMsUgAnKnTT4KHDDklVt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Leda, uma elegante professora universitária, em suas férias de verão à beira-mar, fica impressionada com suas próprias memórias do terror, confusão e intensidade da maternidade precoce. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Shiny_Flakes - Drogas Online [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLXZBHVCP3A36MAN7NIVWRZ7JIE3IWQX</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A90byJpjV0DvuozHQAxE5lZgd8D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mzVVATRp3FNFYij6TQ1595wq6BJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Max S. conta como comandou um império de drogas de dentro de seu quarto nesta história que inspirou a série "Como Vender Drogas Online (Rápido)".
+[COLOR white][B] Gênero:  [COLOR lime]	Biografia / Documentário [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Os Renegados[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>143
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0E6B7923B39DE98E84BA5D2A6436E0438661E73</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vrYpppKn5UimPMwsuL8cM2aoFXL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iThAJRTmWByFc1qHZC352mt8Zon.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de ser recrutado por um grupo de ladrões não convencionais, o renomado criminoso Richard Pace se vê envolvido em um elaborado assalto a ouro, que promete ter implicações de longo alcance em sua vida e na vida de inúmeras outras pessoas.DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dupla Explosiva 2 - E a Primeira-Dama do Crime [COLOR yellow] ( 1080p )[COLOR crimson] NEW[COLOR crimson] NEW[[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D264690977BBC204986585A738EA34C3BD076890</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5GScRLhDfCYaC6RJCmyzPb3m5ne.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tsQlkxwErO4p0bAGY2zYLuoqwYs.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O casal estranho mais letal do mundo – o guarda-costas Michael Bryce e o assassino de aluguel Darius Kincaid – está de volta em outra missão com risco de vida. Ainda sem licença e sob escrutínio, Bryce é forçado a entrar em ação pela esposa ainda mais volátil de Darius, a infame vigarista internacional Sonia Kincaid. Enquanto Bryce é levado ao limite por seus dois protegidos mais perigosos, o trio se mete em uma trama global e logo descobre que eles são tudo o que se interpõe entre a Europa e um louco vingativo e poderoso.DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime] 	Ação / Comédia / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Saltwater - A Batalha pela Ilha Ramree  [COLOR yellow] ( 1080p [COLOR crimson] NEW[)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:862AD9607ED03B1999A6849625E1C68654D310EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oET7xoEmZQfwvsQDCr33JTGXwFA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBzZ9UObvREIeP2mbstll7sYWs3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Durante os últimos meses desesperados da Segunda Guerra Mundial, uma missão aliada para recuperar a Ilha Ramree na costa da Birmânia termina em horror quando um grupo de soldados em apuros se vê preso em um pântano denso infestado de crocodilos de água salgada mortais. À medida que os homens são apanhados um a um pelos répteis famintos, os que permanecem recorrem a medidas cada vez mais desesperadas para sobreviver ao ataque da carnificina e sair da ilha com vida. DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime] Ação[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Viagem para Chimera [COLOR yellow] ( 1080p )[COLOR crimson] NEW[[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD427EBCAC1B0DFDF80D4AFFB6CAE043C7AAC322</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y1VwUSkisaVtht3Eb0NEHsqA06L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ta3OPC5YBGn9cB9htsN3Hm7HEVA.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um jovem aristocrata civil sem nenhuma experiência militar prática deve liderar sua tripulação de baixo custo em uma missão perigosa e superar sua juventude, inexperiência e auto-dúvida neste drama de ficção científica com micro orçamento. DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime] Ficção[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Zooey [COLOR yellow] ( 1080p )[COLOR crimson] NEW[[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E42A14D3041936E7DBA3B30F26C8927AF962FEC9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/81yHuQDqXdeYfpi04RlAJPCe9K6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/81yHuQDqXdeYfpi04RlAJPCe9K6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando um menino, Noah, conhece Zooey, uma menina que mora em um motel. eles formam um vínculo inquebrável. Logo depois Noah descobre um segredo sobre ela que muda o curso de seu verão para sempre. DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime] 	Comédia / Drama / Ficção[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Attraction to Paris[COLOR yellow] ( 1080p )[COLOR crimson] NEW[[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F74B5B69DBD65CA8ACFE1598730F1734D021438</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3yA3JhP78YQRQpXcEAaTzkxONdM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/92tYlg3FwKZQPWgr0DmlGQ8Giar.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma universitária, estudando no exterior na Europa, tropeça em um assassinato em andamento, orquestrado por uma célula terrorista, colocando sua vida em perigo como testemunha principal. DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Suspense[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Ghostland - Terra Sem Lei  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5LXBWUVVJBU4B5DFKRKBBAFEQ6MG7WIH</link>
@@ -12,6 +83,13 @@
 <fanart>https://www.themoviedb.org/t/p/original/aSgFDRnfppKxRGZE8BWOfgzAR3k.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Na traiçoeira cidade fronteiriça de Samurai Town, um implacável ladrão de banco foi libertado da prisão pelo rico senhor da guerra O Governador, cuja neta adotiva Bernice está desaparecida. O governador oferece ao prisioneiro sua liberdade em troca de resgatar o fugitivo. Amarrado em um terno de couro que se autodestruirá em cinco dias, o bandido sai em uma jornada para encontrar a jovem – e seu próprio caminho para a redenção.
 [COLOR white][B] Gênero:  [COLOR lime]	Ação / Ficção / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] O Brilho do Natal [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ee90110e61f462a8bb4e827aceca5d3c2f2bc7e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jtOiJhfLsCI7iGnYrV98PItcq1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iz5GOzBYYsOGmoPeTFoOHicxSUL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Emma retorna à sua cidade para o Natal e descobre que as luzes do lugar outrora festivo foram apagadas. Ela decide se reconectar com um antigo amor para iluminar seus corações e colocar a cidade em chamas novamente.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Victoria e Mistério [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H6I4NFRIRAQ7BDC6XOTCWJWQL3IA6MIO</link>
