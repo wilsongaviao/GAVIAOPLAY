@@ -10,8 +10,7 @@
 </channels>
 
 ###############################################################################################################################
-<channels>
-<channel>
+
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE( iptv teste)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TV%20ON%20LINE(IPTV)</externallink>
@@ -22,8 +21,7 @@
 
 ###############################################################################################################################
 
-<channels>
-<channel>
+
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE 2( iptv teste)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
 <externallink>http://abre.ai/canalsensei58</externallink>
@@ -31,6 +29,8 @@
 <info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV , LISTAS IPTV, LINKS PODEM FICAR INSTÁVEIS[/COLOR][/B]</info>
 </channel>
 </channels>
+
+###############################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAL RICOS[COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -193,11 +193,11 @@
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/hj3VxPkW/LAN-AMENTOS.jpg</thumbnail>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2021[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/VkjfKX8P/FANARTFILMES2021.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIALAN%C3%87AMENTOS.txt</externallink>
 <fanart>https://i.postimg.cc/dtw7RyHW/fanartlan-amentos.jpg</fanart>
-<info>[B][COLOR yellow]COLET NEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+<info>[B][COLOR yellow]COLETANEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 ###########################################################################################################################
 <channels>
 <channel>
