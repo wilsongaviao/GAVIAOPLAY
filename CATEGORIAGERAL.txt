@@ -193,11 +193,19 @@
 ###############################################################################################################################
 <channels>
 <channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2022[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[B][COLOR yellow]COLETANEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+###############################################################################################################################
+<channels>
+<channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2021[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/VkjfKX8P/FANARTFILMES2021.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIALAN%C3%87AMENTOS.txt</externallink>
 <fanart>https://i.postimg.cc/dtw7RyHW/fanartlan-amentos.jpg</fanart>
-<info>[B][COLOR yellow]COLETANEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+<info>[B][COLOR yellow]COLETANEA COM OS MELHORES LANÇADOSEM 2021,EM TODOS OS GENEROS, QUE ESTIVERAM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 ###########################################################################################################################
 <channels>
 <channel>
