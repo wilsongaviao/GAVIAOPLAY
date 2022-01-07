@@ -8,6 +8,26 @@
 <info>[B][COLOR yellow]COLETANEA DE FILMES DISPONIVEIS EM ULTRA HD ENCONTRADAS ESTARÃO AQUI[/COLOR][/B]</info></item>
 </channels>
 </channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ANIMAÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/CKH05H6s/CINEANIMACAO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINEANIMA%C3%87%C3%83O.txt</externallink>
+<fanart>https://i.postimg.cc/sX0Kwz68/fanartcineanimacao.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEAS COM SUCESSOS DE FILMES E SÉRIES EM ANIMAÇÃO E DESENHOS[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE BRASIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/mrWGMtcp/CINEBRASIL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20BRASIL</externallink>
+<fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
+<info>[B][COLOR yellow]cOLETANEA COM VARIOS FILMES NACIONAIS,DE TODOS OS GENEROS E ANOS, SERÃO ADICIONADOS AQUI.SE VC NÃO ENCONTRAR ALGUM DE SEU INTERESSE FAVOR ENTRAR EM CONTATO.[/COLOR][/B]</info></item>
+</channels>
+</channel>
 ###############################################################################################################################
 <channels>
 <channel>
@@ -51,11 +71,31 @@
 ###############################################################################################################################
 <channels>
 <channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/Jzj7SNWY/CINEFLASHBACK.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINEFLASHBACK.txt</externallink>
+<fanart>https://i.postimg.cc/bJy0FBL5/fanartcineflashback.jpg</fanart>
+<info>[B][COLOR yellow] OS GRANDES SUCESSOS DE BILHETERIA E PUBLICO DO PASSADO ESTARÃO AQUI NAS SUAS CATEGORIAS, FAÇA O PEDIDO SE O DE SEU GOSTO NÃO SE ENCOTRAR POSTADO.[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE MARVEL'S[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/y8nRwCKb/CINEMARVELS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEMARVELS.txt</externallink>
 <fanart>https://i.postimg.cc/PJBwh3zT/fanartcinemarvels.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEA COM OS FILMES PRODUZIDOS PELO ESTUDIO MARVEL'S ESTARÃO ADICIONADOS AQUI.[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/4NXLRZt6/CINEONLINE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20ON%20LINE.txt</externallink>
+<fanart>https://i.postimg.cc/tRfPhJ0w/fanartcineonline.jpg</fanart>
+<info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA A PARTIR DE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
@@ -81,10 +121,10 @@
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE LINK DIRETO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/50xkX8XK/CINELINKDIRETO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINELINKDIRETO.txt</externallink>
-<fanart>https://i.postimg.cc/8cYyX3tx/FANART-LINK-DIRETO.jpg</fanart>
-<info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,COLETANEA COM VARIOS FILMES DE SUCESSOS, OBS: SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/RCTNJKj0/top-cine.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20TOP%20CINE.txt</externallink>
+<fanart>https://i.postimg.cc/bJNZNv3J/fanart-top-cine.jpg</fanart>
+<info>[B][COLOR yellow]O MELHOR DO CINEMA EM TORRENTS EM SUAS CATEGORIAS ENCONTRADOS ESTARAO AQUI, SE FALTAR O DO SEU GOSTO ENTRE EM CONTATO E FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
 </channel>
