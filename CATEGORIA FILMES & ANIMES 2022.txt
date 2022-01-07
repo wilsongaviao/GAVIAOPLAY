@@ -1,17 +1,8 @@
+
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]FILMES & ANIMES 2022 NACIONAIS [COLOR white][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/htvpHfYw/FILMESANIMESNACIONAL2022.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FILMES%20%26%20ANIMES%202022%20NACIONAIS</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow]TODOS OS LANÇAMENTOS NACIONAIS DISPONIVEIS ESTARAO AQUI SEJAM ELES FILMES OU ANIMADOS  [/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]FILMES & ANIMES 2022 DUBLADOS [COLOR white][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]FILMES & ANIMES 2022 [COLOR blue]( DUBLADOS ) [COLOR white][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/HspS9S9T/FILMESANIMESDUBLADOS2022.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FILMES%20%26%20ANIMES%202022%20DUBLADOS</externallink>
 <fanart>https://i.postimg.cc/d10JQXTJ/FANARTFILMES2022-DUBLADO.jpg</fanart>
@@ -21,7 +12,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES & ANIMES 2022 LEGENDADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]FILMES & ANIMES 2022[COLOR blue]  ( LEGENDADOS )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/bN3mCQmk/FILMESANIMESLEGENDADOS2022.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FILMES%20%26%20ANIMES%202022%20LEGENDADOS</externallink>
 <fanart>https://i.postimg.cc/Jzw73PSQ/FANARTFILMES2022-LEGENDADO.jpg</fanart>
