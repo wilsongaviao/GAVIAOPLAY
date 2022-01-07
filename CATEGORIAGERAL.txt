@@ -8,28 +8,6 @@
 <info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
 </channel>
 </channels>
-
-###############################################################################################################################
-
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE( iptv teste)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TV%20ON%20LINE(IPTV)</externallink>
-<fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
-<info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV , LISTAS IPTV, LINKS PODEM FICAR INSTÁVEIS[/COLOR][/B]</info>
-</channel>
-</channels>
-
-###############################################################################################################################
-
-
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE 2( iptv teste)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
-<externallink>http://abre.ai/canalsensei58</externallink>
-<fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
-<info>[B][COLOR yellow]RELAÇÃO DE CANAIS DE TV , LISTAS IPTV, LINKS PODEM FICAR INSTÁVEIS[/COLOR][/B]</info>
-</channel>
-</channels>
-
 ###############################################################################################################################
 <channels>
 <channel>
@@ -68,7 +46,17 @@
 <thumbnail>https://i.postimg.cc/TYRt1B5r/CINEBRASIL2022.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINE%20BRASIL%202022</externallink>
 <fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
-<info>[B][COLOR yellow]SELEÇÃO DE FILMES NACIONAIS DE TODOS OS GENEROS[/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]COLETANEA DE FILMES NACIONAIS DE TODOS OS GENEROS,LANÇADOS EM 2022, QUE ESTIVEREM AO NOSSO ALCANCE SERAO ADICIONADAS AQUI[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE BRASIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/HkXMSJnt/CINE-BRASIL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEBRASIL</externallink>
+<fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
+<info>[B][COLOR yellow]cOLETANEA DE FILMES NACIONAIS DE 2021, DE TODOS OS GENEROS, VOCES ENCONTRARÃO AQUI.SE VC NÃO ENCONTRAR ALGUM DE SEU INTERESSE FAVOR ENTRAR EM CONTATO.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###############################################################################################################################
