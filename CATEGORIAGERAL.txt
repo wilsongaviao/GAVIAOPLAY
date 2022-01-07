@@ -18,37 +18,6 @@
 <info>[B][COLOR yellow]PROGRAMAÇÃO CANAL RICOS DO AMIGO E PARCEIRO JULIO[/COLOR][/B]</info>
 </channels>
 </channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ANIMAÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/CKH05H6s/CINEANIMACAO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINEANIMA%C3%87%C3%83O.txt</externallink>
-<fanart>https://i.postimg.cc/sX0Kwz68/fanartcineanimacao.jpg</fanart>
-<info>[B][COLOR yellow]COLETÂNEAS COM SUCESSOS DE FILMES E SÉRIES EM ANIMAÇÃO E DESENHOS[/COLOR][/B]</info></item>
-</channels>
-</channel>
-
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE BRASIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/mrWGMtcp/CINEBRASIL.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20BRASIL</externallink>
-<fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
-<info>[B][COLOR yellow]cOLETANEA COM VARIOS FILMES NACIONAIS,DE TODOS OS GENEROS E ANOS, SERÃO ADICIONADOS AQUI.SE VC NÃO ENCONTRAR ALGUM DE SEU INTERESSE FAVOR ENTRAR EM CONTATO.[/COLOR][/B]</info></item>
-</channels>
-</channel>
-###############################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/Jzj7SNWY/CINEFLASHBACK.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINEFLASHBACK.txt</externallink>
-<fanart>https://i.postimg.cc/bJy0FBL5/fanartcineflashback.jpg</fanart>
-<info>[B][COLOR yellow] OS GRANDES SUCESSOS DE BILHETERIA E PUBLICO DO PASSADO ESTARÃO AQUI NAS SUAS CATEGORIAS, FAÇA O PEDIDO SE O DE SEU GOSTO NÃO SE ENCOTRAR POSTADO.[/COLOR][/B]</info>
-</channels>
-</channel>
 ###############################################################################################################################
 <channels>
 <channel>
@@ -56,17 +25,7 @@
 <thumbnail>https://i.postimg.cc/VkpYD1N2/CINEMATECADOGAVIAO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINEMATECA</externallink>
 <fanart>https://i.postimg.cc/fbc6mhSc/FANARTCINEMATECADOGAVIAO.jpg</fanart>
-<info>[B][COLOR yellow]COLETÂNEA COM VARIAS ABAS DE FILMES : FILMES EM ULTRA HD( 4K );FILMES DE TERROR ;FILMES SOBRE CATASTROFES ; FILMES RELIGIOSOS ; FILMES EPICOS ; FILMES DE FAROESTE ; FILMES DA MARVEL'S E ALGUNS FILMES DE LINKS DIRETOS EM CARATER EXPERIMENTAL.[/COLOR][/B]</info>
-</channels>
-</channel>
-###############################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/4NXLRZt6/CINEONLINE.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20ON%20LINE.txt</externallink>
-<fanart>https://i.postimg.cc/tRfPhJ0w/fanartcineonline.jpg</fanart>
-<info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA A PARTIR DE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+<info>[B][COLOR yellow]COLETÂNEA COM VARIAS ABAS DE FILMES : FILMES EM ULTRA HD( 4K );FILMES DE TERROR ;FILMES SOBRE CATASTROFES ; FILMES RELIGIOSOS ; FILMES EPICOS ; FILMES DE FAROESTE ; FILMES DA MARVEL'S ; CINE FLASHBACK COM FILMES DA DECADA DE 60,70 e 80 ; CINE ON LINE COM FILMES DA DE 2010 ATE 2020 GRANDES SUCESSOS DO CINEMA MUNDIAL TODOS SEPARADOS POR SUAS CATEGORIAS  E TOP CINE COM SUCESSOS DO CINEMA INTERNACIONAL DESDE 2010 SEPARADOS EM SUAS CATEGORIAS.[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
@@ -133,16 +92,6 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIES.txt</externallink>
 <fanart>https://i.postimg.cc/TwF576J3/series.jpg</fanart>
 <info>[B][COLOR yellow]AS MELHORES SERIES NACIONAIS E INTERNACIONAIS, ATUAIS E ANTIGAS ESTARÃO AQUI[/COLOR][/B]</info>
-</channels>
-</channel>
-###############################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/RCTNJKj0/top-cine.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20TOP%20CINE.txt</externallink>
-<fanart>https://i.postimg.cc/bJNZNv3J/fanart-top-cine.jpg</fanart>
-<info>[B][COLOR yellow]O MELHOR DO CINEMA EM TORRENTS EM SUAS CATEGORIAS ENCONTRADOS ESTARAO AQUI, SE FALTAR O DO SEU GOSTO ENTRE EM CONTATO E FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
