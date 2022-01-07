@@ -1,0 +1,90 @@
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE 4K[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/PrFMLSYg/CINE4K.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINE4K.txt</externallink>
+<fanart>https://i.postimg.cc/Y9XrrBgL/FANARTCINE4-KL.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA DE FILMES DISPONIVEIS EM ULTRA HD ENCONTRADAS ESTARÃO AQUI[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE CATÁSTROFES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/wvJ95wPq/CINECATASTROFES.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINECATASTROFE.txt</externallink>
+<fanart>https://i.postimg.cc/GpJJKCPY/fanartcinecatastrofes.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEA COM SUCESSOS DO CINEMA INTERNACIONAL RELACIONADOS A CATASTROFES NATURAIS, FISICA E ESPACIAIS SERAO ADICIONADOS AQUI., SE FALTAR A DE SEU GOSTO E SO PEDIR E SERÁ ADICIONADO ASSIM QUE FOR ENCONTRADO[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MZ7WvrVt/CINECOLLECTIONS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20COLLECTION.txt</externallink>
+<fanart>https://i.postimg.cc/1tv0xrj3/fanartcinecollections.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEA COM AS MELHORES COLEÇÕES E FRANQUIAS DE FILMES ESTARÃO AQUI,SE FALTAR A QUE VC GOSTE E SO FAZER O PEDIDO E SERA ADICIONADO LOGO QUE FOR ENCONTRADA[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channels>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ÉPICO [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/44Vq3M05/CINEEPICO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEEPICO.txt</externallink>
+<fanart>https://i.postimg.cc/xC7mDX0f/FANARTCINEEPICO.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA COM SUCESSOS DE FILMES HISTÓRICOS.ÉPICOS QUE MARCARAM NA HISTORIA DO CINEMA MUNDIAL, GRANDES CLASSICOS,FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SE ENCONTRAR EM NOSSOS ACERVOS . [/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FAROESTE [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/NfQQT7xt/CINEFAROESTE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEFAROESTE.txt</externallink>
+<fanart>https://i.postimg.cc/9FRdSTtc/fanartcinefaroeste.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEA COM SUCESSOS DE FILMES DE FAROESTE,COM ARTISTAS FAMOSOS DO GENERO SERÃO ADICIONADO AQUI , FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SE ENCONTRAR EM NOSSOS ACERVOS .[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE MARVEL'S[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/y8nRwCKb/CINEMARVELS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEMARVELS.txt</externallink>
+<fanart>https://i.postimg.cc/PJBwh3zT/fanartcinemarvels.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEA COM OS FILMES PRODUZIDOS PELO ESTUDIO MARVEL'S ESTARÃO ADICIONADOS AQUI.[/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE RELIGIOSO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/RZ3ynN29/CINERELIGIOSO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINERELIGIOSO.txt</externallink>
+<fanart>https://i.postimg.cc/28QQrYJt/fanartcinereligioso.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEA COM FILMES RELIGIOSOS , DE TODAS AS DOUTRINAS SERÃO ADICIONADOS AQUI, SE O FILME DE SUA PREFERÊNCIA NÃO SE ENCONTRAR EM NOSSOS ACERVOS E SO FAZER O PEDIDO QUE SERÁ ATENDIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/g21Xqpc7/CINETERROR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINETERROR.txt</externallink>
+<fanart>https://i.postimg.cc/CLp4bdsW-/fanartcineterror.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA COM OS SUCESSOS DE BILHETERIA E DE PUBLICO DO GENERO DE TERROR,SERÃO ADICIONADOS AQUI, SE O FILME DE SUA PREFERENCIA NÃO SE ENCONTRAR EM NOSSO ACERVO E SO FAZER O PEDIDO QUE SERA ATENDIDO ASSIM QUE POSSIVEL.[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE LINK DIRETO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/50xkX8XK/CINELINKDIRETO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIACINELINKDIRETO.txt</externallink>
+<fanart>https://i.postimg.cc/8cYyX3tx/FANART-LINK-DIRETO.jpg</fanart>
+<info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,COLETANEA COM VARIOS FILMES DE SUCESSOS, OBS: SÃO TODOS LINKS DIRETOS AS VZS FICAM OFF LINE MAS LOGO VOLTAM A FICAR OFF LINE OK( CARATER EXPERIMENTAL)[/COLOR][/B]</info>
+</channels>
+</channel>
