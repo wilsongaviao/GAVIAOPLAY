@@ -42,21 +42,11 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE BRASIL 2022[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/TYRt1B5r/CINEBRASIL2022.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINE%20BRASIL%202022</externallink>
-<fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
-<info>[B][COLOR yellow]COLETANEA DE FILMES NACIONAIS DE TODOS OS GENEROS,LANÇADOS EM 2022, QUE ESTIVEREM AO NOSSO ALCANCE SERAO ADICIONADAS AQUI[/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE BRASIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/HkXMSJnt/CINE-BRASIL.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINEBRASIL</externallink>
+<thumbnail>https://i.postimg.cc/mrWGMtcp/CINEBRASIL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CINE%20BRASIL</externallink>
 <fanart>https://i.postimg.cc/GtP07x0C/FANARTCINEBRASIL.jpg</fanart>
-<info>[B][COLOR yellow]cOLETANEA DE FILMES NACIONAIS DE 2021, DE TODOS OS GENEROS, VOCES ENCONTRARÃO AQUI.SE VC NÃO ENCONTRAR ALGUM DE SEU INTERESSE FAVOR ENTRAR EM CONTATO.[/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]cOLETANEA COM VARIOS FILMES NACIONAIS,DE TODOS OS GENEROS E ANOS, SERÃO ADICIONADOS AQUI.SE VC NÃO ENCONTRAR ALGUM DE SEU INTERESSE FAVOR ENTRAR EM CONTATO.[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###############################################################################################################################
