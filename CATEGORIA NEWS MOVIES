@@ -1,0 +1,36 @@
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/fy179dr5/filmes-legendados.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMES%20LEGENDADOS%202020%20.txt</externallink>
+<fanart>https://i.postimg.cc/4NKh9mZH/fanart-cine-legendados.png</fanart>
+<info>[B][COLOR yellow]PARA QUEM GOSTA DE FILMES COM AUDIO ORIGINAL AQUI ESTARÃO OS MELHORES FILMES LEGENDADOS [/COLOR][/B]</info>
+</channels>
+</channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES & ANIMES 2022[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/ryGnW6Wh/FILMESANIMES2022.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FILMES%20%26%20ANIMES%202022.txt</externallink>
+<fanart>https://i.postimg.cc/R0dMB9hP/FANARTFILMES2022.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA COM OS MELHORES LANÇAMENTOS,EM TODOS OS GENEROS, QUE ESTIVEREM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2021[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/RVTtGv3g/FILMES-2021.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIALAN%C3%87AMENTOS.txt</externallink>
+<fanart>https://i.postimg.cc/VkjfKX8P/FANARTFILMES2021.jpg</fanart>
+<info>[B][COLOR yellow]COLETANEA COM OS MELHORES LANÇADOSEM 2021,EM TODOS OS GENEROS, QUE ESTIVERAM AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+###########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2020[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/FF3gKFNJ/filmes-2020.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMES%202020.txt</externallink>
+<fanart>https://i.postimg.cc/9FvwtCF8/fanart-lan-amentos.jpg</fanart>
+<info>[B][COLOR yellow]OS MELHORES FILMES DE 2020 ,QUE ESTIVER AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+</channels>
+</channel>
