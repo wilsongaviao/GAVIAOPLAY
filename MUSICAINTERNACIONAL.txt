@@ -2,7 +2,7 @@
 <item><title>[B][COLOR white]REMEMBER ANOS 80 VOL 1  [/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>https://youtu.be/-idZgyLyYUw</link>
+<utube>-idZgyLyYUw&t</utube>
 <info>[B]Sinopse:[COLOR yellow]35 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA MUSICAL, ONDE PODEMOS TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSA COLETANEA[/COLOR][/B]</info></item>
 ###################################################################################################################
 <item><title>[B][COLOR white] GOLDEN OLDIES [/COLOR][/B]</title>
