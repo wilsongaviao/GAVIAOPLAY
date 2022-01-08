@@ -11,7 +11,17 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES ANIMADOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES ANIMADOS 2022[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/prSJDXjT/FILMESANIMADOS2022.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMES%20ANIMADOS%202022</externallink>
+<fanart>https://i.postimg.cc/9QMdgKTH/fanartfilmesanimados.jpg</fanart>
+<info>[B][COLOR yellow]SUPER COLETÂNEA DE SUCESSOS COM FIMES ANIMADOS DE TODOS OS GENEROS [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES ANIMADOS 2021[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/PxG5ZvhF/FILMESANIMADOS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FILMES%20ANIMADOS.txt</externallink>
 <fanart>https://i.postimg.cc/9QMdgKTH/fanartfilmesanimados.jpg</fanart>
