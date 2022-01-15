@@ -303,7 +303,15 @@
 <item><title>[B][COLOR white]Os Simpsons - O Bem, O Bart e O Loki [COLOR yellow]( 1080p )[COLOR lime] COMÉDIA[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78a2b82bc9469f20564a04568ccf7dd6a74c2aa3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w342/5hO4RYsWZqP7U9ikLZquJAB3oSH.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Banido novamente de Asgard, Loki enfrenta seus mais ferozes rivais até então: os Simpsons e os heróis mais poderosos de Springfield. O Deus da Trapaça se junta a Bart Simpson em uma derradeira fusão de personagens para homenagear o universo cinematográfico dos super-heróis e vilões da Marvel. [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Banido novamente de Asgard, Loki enfrenta seus mais ferozes rivais até então: os Simpsons e os heróis mais poderosos de Springfield. O Deus da Trapaça se junta a Bart Simpson em uma derradeira fusão de personagens para homenagear o universo cinematográfico dos super-heróis e vilões da Marvel.
+COLOR white][B] Gênero:  [COLOR lime]Drama / Comedia [/COLOR][/B]</info></item>
+]##############################################################################################################
+<item><title>[B][COLOR white]Raya e o Último Dragão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJFBKQJXM3K4BP7APKMZ7JTNMDS32GBB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Muito tempo atrás, humanos e dragões viviam juntos em harmonia no mundo de Kumandra. Mas a ameaça de uma força do mal fez com que os dragões se sacrificassem para salvar a humanidade. Agora, 500 anos depois, o perigo ressurge e a solitária guerreira Raya embarca em uma incrível jornada para encontrar o último dragão e salvar seu mundo.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Comédia[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Bombay Rose[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c75ca5c9f0c9e8822551660051daba7ae58aa362</link>
