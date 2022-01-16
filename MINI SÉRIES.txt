@@ -1,5 +1,16 @@
 ###################################################################################################################
 
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] O Cavalo Amarelo[COLOR yellow] 1080p [COLOR lime] COMPLETA ( 2 EPISODEOS ) [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc640cd537937be57260333831625fa9109aead</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2wu80dxUAHVmksi33rST1AbkWE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8gYgZeVddiiAvDzanZudU0D5OPv.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um padre assassinado de maneira brutal. Pessoas que adoecem misteriosamente. Mulheres que dizem ter poderes paranormais. Esses são alguns dos enigmas que assombram um vilarejo na zona rural inglesa. A chave deste segredo está relacionada a uma lista de nomes. Para desvendar essa trama, um escritor em busca de inspiração conta com a ajuda de seus amigos, entre eles, a famosa autora de romances de mistério Ariadne Oliver, numa aventura que pode ser fatal. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+###################################################################################################################
+
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] A Rebelião dos Barbaros[COLOR yellow] 720p [COLOR lime] COMPLETA 4 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9149A26BF93EECA3F0C3806ADA9B0FDE96286F9</link>
@@ -33,20 +44,8 @@
 
 ###################################################################################################################
 
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] O Cavalo Amarelo[COLOR yellow] 1080p [COLOR lime] COMPLETA ( 2 EPISODEOS ) [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc640cd537937be57260333831625fa9109aead</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2wu80dxUAHVmksi33rST1AbkWE.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8gYgZeVddiiAvDzanZudU0D5OPv.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Um padre assassinado de maneira brutal. Pessoas que adoecem misteriosamente. Mulheres que dizem ter poderes paranormais. Esses são alguns dos enigmas que assombram um vilarejo na zona rural inglesa. A chave deste segredo está relacionada a uma lista de nomes. Para desvendar essa trama, um escritor em busca de inspiração conta com a ajuda de seus amigos, entre eles, a famosa autora de romances de mistério Ariadne Oliver, numa aventura que pode ser fatal. 
-[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-
-###################################################################################################################
-
-<item><title>[B][COLOR yellown]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white]Nevenka - Quebrando o Silêncio[COLOR yellow] 1080p  [COLOR lime] COMPLETA  3 Episodeos [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white]Nevenka - Quebrando o Silêncio[COLOR yellow] 1080p  [COLOR lime] COMPLETA  3 Episodeos [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7785e3d7e94fd37668d4f66ebf1417960046bf6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j80amTos07kMVbNyF4msh3EhDcy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/16OnTsKLBnF7dDqQl0YIrWM6h5R.jpg</fanart>
