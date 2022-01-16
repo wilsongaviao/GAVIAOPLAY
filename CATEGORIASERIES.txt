@@ -53,7 +53,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MINI SÉRIES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/zvrC5xpP/MINI-S-RIES.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1KrBLLuikd8LYa4LXAQVh5o0LwUzAAW3v</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MINI%20S%C3%89RIES.txt</externallink>
 <fanart>https://i.postimg.cc/2S8xVXYs/fanart-mini-series.jpg</fanart>
 <info>[B][COLOR yellow]SELEÇÃO DE MINI SÉRIES DE TODOS OS GENEROS QUE FIZERAM OU QUE ESTAO OU ESTARÃO  NA MIDIA E NOS STREAMINGS[/COLOR][/B]</info></item>
 </channels>
