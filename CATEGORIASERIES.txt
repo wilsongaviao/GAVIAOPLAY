@@ -43,7 +43,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]SÉRIES NACIONAIS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/nrmjP0Zm/SERIESNACIONAIS.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1FpJSvgsreFIQSyWEETGr5BceC0a1eGOq</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIESNACIONAL.txt</externallink>
 <fanart>https://i.postimg.cc/B6NVkBSm/fanartseriesnacionais.jpg</fanart>
 <info>[B][COLOR yellow]SELEÇÃO DAS SÉRIES NACIONAIS DE SUCESSOS  DE TODOS OS ESTILOS[/COLOR][/B]</info></item>
 </channels>
