@@ -2,7 +2,7 @@
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] A Rebelião dos Barbaros[COLOR yellow] 720p [COLOR lime] COMPLETA 4 EPS [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9149A26BF93EECA3F0C3806ADA9B0FDE96286F9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fCgOHBmODou6gz5AOYJwvRMvKpA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oJbR8aFO7rCLdGOu2HcUxeOSbnn.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A Rebelião dos Bárbaros não traz a história da glória de Roma, mas sim a história de milhões de pessoas que se levantaram para lutar pela liberdade à sombra de um poder absoluto, e dos líderes que encabeçaram esta luta. O império romano os chamou de “bárbaros” – tribos que viviam às margens da civilização uma vida primitiva, brutal e violenta. No entanto, estes povos foram também os guerreiros mais ferozes e tenazes da história, homens e mulheres que se negaram a se submeter a uma opressão impiedosa. Sua resistência deu início a uma saga épica, uma batalha que durou setecentos anos, e que marcou o começo da queda de Roma dando nova forma ao mundo que estava por vir.
@@ -151,14 +151,14 @@
 
 ###################################################################################################################
 
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] ALCATRAZ [COLOR yellow] 720p [COLOR lime] COMPLETA 16 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimsom]######[COLOR white] ALCATRAZ [COLOR yellow] 720p [COLOR lime] COMPLETA 16 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e5688ecd457c8690e595859d96137351f77f40c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/efO8ahdZZntsZcX7ybmUMP1Figu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8xBDhrgrkOIoIlzz2omctHEvRsC.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Quando a detetive Rebecca Madsen (Sarah Jones) é designada para investigar um homicídio macabro, uma digital a leva até um suspeito improvável: Jack Sylvane (Jeffrey Pierce), um ex-detento de Alcatraz, que morreu décadas atrás. Quando suas buscas são impedidas pelo agente do governo Emerson Hauser (Sam Neill), ela procura ajuda de um especialista nos casos de Alcatraz, e entusiasta dos quadrinhos, Dr. Diego Soto (Jorge Garcia). Logo eles descobrem que Sylvane não só está vivo, mas à solta nas ruas de San Francisco, deixando um rastro de corpos, e sem envelhecer. Mas isso é apenas uma pequena parte de uma grande e sinistra conspiração que eles precisam deter a qualquer custo.
 [COLOR white][B] Gênero:  [COLOR lime]Ação, Policial, Drama, Mistério, Suspense[/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 ###################################################################################################################
 
@@ -231,18 +231,6 @@
 
 ###################################################################################################################
 
-<item><title>[B][COLOR orange]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] JOGOS SAGRADOS [COLOR yellow] 720p [COLOR lime]  2 TEMPORADAS [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9$nome=[B] 1ª TEMP [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058$nome=[B] 2ª TEMP [COLOR yellow]720p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
-[COLOR white][B] Gênero:  [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thu
-
-###################################################################################################################
-
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] MOBY DICK [COLOR yellow] 720p [COLOR lime] COMPLETA 4 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1A85CF235BAF70A8E70B5B89B9DB63B3DC6F931</link>
@@ -305,6 +293,18 @@
 <info>[B]Sinopse:[COLOR yellow]Templários transporta-nos às origens da Ordem dos Templários, centrando-se na Península Ibérica, na Primeira e Segunda Cruzadas, e nos sucessos que, em finais do século SI e princípios do XII, proporcionaram uma nova mentalidade e a proliferação de um novo modelo: os monges guerreiros. A série centra-se especialmente na influência da Ordem na criação de uma nova nação: Portugal, assim como nas primeiras Cruzadas e o impacto que provocaram numa Península Ibérica imersa em plena Reconquista.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+###################################################################################################################
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR yellow] 720p [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9$nome=[B] 1ª TEMP [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058$nome=[B] 2ª TEMP [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 ###################################################################################################################
 
