@@ -9,13 +9,13 @@
  
 <item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR red]######[COLOR lime] CHICAGO FIRE[COLOR yellow] 2ªTEMPORADA[COLOR red]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>https://1.bp.blogspot.com/-t6Rvti-V2aI/Wu5zK3B0kQI/AAAAAAAALHI/KyNP3oQNqNYs89U10_a0nkEKkGD-pOfCQCLcBGAs/s1600/Chicago%2Bfire%2B2%2Btemporada%2Bcompleta%2Btorrent%2Bdownload%2Bdublada.jpg</thumbnail></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bff5773e4f09c927b2f5646060290513cac1d68</link><thumbnail>https://1.bp.blogspot.com/-t6Rvti-V2aI/Wu5zK3B0kQI/AAAAAAAALHI/KyNP3oQNqNYs89U10_a0nkEKkGD-pOfCQCLcBGAs/s1600/Chicago%2Bfire%2B2%2Btemporada%2Bcompleta%2Btorrent%2Bdownload%2Bdublada.jpg</thumbnail></item>
 <item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
 
 <item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR red]######[COLOR lime] CHICAGO FIRE[COLOR yellow] 3ªTemporada[COLOR red]######[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71237a24f13c3954e31394c1f16ee22e022d76fb</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
 
