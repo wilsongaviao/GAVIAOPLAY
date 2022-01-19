@@ -65,12 +65,4 @@
 <info>[COLOR yellow]SELEÇÃO DE FILMES ROMANTICOS ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
 </channel>
 </channels>
- #######################################################################################################################
-<channel><channels>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] TERROR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/ncdfm8zK/CINEFLASHBACK-TERROR.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASHBACKTERROR.txt</externallink>
-<fanart>https://i.postimg.cc/Dz9KgQF6/fanartcineflashbackterror.jpg</fanart>
-<info>[COLOR yellow]SELEÇÃO DE FILMES DE TERROR ANTIGOS QUE FIZERAM SUCESSOSDE PUBLICOS E BILHETERIA  EM SUA EPOCA[COLOR lime]|[/COLOR]</info>
-</channel>
-</channels>
+ 
