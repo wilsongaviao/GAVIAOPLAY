@@ -88,13 +88,4 @@
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 </channels>
 </channel>
-#####################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[COLOR yellow]  TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/h4sjtPkp/TOPCINETERROR.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOP%20CINE%20TERROR.txt</externallink>
-<fanart>https://i.postimg.cc/fRYgG1jW/fanarttopcineterror.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-</channels>
-</channel>
+
