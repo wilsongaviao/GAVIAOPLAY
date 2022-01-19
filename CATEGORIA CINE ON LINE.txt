@@ -98,13 +98,4 @@
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/KvpCznqJ/CINEONLINETERROR.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAY/main/CINEONLINETERROR.txt</externallink>
-<fanart>https://i.postimg.cc/3wJCtqtc/fanartcineonlineterror.jpg</fanart>
-<info>COLETÂNEA COM OS MELHORES FILMES DE TERROR DO CINEMA INTERNACIONAL, SUCESSOS DO GENERO SERÃO ENCONTRADOS AQUI</info>
-</channel>
-</channels>
-1N_9N2DJpLd7Tv1mu9lBZ9Nf6QSgSGxsg
+
