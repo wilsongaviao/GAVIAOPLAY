@@ -1,4 +1,14 @@
-
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STRANGER THINGS [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STRANGER%20THINGS</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jUrDkXkVXe5cDIYA7Ss81P1CvtX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tcTjAGX9YPCMCrnXmbgXKKtECgh.jpg</fanart>
+<info>[B][COLOR yellow] Situada no interior de Indiana, na década de 1980, a história inicia com o desaparecimento de Will, um menino de 12 anos. Enquanto a família e os amigos tentam entender o que aconteceu, o chefe de polícia Hooper inicia uma investigação e se depara com experiências secretas conduzidas pelo governo numa base militar no subúrbio da cidade. Ao mesmo tempo, os amigos de Will - Mike, Dustin e Lucas - tentam localizá-lo por conta própria, mas acabam encontrando Eleven, uma menina misteriosa, com estranhos poderes. SERIE DE FICÇÃO CIENTIFICA, MISTERIO, SUSPENSE NO BRASIL COM 3 TEMPORADAS:
+[COLOR white][B] Gênero:  [COLOR lime]Ficção / Drama /  Misterio / Suspense[/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
