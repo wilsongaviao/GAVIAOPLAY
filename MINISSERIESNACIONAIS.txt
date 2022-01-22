@@ -1,3 +1,11 @@
+##############################################################################################################
+<item><title>[B][COLOR white]RIO HEROES [COLOR yellow] ( 1080p )NEW[COLOR lime] - COMPLETA - 2 TEMP[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:349cd2492fef27525c09c93d03c07a2fade7a440</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xNinfGS2HUcn5zGe9OwnNFQGJBj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Jorge Pereira (Murilo Rosa) é um lutador brasileiro de jiu-jitsu que nunca gostou de obedecer regras. Esse foi um dos motivos que o levou a criar um campeonato de vale-tudo semiclandestino, e não demorou muito para que a atividade ganhasse fama para além das fronteiras do País, conquistando público nos Estados Unidos. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Artes Marciais / Drama  [/COLOR][/B]</info></item>
+
 ##################################################################################################################
 <item><title>[COLOR white]ELIZE MATSUNAGA: ERA UMA VEZ UM CRIME[COLOR yellow] 4 EPS[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23daca6cc4d36baa00a15c4865641953b3967798</link>
