@@ -1,8 +1,17 @@
-
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA ) [COLOR blue] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HEROES</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvCPxEZmy8kjedNZXTw7x4jLYvI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4QMjJCtt82VqBAavDfuWuUONoRS.jpg</fanart>
+<info>[B][COLOR yellow]Eles achavam que eram como qualquer um... até descobrirem possuir habilidades extraordinárias, como telepatia, capacidade de voar, telecinese, controle do tempo etc. De todas as partes do mundo, eles estão conectados por seus poderes, e sua missão agora é evitar o acontecimento de desastres e proteger o planeta. [/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/eMUs9YPK3OKyU00kJPLfU1CSTnR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOTHER%20LIFE%20(OUTRA%20VIDA%20).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/yzoIO9VpZTIh62ZGv1B4YdiUZ6R.jpg</fanart>
