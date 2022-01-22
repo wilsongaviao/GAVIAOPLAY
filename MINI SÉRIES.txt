@@ -1,4 +1,11 @@
 ###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white]Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85C0E09DACB1C43689E5434D69FEA05812C3631B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FI4okLPgwM4tCH02GC4LrTeAEe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jsGs8Wk3tNTBvqSh4GuQefrSHYo.jpg</fanart>
+<info>[B]Amigos e familiares passam uma semana na ilha de Harper, para o casamento de Henry e Trish. A história é contada pela melhor amiga do noivo, Abby. Sete anos antes, um serial killer, Wakefield, matou seis pessoas, sendo uma delas a mãe de Abby. Mas agora, com a chegada dos convidados do casamento na ilha, alguém está seguindo as pegadas de Wakefield, matando os hóspedes, um por um.
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Terror[/COLOR][/B]</info></item>
+###################################################################################################################
 <item><title>[B][COLOR crimson]######[COLOR white] O Cavalo Amarelo[COLOR yellow] 1080p [COLOR lime] COMPLETA  2 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc640cd537937be57260333831625fa9109aead</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2wu80dxUAHVmksi33rST1AbkWE.jpg</thumbnail>
