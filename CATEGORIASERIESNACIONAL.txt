@@ -10,6 +10,16 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]COLEÇÃO OS TRAPALHÕES [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://abutretorrents.com/imagens/os-trapalhoes-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/COLE%C3%87%C3%83O%20OS%20TRAPALH%C3%95ES</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7hmHgAnCWpFzhwwNYuiBNLnRE2Z.jpg</fanart>
+<info>[B][COLOR yellow]COLETÂNEA COM OS MELHORES MOMENTOS DA SERIE DA SERIE E OS FILMES  DO QUARTETO HUMORISTICO DE MAIOR SUCESSO  NOS MEIOS DE COMUNICAÇÃO DO BRASIL[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]3%[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCQP1El20FFncM0lIYcaW3Kq19o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/3%25.txt</externallink>
