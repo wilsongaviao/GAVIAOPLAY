@@ -1,3 +1,15 @@
+
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BLACK%20MIRROR</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/7PRddO7z7mcPi21nZTCMGShAyy1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b92npz1sZwvmjUfVIrWXehrk3pc.jpg</fanart>
+<info>[B][COLOR yellow]Esta série antológica de ficção científica curta com 21 episodeos divididos em 5 temporadas: explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito.
+[COLOR white][B] Gênero:  [COLOR lime]Ficção / Drama /  Suspense[/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
@@ -5,17 +17,19 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HEROES</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvCPxEZmy8kjedNZXTw7x4jLYvI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4QMjJCtt82VqBAavDfuWuUONoRS.jpg</fanart>
-<info>[B][COLOR yellow]Eles achavam que eram como qualquer um... até descobrirem possuir habilidades extraordinárias, como telepatia, capacidade de voar, telecinese, controle do tempo etc. De todas as partes do mundo, eles estão conectados por seus poderes, e sua missão agora é evitar o acontecimento de desastres e proteger o planeta. [/COLOR][/B]</info>
+<info>[B][COLOR yellow]Eles achavam que eram como qualquer um... até descobrirem possuir habilidades extraordinárias, como telepatia, capacidade de voar, telecinese, controle do tempo etc. De todas as partes do mundo, eles estão conectados por seus poderes, e sua missão agora é evitar o acontecimento de desastres e proteger o planeta. 
+[COLOR white][B] Gênero:  [COLOR lime]Ficção / Drama / Fantasia / Suspense[/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/eMUs9YPK3OKyU00kJPLfU1CSTnR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOTHER%20LIFE%20(OUTRA%20VIDA%20).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/yzoIO9VpZTIh62ZGv1B4YdiUZ6R.jpg</fanart>
-<info>[B][COLOR yellow]Um enorme artefato alienígena pousa na Terra, e Niko Breckinridge tem de liderar uma missão interestelar para rastrear sua origem e fazer contato com os extraterrestres.[/COLOR][/B]</info>
+<info>[B][COLOR yellow]Um enorme artefato alienígena pousa na Terra, e Niko Breckinridge tem de liderar uma missão interestelar para rastrear sua origem e fazer contato com os extraterrestres.
+[COLOR white][B] Gênero:  [COLOR lime]Ficção / Drama / Mistério /  Suspense[/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
@@ -26,7 +40,7 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ARROW(ARQUEIRO).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/fFT7T9y9NVRdcdVh81roVrJBcDh.jpg</fanart>
 <info>[B][COLOR yellow]Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas.
- [/COLOR][/B]</info>
+ [COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Ficção[/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
@@ -37,29 +51,7 @@
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BATWOMAN.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vPkQ4SAz5Zw7NxQ3Xgj3LKkyuQe.jpg</fanart>
 <info>[B][COLOR yellow]Três anos após o bilionário Bruce Wayne e seu alter-ego vigilante Batman desaparecerem, sua prima Kate Kane (Ruby Rose) se prepara para superar seus demônios internos e assim se tornar um novo símbolo de esperança, protegendo as ruas de Gotham City como a Batwoman. 
-[/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BONES - SEMPRE EM MEDICINA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rElaRnNez2dXBCMv1THHdVcroFY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BONES.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg</fanart>
-<info>[B][COLOR yellow]A série "Bones" gira em torno da Dra. Temperance Brennan, uma exímia antropóloga forense que trabalha no Instituto Jeffersonian e cujo passatempo é escrever romances policiais. Ela é chamada para ajudar nas investigações policiais de assassinato sempre que não é possível identificar a vítima pelos métodos tradicionais, seja porque o corpo está decomposto, foi carbonizado ou está totalmente desfigurado. O talento e a experiência de Brennan recaem em sua grande habilidade de desvendar as pistas ocultas que se escondem por trás do cadáver e/ou ossada das vitimas. Nesta terceira temporada, a dupla Booth/Brennan está atrás de um serial killer que assusta a cidade e toda a equipe de peritos se envolve numa investigação que promete ser uma das melhores “caçadas” da televisão.
-[/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLINDSPOT - PONTO CEGO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYyKZZlb3nd5ASbiuIxva718bp2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PONTO%20CEGO(BLINDSPOT).txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/n9WyCYlj2mXWKlyxeuJnrauybUo.jpg</fanart>
-<info>[B][COLOR yellow]Misteriosa mulher é encontrada na Times Square, sem quaisquer lembranças de quem ela é e de como chegou ali. As únicas pistas que ela possui são as tatuagens que cobrem todo o seu corpo. Um agente do FBI passa a ajudá-la enquanto buscam a verdade.
-[/COLOR][/B]</info>
+[COLOR white][B] Gênero:  [COLOR lime][/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
