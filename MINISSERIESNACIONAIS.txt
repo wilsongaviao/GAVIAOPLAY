@@ -7,7 +7,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Artes Marciais / Drama  [/COLOR][/B]</info></item>
 
 ##################################################################################################################
-<item><title>[COLOR white]ELIZE MATSUNAGA: ERA UMA VEZ UM CRIME[COLOR yellow] 4 EPS[/COLOR]</title>
+<item><title>[B][COLOR white]ELIZE MATSUNAGA: ERA UMA VEZ UM CRIME[COLOR yellow] 4 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23daca6cc4d36baa00a15c4865641953b3967798</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qB3Q7BL6620pTfsx5ox0OT3eil4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2eSo388uW5wRNsWhjl1cyrwaufP.jpg</fanart>
@@ -63,14 +63,14 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA  [/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR white]ALEM DA ILHA[COLOR yellow] 10 EPS/COLOR][/B]</title>
+<item><title>[B][COLOR white]ALEM DA ILHA[COLOR yellow] 10 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02DCCF457C0F61B02403176170D6B5B1ACC37F2D</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7zS9CURyVtOZE118llug3RtTWi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jAVMY81p7N5FMdpkrioMAX1Zw4O.jpg</fanart>
 <info>[B]COLOR yellow]Depois de ganharem 200 milhões de reais em uma aposta de loteria, Beto (Paulo Gustavo), Guta (Katiúscia Canoro), Sheila (Monique Alfradique), Bia (Letícia Lima) e Cardoso (Gabriel Godoy) decidem celebrar a conquista durante um passeio de barco. Como nenhum deles sabe o necessário para navegar, o grupo acaba perdido em uma ilha deserta e misteriosa.[COLOR white][B] Gênero:  [COLOR lime]COMÉDIA  [/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR white]DR. CASTOR[COLOR yellow] 4 EPS/COLOR][/B]</title>
+<item><title>[B][COLOR white]DR. CASTOR[COLOR yellow] 4 EPS[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a225b80872c8d7c58bf908e43ca063b15852a771</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77hnVQI68FeFsqcSB1VlCQ9xPOL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A0vBgsDaKzle4zKi7WoEYfgTq47.jpg</fanart>
