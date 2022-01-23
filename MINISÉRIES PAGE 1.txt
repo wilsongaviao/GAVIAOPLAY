@@ -1,5 +1,43 @@
 ###################################################################################################################
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] Fleabag[COLOR yellow] NEW [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail></thumbnail><fanart></fanart><info>Sinopse: [COLOR yellow][B]Fleabag (Phoebe Waller-Bridge) é uma jovem adulta lidando com problemas quase universais sob o ponto de vista feminino: problemas de relacionamento, frustração sexual e profissional, conflitos familiares. Uma mulher moderna vivendo em Londres, ela está tentando curar uma ferida enquanto recusa ajuda daqueles à sua volta, mantendo seu perfil intimidante o mais intacto possível.  [COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama [/COLOR][/B]</info></item>                      
+<item><title>[B][COLOR lime]1ª TEMPORADA [COLOR yellow]( 720p / 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:227FD3F960D0077FC638B36A5DAFF1A87ACACDCD$nome=[B] LINK 1 [COLOR yellow] ( 720p )[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B8983641F3A2747051D1ACE35B5186A0F64DF92$nome=[B] LINK 2 [COLOR yellow] ( 720p )[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:062FE02654D7967F822BC7A7F8523E2958675C90$nome=[B] LINK 3 [COLOR yellow] ( 1080p ) [/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/jdmU0cMrl9wo3bDwPy1kgLWPpUs.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Uma mulher sem traços característicos que se lança à vida moderna em Londres, enquanto lida com a perda de sua melhor amiga, um rompimento e problemas financeiros. café. Tenha uma visão sem censura desse confessional rápido e engraçado de uma mulher tão completamente desapegada que está completamente perdida.[/COLOR][/B]</info></item>
+#######################################################################################
+<item><title>[B][COLOR lime]2ª TEMPORADA [COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfc8ca9d850c57ecc456870a34ed86bc1e65cc9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/tivjTfxoptJTguO01gKipQzQWtz.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Fleabag está de volta para uma segunda luta, e dessa vez ela está enfrentando o homem lá de cima. Em uma reviravolta inesperada do destino, nossa diabinha conhece um padre que a faz ver o mundo de uma maneira diferente. Depois de um ano, ainda há feridas a ser descascadas e novas a serem feitas nesse novo capitulo da vida de Fleabag.[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] Marlon[COLOR yellow] NEW [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bb28oUUlqQtryshujjSkRiBrvQB.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/7SDggAJXFqgXwcVSyMzJYi5n7cg.jpg</fanart><info>Sinopse: [COLOR yellow][B] Um pai sem jeito, mas amável, que se compromete a tentar criar suas crianças com sua ex esposa, que não tem nada a ver com ele, apesar de repetidamente oferecer conselhos falhos e não conseguir conter sua personalidade épica e as consequências imprevisíveis de sua fama online. A família sempre vem antes de mais nada para Marlon. [COLOR white][B] Gênero:  [COLOR lime]Comedia / Drama [/COLOR][/B]</info></item>                      
+<item><title>[B][COLOR lime]1ª TEMPORADA [COLOR yellow]( 720p / 1080P )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1EB2B8A1BCFDBD00B423BF6643E53F64B98B502</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/fkF2oOb1SUuaEhRFpAP9kO1Izyt.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Depois de um divórcio superamigável, um pai despreocupado, mas dedicado, divide a criação dos dois filhos com a ex..[/COLOR][/B]</info></item>
+#######################################################################################
+<item><title>[B][COLOR lime]2ª TEMPORADA [COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:755966AF46AED01F719B000B166FA398EE25A65D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2UAJOxBziLpfnhTAfQU6hvmCrXZ.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]Marlon e Ashley não deram certo como casal, mas, como amigos, eles tentam dividir as responsabilidades da paternidade e estabelecer os padrões da relação pós-divórcio.[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] Big Little Lies [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9u7h3cxsKSJhtvXcei7E3BvJVC.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/mXHrrScwCBCrRbTGA1V85WFv0cZ.jpg</fanart><info>Sinopse: [COLOR yellow][B]A serie  conta a história de três mães que se aproximam quando seus filhos passam a estudar juntos no jardim de infância. Até então, elas levam vidas aparentemente perfeitas. A cidade pequena entra em choque com um assassinato na festa da escola. Os pais começam a serem interrogados para investigação do crime.  [COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Mistério / Policial [/COLOR][/B]</info></item>                      
+<item><title>[B][COLOR lime]1ª TEMPORADA [COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d9a28decbbbba8388351b09545d509f881037f2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xw8iplMAt3xprDINGB4Y9ZTVm57.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow] As histórias de três mães que moram em Pirriwee, na Austrália, cujas vidas se conectam de uma maneira inesperada, com consequências dramáticas..[/COLOR][/B]</info></item>
+#######################################################################################
+<item><title>[B][COLOR lime]2ª TEMPORADA [COLOR yellow]( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:317F7FBB673BABC1A919B2C172CAFD45CABADB1D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zxGkno93ExrTMsJVllH6mzQ652z.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]As Cinco de Monterey precisam enfrentar as consequências de manter o grande segredo sobre o assassinato mas tudo se torna mais complicado com a chegada de Mary Louise (Meryl Streep), a mãe de Perry, que está determinada a descobrir o que realmente aconteceu com o seu filho. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] THE RAIN [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9l2ZhuvcvC4BJagh4mkYZQlJulx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rfK7BGBUoqXc2EiKGbKuzaeSDjW.jpg</fanart><info>Sinopse: [COLOR yellow][B]Seis anos após um vírus brutal ter massacrado quase que toda a população da Escandinávia, dois irmãos dinamarqueses decidem sair da segurança de seu búnquer para verificar o que se passa do lado de fora de sua fortaleza. Em meio aos escombros, eles encontram um grupo de jovens sobreviventes e juntos irão até o fim para encontrar uma única esperança de uma vida melhor.[COLOR white][B] Gênero:  [COLOR lime]Ficção / Drama / Suspense [/COLOR][/B]</info></item>                      
 <item><title>[B][COLOR lime]1ª TEMPORADA [COLOR yellow]( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b1821c1efc289157194e26239d43db820776818</link>
