@@ -6,7 +6,7 @@
 <info>[B]Jake Epping, um professor de língua inglesa que acaba de assinar o divórcio quando é encarregado pelo seu amigo Al (Chris Cooper) a dar continuidade em sua missão de mudar a história do mundo, usando um portal em uma lanchonete que leva as pessoas ao ano 1960.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção / Suspense[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR yellow][COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]###### [COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85C0E09DACB1C43689E5434D69FEA05812C3631B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FI4okLPgwM4tCH02GC4LrTeAEe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jsGs8Wk3tNTBvqSh4GuQefrSHYo.jpg</fanart>
@@ -216,14 +216,19 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
 ###################################################################################################################
 <item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR yellow] 720p [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title>
-<item><title>[B][COLOR white]1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title></item>
+<item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9</link>
-item><title>[B][COLOR white]2ª TEMPORADA [COLOR yellow] ( 7200p )[/COLOR][/B]</title></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
+[COLOR white][B] Gênero: [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item
+
+item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 7200p )[/COLOR][/B]</title></item>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
-[COLOR white][B] Gênero:  [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero: [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
 ###################################################################################################################
 <item><title>[B][COLOR yellow]######[COLOR white] TERRA DE GIGANTES [COLOR yellow] 720p [COLOR lime] COMPLETA 2 TEMP [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa74265831aab384acbf21c17a75bd42ea9306e</link>
