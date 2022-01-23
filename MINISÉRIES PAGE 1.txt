@@ -1,15 +1,13 @@
 ###################################################################################################################
-<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR yellow] 720p [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/l5dFThYgG8OwO2eFwwfgpeMRvY0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart><info>Sinopse: O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. [COLOR yellow][B] [/COLOR][/B]</info></item>
-<item><title>[B][COLOR white]1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR yellow] 720p [COLOR lime] COMPLETA [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/l5dFThYgG8OwO2eFwwfgpeMRvY0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart><info>Sinopse: O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. [COLOR yellow][B] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR lime]1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mVQ6JFJCAMRLKvsMZdiEeYXC6cp.jpg</thumbnail>
 <info>[B]Sinopse:[COLOR yellow]O policial Sartaj Singh recebe uma pista de um criminoso foragido e agora tem de correr contra o tempo para salvar Mumbai da destruição.[/COLOR][/B]</info></item>
-item><title>[B][COLOR white]2ª TEMPORADA [COLOR yellow] ( 7200p )[/COLOR][/B]</title>
+item><title>[B][COLOR lime]2ª TEMPORADA [COLOR yellow] ( 7200p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5Bs2SBg97gaqoYH2c9zRNOEctaz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
-[COLOR white][B] Gênero:  [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Com o destino de Mumbai em jogo, Sartaj Singh tenta descobrir uma ligação com o terceiro pai de Ganesh Gaitonde, um guru enigmático com um plano avassalador.[/COLOR][/B]</info></item>
 ###################################################################################################################
 <item><title>[B][COLOR yellow]######[COLOR white] TERRA DE GIGANTES [COLOR yellow] 720p [COLOR lime] COMPLETA 2 TEMP [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa74265831aab384acbf21c17a75bd42ea9306e</link>
