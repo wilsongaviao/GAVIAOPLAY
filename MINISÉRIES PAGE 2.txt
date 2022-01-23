@@ -1,12 +1,19 @@
 ###################################################################################################################
-<item><title>[B][COLOR yellow]######[COLOR white]11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white]A Tempestade do Século [COLOR yellow] 720p [COLOR lime] COMPLETA 3 EPS [/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D2C1D253A4F135A2DC79E6AACFF608AE3EDD476</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKvoUWrH9kh5jUCECrswLPRSrfi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zt4aWX2SVMXKGoCZ5lHC2mNP1Uv.jpg</fanart>
+<info>[B]Little Tall é uma pequena cidade que fica em uma ilha longe do continente e está prestes a receber uma violenta tempestade de neve. Paralelamente Andre Linoge (Colm Feore), um forasteiro bastante estranho, chega na pequena cidade e cria pânico e morte entre os moradores. Ele sabe tudo sobre todos e quando Linoge conta a verdade sobre um deles a pessoa nega tal afirmação. Mike Anderson (Timothy Dale), o policial da cidade, tenta manter cada um em alerta contra a forte tempestade e Linoge. O forasteiro, por sua vez, repete sem cessar "Dê-me o que quero e eu irei embora", sem explicar o significado exato destas palavras. 
+[COLOR white][B] Gênero:  [COLOR lime]Clássico / Drama / Fantasia / Suspense / Terror[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white]11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS[/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7FAAA7BBF7F63C60F997057961B666E64C580A</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4M1NAKPpBFuLkvIXEWlhzebfe38.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fp1YvQnhOvPUnXW8mLfeCz5bwdp.jpg</fanart>
 <info>[B]Jake Epping, um professor de língua inglesa que acaba de assinar o divórcio quando é encarregado pelo seu amigo Al (Chris Cooper) a dar continuidade em sua missão de mudar a história do mundo, usando um portal em uma lanchonete que leva as pessoas ao ano 1960.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção / Suspense[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR yellow]######[COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [/COLOR]NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85C0E09DACB1C43689E5434D69FEA05812C3631B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FI4okLPgwM4tCH02GC4LrTeAEe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jsGs8Wk3tNTBvqSh4GuQefrSHYo.jpg</fanart>
