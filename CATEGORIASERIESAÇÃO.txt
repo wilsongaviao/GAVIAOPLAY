@@ -224,16 +224,6 @@
 </channels>
 </channel>
 ###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHADOWHUNTERS - CAÇADORES DE SOMBRAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQLNxAC1X91cY4rFgQDHs7nx3qQ.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHADOWHUNTERS%20-%20CA%C3%87ADORES%20DE%20SOMBRAS.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/o0PtXGp2XyoRu0S1uPYzDpMnkOM.jpg</fanart>
-<info>[B][COLOR yellow]A série acompanha a jornada de Clary (Katherine McNamara), jovem que descobre ser de uma linhagem de Caçadores de Sombras, seres responsáveis pela proteção do mundo sobrenatural, cheio de demônios, fadas, vampiros e lobisomens. [/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SOBRENATURAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/iS7zar0YRMuziFHipxXySt3q1rt.jpg</thumbnail>
