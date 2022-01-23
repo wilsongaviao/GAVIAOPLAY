@@ -1,9 +1,20 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]SONS OF ANARCHY [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]DEXTER [COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5DHlhR5WHDFGkM5agZqfrtR7oDX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DEXTER</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/fIKc2cR1GglarzChMAb4BOP1qHP.jpg</fanart>
+<info>[B][COLOR yellow] Órfão aos três anos de idade, Dexter Morgan é adotado pelo oficial de polícia Harry Morgan e sua esposa Doris. Após descobrir que o jovem Dexter esteve a matar animais de estimação na vizinhança, Harry passa a ver o jovem como um psicopata, ensinando-lhe "O Código" como uma maneira de canalizar os seus instintos violentos contra pessoas que "merecem". Neste código, as vítimas de Dexter devem ser assassinos que mataram inocentes, com propensão a continuar a fazê-lo. Dexter também deve reunir provas de que o criminoso é culpado. O aspecto mais importante, no entanto, é ele jamais ser apanhado. Diversos flashbacks durante a série mostram Harry, morto anos antes, instruindo Dexter em como parecer normal e cobrir os seus rastos. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / POLICIAL / SUSPENSE[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]SONS OF ANARCHY [COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2zvmoBPssldx09krOANGwn1thl.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SONS%20OF%20ANARCHY</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/uN8GfTRnRmixAxTp8aFyOFbPxxJ.jpg</fanart>
 <info>[B][COLOR yellow]Em Charming, uma pequena cidade fictícia no norte da Califórnia, nos Estados Unidos, habita o clube de motociclistas Sons of Anarchy. O grupo lida com atividades ilícitas como o tráfico de drogas e filmes pornô e é liderado por Clay Morrow (Ron Perlman) e Jax Teller (Charlie Hunnam). Além do esforço para conciliar a sua ocupação com a família e os filhos, eles tem de conviver com suas opiniões diferentes: enquanto Morrow opta pela tradição violenta, Teller se inspira no discurso revolucionário do diário de seu pai falecido. 
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / POLICIAL / SUSPENSE[/COLOR][/B]</info>
