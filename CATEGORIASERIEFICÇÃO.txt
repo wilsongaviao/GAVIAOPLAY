@@ -1,14 +1,4 @@
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STRANGER THINGS [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/STRANGER%20THINGS</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jUrDkXkVXe5cDIYA7Ss81P1CvtX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tcTjAGX9YPCMCrnXmbgXKKtECgh.jpg</fanart>
-<info>[B][COLOR yellow] Situada no interior de Indiana, na década de 1980, a história inicia com o desaparecimento de Will, um menino de 12 anos. Enquanto a família e os amigos tentam entender o que aconteceu, o chefe de polícia Hooper inicia uma investigação e se depara com experiências secretas conduzidas pelo governo numa base militar no subúrbio da cidade. Ao mesmo tempo, os amigos de Will - Mike, Dustin e Lucas - tentam localizá-lo por conta própria, mas acabam encontrando Eleven, uma menina misteriosa, com estranhos poderes. SERIE DE FICÇÃO CIENTIFICA, MISTERIO, SUSPENSE NO BRASIL COM 3 TEMPORADAS:
-[COLOR white][B] Gênero:  [COLOR lime]Ficção / Drama /  Misterio / Suspense[/COLOR][/B]</info>
-</channels>
-</channel>
+
 ###################################################################################################################
 <channels>
 <channel>
@@ -73,17 +63,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/voRHFanyYArpefihyLgc5lcqylA.jpg</fanart>
 <info>[B][COLOR yellow]Num futuro próximo, Los Angeles foi isolada e dividida com uma muralha por uma força ocupacional desconhecida. "Colony" é centrada numa família dilacerada por forças opostas que lutam por equilibrar decisões difíceis para ficarem juntos enquanto tentam sobreviver na nova ordem mundial. Enquanto algumas pessoas optam por colaborar com as autoridades beneficiando da ocupação, outros insurgem-se e sofrem as consequências. O ex-agente do FBI Will Bowman tem um papel mais complicado visto que foi forçado a colaborar com o governo do procurador a fim de proteger a sua família e recuperar o seu filho que foi separado durante a invasão inicial.
 [/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DARK[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DARK.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg</fanart>
-<info>[B][COLOR yellow]Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
-[COLOR white][B] Gênero:  [COLOR lime][/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
