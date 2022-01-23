@@ -1,23 +1,12 @@
 ###################################################################################################################
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item><title>[B][COLOR yellow]######[COLOR white] Mindhunter - Caçador de Mentes [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/queEooKNadRzEZ6jg9jCgguCiUi.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/63tvg7N3o1bodWb2Vjzo9jxbPWc.jpg</fanart><info>[B]Sinopse:[COLOR yellow][COLOR white][B] Gênero:  [COLOR lime]Ação / Policial / Drama / Suspense [/COLOR][/B]</info></item>
-<item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B92E1A82FC44AC862A67F5CF63C5987FC081F690</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lJFRiAeD83gKyzpoqStRM3ebKul.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR]Dois agentes do FBI expandem as fronteiras da ciência criminal nos anos 70 com um perigoso mergulho no universo da psicologia do assassinato.[/B]</info></item>
-<item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6C09D0B51C0D8F994CC5D3B1F8C01539DB468C0D</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>Os instintos assassinos da Unidade de Ciência Comportamental são postos à prova quando o FBI se une a uma importante caçada por um assassino de crianças.</item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-###################################################################################################################
-<item><title>[B][COLOR crimson]######[COLOR white] 11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white]11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7FAAA7BBF7F63C60F997057961B666E64C580A</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4M1NAKPpBFuLkvIXEWlhzebfe38.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fp1YvQnhOvPUnXW8mLfeCz5bwdp.jpg</fanart>
 <info>[B]Jake Epping, um professor de língua inglesa que acaba de assinar o divórcio quando é encarregado pelo seu amigo Al (Chris Cooper) a dar continuidade em sua missão de mudar a história do mundo, usando um portal em uma lanchonete que leva as pessoas ao ano 1960.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção / Suspense[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR yellow]###### [COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85C0E09DACB1C43689E5434D69FEA05812C3631B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FI4okLPgwM4tCH02GC4LrTeAEe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jsGs8Wk3tNTBvqSh4GuQefrSHYo.jpg</fanart>
@@ -133,7 +122,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
 ###################################################################################################################
-
 <item><title>[B][COLOR yellow]######[COLOR white] A ODISSÉIA[COLOR yellow] 720p [COLOR lime] COMPLETA 2 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A51CBCCD686EAE432A121EDC1D661BECD6891419</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg</thumbnail>
@@ -156,14 +144,14 @@
 <info>[B]Sinopse:[COLOR yellow]O sultão otomano Maomé II empreende uma campanha épica para tomar Constantinopla, capital do Império Bizantino, definindo o curso da história por séculos.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR crimson]######[COLOR white] COSMOS - UMA ODISSÉIA DO ESPAÇO-TEMPO [COLOR yellow] 720p [COLOR lime] COMPLETA ( 13 EPS )[COLOR crimson]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] COSMOS - UMA ODISSÉIA DO ESPAÇO-TEMPO [COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FB1337EE885B244163DAE25BB82F29039F5419</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/47f0rqHHwWVJnEHL1JOR8SHznBZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2Nu92BI6BjqsoTOzQG3BonDCi0g.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Uma aventura que se estende por bilhões de anos na evolução da vida e da consciência. Uma visita a um laboratório de 100 mil anos de idade. A história da mudança no estilo de vida que alterou radicalmente a existência humana e a vida do herege que encontrou Deus no livro da natureza, abrindo caminho para as estrelas.
 [COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR yellow]######[COLOR white] CONSTANTINE [COLOR yellow] 720p / 1080p[COLOR lime] COMPLETA( 13 EPS )[COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] CONSTANTINE [COLOR yellow] 720p / 1080p[COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1136580F7FE6E481E4AF4B483519DD338CC130C0$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4EC77C93FA4584AC8E49299C16881353EC4B3445$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg</thumbnail>
@@ -225,34 +213,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/1pOynsdldjk8YCoXr8aoWw0laoM.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Templários transporta-nos às origens da Ordem dos Templários, centrando-se na Península Ibérica, na Primeira e Segunda Cruzadas, e nos sucessos que, em finais do século SI e princípios do XII, proporcionaram uma nova mentalidade e a proliferação de um novo modelo: os monges guerreiros. A série centra-se especialmente na influência da Ordem na criação de uma nova nação: Portugal, assim como nas primeiras Cruzadas e o impacto que provocaram numa Península Ibérica imersa em plena Reconquista.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
-
-###################################################################################################################
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/original/l5dFThYgG8OwO2eFwwfgpeMRvY0.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. [COLOR white][B] Gênero:  [COLOR lime]Ação / Policial / Drama / Suspense [/COLOR][/B]</info></item>
-<item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]O policial Sartaj Singh recebe uma pista de um criminoso foragido e agora tem de correr contra o tempo para salvar Mumbai da destruição.[/COLOR][/B]</info></item>
-<item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/5Bs2SBg97gaqoYH2c9zRNOEctaz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Com o destino de Mumbai em jogo, Sartaj Singh tenta descobrir uma ligação com o terceiro pai de Ganesh Gaitonde, um guru enigmático com um plano avassalador.[/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-
-###################################################################################################################
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item><title>[B][COLOR yellow]######[COLOR white] TERRA DE GIGANTES [COLOR yellow]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ljbqDwgOoqYvQ6WRnuLr8QleEkH.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]A história da série começa no dia 12 de junho de 1983, quando a nave espacial Spindrift fazia o vôo normal entre Los Angeles e Londres, sendo atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes, doze vezes maior que a Terra. Os "pequeninos", como os tripulantes do Spindrift são chamados pelos gigantes, passam a ser perseguidos por todos. Após caírem na Terra de Gigantes, Dan, o co-piloto da nave, continua em sua função, ajudando o Capitão Steve Burton a organizar a defesa do grupo e tentar encontrar uma maneira de volta à Terra. Seu maior choque é com Alexander Fitzhugh, um covarde passageiro do Spindrift, que nunca está disposto a ajudar e que, na fatídica viagem, levava uma valise cheia de dinheiro de um golpe que havia executado. Os pequeninos terrestres eram perseguidos também pela polícia política dos gigantes, o S.I.D, liderado pelo inspetor Kobick (Kevin Hagen). A presença do personagem era tão marcante que chegamos a estranhar o fato de o nome de Hagen não aparecer nos créditos iniciais da abertura do seriado. Kobick aparece apenas em oito episódios da série mas, graças ao talento de Hagen, e do bom nível dos roteiros, ele se tornou um dos vilões mais fortes da história da TV. No planeta onde os gigantes viviam, havia um regime autoritário no poder, muito semelhante com diversas ditaduras que existiam em várias partes do mundo na década de 60. Embora, involuntariamente ou não, não ficasse muito claro qual era o direcionamento ideológico do regime dos gigantes, foi nesse seriado que as críticas ao autoritarismo ficaram mais evidentes na obra de Allen. [COLOR white][B] Gênero:  [COLOR lime]Ficção / Aventura [/COLOR][/B]</info></item>
-<item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa74265831aab384acbf21c17a75bd42ea9306e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zn8zmkCOAoUmM4JjeCl2tX3PhQO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4uYZCz2jUzI1nq3645Esx26kTX7.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow].[/COLOR]A nave espacial Spindrift fazia o voo normal entre Los Angeles e Londres, sendo atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes, doze vezes maior que a Terra. [/B]</info></item>
-<item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e688a38f4dce3d98d3409482c46d46849f0ca806</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/mw8qrsoOjVteVlqCfc3EtT1h9Wb.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4uYZCz2jUzI1nq3645Esx26kTX7.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR] A nave espacial Spindrift fazia o voo normal entre Los Angeles e Londres, sendo atingida por uma misteriosa névoa e se metendo em uma tempestade magnética que a jogou em uma Terra alternativa povoada por gigantes, doze vezes maior que a Terra. [/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 ###################################################################################################################
 <item><title>[B][COLOR crimson]######[COLOR white] TROIA A QUEDA DE UMA CIDADE [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS   [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BE16058F6540660F868E0270AF74847EA9195B4$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
@@ -275,7 +235,7 @@
 <info>[B]Sinopse:[COLOR yellow]Esta é a história sobre um policial urbano Salmander que, depois de um pouco acidentalmente matar seu cavalo da polícia na frente de milhares de crianças, mudou-se para o local mais distante ao norte na Noruega: Hellfjord. 
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR yellow]######[COLOR white] BAND OF BROTHERS [COLOR yellow] 720p  [COLOR lime] COMPLETA 10 EPISODEOS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] BAND OF BROTHERS [COLOR yellow] 720p  [COLOR lime] COMPLETA  10 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19de7bd285b11aa7c8f93779dd13b17bab330d9$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</thumbnail>
