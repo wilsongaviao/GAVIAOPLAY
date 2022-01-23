@@ -208,17 +208,6 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TIMELESS: GUARDIÕES DA HISTÓRIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uY6hb5DHqryAw6BLLffnjB82nfS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TIMELESS.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/UBY98a1wg2fT0DZBSXl2DgTqaV.jpg</fanart>
-<info>[B][COLOR yellow]Primeira temporada completa e dublada da série Timeless. Uma série de ficção com foco em viagens no tempo maravilhosa. O roubo de uma máquina do tempo é o primeiro numa série de crimes temporais misteriosos que levam um cientista, um soldado e m professor de história a se lançarem numa busca desesperada através do passado para interromper o louco que quer destruir os Estados Unidos. Os três precisam tomar cuidado com suas ações, pois nunca se sabe qual movimento gerará consequências irreversíveis.
-COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 100[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20100.txt</externallink>
