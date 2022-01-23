@@ -216,7 +216,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
 
 ###################################################################################################################
-<item><title>[B][COLOR crimson]#########################################################[/COLOR]<link>IGNOREME</link></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/original/l5dFThYgG8OwO2eFwwfgpeMRvY0.jpg</thumbnail>
 </item>
 <item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
@@ -233,7 +233,7 @@
 <info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
 [COLOR white][B] Gênero: [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
 
-<item><title>[B][COLOR crimson]#########################################################[/COLOR]<link>IGNOREME</link></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 
 ###################################################################################################################
 <item><title>[B][COLOR yellow]######[COLOR white] TERRA DE GIGANTES [COLOR yellow] 720p [COLOR lime] COMPLETA 2 TEMP [COLOR yellow]######[/COLOR][/B]</title>
