@@ -52,7 +52,9 @@
 ######################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac6e7a4a3cbbca79f4c3d3a41f3c7fce3bf25379</link></item>
-
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11 ( LEGENDADO )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62929edbed2a88c695673d5e64e51642d9588565</link></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] TIMELESS [COLOR lime] O MILAGRE DO NATAL (FINAL DA SERIE)[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ccf6d3c0a74d96ebf1243b462242878ae1b547a$nome=[B] PARTE 01 / 02 [[/COLOR][/B]</link>
