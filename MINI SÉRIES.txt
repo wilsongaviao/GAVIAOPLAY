@@ -1,12 +1,23 @@
 ###################################################################################################################
-<item><title>[B][COLOR crimson]######[COLOR white] 11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item><title>[B][COLOR yellow]######[COLOR white] Mindhunter - Caçador de Mentes [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/queEooKNadRzEZ6jg9jCgguCiUi.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/63tvg7N3o1bodWb2Vjzo9jxbPWc.jpg</fanart><info>[B]Sinopse:[COLOR yellow][COLOR white][B] Gênero:  [COLOR lime]Ação / Policial / Drama / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B92E1A82FC44AC862A67F5CF63C5987FC081F690</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lJFRiAeD83gKyzpoqStRM3ebKul.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Dois agentes do FBI expandem as fronteiras da ciência criminal nos anos 70 com um perigoso mergulho no universo da psicologia do assassinato.[/B]</info></item>
+<item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6C09D0B51C0D8F994CC5D3B1F8C01539DB468C0D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info>Os instintos assassinos da Unidade de Ciência Comportamental são postos à prova quando o FBI se une a uma importante caçada por um assassino de crianças.</item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+###################################################################################################################
+<item><title>[B][COLOR crimson]######[COLOR white] 11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7FAAA7BBF7F63C60F997057961B666E64C580A</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4M1NAKPpBFuLkvIXEWlhzebfe38.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fp1YvQnhOvPUnXW8mLfeCz5bwdp.jpg</fanart>
 <info>[B]Jake Epping, um professor de língua inglesa que acaba de assinar o divórcio quando é encarregado pelo seu amigo Al (Chris Cooper) a dar continuidade em sua missão de mudar a história do mundo, usando um portal em uma lanchonete que leva as pessoas ao ano 1960.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção / Suspense[/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR yellow]###### [COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]###### [COLOR white] Harper's Island: O Mistério da Ilha[COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85C0E09DACB1C43689E5434D69FEA05812C3631B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FI4okLPgwM4tCH02GC4LrTeAEe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jsGs8Wk3tNTBvqSh4GuQefrSHYo.jpg</fanart>
