@@ -215,15 +215,15 @@
 <info>[B]Sinopse:[COLOR yellow]Templários transporta-nos às origens da Ordem dos Templários, centrando-se na Península Ibérica, na Primeira e Segunda Cruzadas, e nos sucessos que, em finais do século SI e princípios do XII, proporcionaram uma nova mentalidade e a proliferação de um novo modelo: os monges guerreiros. A série centra-se especialmente na influência da Ordem na criação de uma nova nação: Portugal, assim como nas primeiras Cruzadas e o impacto que provocaram numa Península Ibérica imersa em plena Reconquista.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR yellow] 720p [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title></item>
 <item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]O experiente e descarado policial Sartaj Singh (Saif Ali Khan) decide aceitar uma oferta anônima: capturar o poderoso Ganesh Gaitonde (Nawazuddin Siddiqui), chefe do crime na famosa G-Company. Mas, à medida que os dois se envolvem ainda mais nessa caçada, percebem que ela faz parte de algo muito maior e complexo, que se expande para além de Mumbai. 
-[COLOR white][B] Gênero: [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item
+[COLOR white][B] Gênero: [COLOR lime]	Ação / Drama / Policial [/COLOR][/B]</info></item>
 
-item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 7200p )[/COLOR][/B]</title></item>
+item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A1AF827B17B3063047DBC5274EBB4C00A9EC058</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pCfCYM7kFAL8EEQvdmGPx0fPXPx.jpg</fanart>
@@ -258,7 +258,7 @@ item><title>[B][COLOR lime] 2ª TEMPORADA [COLOR yellow] ( 7200p )[/COLOR][/B]</
 <info>[B]Sinopse:[COLOR yellow]Esta é a história sobre um policial urbano Salmander que, depois de um pouco acidentalmente matar seu cavalo da polícia na frente de milhares de crianças, mudou-se para o local mais distante ao norte na Noruega: Hellfjord. 
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR yellow]######[COLOR white] BAND OF BROTHERS [COLOR yellow] 720p  [COLOR lime] COMPLETA ( 10 EPISODEOS )[COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] BAND OF BROTHERS [COLOR yellow] 720p  [COLOR lime] COMPLETA 10 EPISODEOS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19de7bd285b11aa7c8f93779dd13b17bab330d9$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</thumbnail>
