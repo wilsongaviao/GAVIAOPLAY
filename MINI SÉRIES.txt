@@ -215,7 +215,7 @@
 <info>[B]Sinopse:[COLOR yellow]Templários transporta-nos às origens da Ordem dos Templários, centrando-se na Península Ibérica, na Primeira e Segunda Cruzadas, e nos sucessos que, em finais do século SI e princípios do XII, proporcionaram uma nova mentalidade e a proliferação de um novo modelo: os monges guerreiros. A série centra-se especialmente na influência da Ordem na criação de uma nova nação: Portugal, assim como nas primeiras Cruzadas e o impacto que provocaram numa Península Ibérica imersa em plena Reconquista.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR lime]  2 TEMPORADAS [COLOR crimson]<link>IGNOREME</link>######[/COLOR][/B]</title></item>
+<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link></item>
 <item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uEbNtFbK4At9WBDGap23lt1qO9n.jpg</thumbnail>
