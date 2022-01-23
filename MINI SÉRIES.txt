@@ -217,7 +217,7 @@
 
 ###################################################################################################################
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR lime]  2 TEMPORADAS [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/original/l5dFThYgG8OwO2eFwwfgpeMRvY0.jpg</thumbnail>
+<item><title>[B][COLOR crimson]######[COLOR white] JOGOS SAGRADOS [COLOR crimson]######[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/original/l5dFThYgG8OwO2eFwwfgpeMRvY0.jpg</thumbnail>
 </item>
 <item><title>[B][COLOR lime] 1ª TEMPORADA [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7802d53d4dc9ca64352a8cee5d66cc5d5e6f2d9</link>
