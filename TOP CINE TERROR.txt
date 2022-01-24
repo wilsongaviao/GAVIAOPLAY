@@ -1,3 +1,9 @@
+##############################################################################################################
+<item><title>[B][COLOR white] [COLOR yellow]Maligno ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RS5KJ7ADPK4DMGZ7Z5C2CB6URYSATWYO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uh1xY834MyV0Dfr334CjS1vU76F.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Madison passa a ter sonhos aterrorizantes de pessoas sendo brutalmente assassinadas e acaba descobrindo que, na verdade, são visões dos crimes enquanto acontecem. Aos poucos, ela percebe que esses assassinatos estão conectados a uma entidade do seu passado chamada Gabriel. Para impedir a criatura, Madison precisará investigar de onde ela surgiu e enfrentar seus traumas de infância.[/COLOR][/B]</info></item>
 ######################################################################################################################################
 <item><title>[B][COLOR white]A Bruxa Da Casa Ao Lado [COLOR lime] 1080p [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c6d70e8bf76a6d365ed95fb80399e091443276</link>
