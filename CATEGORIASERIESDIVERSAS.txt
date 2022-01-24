@@ -1,6 +1,16 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BOARDWALK EMPIRE - O IMPÉRIO DO CONTRABANDO[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BOARDWALK%20EMPIRE%20-%20O%20IMP%C3%89RIO%20DO%20CONTRABANDO</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg</fanart>
+<info>[B][COLOR yellow]Estados Unidos nos anos 1920: depois do fim da Primeira Guerra, parecia que só havia bons tempos pela frente, com a economia em alta, o avanço de novas tecnologias e a efervescência das operações ilegais que satisfaziam os desejos de todas as classes sociais, principalmente quando se tratava de contrabando de bebidas em tempos de Lei Seca. Nesse contexto, acompanhamos a trajetória de Enoch "Nucky" Thompson, o tesoureiro de Atlantic City e grande chefe do crime organizado. Parte político, parte gângster, Nucky se sente confortável nas duas posições e nada o impedirá de expandir o seu império - até que um de seus seguidores comete atos impensados para obter mais poder, o que pode colocar tudo a perder.[COLOR white][B] Gênero:  [COLOR lime]Drama / Histórico / Policial[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BIG BANG: A TEORIA[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BIG%20BANG%20-%20A%20TEORIA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg</thumbnail>
