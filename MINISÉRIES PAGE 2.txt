@@ -1,4 +1,41 @@
 ###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white]Chicago Justice [COLOR yellow] 720p [COLOR lime] COMPLETA  13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>
+<fanart></fanart>
+<info>[B]O dedicado time da Procuradoria do Estado de promotores e investigadores navega a aquecida política da cidade e de frente controvérsia, enquanto destemidamente buscam justiça. À medida que assumem apostas altas da cidade e casos muitas vezes media-frenéticos, eles devem equilibrar a opinião pública, lutas de poder dentro do sistema, e sua paixão inabalável pela lei.E tudo começa com um caso angustiante quando um dos melhores de Chicago é atingido no cumprimento do dever. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial[/COLOR][/B]</info></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8411209454399CE4B6B282B1F30C9ECC605E2B7F</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02 >>>>05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F537911C1837494CFFEAF801F69002345B837343</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:241AB6A4E8BF45C7FB8709DC96F2D6DEC026DBAB</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ADEA1692C1AEE00F01B19F0279C248805F573D0</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05C673E90E8D0AC0AAE712405FF7A6BF886FE0C8</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acab4889168724c5f30ed554ad30f93499a74a5d</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cb60d4858914248393940215ef311e1aaf6e6f</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:140c981ac128322ba8f59d39f1ac25cbd97e0d92</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e964c9eff23332120db95cff7568167cde22994c</link></item>
+######################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a67caff59cac644f934c8922ce30fc8b43868a82</link></item>
+###################################################################################################################
 <item><title>[B][COLOR yellow]######[COLOR white]A Tempestade do Século [COLOR yellow] 720p [COLOR lime] COMPLETA 3 EPS [/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D2C1D253A4F135A2DC79E6AACFF608AE3EDD476</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKvoUWrH9kh5jUCECrswLPRSrfi.jpg</thumbnail>
