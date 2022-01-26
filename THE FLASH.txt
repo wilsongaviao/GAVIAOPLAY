@@ -156,5 +156,17 @@ item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title>
 <thumbnail>https://abutretorrents.com/imagens/the-flash-7-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A40Y13XUiWZxU2EK1zhmGx2ojhB.jpg</fanart>
 </item>
+##################################################################################################################
+<item><title>[COLOR white]EP[COLOR yellow] 17[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MOLLL62TDANMMWAT2T3MJBBPMM2LCDAV</link>
+<thumbnail>https://abutretorrents.com/imagens/the-flash-7-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A40Y13XUiWZxU2EK1zhmGx2ojhB.jpg</fanart>
+</item>
+##################################################################################################################
+<item><title>[COLOR white]EP[COLOR yellow] 18[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XDZX5OJRN7ELFPOU2XYKFUTJ7TKXTAID</link>
+<thumbnail>https://abutretorrents.com/imagens/the-flash-7-temporada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A40Y13XUiWZxU2EK1zhmGx2ojhB.jpg</fanart>
+</item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
