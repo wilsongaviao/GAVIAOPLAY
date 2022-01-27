@@ -1,3 +1,10 @@
+##############################################################################################################
+<item><title>[B][COLOR white]A Vida Depois [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3b7e76165f59e4a053b35cfb205024f937d40e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qbgaxrljyqb2tMjfTntTbwRw89C.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O filme acompanha a colegial Vada em sua jornada por uma crise emocional após vivenciar uma tragédia escolar. Seu relacionamento com família e amigos, assim como sua visão do mundo, são alterados para sempre.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
 #############################################################################################################
 <item><title>[B][COLOR white]Apresentando os Ricardos [COLOR yellow] ( 720p / 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85cb9b17e5d60af264c610ce8b34315475fde0c3</link>
