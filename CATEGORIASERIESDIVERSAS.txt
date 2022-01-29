@@ -1,6 +1,17 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INFERNO SOBRE RODAS [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qpu2oA0FIuti0C27hbnWfOCpprf.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/INFERNO%20SOBRE%20RODAS</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg</fanart>
+<info>[B][COLOR yellow]Ambientada no Velho Oeste americano, conta a história de Cullen Bahannon (Anson Mount), um ex-soldado confederado que, depois da guerra civil americana, segue em direção ao Oeste para vingar a morte de sua mulher. A jornada de Cullen o leva a uma cidade perigosa e sem lei, na qual está sendo construída a primeira ferrovia transcontinental. Lá, ele se depara com a ganância e a corrupção dos que estão no comando, bem como com a situação dos imigrantes e dos afro-americanos recém-emancipados. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Faroeste [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BOARDWALK EMPIRE - O IMPÉRIO DO CONTRABANDO[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BOARDWALK%20EMPIRE%20-%20O%20IMP%C3%89RIO%20DO%20CONTRABANDO</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg</thumbnail>
