@@ -1,13 +1,4 @@
-##################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] SÉRIES ANIMADAS [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/tT71k6Pk/SERIESANIMADAS.jpg</thumbnail>       
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20SERIES%20ANIMADAS</externallink>
-<fanart>https://i.postimg.cc/MKJTMNsd/FANARTSERIEANIMADA.jpg</fanart>
-<info>[B][COLOR yellow]EXCELENTE COLETÂNEA DE SÉRIES  ANIMADAS DE TODOS OS GENEROS .SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
-</channel>
-</channels>
+
 ##################################################################################################################
 <channels>
 <channel>
