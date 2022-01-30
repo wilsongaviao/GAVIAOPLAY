@@ -33,7 +33,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SÉRIES ANIMADAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/52R04krJ/SERIESANIMADAS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SERIESANIMADAS.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20SERIES%20ANIMADAS</externallink>
 <fanart>https://i.postimg.cc/HxpsBDcQ/fanartseriesanimadas.jpg</fanart>
 <info>[B][COLOR yellow]COLETÂNEA DE SUCESSOS COM SÉRIES ANIMADAS DE TODOS OS GENEROS E ÉPOCAS[/COLOR][/B]</info></item>
 </channels>
