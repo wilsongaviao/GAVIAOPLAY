@@ -1,0 +1,7 @@
+##############################################################################################################
+<item><title>[B][COLOR white]TODAS TEMPORADAS [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uX1hWPJe5xT0siFUh2PQQbRRjW5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6C8ljuWj6ahcujTXyhPAewbVZES.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Todas as 9 temporadas completas do Anime clássico Naruto, da primeira até a 9ª temporada com todos os episódios dublados, dual áudio e legendados. Naruto é uma criança que vive em Konoha, a vila ninja do País do Fogo. Quando ainda bebê, Naruto teve um youkai, que na crença japonesa representa um monstro, aprisionado em seu corpo, o Bijuu chamado Kyuubi, pelo Yondaime Hokage, para salvar a Aldeia da folha. Desde então, Naruto é visto por muitas pessoas como um monstro, não só pelos familiares das pessoas mortas pela Kyuubi, mas também por pessoas que sofrem com as besteiras feitas por ele, que é extremamente arteiro. Incompreendido, Naruto sonha em se tornar um ninja poderoso, e ser nomeado Hokage, para assim poder ser reconhecido por todos. Essa é a melhor qualidade existente para esse anime de 2002.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comédia / Fantasia / Suspense [/COLOR][/B]</info></item>
