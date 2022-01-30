@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES ( FILMES ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/HsLSv1Td/ANIMES-FILMES.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANIMES%20%20(%20FILMES%20).txt</externallink>
 <fanart>https://i.postimg.cc/ZKv040cR/FANART-ANIMES-FILMES.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info>
 </channels>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES ( SÉRIES )  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/hP32HZGx/ANIMES-SERIES.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20ANIMES%20(S%C3%89RIES%20).txt</externallink>
 <fanart>https://i.postimg.cc/Z5knRZ7L/FANART-ANIMES-SERIES.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info>
 </channels>
