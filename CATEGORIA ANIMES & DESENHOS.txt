@@ -1,0 +1,21 @@
+
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/jqBDJsW-1/ANIMES.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/HnMstyJh/FANART-ANIMES.jpg</fanart>
+<info>[B][COLOR yellow]Coletanea com animes em series e filmes, classicos e atuais , se  voce tiver algun de sua preferencia que não se encontra em nosso acervo e so entrar em contato e pedir que sera atendido na medida do possivel[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DESENHOS [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/5Nv6BZL2/DESENHOS.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/c1tHWVDB/FANART-DESENHOS.jpg</fanart>
+<info>[B][COLOR yellow]Coleção com desenhos em filmes e series classicos e atuais , se  voce tiver algun de sua preferencia que não se encontra em nosso acervo e so entrar em contato e pedir que sera atendido na medida do possivel [/COLOR][/B]</info>
+</channels>
+</channel>
