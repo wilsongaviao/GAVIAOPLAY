@@ -1,0 +1,30 @@
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES [COLOR yellow] 2022 [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/s2HVGKM9/DESENHO-FILMES-2022.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/HLKkhHQ7/FANART-DESENHOS-FILMES.jpg</fanart>
+<info>[B][COLOR yellow] [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES[color yellow] 2021 [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/HkHWqrG5/DESENHO-FILMES-2021.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/HLKkhHQ7/FANART-DESENHOS-FILMES.jpg</fanart>
+<info>[B][COLOR yellow] [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/FRfhycct/DESENHO-FILMES.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/HLKkhHQ7/FANART-DESENHOS-FILMES.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+</channels>
+</channel>
