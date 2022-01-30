@@ -1,0 +1,14 @@
+##############################################################################################################
+<item><title>[B][COLOR white] Violet Evergarden[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2a8fd8828b8e59b170468023048430ce5be07e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpNG6z33xOtUWuOU83BE0bvorxi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zBvR0lJyKH37FPQTj5mFfYr2X4s.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Vários anos se passaram desde o fim da Grande Guerra. À medida que a torre de rádio em Leidenschaftlich continua a ser construída, os telefones logo se tornarão mais relevantes, levando a um declínio na demanda por "Autômatas da Auto-memória". Mesmo assim, Violet Evergarden continua ganhando fama após seu sucesso constante com a escrita de cartas. No entanto, às vezes, a única coisa que você deseja é uma coisa que não aparece. Violet Evergarden Movie segue Violet enquanto ela continua a compreender o conceito de emoção e o significado do amor. Ao mesmo tempo, ela busca um vislumbre de esperança de que o homem que uma vez disse a ela: "Eu te amo", possa ainda estar vivo, mesmo depois de tantos anos que se passaram.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Pretty Guardian Sailor Moon Eternal  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J56KZIZWJPCR4K4HLUFQWUEDXPBIUO44</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wcMrvKvvwrsJaNtraMUUb7q0yE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5VNzpYDK9VvHDXjAdIwC6kqzb7P.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando as cerejeiras florescem e Tóquio está em festa, celebrando o maior eclipse solar do século. A lua nova começa a tapar o sol, reduzindo gradualmente sua luz. Usagi e Chibi-Usa encontram Pegasus, que procura a donzela escolhida, capaz de romper o selo do Cristal Dourado. Enquanto isso, um misterioso grupo chamado Dead Moon Circus aparece na cidade, com o plano nefasto de espalhar pesadelos conhecidos como Lemures pelo mundo para roubar o domínio do Cristal de Prata sobre a lua e a Terra e, por fim, conquistar o universo todo.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação /  Aventura / Comédia / Drama / Fantasia / Romance [/COLOR][/B]</info></item>
