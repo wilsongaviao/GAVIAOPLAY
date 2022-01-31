@@ -12,3 +12,38 @@
 <fanart>https://www.themoviedb.org/t/p/original/5VNzpYDK9VvHDXjAdIwC6kqzb7P.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Quando as cerejeiras florescem e Tóquio está em festa, celebrando o maior eclipse solar do século. A lua nova começa a tapar o sol, reduzindo gradualmente sua luz. Usagi e Chibi-Usa encontram Pegasus, que procura a donzela escolhida, capaz de romper o selo do Cristal Dourado. Enquanto isso, um misterioso grupo chamado Dead Moon Circus aparece na cidade, com o plano nefasto de espalhar pesadelos conhecidos como Lemures pelo mundo para roubar o domínio do Cristal de Prata sobre a lua e a Terra e, por fim, conquistar o universo todo.
 [COLOR white][B] Gênero:  [COLOR lime]	Ação /  Aventura / Comédia / Drama / Fantasia / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Memórias de Marnie [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18A7B571446E8958BB1335637CC02D7D7097BD5A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ZK2BI0B5JOSErk5cR4AqVLO1cN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cnTso8Efmcjm6ahP66ridEcL6x1.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Anna é uma menina de 12 anos, filha de pais adotivos, sempre muito solitária e não exatamente feliz. Um belo dia, em um castelo numa ilha isolada, ela conhece Marnie. A menina loira de vestido branco se torna a grande e única amiga de Anna, mas ela descobrirá que Marnie não é exatamente quem parece ser.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Conto da Princesa Kaguya  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7F3E8EFFCE40BFD7C553A5040C34A2351F06FEC</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cerV9QJhSdDlnUigrsKZQfOeTpA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/imUJOrtNf8EWameChpaRLXSaX4w.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Esta animação é baseada no conto popular japonês “O Corte do Bambu”. Kaguya era um minúsculo bebê quando foi encontrada dentro de um tronco de bambu brilhante. Passado o tempo, ela se transforma em uma bela jovem que passa a ser cobiçada por cinco nobres, dentre eles, o próprio Imperador. Mas nenhum deles é o que ela realmente quer. A moça envia seus pretendentes em tarefas aparentemente impossíveis para tentar evitar o casamento com um estranho que não ama. Mas Kaguya terá que enfrentar seu destino e punição por suas escolhas.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]One Punch Man [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E85A6C98163A6941196DB801A31B2A310F522509</link>
+<thumbnail>https://4.bp.blogspot.com/-_25Kytlfi00/WVlIAwTpcfI/AAAAAAAAD7U/N92JoS5AWUUxXbvyjnSgq__MrZFb82-wQCLcBGAs/s1600/One-Punch-Man-Blu-Ray-DVD-torrent_dublado_2017_anime.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-_25Kytlfi00/WVlIAwTpcfI/AAAAAAAAD7U/N92JoS5AWUUxXbvyjnSgq__MrZFb82-wQCLcBGAs/s1600/One-Punch-Man-Blu-Ray-DVD-torrent_dublado_2017_anime.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O anime de maior sucesso dos últimos anos chega na Netflix com qualidade de buray e totalmente dublado. Conheça a história de Saitama um jovem careca, com um físico inexpressivo e com um olhar vazio, mas ele é um herói infeliz que passa o dia entediado por ser forte demais. Ele é capaz de derrotar todos os seus oponentes com apenas um soco, e isso faz com que ele não tenha mais a sensação de adrenalina, mesmo enfrentando os monstros mais poderosos. One Punch Man retrata o dia-a-dia desse grande herói em sua tediosa vida de ajudar as pessoas e em sua busca implacável por um oponente realmente poderoso. Será que o Saitama conseguirá finalmente encontrar um vilão forte o suficiente para desafiá-lo? 
+[COLOR white][B] Gênero:  [COLOR lime] Ação[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Gantz  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cde8d09fe105a579941ce32fa374cd91dab93153</link>
+<thumbnail>https://i.imgur.com/istsXku.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jNsK2a8A1DYpaCX5HGElp3t4x6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Kei Kurono é um jovem individualista, inseguro e pervertido. Sempre odiou a tudo e a todos. Um dia encontra no metrô um antigo conhecido seu, que não vê desde quando era uma criança, Masaru Katou. De início tenta evitá-lo, mas vê um mendigo bêbado caindo nos trilhos. Katou e Kurono tentam salvá-lo, só que acabam morrendo atropelados. Eles se espantam ao ver que foram levados até uma sala, juntos com outras pessoas. No meio dela está uma esfera negra, Gantz. Ela toca uma música e passa uma missão: matar Alienígenas. Mostra o arsenal de armas e o uniforme de cada. A missão deles é sobreviver ao jogo e matar os aliens indicados dentro do tempo estipulado. 
+[COLOR white][B] Gênero:  [COLOR lime] Ficção / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] A Lenda dos 108[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:052c6f587ef0123a8bbdd16c6be926b8dee3f786</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/swhS5FSx24h8YWYH4hoOUlj70Dk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/swhS5FSx24h8YWYH4hoOUlj70Dk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na China, no século XII, os 108 reis demônios levam o país sob seu controle. Enquanto o império está em chamas, o jovem príncipe Duan quer trazer paz e se livrar desses invasores a priori invencíveis. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação [/COLOR][/B]</info></item>
