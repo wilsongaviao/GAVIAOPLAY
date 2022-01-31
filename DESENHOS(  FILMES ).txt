@@ -1,108 +1,365 @@
-#############################################################################################################
-<item><title>[B][COLOR white]O Fascinante Mundo dos Corais [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:140e81435599e3b4b9b6784960585f62e3884187</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3jW7VXaI955lIfegDlB0F5OShbP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rmWIpVWeYTk7Ypq4q6BcilmNJj3.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Acompanhe a odisseia de um pequeno baiacu por um micromundo maravilhoso em busca de um lar na Grande Barreira de Corais da Austrália
-[COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Snoopy apresenta - Feliz ano novo, Lucy! [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NFKQ2OG2O3BLZ2CGMB7K33A4XAG6OXKN</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqx5WTWPX4H4g9LUCmnrtg9BIPZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7tJSulnvERJn6R9Ih2C2Uvpm8zy.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Após descobrir que sua avó não irá para o Natal, Lucy decide dar uma grande festa de Ano Novo para se animar. Enquanto isso, Charlie Brown tenta cumprir uma de suas resoluções antes que o relógio marque meia-noite.
-[COLOR white][B] Gênero:  [COLOR lime]  Comédia [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] A Serpente Verde[COLOR yellow](1080p )[/COLOR][/B]</title> pg 7
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ff0680e913954b5b308416fe9d1555c58fc782</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5QWHHjwIPoaJYHNVL0D00bxDUUC.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Ao tentar libertar a irmã das garras de Fahai, Xiao Qing chega em uma cidade distópica e encontra um homem misterioso que não se lembra do passado. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação  / Aventura [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] O Poderoso Chefinho 2 - Negócios da Família[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ceeb0fcc46af65f0175e5140290a08a277e3482</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p033k6k8V9USI0TWZavIxoYzsGi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Em O Poderoso Chefinho 2 acompanha novamente os irmãos Tim e Ted, agora adultos e vivendo vidas separadas. Enquanto Tim construiu uma vida calma no subúrbio com sua esposa, Carol, e as filhas, Tabitha e Tina, Ted se transformou em um mega empresário que resolve todos os problemas com dinheiro. Mas quando Tim descobre que sua filha caçula também é agente do BabyCorp, ele precisará da ajuda do irmão mais novo para lidar com a situação.
+<item><title>[B][COLOR white]O Homem das Cavernas [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:643B21AAFB8AC4786C9C8BAFB454D9C18538CF6D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o8dMhhcO92QhGlMy7eROcZjjphJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/z30NXJEY4YDBWEL0ICHGtv4Mt26.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nos tempos em que os dinossauros e mamutes ainda percorriam a face da terra, um corajoso homem das cavernas une sua tribo contra um inimigo poderoso da Idade do Bronze para tentar vencê-lo em uma grande batalha.
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Pretty Guardian Sailor Moon Eternal - O Filme[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J56KZIZWJPCR4K4HLUFQWUEDXPBIUO44</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wcMrvKvvwrsJaNtraMUUb7q0yE.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3FvokGWH2yMz4CbjpcHPFYBP8qb.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]A nova aventura acontece em abril, quando as cerejeiras florescem e Tóquio está em festa, celebrando o maior eclipse solar do século. A lua nova começa a tapar o sol, reduzindo gradualmente sua luz. Usagi e Chibi-Usa encontram Pegasus, que procura a donzela escolhida, capaz de romper o selo do Cristal Dourado. Enquanto isso, um misterioso grupo chamado Dead Moon Circus aparece na cidade, com o plano nefasto de espalhar pesadelos conhecidos como Lemures pelo mundo para roubar o domínio do Cristal de Prata sobre a lua e a Terra e, por fim, conquistar o universo todo.
-[COLOR white][B] Gênero:  [COLOR lime] Ação /  Aventura / Comédia / Drama /  Romance [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Princesa Encantada - Um Mistério Real  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:701b294c70376dfda82d5963bb279acb9434cceb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7KlonBzSxwi9EwPwMS7kcKzMt96.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXRt1Y0RFzWbSKO6wBjLr8yLpzb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A marca da letra Z misteriosamente aparece nos moradores do palácio, a Princesa Odette, Scully e seus amigos agora trabalham juntos na investigação desse caso. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Raya e o Último Dragão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJFBKQJXM3K4BP7APKMZ7JTNMDS32GBB</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rcUcYzGGicDvhDs58uM44tJKB9F.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Muito tempo atrás, humanos e dragões viviam juntos em harmonia no mundo de Kumandra. Mas a ameaça de uma força do mal fez com que os dragões se sacrificassem para salvar a humanidade. Agora, 500 anos depois, o perigo ressurge e a solitária guerreira Raya embarca em uma incrível jornada para encontrar o último dragão e salvar seu mundo.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comédia [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Condorito - O Filme [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11B0784A7170B4515027889ED42C267E9777DBAD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S09UY3W0EW1Txb8FirnTORqSdm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ap8eqPfaPMPr6x9uTa4vjW6KBXG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O pássaro Condorito mora em Pelotillehue e leva uma vida tranquila ao lado da namorada e dos amigos. Mas a calmaria chega ao fim quando um alienígena invade a cidade e planeja destruir tudo. Condorito então monta um plano para impedir que o lugar que tanto ama acabe
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Trolls 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:140650a334c7cd3d617d20f3a415e8bf8b3e8be4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4aOyZTiybSidipdjtv7xpeO4TZp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ybGEvB6725PkVuUfEo2txLGRwTj.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]A rainha Poppy (Anna Kendrick) e Branch (Justin Timberlake) fazem uma descoberta surpreendente: há outros mundos Troll além do seu, e suas diferenças criam grandes confrontos entre essas diversas tribos. Quando uma ameaça misteriosa coloca todos os Trolls do país em perigo, Poppy, Branch e seu grupo de amigos devem embarcar em uma jornada épica para criar harmonia entre os Trolls rivais e uní-los contra um mal maior. 
-[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família / Fantasia / Musical [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white] Duda e os Gnomos[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D070C2956BE1FA15A9CDD5A0763B453E356AB7AE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BLSBxDv3UZqnT9KsVsDItrqVKG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uAv8MOm26tAbSZbUiOtrHZx10gQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Duda e sua mãe estão de mudança para a antiga casa da tia Silvia. A casa tem muitos gnomos e eles estranhamente parecem estar mudando de lugar todo tempo. Duda percebe que coisas ainda mais esquisitas estão acontecendo na casa e que na verdade elas podem não estar sozinhas. Logo Duda descobre que os gnomos podem ganhar vida e uma grande amizade surgirá entre eles com o propósitos de proteger a casa.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Fantasia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Master Moley em O Convite Real [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG2M6N4YKP7NU5AO2JZNTQMTBYTQJCUX</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/99h0I9Lj00KkXVuput3vlgzjQSt.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/w1nEdMswtBrQ1PUyM4IXO3I2y2d.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Uma jovem toupeira pega uma rosa no Jardim da Rainha, sem saber que esse simples ato mudará não apenas sua vida, mas a vida de todas as toupeiras.
-[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
-#################################################################################################################
-<item><title>[B][COLOR white]Children of the Whales[COLOR yellow]( 720 / 1080p )[COLOR lime]DRAMA / FANTASIA [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:834d83c9fde64a7168c003e2b3150a56f2c39faa&$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ef3e20e76281c27b17777b72512960c98150a18&$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://abutretorrents.com/imagens/children-of-the-whales-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]O anime se passa em mundo coberto de areia aonde as pessoas moram em cidades moveis que viajam pelo deserto. Ao cruzar com uma cidade desabitada eles encontram uma garota quase morta, que vai mudar a vida de algumas pessoas daquela cidade para sempre.. [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]Mobile Suit Gundam - Hathaway[COLOR yellow]( 1080p)[COLOR lime] AÇÃO / DRAMA [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46IS4DDPI2ZI3FRCONXFQODC2R44BJBA</link>
-<thumbnail>https://abutretorrents.com/imagens/mobile-suit-gundam-hathaway-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow] Uma trilogia de filmes comemorando o 40º aniversário da franquia Gundam e o segundo projeto no "Projeto UC NexT 0100" que abordará o futuro da linha do tempo da UC. UC 0105 - doze anos após a Segunda Guerra Neo Zeon, a paz na Terra e suas colônias são perturbadas por "Mufti", uma organização terrorista empenhada em impedir a Federação da Terra de privatizar a Terra para os privilegiados. Estúdio: SUNRISE.Gênero: Ação, Drama, Ficção científica, Mecha, Militar. mudar a vida de algumas pessoas daquela cidade para sempre.. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]A Tartaruga Vermelha [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:306ca871a79cb0b332b58971fb4b3ae6deee4c93</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncjwrs7HpGdu5OAAob5CY341KA2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uRjJHCpKciC24WLSJbDOXmPIpF3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após sobreviver a um naufrágio, um homem se vê em uma ilha completamente deserta. Lá ele consegue se manter, através da pesca, e tenta construir uma jangada que lhe permita deixar o local. Só que, sempre que ele parte com a embarcação, ela é destruída por um ser misterioso. Logo ele descobre que a causa é uma imensa tartaruga vermelha, com quem manterá uma relação inusitada.
+[COLOR white][B] Gênero:  [COLOR lime]Fantasia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]100% Lobo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5M43BB5JEBUPXLSD5LKDDDM6GUQQELFV</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Freddy Lupin, herdeiro de uma orgulhosa família de lobisomens, fica chocado quando, no seu 14º aniversário, seu primeiro 'warfing' dá errado, transformando-o em um poodle feroz. Os anciões da matilha dão a Freddy até o próximo nascer da lua para provar que ele tem o coração de um lobo, ou corre o risco de ser expulso para sempre. Com a ajuda de um aliado improvável em uma rua perdida chamada Batty, Freddy deve provar que é 100% Lobo.
-[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia  [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]Surpreendentes X-Men[COLOR yellow]( 720p)[COLOR lime]AÇÃO / FICÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E489F6E25035071C134020626B3924655E26BBA</link>
-<thumbnail>https://abutretorrents.com/imagens/surpreendentes-x-men-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>>
-<info>[B]Sinopse:[COLOR yellow]Do mestre contador de histórias Joss Whedon (Os Vingadores) e artista premiado John Cassaday, quatro histórias dos quadrinhos de tirar o fôlego, que prometem abalar as estruturas dos X-Men para sempre! [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]A Abelhinha Maya [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80D45A86432292AA54480260AC696E60C5E0A1CF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/68ot38BwgfZjkIYRiuvXCtKDxCL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e8IIrS4NksVOebS9YEQmzm7eJe0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis, como consequência, é forçada a participar dos Jogos de Mel e assim salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, e enfrentar situações inéditas e desafiadoras.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Origem dos Guardiões [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:364CF0230AB48D0D635DA1345908193AADFDCB3C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qexDkVYcoJMP9YguYw3ej1Xud3U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/46IGtYNjpIvQYRIQlb2X493Wh8x.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]As crianças do mundo inteiro são protegidas por um seleto grupo de guardiões: Papai Noel, Fada do Dente, Coelho da Páscoa e Sandman. São eles que garantem a inocência e as lendas infantis. Mas um espírito maligno, o Breu, pretende transformar todos os sonhos em pesadelo, despertando medo em todas as crianças. Para combater este adversário poderoso, a Lua designa um novo guardião para ajudar o grupo: Jack Frost, um garotinho invisível que controla o inverno. Sem conhecer sua própria vocação de guardião, ele embarca em uma aventura na qual vai descobrir tanto sobre as crianças quanto sobre seu próprio passado.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] A Pequena Sereia[COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54cd867f32bf1c1bfed96dd3123143a1ac301287</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o3gOoWXt7y7R9dKNMlEqhU33sRV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ariel é a filha caçula do Rei Tritão, comandante dos sete mares, que está insatisfeita com sua vida. Ela deseja caminhar entre os humanos para conhecê-los melhor, mas sempre é proibida por seu pai, que considera os humanos como sendo "bárbaros comedores de peixe". Até que ela se apaixona por um jovem príncipe e, no intuito de conhecê-lo, resolve firmar um pacto com Úrsula, a bruxa do reino, que faz com que ela ganhe pernas e se torne uma verdadeira humana. Porém, Úrsula também tem seus planos e eles incluem a conquista do reino de Tritão.
+[COLOR white][B] Gênero:  [COLOR lime]	Aventura / Clássico / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Gnomeu e Julieta: O Mistério do Jardim [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/epvRtYmscoCPEQ4DLtzr2o6TuL1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a8yYZd7vECN3myX8dJiXOlN2bgf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Gnomeu e Julieta chegam em Londres, na Inglaterra, onde são encarregados como os novos responsáveis pela manutenção do jardim. A nova tarefa cria alguns atritos entre o casal, o que faz com que Gnomeu tente impressioná-la com uma flor que remete ao início deles. O plano dá errado e, ao retornar para casa, Gnomeu e Julieta descobrem que todos os seus amigos gnomos desapareceram. Logo eles encontram Sherlock Gnomes, que está investigando o sumiço deles ao lado de seu fiel companheiro Watson.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ursinhos Carinhosos [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33f88e22ef493725c9489fbc6e2529cddacf4456</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rDiCXDLeUgAtFqBq0zpXVdGulVt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ycVADUTP78aJXV8FKmoSkdruo64.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] O desenho conta a história de uma família de ursos carinhosos que ajudam as pessoas a trocarem bons sentimentos, e protegem a Terra das sombras do mal e do temido vilão Coração Gelado, que tenta a todo custo acabar com o amor. Embora o nome seja Ursinhos Carinhosos, a família conta com animais diferentes, havendo então a diferenciação entre os Ursinhos Carinhosos (ursos coloridos) e os primos dos Ursinhos (que são outros animais, como macaco, carneiro, coelho, pinguim, guaxinim, entre outros). A origem da família está ligada à Ursa Fiel e ao cavalo Nobre, de cujos corações repletos de bons sentimentos surgem os demais membros da família dos ursinhos. Os Ursinhos Carinhosos habitam a Nuvem Rosa, repleta de nuvens e arco-íris. Possui o Templo dos Corações, um salão em forma de coração vermelho, além da Casa da Vovó e o Carinhômetro, que indica problemas relacionados aos sentimentos. Os primos dos Ursinhos geralmente habitam a Floresta dos Sentimentos, um lugar mágico em que tudo lembra corações. A família conta com inúmeros membros, cada um com um símbolo na barriga, relacionado ao nome, ou não. Este símbolo resume o poder dos ursinhos, que em situações de perigo atiram raios quentes repletos de sentimentos bons, sempre na forma do símbolo. Os símbolos também podem virar objetos específicos ou balões de aniversário, conforme a necessidade. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares - Invasão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F2466641653A37A4FEB70233D14105D4872D463</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hHDNShZLOEPgtGsoOCeQkRQ7mUN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uAJCrwsi9OWNOa2TeONdbYVBiuN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O distante posto avançado da Federação, Fort Casey, é atacado por insetos. A equipe da nave Alesia recebe a missão de ajudar a nave John A. Warden que está em Fort Casey à evacuar, juntamente com os sobreviventes e trazer a inteligência militar em segurança de volta à Terra. Carl Jenkins, ministro da Paranormal Warfare, leva a nave numa missão clandestina antes de seu encontro com o Alesia e desaparece na nebulosa. Agora, os soldados veteranos são enviados em uma missão de resgate que pode levar a consequências muito mais sinistras do que jamais poderiam ter imaginado.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação /  Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Esquadrão Suicida - Acerto de Contas [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A02B6E1CC506DDA0A32A5ABF04F4EB67AB42016</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3yN0FcOB2AljeaqeA8UOz0PQDuC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dCQufBk08xVYRethCBqXU7I4vYn.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]É uma batalha na Belle Reve e isso só pode significar que Amanda Waller, a diretora fria e calculista da penitenciária, tem uma missão que apenas os condenados vão assumir. É hora de desencadear a Força Tarefa X novamente, cheia de veteranos experientes, como Pistoleiro, Capitão Bumerangue e Arlequina. Esses criminosos ardilosos são acompanhados dos recém-chegados Copperhead, Nevasca e o mestre da arte marcial, Tigre de Bronze! Com o seu alvo sendo um objeto místico tão poderoso que eles estão dispostos a arriscar suas próprias vidas para roubá-lo, você pode ter certeza de que será colisão de caos, tiroteios e atitudes. Então, mire para uma viagem furiosa com o Esquadrão Suicida!
+[COLOR white][B] Gênero:  [COLOR lime]Ação [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mortal Kombat - Defensores do Reino  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344D40146EC66B3423641C908C98DCAFB4E1E016</link>
+<thumbnail>https://i.imgur.com/wKHU78G.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-XbQ7dsEXkaU/TpfTxO3yFYI/AAAAAAAAC0c/ah9CDxJboC0/s640/MK_Defenders_Of_The_Realm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mortal Kombat - Defensores do Reino é um desenho do aclamado jogo Mortal Kombat. Ela relata as batalhas contra Shao Kahn e o seu exército, para impedir que eles dominem a terra. Um desenho repleto de lutas e aventuras incríveis
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Clássico [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball Z - O Homem Mais Forte do Mundo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EZR4Y7I47PQJNARLXNMNGB372ZA3ESN</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pLuoFuzygOdWBRJhLQWSbKeoZ0s.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Oolong rouba o radar do dragão da Bulma e descobre que no Pólo Norte um tal de Dr. Kouchin invocou Shenlong com a intenção de pedir ao dragão que retire Dr. Whillow e seu laboratório das profundezas do gelo. Há cinquenta anos, Dr. Whillow foi destruído e acabou soterrado no gelo junto com seu laboratório. Agora ele é apenas cérebro em cima de um robô que está à procura do corpo do homem mais forte do mundo, mas na época em que ele foi derrotado e soterrado no gelo, o homem mais forte do mundo era Mestre Kame e ele acaba o raptando, além de sequestrar Bulma também e Piccolo.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação /  Aventura / Clássico [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] BugiGangue no Espaço[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SYOLGFEJQFWVE537MLNKPU7GWGANMFX6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cQ0qDcIPed4rkss06mAUkbrHEYC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mDzCPs037RLsUAT4yPJYFHUN2Ef.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Gustavinho, Fefa e os demais integrantes do clube BugiGangue estão preocupados com os trabalhos da escola, mas nem imaginam que em um ponto distante da galáxia o vilão Gana Golber tomou o poder da Confederação dos Planetas, ameaçando a paz do universo. Expulsos da confederação, sete Invas, alienígenas atrapalhados e ingênuos, conseguem escapar ao cerco de Gana, mas na fuga sua nave é danificada e cai na Terra. Logo os Invas fazem amizade com as crianças do clube, consertam a nave e embarcam juntos numa aventura intergaláctica para restaurar a paz do universo.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Nacional [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Pedro Coelho[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B0B0FC1A71A63D5AC8307877EE18AB65DEEACE8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9Yp41eDDrx4HxFKW8vt9xKPobB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aGNF4TUb7RkmNqOywum8kghDvlt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Pedro Coelho é um animal rebelde que apronta todas no quintal e até dentro da casa do Mr. McGregor (Domhnall Gleeson), com quem trava uma dura batalha pelo carinho da amante de animais Bea (Rose Byrne).
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Spark – Uma Aventura Espacial [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F049697976FCE64A0C71F850438BC816DCF462B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pT9Feh7VESID4gbTlmTcIMHZIzJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sFwiAaRMCVKGzH5zYwuACJoqO7U.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Spark é um macaco adolescente que vive junto com seus amigos Chunk e Vix no planeta Bana, um local abandonado há 13 anos. No passado, o maligno e poderoso senhor General Zhong tomou controle do planeta Bana, expulsando a família de Spark e fazendo ele viver escondido. Agora, ele e seus amigos são os únicos que podem impedir o novo plano de Zhong de destruir todo o universo.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Rio [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29c27fb882eae52637ab4f2700a753f6c4c5e68e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pPvCSyQCY6Xtl78Qo9o0YStUj6o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ukNTB96qPadujTRDagpN5EBHR5P.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Capturada por contrabandistas de animais quando tinha acabado de nascer, a arara Blu nunca aprendeu a voar e vive uma vida domesticada feliz em Minnesota, nos Estados Unidos, com sua dona, Linda. Blu pensa que é a última arara de sua espécie. Mas quando descobrem que Jade, uma fêmea, vive no Rio de Janeiro, Blu e Linda vão ao seu encontro em para recuperar a espécie.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia / Família[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Lino - Uma Aventura de Sete Vidas[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676cae1763a92184753965d492c26a320444ea0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aZnMOMIVa4k79EGZtveo6HSbiLH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sJNFfTWGQFG1jqJFiIW6lBbC6Dl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lino, um animador de festas azarado, não aguenta mais trabalhar com uma ridícula fantasia de gato gigante. Para mudar sua vida, ele contrata um feiticeiro, mas a magia acaba sendo um tiro no pé e ele se transforma justamente em um felino gigante.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Rio 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f50a9da0ad1628be6a8daec0baec06f96e3e1b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Rio 2, encontraremos Blu, Jade e seus três filhos vivendo a perfeita vida doméstica na Cidade Maravilhosa. Quando Jade decide que as crianças precisam aprender a viver como pássaros reais, ela insiste que a família vá para a Amazônia. Conforme Blu tenta se adaptar aos novos vizinhos e à sua nova vida, ele se preocupa com a possibilidade de perder Jade e as crianças para a selva
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Em Busca do Vale Encantado[COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42d50d4c52ac16c72c9eaddc24d8e93553fcc64c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AgdpO2FE5B1pqOa6e9PPaDeFl3U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Embarque numa jornada a uma encantadora aventura pré-histórica com os amigos dinossauros Littlefoot, Saura, Espora, Patassaura e Petrúcio neste aclamado clássico para toda a família. Na distante época dos vulcões e perigosos terremotos, um jovem braquiossauro chadado Littlefoot é repentinamente deixado sozinho. Saindo à procura do lendário Vale Encantado, ele encontra quatro outros jovens dinossauros que concordam em acompanhá-lo em sua jornada. Numa ousada aventura para cruzar uma paisagem cheia de perigos, o bravo grupo encontra predadores famintos e desafios assustadores, enquanto aprende novas lições de vida e a importância do trabalho em equipe.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Robôs [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49e485a5ad4e3a32c490eddbf9991ab97f208d51</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tC9hcesF7QpMFuB6MvQg900VUyX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Rodney Lataria é um robô que tem um dom para inventar máquinas, que trabalha com seu pai lavando pratos. Sonhando em conhecer seu ídolo, o Grande Soldador, Rodney decide partir em uma viagem rumo a Robópolis. Porém, ao chegar na cidade, ele percebe que sua busca será mais difícil do que imaginava. Logo Rodney se torna amigo dos Enferrujados, um grupo de robôs de rua que sabe se virar e que acaba por abrigá-lo. Tentando encontrar o Grande Soldador e mantendo seu ideal em fazer um mundo melhor, ele enfrenta situações que podem pôr em risco a própria existência de Robópolis.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Meu Amigo Vampiro [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e6fd264b1aef229e37739bafc0c8444b2d0e316</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zhsPZXCBwt2fL8GoQtmLIomVRpA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/smQEezodXnwiU2X6wtl2z9C6Wpo.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Entendiado em seu 13º aniversário pelo 300º ano, o vampiro Rudolph decidiu iniciar uma ousada aventura: vai para o mundo real dos humanos buscar por novidades. Lá, onde apenas pessoas vivas têm espaço, ele vai começar uma amizade improvável com Tony, um adolescente de 12 anos apaixonado por lendas vampirescas. Mas o que ele não imagina é que Roque, um caçador, pretender capturá-lo a qualquer custo.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Caninos Brancos [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:056F45B7700204840AF90AE697B7EED14ECA7844</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9sIHDlr8tFcx2oy6tvCLtxtdPeQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y8CrnVnjAKpIjj83wEuSuskPWWS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Movido pela curiosidade, um leal cão-lobo embarca em uma grande aventura na companhia de três donos muito diferentes. Conto sobre a atração canina entre a vida na natureza e a vida doméstica. Animação baseada no clássico romance de Jack London, Caninos Brancos - Croc-Blanc (1906). 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Aventuras de Paddington [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FEE5F442C677124F0C59065F5E6A3D8F7E140CF6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49ybMvALWRKVVpONPIKWYATLihH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Paddington (voz de Ben Whishaw) foi criado na floresta do Peru pelos tios Pastuzo (voz de Michael Gambon) e Luzy (voz de Imelda Staunton), mas um terremoto acaba separando o trio. Diante disto, o pequeno urso é enviado pela tia para Londres, local onde mora um explorador que visitou o Peru décadas atrás. Paddington faz a viagem clandestinamente e, ao chegar, acaba indo para uma estação de trem. Lá ele conhece a família Brown, que decide ajudá-lo a encontrar o tal explorador. Só que a vida na civilização e entre humanos não é tão simples assim.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Aventuras de Paddington 2  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23269240FD3BF1000A11FC66775B0EEA7D2A63A5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7Kvh4mj28zqJ1ji3gClFKag3ES.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após ser adotado pela família Brown, Paddington ganhou muita popularidade na comunidade de Windsor Gardens. No aniversario de 100 anos de sua tia Lucy, esse simpático ursinho sai em busca do presente perfeito e acaba encontrando um livro único na loja de antiguidades do senhor Gruber. Paddington se submete a uma série de trabalhos bizarros para poder comprá-lo, e quando o livro é roubado, ele e sua família farão de tudo para encontrar o ladrão.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Uma Cilada para Roger Rabbit [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB0D313D066356D72032D41A27DE84ABEAEB953B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jFzkVo7qxwNTrKfHFapJsA4pPn.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O detetive de carne e osso Eddie Valiant (Bob Hoskins) é contratado para descobrir o que está acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme é encontrado morto, Roger é o principal suspeito do crime no mundo real. Para piorar a situação, um vilão quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Branca de Neve e os Sete Anões [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07964E983CDFA4ACB59EB20E3BE1D771CDE3CB73</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pmZiChyJs5Y0tz7sMAiZNNIo9z4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A rainha malvada morre de ciúmes da beleza de Branca de Neve e manda mata-la. Logo, descobre que a jovem não morreu e está morando na floresta com sete amiguinhos. A princesa então é envenenada pela rainha e só o beijo de um príncipe pode salvá-la.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Clássico / Família / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dumbo  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEEFA126F381D0FB5EFA84CFC7D0CB8F9334860B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Dumbo é um bebé elefante que nasceu com umas orelhas enormes. Um dia ele conhece Timóteo, um ratinho que mete medo à maioria dos elefantes do circo onde vive Dumbo. Ao contrário do que se podia esperar, o rato e o elefante acabam por se tornar amigos e, juntos, eles tornam-se as maiores atracções do circo. Usando suas orelhas, Dumbo faz o que nenhum outro elefante consegue: voar!
+[COLOR white][B] Gênero:  [COLOR lime]Clássico / Drama / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Nova Onda do Imperador [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:298C99A443FCB2B7E414A3B7EBF1AA8A0B8AD273</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iN4nsXWzASSjYUIHUkwSJQ6b2UW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3eaZRI3ie9go3Y9IdgAkq1nTiXy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Divirta-se com o arrogante imperador Kuzco que é transformado em Ihama pela malvada conselheira Yzma e seu capanga bonitão Kronk, para governar o reino. Agora o imperador, que sempre teve o mundo a seus pés, tem de se aliar a um caipira simpático chamado Pacha. Mas será que essa realeza tão antipática conseguirá mudar, tornando-se uma pessoa mais bondosa e gentil?
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Os Incríveis [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e029098d27c543891bd3ac29fd473e80377b954a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos, Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta. Ele logo descobre que só uma família inteira de super-heróis será capaz de salvar o mundo e impedir sua total destruição.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Minúsculos - O Filme [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21F972DD8365903D6736D081A0C658245680EFED</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zOoAoHhOcunlUsB4FXhbfwu52rT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8MLUpbQFbApiH47LZGkVIYeCmVD.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em uma pacífica clareira, entre as sobras de um piquenique, começa uma batalha entre duas tribos de formigas em busca de uma caixa de açúcar. Uma jovem e corajosa joaninha acaba sendo capturada no meio do fogo cruzado e torna-se aliada das formigas negras, ajudando na luta contra as terríveis formigas vermelhas.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
 #############################################################################################################
-<item><title>[B][COLOR white]Sonhos S.A [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f868565d5e0a64f241025d344a31fc29e0eb9da</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/atlvvY0QnnW5WrW0UEWfcpdIIX9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iVpjYzVvCU9n4FpYk7gnZWbKcg.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Em A Fábrica de Sonhos, Minna é uma jovem menina que descobre recentemente seus poderes de criar e controlar os sonhos de outras pessoas. Determinada a ensinar uma lição à sua meia-irmã, Minna faz mal uso de sua capacidade sobrenatural, mas quando a meia-irmã não consegue mais acordar, Minna precisa entrar no mundo dos sonhos para salvá-la.
-[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia / Drama[/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Barbie - Aventura nas Estrelas  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ED0C43E119C6B8BF7A9F2BB8BB322AB5DFCD82</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4s9CoIDiC9O1H9cdV97ogci5HdH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hXRUkwllsCiS5TUid79sDLsPy7I.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Barbie™ leva uma vida cheia de aventura e diversão voando de hoverboard junto com seu bichinho Pipoca em um maravilhoso planeta distante. Um dia tudo muda quando o brilho da sua galáxia enfraquece e as estrelas começam a parar sua dança pelo céu. Mesmo com receio de deixar seu lar, Barbie™ viaja para o Planeta Capital e se une a uma equipe incrível em uma missão para salvar as estrelas. Lá, ela encontra a campeã galáctica de hoverboard, Sal-lee, e um grupo de amigos cheios de talento. Barbie™ logo descobre que escutando seu coração e com a ajuda de seus amigos, ela pode se tornar a líder que a galáxia inteira está esperando.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Novos Deuses , Nezha Reborn[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58cb0ff12ef3363909be206d4dd436622abf61fe</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/suoAUkRys9B6LEpHNzVxKhxgLfY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Nezha, um fã de corridas que ganha a vida como entregador, encontra velhos inimigos e precisa redescobrir seus poderes para proteger a família e os amigos.
-[COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]LEGO Star Wars - Especial de Festas[COLOR yellow]( 720p ) [COLOR lime]AÇÃO / AVENTURA / COMÉDIA / FICÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f8f933b69b32838e76a8a1f9d5e25145090d74f</link>
-<thumbnail>https://abutretorrents.com/imagens/lego-star-wars-especial-de-festas-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Rey deixa seus amigos para se preparar para o Dia da Vida enquanto ela embarca em uma aventura para obter um conhecimento mais profundo da Força. Em um templo misterioso, ela é lançada em uma aventura na linha do tempo. Ela vai voltar a tempo para o Dia da Vida? [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]O Natal do Zé Coleta[COLOR yellow]( 1080p ) [COLOR lime]AVENTURA / COMÉDIA[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9d959e79c5c82e2214e1bc29981a3dc58392c5e</link>
-<thumbnail>https://abutretorrents.com/imagens/o-natal-do-ze-coleta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Papai Noel tem que fazer um pouso forçado e cabe a Hank, Zé Coleta e os amigos animais ajudar a salvar o Natal de todos. [/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[B][COLOR white]O X do Natal[COLOR yellow]( 1080p ) [COLOR lime]AVENTURA / FICÇÃO[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a04f337c117bbe81b5d2b139372ab9e00e8107fd</link>
-<thumbnail>https://abutretorrents.com/imagens/o-x-do-natal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Quando ex
+<item><title>[B][COLOR white]Minions: O Filme [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4CE48361A37F0EE1D861972CB4F018A0C7FCC397</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Seres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill (Sandra Bullock), que ambiciona ser a primeira mulher a dominar o mundo.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]O Cao e a Raposa [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bce5baa672706d8e542366fb018a0415a6f7935d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rmdeW5vZggMcKaQcoRVHcGkcoAA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um filhote de raposa órfão e um cachorrinho viram grandes amigos quando pequenos, mas a amizade deles se mostra impossível pois eles pertencem a mundos diferentes, e acabam tomando rumos distintos e se separando pelo destino. Quando adultos, eles se reencontram em uma situação que vai colocar à prova essa bela amizade e que talvez transforme os dois amigos de longa data em inimigos. 
+[COLOR white][B] Gênero:  [COLOR lime]	Aventura / Clássico / Família / Infantil [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Cão e a Raposa 2 [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E817F407B019DB2228B974CC2702D8B60ABCEB9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p7tPn2knHDMTlgr63L5bdPBPZf7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tJRbPH8Q0divR3UkdpVxmNcd1YE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A raposa Tod e o cão Cooper têm sua amizade provada mais uma vez. Quando a cachorra Dixie sai da banda canina "Singin' Strays", o líder do grupo convida Cooper para ficar no lugar dela. Animado com a banda, Cooper esquece seu relacionamento com Tod, descobrindo posteriormente que o mundo do espetáculo é perverso, o que não é para ele.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Bons de Bico [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:876e7f125ab5ae7701cf360a17802b134bafbe48</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zlXAfUwE3CRzB9TbrwvmQLlAf6L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7zdUMCOlxPiOT8kOcCgr40jXlLI.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Zeca e Beto Bom de Bico são dois perus que decidem lutar por uma grande causa: tirar os perus do cardápio da ceia de Natal. Para isso eles irão viajar em uma máquina do tempo e voltar ao passado para tentar mudar esta tradição.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Madagascar [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d22d6ba4fd23329d13827f2cacce8572aa2c529</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7aoLcwd4nQVGbG7L4vqu0d929JD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cyC9hzqjKN6dpQdjW7fD2PVX315.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O leão Alex é a grande atração do zoológico do Central Park, em Nova York. Ele e seus melhores amigos, a zebra Marty, a girafa Melman e a hipopótamo Gloria, sempre passaram a vida em cativeiro e desconhecem o que é morar na selva. Curioso em saber o que há por trás dos muros do zoo, Marty decide fugir e explorar o mundo. Ao perceberem, Alex, Gloria e Melman decidem partir à sua procura. O trio encontra Marty na estação Grand Central do metrô, mas antes que consigam voltar para casa são atingidos por dardos tranquilizantes e capturados. Embarcados em um navio rumo à África, eles acabam na ilha de Madagascar, onde precisam encontrar meios de sobrevivência em uma selva verdadeira.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Madagascar 2: A Grande Escapada[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c53e06ae8fecbeae2ceb87d72aa5d0ab07c3cd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u6w0HVvpQTsthsi6pqxO5X72E8K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4LkgxXoedieEmBhpsodVymovaKu.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Alex, Marty, Melman, Gloria, Rei Julien, Maurice, os pinguins e os chimpanzés estão no longínquo litoral de Madagascar. Para deixar o local os pinguins consertam um velho avião de guerra, mas logo em seu 1º voo ele cai. Isto faz com que os animais do zoológico de Nova York tenham que lidar, pela 1ª vez na vida, com espécies semelhantes a eles, só que habituadas à vida selvagem.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Scooby-Doo na Ilha dos Zumbis [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f1992eaa967e994170669b01f2beaa300bd1978</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ilm2lTg9GL7c9U6vcVza9X9Vuqn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/woFsToiI9otSnanKfChq5VKsgFp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Scooby Doo, Salsicha, Velma, Daphne e Fred estão na ativa de novo para tentar resolver o mais assustador e divertido mistério de suas carreiras. Nossos garotos “intrometidos” desta vez encontram-se numa ilha mal assombrada para investigar o fantasma do pirata Moonscar. Mas o espírito do corsário não é o único a atormentar a ilha. Os detetives também encontram com estranhas criaturas e zumbis!
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Clássico / Comédia[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Coleção de Curtas da Walt Disney [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEBA7993692A52DF38B8195DCB6131597EF17890</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxAG1JMePZ8pt2D5cXS3bm9qFgk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvDystW8aEq1DUVlABTpmQCG6T5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Dos Estúdios Walt Disney Animation chega uma nova e extraordinária coleção de curtas-metragens premiados e adorados, incluindo Frozen: Febre Congelante, estrelado por Anna, Elsa, Olaf, Sven e Kristoff. Esta coleção também traz o inovador desenho animado do Mickey Mouse de 2013, Hora de Viajar, e ainda os vencedores do Oscar de Melhor Curta de Animação, O Avião de Papel (2012), O Banquete (2014) e o indicado ao Oscar Lorenzo. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Lego Friends - Para Sempre Amigas [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7B420E12B7E8F00385EF263D99E9AC8354648D2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVcwSDfkxXbnBAixNcS4DgopU9x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/higsxJDg940kU2fOLWyHT5OgEe0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Amizade Verdadeira no glamoroso mundo do Pop! Junte-se a Olivia, Stephannie, Emma, Mia e Andrea, como elas aprendem sobre a amizade, fama e diversão. Estrelas pop no mundo de Heartlake City.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Família[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Bolt - Supercão [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c907f8635547a75aad0d2fccedcdea078164f9b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/puAIiFICbqLehrE8X884ZbNxI8N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Bolt é o astro do maior e mais divertido show de Hollywood. O único problema é que ele acha que é tudo de verdade. Um dia, acidentalmente, o Supercão embarca para a cidade de Nova York e se separa da sua amada dona e coestrela Penny. Agora, na vida real, Bolt entra em ação para encontrar o caminho de volta para casa. Junto ao seu hilário amigo auxiliar Rhino, seu fã número 1, e uma gata esperta chamada Mittens, começam uma incrível jornada em que ele descobre que não precisa de superpoderes par ser um herói.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Jack e a Mecânica do Coração [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DC12E3A25AFE17D192840E88A68E17D072CA7E12</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kYcmBkPpqunZw0Za0MRzZwlX7M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1pgQZQFKwMN05lotPeWL46QfWgp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No século 19, Little Jack nasce em um dia tão frio que o seu coração fica congelado. Madeleine, a parteira decide então substituir o coração do garoto por um relógio de cuco para que ele consiga sobreviver. A situação é complicada para Little Jack, pois ele precisa evitar emoções muito fortes para que nada dê errado, principalmente se apaixonar. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Final Fantasy - The Spirits Within [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:423e375dbd9fedee6668abf49250c9aa8117e0b8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3m1GhcO2LkTRsBAxVEtrAR1JLUf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pCcGrd6MQ4z2Jee52uoAgnsqu8z.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] Em pleno ano de 2065, o caos e destruição rondam a Terra. Um meteoro atingiu o planeta e lançou ao longo de toda a superfície terrestre milhões de aliens, que têm por objetivo extinguir toda a vida do planeta. Com isso, as cidades foram abandonadas, a população foi dizimada e os poucos seres humanos que restam precisam encontrar meios para sobreviver. Um deles é a Dra. Aki Ross, uma bela e determinada cientista que foi infectada de forma mortal pelos aliens e tem a chave para descobrir o ponto fraco de seu oponente. Agora, com a orientação de seu mentor científico, Dr. Sid, e a ajuda do esquadrão militar Deep Eyes, comandado pelo capitão Gray Edwards, a Dra. Ross busca salvar não apenas o planeta Terra mas também a si mesma. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Operação Big Hero[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FEEFCA42E390807152A3E59510822F8ABABABFF9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5EodFesjReSDlX1c0I5ANZijBFy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O grande robô inflável está sempre a postos para cuidar de Hiro Hamada. Quando algo devastador assola a cidade, o menino prodígio, seus amigos e o robô formam um grupo de heróis para combater o mal.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Yellowbird - O Pequeno Herói [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED7E30B214B228B24CCC6B6B791C8314AA6F627A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybLFOQnd5kqZlFfLvFkmG3LDTAQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lj3VTVCQ6aTNvCkGKEpOCyyPgvF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um pequenino passarinho órfão que nunca saiu de seu ninho. Tímido, desajeitado e semnenhuma confiança, ele se torna inesperadamente o líder de um bando que migra para a África. Junte-se aele e seus novos amigos em uma aventura cheia de descobertas e surpresa
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Princesa Encantada - Princesa e Pirata [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C67CBA996E09F25D1C5C2EB2645496F1BF77C6C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zkjyYUOjDCgyU2mu4SCxScGJYn2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nV9IpOcEU7PRcJS6sQLlkSmzmIE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Com os país viajando no verão, a jovem e apaixonante princesa Alise deve passar seu tempo com a rainha Uberta, aprendendo com ser uma perfeita realeza... Mas o que ela realmente quer é se tornar uma grande pirata! Sendo assim, a princesa Alise zarpa com o Lord Rogers Jean Bob, o sapo e Speed a tartaruga em uma ousada viagem ao alto mar, numa incrível aventura, cheia de perigos e descobertas.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Norm e os Invencíveis [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:105B85CFCDF71E8F510A7DDEBF9C01416B1BD824</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/usGFCIMg0CZR9nyLlHPNVFXh5Vc.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Norm é um urso polar do Ártico que não tem a menor vocação para a vida selvagem. Além do mais, ele domina uma estranha habilidade, a capacidade de se comunicar com os seres humanos. Quando o ecossistema da região onde vive é ameaçado pela especulação imobiliária na figura de um ambicioso empresário, Norm decide embarcar para Nova York na companhia dos “invencíveis” lêmingues e tentar impedir que o plano siga adiante.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Frozen - Febre Congelante[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D0FB1B66D9FD5225BB2AF589E0DA5816AD7AC51</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gowwCKxLvqnkMzlImDW3ONJWMu1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ic16B2KUfEFicIB3eiBUAYqrwz7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]É aniversário de Anna. Elsa e Kristoff trabalham na preparação da maior festa de todos os tempos, mas a ansiedade da Rainha descontrola seus gelados poderes e coloca a celebração e todo o reinado em risco.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Família / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dr Estranho [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a9ca9131ce5d25e2bff4b2ac2e2a6347bc90fd7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2CkGjDoe2uFsgE3YQKM4KifCQBL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Descubra o fabuloso mundo escondido além da realidade. Um mundo de magia e encantamento; de maldições antigas, portas secretas e heróis notáveis que nos protegem do mal. É também um mundo de misticismo, forças malévolas e horrores impronunciáveis. E sob as sombras que nos cercam, uma guerra sobrenatural se inicia. O equilíbrio se perde. O mal está vencendo… Mas ainda há esperança… Embarque com Dr. Stephen Strange numa jornada fantástica pelas montanhas do Tibet, em busca pela cura aos pés do misterioso Ancient One. Mas antes de curar suas feridas, Dr. Estranho precisa libertar-se de seu passado doloroso e dar vazão a seu raríssimo dom: o dom da magia. Agora como o novo Mago Supremo, Dr. Estranho testa seus limites, combatendo os monstros que guardam os portões e enfrentando a mais terrível entidade conhecida pela humanidade.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Aventuras dos 7 Anões [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:557E7C4C6D1E0E1C0CF4E67516ACC7810E63C6F0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d4CBeKWT4PjG4GFflNTwXvlnBsJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3F4lVW7O4urxTHkQSAanIxKQUgD.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A princesa Rose é amaldiçoada por uma bruxa ao nascer. De acordo com a magia, ela vai espetar o dedo e todo o castelo vai cair em sono profundo, a não ser que um beijo verdadeiro a desperte. Sete anões descobrem sobre o feitiço e parte em busca de Jack, namorado de Rose, para salvá-la. Mas eles não chegam a tempo: Rose espeta o dedo e todos dormem, menos os sete anões. Agora eles devem descobrir sozinhos uma maneira de salvar a todos.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+100 >>>105     166 >>>168
