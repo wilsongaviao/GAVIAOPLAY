@@ -1,3 +1,108 @@
+#############################################################################################################
+<item><title>[B][COLOR white]Evangelion 3.33: Você (Não) Pode Refazer[COLOR lime] Legendado [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56033D87A47D0E7ED7D050E9D0DB9C49EC7534CB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n7pn1oal9KJtbk3hIRTloqcwQVP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bqy5FC3eXbIe76TADr9OGCb5SdW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quatorze anos se passaram desde o Terceiro Impacto. Shinji Ikari é resgatado da Unidade 01 e descobre que as coisas mudaram, mas não para melhor: O mundo foi devastado, seus antigos aliados da NERV tornaram-se hostis em relação a ele e Rei Ayanami, a menina que ele arriscou tudo para salvar, está longe de ser encontrada. Enquanto ele tenta se adaptar a esse estranho e novo mundo, Shinji faz amizade com o enigmático Kaworu Nagisa. Juntos na busca de Rei, os dois aprendem as terríveis verdades por trás dos Anjos, da NERV e dos Evangelions. Mas um raio de esperança permanece para os dois garotos: Uma oportunidade única para desfazer os erros do passado. Agora, os restos da humanidade estão atrás deles, os Anjos se apressam para detê-los e seus velhos amigos os declararam inimigos públicos número um. Apenas com Kaworu para apoiá-lo e todo o mundo contra ele, Shinji agora deve lutar por sua única chance de redenção. Mas isso pode significar terminar o que ele começou: O fim do mundo!
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Drama / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Capitão Harlock - Pirata do Espaço [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a8fe91b6330135710a5200f6fe5a5199c31e5ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/egotBDRODIG4Z4NmnYZWH6wNQho.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4xzUhKxWHxPjJ6h1faVMTUBDquQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]2977, em um futuro que a humanidade foi expulsa da Terra, após anos de batalha. O planeta se tornou um dos recursos mais valiosos do universo, mas é controlado pela coorporação Gaia Coalition. Os humanos exilados tentam voltar à Terra para descobrirem os segredos que lá estão escondidos. A bordo da espaçonave Arcadia, o pirata exilado, Capitão Harlock luta, junto com sua fiel tripulação, pela liberdade dos exilados e pelo retorno à Terra. Em um futuro onde a desesperança toma conta das pessoas, Harlock encontra um menino e o abriga em sua nave. No entanto, esse menino foi mandado para assassina-lo. 
+[COLOR white][B] Gênero:  [COLOR lime]Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Appleseed - Ex Machina [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f891dbbcebe8cc70d8fa1034f793ee61a366b876</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mxhr2e2Xky4cQ96NpI24xc2GUPn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sBoTWewVC9F3oqsmX6hCiquNPPT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Onde há desespero, a esperança cresce em árvores: um humano, um Ciborgue e um Bioroid.John Woo e Shinji aramaki unem seus talentos para criar um thriller futurista adaptado a partir do populer mangá japonês em série assinado por Shirow Masamune (o mesmo Ghost in the Shell). Os soldados das Forças Especiais, Deunan, Briareos e Tereus, lutam para presercar a paz na cidade-nação de Olympus, até que um ataque sorrateiro dos zealots transforma a cidade em uma perigosa zona de guerra. Com revolucionária tecnologia de computação gráfica, espetaculares cenas de ação e um rico roteiro, esta fantástica aventura lança três heróis ímpares contra uma conspiração que visa escravizar a humanidade. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Rapaz e o Monstro  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1495908DBFC256829315353B3744AF7F7CF23FD0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2YtoA14W2ogEHi30NKsSlBTLp8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/keSpEdNRKB1MW3zLcpz2AxPWVBJ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma história de amizade entre Kyuta, um menino solitário que vive em Shibuya e Kumatetsu, uma sobrenatural fera de Jutengai, que vive isolado um mundo imaginário. Um dia, Kyauta foge para o mundo imaginário e quando ele procura por um caminho de volta conhece Kumatetsu, que se torna o seu guia espiritual. O encontro deles lidera uma grande aventura que está por vir. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Gantz - O [COLOR lime] Legendado[COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ac68c7f6a3ecf66db6590f4bb25aa1930b9ae20</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pmYUrlTc6KwZKSHMXuyCvZF19tf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3UNI34dKxDJniSEDplRL0IPCoQ9.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Masaru Kato morreu em um acidente de carro. Surpreendentemente, ele acorda em um quarto que nunca viu. Lá ele conhece os membros do chamado Time Tokyo, cujo líder acabou de morrer. Junto com o Time Tokyo, Kato se vê no meio do fogo cruzado contra o Time Osaka, que são um bando de bandidos. Em meio a vários incidentes, Kato continua lutando com o objetivo de chegar em casa para o seu irmão. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Fantasia [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Seoul Station [COLOR lime] Legendado [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8DCDD0231F839B874998EBE0C1FAEFCA61784F0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4O9pQggt8V7a9g6brsyZx2zEHRj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x4Am9WtOSxEsfeBqU216n7ZA7G.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma pessoa sem-teto na estação de Seoul enlouquece. A loucura se espalha rapidamente pela área como se fosse um vírus. Em pouco tempo toda a cidade entra em completo pandemônio. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]A Garota que Conquistou o Tempo[COLOR lime] Legendado [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AE6F412EE53AFD0AEFE158A2B9621945AE12886</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fS41b13LZEtL9VYUlMobXZqvk41.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dWo0QUa5tC6GGVNJmdIyLX4xDjQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] Uma adolescente chamada Makoto Kono em seu terceiro ano do ensino médio passa por eventos estranhos até que descobre que ela tem a capacidade de viajar através do tempo. Assustada com seu novo poder e novas experiências Makoto confia em seus amigos Chiaki e Kousuke que inicalmente não acreditam em tal façanha. Com o tempo, ela tenta usá-lo para sua vantagem e como meio de ajudar o presente, mas logo descobre que adulteração do tempo pode levar a grandes consequências. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]coleção Dagon Ballz ( em breve)[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item
+#############################################################################################################
+<item><title>[B][COLOR white]Meu Amigo Totoro [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d57a8211eaa62bb2e8e0869c3e256530323efca</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jHo6W1gkDbcFx5gAS8PuJnqXHge.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mei é uma jovem que encontra uma pequena passagem em seu quintal, que a leva à um lendário espírito da floresta conhecido como Totoro. Sua mãe está no hospital, e seu pai divide o tempo entre dar aulas na faculdade e cuidar de sua mulher doente. Quando Mei tenta visitar a mãe por conta própria, se perde na floresta, e só o grande e fofo Totoro pode ajudar a menina a achar o caminho de volta para casa. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Fantasia [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Akira [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9be009caf8b8abf76f4ef7e2c07a17e85a9c3e44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/chAIj13stRbnSyqeSmT6o8uKBXj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/byjxyqLXukOyEGUXP9OFHWF3SRK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar foi construída Neo Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda (Mitsuo Iwata) e Tetsuo (Nozomu Sasaki) são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia Tetsuo encontra Takashi (Tatsuhiko Nakamura), uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e antes de receber a ajuda dos amigos é levado por integrantes do exército, liderados pelo coronel Shikishima (Tarô Ishida). A partir de então Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei (Mami Koyama), uma garota envolvida com espiões que tenta decifrar o enigma por trás das cobaias controladas pelo exército.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Anime / Aventura / Clássico [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Trigun [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0750ab70363a9f28861c7664985b1a4119f605c2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xXaDlbNntq4V9FQk387LiAcwgnc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gs7n2Ppl9e5PwpHcIubjF5ZgQSk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em um planeta desértico, sobreviventes de um naufrágio espacial vêm desenvolvendo uma rústica sociedade, que só consegue sobreviver no ambiente seco graças a resquícios da tecnologia das naves caídas. A água tem de ser retirada de poços dos poucos veios subterrâneos disponíveis e a eletricidade é produzida por seres orgânicos que haviam sido criados com esse fim específico. Nesse mundo onde a subsistência é difícil, muitos optam pelo crime, por isso há muitos pistoleiros, ladrões e mesmo mercadores de escravos, e como conseqüência há também caçadores de recompensa que os perseguem. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]O Reino dos Gatos  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:620E5EE82D137FAA66069F37381D668BFE8D840B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z1jNPCzNX7uqmtIhZ2WoI1Zo8hO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hqeHcbtUWtv7CHInu5RNVNxpXCr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após salvar um gato de ser atropelado, Haru (Chizuru Ikewaki), uma menina preguiçosa e que sempre se atrasa para a escola, recebe a visita do Rei dos Gatos. Ele a convida para conhecer seu reino, onde os animais falam e comportam-se como seres humanos. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Anthem Of The Heart [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:247788f04fc50ba0af37850c77539e5928df7f8a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lcovaV3zL2EeoExwd3dmOsihkvq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kfGUVDM03SGHIV1e3oS7R68j8Ek.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Jun é uma garota cujas palavras foram seladas. Ela era muito feliz, mas por conta de algo que ela disse quando era bem nova, seus pais se separaram. Um dia, um "ovo fada" apareceu em sua frente e selou sua habilidade de falar para que ela não machucasse mais ninguém. Desde essa traumática experiência, Jun passou a viver longe dos holofotes. Mas, um dia, ela é nomeada para ser um membro executivo da "Comissão de Divulgação da Comunidade”. Além disso, foi dado a Jun o papel principal no musical deles.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Romance[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Coleção Pokemon( em breve)[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse: [COLOR yellow][B]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Crianças Lobo [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D1FD1867BAE37A5C81FCCCDE5B119F09B0F7396</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9iIVipT06xhlo48qgjwDkqekC7q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eNWjMbuhGxJdzaIY9ZZ2KvWx2sQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O tema deste filme é o amor entre pais e filhos. A história cobre 13 anos e começa com Hana, uma estudante de faculdade de 19 anos, que se encontra e se apaixona, daquela forma intensa vista nos contos de fadas, por um “lobisomem”. Depois de se casar com ele, Hana dá a luz e cria duas crianças lobo: A mais velha, Yuki (neve), nasceu em um dia em que nevava e Ame (chuva), o mais novo, nasceu em um dia chuvoso. Os quatro viviam tranquilamente em um canto da cidade, para esconder a existência de “crianças lobo”, mas, quando o lobisomem morre de repente, Hana decide se mudar para uma cidade rural, distante da modernidade.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Violet Evergarden[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2a8fd8828b8e59b170468023048430ce5be07e7</link>
