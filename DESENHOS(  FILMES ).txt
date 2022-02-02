@@ -362,4 +362,4 @@
 <fanart>https://www.themoviedb.org/t/p/original/3F4lVW7O4urxTHkQSAanIxKQUgD.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A princesa Rose é amaldiçoada por uma bruxa ao nascer. De acordo com a magia, ela vai espetar o dedo e todo o castelo vai cair em sono profundo, a não ser que um beijo verdadeiro a desperte. Sete anões descobrem sobre o feitiço e parte em busca de Jack, namorado de Rose, para salvá-la. Mas eles não chegam a tempo: Rose espeta o dedo e todos dormem, menos os sete anões. Agora eles devem descobrir sozinhos uma maneira de salvar a todos.
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
-100 >>>105     166 >>>168
+
