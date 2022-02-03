@@ -9,13 +9,15 @@
 </channel>
 </channels>
 ###############################################################################################################################
-
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PLUTO TV BRASIL[COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PLUTO TV BRASIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PLUTO%20TV.txt</externallink>
-<thumbnail>https://i.postimg.cc/L8nm2DL5/WEBTV.jpg</thumbnail>
-<fanart>https://i.postimg.cc/MZQRK00s/fanartwebtv.jpg</fanart>
-<info>[B][COLOR yellow]PROGRAMAÇÃO CANAL RICOS DO AMIGO E PARCEIRO JULIO[/COLOR][/B]</info>
-
+<thumbnail>https://i.mjh.nz/PlutoTV/br.xml.gz</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQX4wUyWOzUvRl5ilD7fXaPRN3LOFTkoDqow&usqp=CAU</fanart>
+<info>[B][COLOR yellow] CANAIS DA REDE DE PROGRAMAÇÃO DO PLUTO TV ;SERVIÇO DE STREAMING QUE OFERECE UMA GRANDE VARIEDADE DE CANAIS ORIGINAIS, SÉRIES E FILMES SOB DEMANDA DOS PRINCIPAIS CANAIS DE TELEVISÃO[/COLOR][/B]</info>
+</channels>
+</channel>
 ###############################################################################################################################
 <channels>
 <channel>
