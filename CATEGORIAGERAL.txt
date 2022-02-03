@@ -11,16 +11,6 @@
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PLUTO TV( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/lricardobrlj/Vtv-canais/main/Lista%20De%20Canais</externallink>
-<fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
-<info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
-</channel>
-</channels>
-###############################################################################################################################
-<channels>
-<channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] PLUTO TV BRASIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PLUTO%20TV.txt</externallink>
 <thumbnail>https://i.mjh.nz/PlutoTV/br.xml.gz</thumbnail>
