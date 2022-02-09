@@ -117,142 +117,204 @@
 [COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Ficção[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
+<item><title>[B][COLOR yellow]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###### [COLOR lime]DRAGON BALL  [COLOR crimson]######[[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7WLT6AEcwBtDhIfxjBOBAU9FAV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yXggMemopUDHwPgmi6X9Wh2BQra.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]ragon Ball segue as aventuras do protagonista Goku, um forte garoto ingênuo que, ao se encontrar com a adolescente Bulma, se propõe a reunir as sete desejáveis Esferas do Dragão. Depois ele se torna um estudante de artes marciais com o mestre Kame-Sennin, e um ano depois ele e seu amigo Kuririn entram em um torneio que atrai os lutadores mais poderosos do mundo. Ele então parte sozinho em uma nova busca pelas Esferas do Dragão e acaba enfrentando e destruindo o Exército da Red Ribbon sozinho.[2] Três anos depois Goku e Kuririn participam de um outro torneio, porém Kuririn é mais tarde assassinado após esta competição, e Goku exige vingança sobre seu assassino: Piccolo Daimaoh.[3] Três anos mais tarde, Goku deve lutar contra o filho de Piccolo Daimaoh, Piccolo Junio
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82766ffa8082c1fbdf361e2a4c05bc46f120043f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wUC8qdVZunTHFobx3bW44EYywfd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ydf1CeiBLfdxiyNTpskM0802TKl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história de Dragon Ball (esfera do dragão) conta a vida de Son Goku, um menino morador da Montanha Paozu com cauda de macaco, baseado na lenda chinesa Jornada ao Oeste (西遊記), desde as suas aventuras enquanto criança até se tornar avô. Durante a sua vida, participa de muitas batalhas com adversários cada vez mais fortes, procurando sempre aumentar a sua força. Nas suas viagens, Goku conhece várias pessoas, criando muitas vezes uma amizade muito forte com elas que os ajudam a vencer os vilões da história. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball - A Lenda de Shenlong  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WNMPSRV3SQC4JBMTPURI7MCS3GKK6PCY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3ZaiWLU8Z9M4tlY2hv95CTCKMAF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]É uma versão alternativa da primeira busca das Esferas de Dragão, na que Bulma conhece Goku, e juntos exploram o mundo para encontrar as esferas e descobrir o que há de verdadeiro na lenda do dragão Shenlong. Ao mesmo tempo, Gourmet, um rei consumido pela fome, que a cada vez que come precisa que a comida seja mais extraordinária que a anterior para a poder digerir, também busca as esferas do dragão, com o propósito de invocar Shenlong e lhe pedir que solucione o seu problema. Tal é a angústia do rei, que explora o povo para financiar o seu exército e pagar aos melhores chefs e cozinheiros do mundo. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball - A Aventura Mística [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTAFR6CRQRKVCPMJGDOVUEHXA6RNZBGJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aG5Vq24AD4TEFvQjPWOQyQKZTri.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bkJ3XReVX9OmkWlsPlM5SMabTIR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Goku e Kuririn estão treinando para um Torneio de Artes Marciais que acontecerá no país Mifan. O Imperador de Mifan, Chaos, está tentando encontrar sua perdida “Lan Lan”. O ministro, Mestre Tsuru, faz Pilaf e sua gangue construírem um Radar do Dragão Global, o pegam dele e está a usando para encontrar as Esferas do Dragão. Ministro Tsuru e o General Tao Pai Pai dizem que usarão o desejo de Shenlong para localizar Lan Lan, mas na verdade estão planejando, com a ajuda de Tenshinhan, matar Chaos e dominar o país. Tenente Blue diz que o único lugar que eles não procuraram por ela foi no quarto do Ministro Tsuru, e portanto ela está lá, mas Blue é morto por Tao Pai Pai. Bora e Upa têm a última Esfera do Dragão e a levam para Mifan para usá-la para pedir ao Exército Mifan que saiam da Terra Sagrada de Karin.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball - A Caminho do Poder  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UGNCVYYBVRNMC7C42PZ6R6NE2UGNJB2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rFEdH9qtmecGInK5pGSfA980K0B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1R9xxxweS2se0pbcLToYZPXVbtv.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nesse filme é feito um remake do inicio da história de Son Goku e Bulma que vão a procura das Esferas do Dragão, a aparição de Oolong, Yamcha, Pual, Mestre Kame e a força Red Ribbon, alguns personagens como o Comandante White, Sargento Metálico, General Blue, Comandante Black e Red foram desenhados diferentes da série principal. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball - A Bela Adormecida no Castelo do Diabo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f2650102665b6a8ca9a6dc335e366d38ed63f0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scvwYMmVLI5aEBX4efEG9ByjeDu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/81ploCRzK7R1npjgkx7KPjWpIyx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de separar-se de Bulma e os demais, Goku toma a determinação de ir a casa de Mestre Kame Senim a pedir-lhe que lhe treine, para assim se fazer mais forte. Pouco depois de sua chegada, aparece também um pequeno rapaz chamado Kurirín, que também lhe pede ser seu aluno. O idoso mestre diz-lhes que não aceita mais de um aluno, e que terão que competir para conseguir o posto, lhe levando uma formosa rapariga. Então conta-lhes a lenda da Bela Adormecida no Castelo Amaldiçoado, a quem terão que resgatar e lha levar a Mestre Kame, se querem ter a oportunidade de ser treinados. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dragon Ball - Episódio de Bardock [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39509244E94B3B3201B428DF73E3BBC8D973E7C7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1xSFEVT24BgOwbZJqAV0EE8mr1g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pLctvg69kQGVfqSLqeL55sbWNRr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 2011 a V-Jump criou um mangá de 3 capítulos, Dragon Ball: Episode of Bardock, para contar a história de Bardock caso ele não tivesse sido morto por Freeza e se transformasse em um Super Saiyajin. No OVA a história conta os momentos cruciais entre Bardock e Freeza, que diz que está farto de trabalhar com Saiyajins. Freeza então dispara seu clássico ataque contra Bardock, pulverizando o Planeta Vegeta. Mas, em vez de morrer, Bardock acorda em uma cama em um planeta que se parece muito com o Planeta Vegeta. Ele está sendo tratado por alienígenas, Ipana (イパナ) e seu filho Berry (ベリー). Ipana então revela que o planeta onde Bardock está é o Planeta Plant (antigo nome do Planeta Vegeta) e Bardock começa a se perguntar se ele está no passado. Este filme trata-se de um spin-off. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
+
+
+<item><title>[B][COLOR crimson]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] DRAGON BALL Z [COLOR yellow]######[[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Cinco anos após vencer o Torneio Mundial de Artes Marciais, Goku tem uma vida pacífica com sua esposa e filho. No entanto, isso muda com a chegada de um misterioso inimigo chamado Raditz, que se apresenta como o irmão perdido de Goku e revela que ele é um guerreiro da raça Saiyan, e que originalmente foi enviado à Terra para conquista-la. Com sua tentativa fracassada de recrutar Goku como aliado, Raditz adverte Goku e seus amigos de que uma nova ameaça se aproxima rapidamente da Terra, uma que poderia mergulhar o planeta em um conflito intergaláctico e fazer os próprios céus tremerem. Uma guerra será travada pelas esferas místicas do dragão, e somente os mais fortes sobreviverão.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Ficção[[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
 ####################################################### #######################################################
-<item><title>[B][COLOR white] Dragon Ball Z - A Queda dos Homens[COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white] Dragon Ball Z - A Queda dos Homens[COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4B9E9CD8294A2D39260733B3A21E1CE8EE5FC38</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fElTXRuElUkG7f4HtTfBWwsKkEQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8WBAeCc6CStIrHC6qBaJfD6mvLR.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O mundo não está como deveria ser, algo alterou o curso do tempo. São estas as palavras de Trunks que acorda no meio de uma cidade em ruínas. Ele então, lembra-se a perda de seus amigos e de sua preparação para a luta contra o Cell. Essa história centra-se no filho de Vegeta que vai tentar salvar a Terra contra a terrível CELL. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Renascimento de Freeza [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Renascimento de Freeza [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F64FF049040C9707765E9FFCCEAF3987F863B5EC</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oth0VBziwe25mDzkJ6XzwmUCCDC.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kIgfFzjjBNgx6Tr2LCw8Zkq921s.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Sorbet e Tagoma, dois remanescentes do exército de Freeza, chegam à Terra em busca das Esferas do Dragão. A ideia é reuní-las para ressuscitar seu antigo líder, que foi vencido após uma batalha contra Goku. O plano é bem-sucedido e, com isso, Freeza retorna disposto a se vingar. Para tanto, ele se prepara durante meses, de forma que possa reencontrar Goku no auge do seu poder.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Dragon Ball Z - A Batalha dos Deuses[COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white] Dragon Ball Z - A Batalha dos Deuses[COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61eb8db8f019df4bae734d17ba4f6a75aa58322a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF8ZL7ALPQWqvlg0FPE2fgdXOkR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yIDS5QLvKtgzfu43eUWx5JkGW6p.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após dormir por 39 anos, o deus da destruição Bills desperta e logo fica surpreso ao saber que Freeza havia sido derrotado por um jovem sayadin chamado Goku. Não demora muito para que ele e seu mestre partam para encontrá-lo, ainda mais após Bills lembrar de um sonho que teve envolvendo um duelo épico com um deus super sayadin que ninguém jamais ouviu falar. Ao encontrá-lo, Goku fica logo animado em enfrentá-lo num duelo, mas logo percebe que seus poderes são ínfimos perto do poderio de Bills. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Ataque do Dragão [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Ataque do Dragão [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:412bd7d474dce14413f6b25b3f6ac2d36b366eee</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ifzBKiuRyH7eEky6Nljde5d1hRA.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Hirudegarn é um demônio que foi criado pelos magos negros de uma galáxia muito distante. Criado a partir de uma estátua com esse nome, Hirudegarn tem somente um objetivo: destruir todas as galáxias que existem.Para impedir seus objetivos, Tapion, Minoshia e seu pai lutaram bravamente para aprisionar o monstro. O vilão foi dividido em duas partes durante o aprisionamento cada parte foi selada em um oráculo. Minoshia ficou encarregado de cuidar da parte inferior (de baixo) do mostro, enquanto Tapion da parte superior (de cima). Um dos magos das sombras apareceu na terra pedindo ajuda, o mago consegue enganar Goku e com a ajuda de Shen-long liberta o tapion que estava aprisionado em uma caixa de musica, Hirudegarn e seu tamanho colossal destroem tudo a sua frente. Durante a batalha com nossos heróis, Hirudegarn provoca a fúria de Goku, Gotenks pode destruir o monstro mas sai a sua forma normal de dentro então goku derrotara hildegarn com o punho do dragão. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - Uma Nova Fusão [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - Uma Nova Fusão [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d85e05c354266b15ef00708208ab213b6b827147</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/78VJRPdIuQhT3TpnZEkTkNl7Ktm.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Depois de uma tremenda confusão no Mundo dos Mortos, Janemba e vários outros vilões (entre eles Freeza,cell etc) voltam a Terra e Goku vai investigar o que estava ocorrendo enquanto isso grande saiyamen(gohan),grande saiyamen 2(videl) e gotenks(fusao de goten e trunks) na terra lutando contra os mortos vivos enquanto isso goku começa a lutar contra Janemba conseguindo alcançar o super saiyajin 3, Vegeta se encontra com Goku e decidem fazer a fusão (juntar os dois corpos) para acabar com Janemba. Sua fusão se chama Gogeta. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Combate Final - Bio Broly [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Combate Final - Bio Broly [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3fbf4abb721a1b22df5256c66fdd613f60c1e3a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1516leTXPqSEt6t7Fd7EphmR34W.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após Brolly ser derrotado por Goku, Gohan e Goten, o Sacerdote da aldeia Natade ficou conhecido como farsante e sendo assim ninguem mais procurava por ele. Humilhado ele recolheu um pouco do sangue já seco de Brolly na sua nave espacial e levou para os cientistas de Jagar, um milionário que frequentou a mesma academia de Mr. Satan na infância. Os cientistas já tinham experiência na criação de bioguerreiros e criaram o Bio Brolly, enquanto isso o primo de Jagar vai a casa de Satan e o convida para um desafio contra os bioguerreiros e aceita, com ele vai a N° 18, Goten e Trunks, o que será esse Bio Brolly? Será tão poderoso quanto o verdadeiro? 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Retorno do Guerreiro [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Retorno do Guerreiro [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aee8d9505980276990837d001f1b83917d0b704e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVlkvo8FvttSFPuJ7y9QO0jCYMG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kbI9M2m45SSwi3t5ztygAlKxUql.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B] Neste filme ocorre uma surpresa, Broly, que Goku havia derrotado ha 7 anos atrás está vivo e seguiu até a Terra para se vingar de seu desafeto. Porém Goku morreu na luta contra Cell e não será possível essa vingança. Videl, Goten e Trunks estão a procura das esferas do Dragão e quando Broly escuta o choro de Goten desperta e vai a caça de Kakaroto para se vingar. Após sentir um Ki muito forte, Gohan vai até o local, será capaz ele de parar Broly de uma vez por todas? 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - A Batalha Nos Dois Mundos [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - A Batalha Nos Dois Mundos [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93973baaf1482612ce2a262000c38bcebbae87b5</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/10WvtGv1Rvx5Ko0aupPfLPJ0LwK.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após uma explosão. uma série de criminosos e mercenários espaciais foram libertados. O líder dos vilões, Bojack, vai então para a Terra participar de um torneio de artes marciais, organizado por um ricaço muito poderoso da Terra. Trunks, Yamcha, Gohan, Piccolo e Tenshinham participam do torneio. Yamcha é derrotado pouco antes de lutar, Tenshinham é derrotado por Trunks Super Saiyajin, Piccolo dá a vitória a Kuririn e Gohan derrota um lutador e passa para a próxima fase. Na segunda fase Kuririn enfrenta Zangya e é derrotado. Trunks enfrenta outro que o derrota, mas este é derrotado por Bojack. Vegeta aparece para ajudar seu filho, mas Vegeta e Trunks não puderam fazer muita coisa. Gohan, Yamcha e Tenshinham aparecem para ajudar, mas Yamcha e Tenshinham são derrotados sem dificuldades. Piccolo que tinha saido do torneio, aparece para ajudar Gohan, mas este acaba sendo derrotado. Gohan é emboscado por Bidu e é envolto pelos fios paralisantes de Bujin. Entretanto, Gohan ainda corria perigo e Goku que ainda estava morto depois do torneio de Cell, faz o teletransporte e salva Gohan. Gohan percebe que seu pai o ajudou, usa seus verdadeiros poderes desde a luta contra Cell e derrota Bujin e Bidu. Bojack mata sua serva Zangya e enfreta Gohan, mas Gohan perfura a boca do estômago de Bojack. Bojack ainda não desiste, mas Gohan o desintegra com o Kamehameha. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Dragon Ball Z - O Poder Invencível [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white] Dragon Ball Z - O Poder Invencível [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44c0c864bad49dfe7b9b918c2f23af24b5f071b9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eN1TMy5hT72G2v92x5cNM5trdFv.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O Sr.Kaioh descobre na galáxia do sul a existência de um Lendário Super Saiyajin que está destruindo todos os planetas pertencentes a essa galáxia. Temendo uma nova devastação, ele chama Goku para investigar o ocorrido. Enquanto isso na Terra, surge um Saiyajin chamado Paragus, que pede ajuda a Vegeta para eliminar esse suposto Saiyajin. Então Vegeta, Trunks, Gohan, Kuririn, e o Mestre Kame partem a um planeta que Paragus construiu para que o príncipe Vegeta reinasse e lá descobrem que o Lendário Super Saiyajin é Broly, filho de Paragus, que armou uma emboscada para explodir o novo Planeta Vegeta com os Guerreiros Z junto e, assim dominar a Terra. Goku segue o rastro de KI até este planeta, onde trava uma luta com Broly. Conseguirá Goku, deter este monstro insano?
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Retorno dos Andróides [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Retorno dos Andróides [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d03f2f02ad394bb365ca07756c7b0157805c231</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6O0cgVpYbYeiw0kwjY8h93sUuL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/y71LuyS4Q3TNRHBxtYqOlILReFs.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Esse filme relembra a destruição do Dr. Gero pelas mãos dos andróides nº 17 e 18 e como o misterioso computador despertou três novos andróides malignos. Os andróides foram programados para destruir Goku. Para encontrar os guerreiros Z, dois deles começam a destruir a cidade.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Retorno de Cooler [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Retorno de Cooler [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae59ae8e378ae5469e7b5a0ebcf154fbb2a0b2c1</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lvlHl1IFBdBfnLA4sgyjdqeyIEU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/utXkOLm5Ivr0rJtJFHVMKjcSTzQ.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B] Todos pensavam que Coola, o terrível irmão de Freeza, havia sido vencido por Goku. Porém ele está de volta e muito mais poderoso. Coola vai ao planeta Novo Namekusei, a terra natal de Piccolo, e começa a escravizar todos usando seu exército de robôs. Os Guerreiros Z ficam sabendo dos acontecimentos em Novo Namekusei e assim, Goku, Gohan, Kuririn, Piccolo, Mestre Kame, Yajirobe e Oolong, partem para lá para ajudar seus amigos. Porém, o que os heróis não esperavam era que Coola havia ficado muito mais forte. O vilão, agora usando um tipo de armadura metálica é chamado de Metal Coola e está decidido a se vingar de Goku.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - Uma Vingança Para Freeza  [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - Uma Vingança Para Freeza  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53419c49bfca6c80e37879f8f7d51a47417bb385</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/x1GZYK1guxTBOIkAPDf9IZCD3qK.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O vilão Cooler, irmão mais velho de Freeza, que deseja matar Goku para exterminar todos os Saiyajins e vingar seu irmão. Ele fere Goku e Gohan saí correndo em busca das Sementes dos Deuses, mas é descoberto por Cooler. Piccolo defende o garoto, que pode voltar para ajudar seu pai. Goku luta contra Cooler e torna-se um Super Saiyajin, atacando Cooler com todas suas forças. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - Goku, O Super Saiyajin  [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - Goku, O Super Saiyajin  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52eeaf532c0d0eebe969434e7f1e4fcb125d06c1</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cyQK5IzMXDUS8o84HYbSIFQt1Vy.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Um disco voador lotado de extraterrestres chega ao planeta Terra. Eles ordenam que os humanos abandonem o planeta em três dias e enviam um satélite para tampar o Sol e o planeta Terra começa a congelar. O comandante da nave é um Super namekuseijin chamado Slug, ele reconhece as esferas do dragão e decide encontra-las para fazer seu maior desejo: voltar a ser jovem. Goku e Piccolo unem-se mais uma vez para enfrentar uma batalha. Somente uma Genki Dama será capaz de salvar a Terra.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - A Árvore do Poder [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - A Árvore do Poder [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63d9e7f45ccdcce63d35f438b6894719b34195e4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sIdT0MMmpDoiviPw0YSLajj5cHP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/en28AEmaJxE3SPXZcMD8OvgX6Jz.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A semente de uma árvore maligna é jogada na Terra por Turles, um poderoso guerreiro Saiyajin e irá criar raízes e drenar toda a vida e energia do planeta. Dela nascerão frutos que tornarão quem os comer quase invencível. Eis que Goku e seus amigos são avisados pelo Sr. Kaio da presença da árvore do mal e vão ao encontro de Turles e seu bando, onde travam batalhas incríveis.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z 6 - O Retorno de Cooler [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z 6 - O Retorno de Cooler [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lvlHl1IFBdBfnLA4sgyjdqeyIEU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/utXkOLm5Ivr0rJtJFHVMKjcSTzQ.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Todos pensavam que Coola, o terrível irmão de Freeza, havia sido vencido por Goku. Porém ele está de volta e muito mais poderoso. Coola vai ao planeta Novo Namekusei, a terra natal de Piccolo, e começa a escravizar todos usando seu exército de robôs. Os Guerreiros Z ficam sabendo dos acontecimentos em Novo Namekusei e assim, Goku, Gohan, Kuririn, Piccolo, Mestre Kame, Yajirobe e Oolong, partem para lá para ajudar seus amigos. Porém, o que os heróis não esperavam era que Coola havia ficado muito mais forte. O vilão, agora usando um tipo de armadura metálica é chamado de Metal Coola e está decidido a se vingar de Goku.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - Gohan e Trunks, os Guerreiros do Futuro [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - Gohan e Trunks, os Guerreiros do Futuro [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c46335066f892119dcfc4d79c0f644858e1066/link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/86bDIoCAjBhNCLIsSkoxnhdoOGo.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]No futuro de Mirai Gohan e Mirai Trunks, Goku morre de uma doença. Todos os guerreiros menos Gohan e Trunks são mortos pelos Andróides#17 e #18, e estes continuam matando os humanos e destruindo cidades. Gohan treina Trunks para se transformar em Super Sayajin, mas ele não consegue. Quando eles resolvem lutar contra os Andróides, nem mesmo Gohan SSJ consegue derrotá-los. Ele até perdeu um braço durante uma explosão e deu a última semente dos deuses a Trunks, que também lutou. Trunks o leva para a corporação cápsula para cuidar de seus ferimentos. Na segunda luta contra os Andróides Gohan deixa Trunks inconsciente para ele não morrer. Gohan nada pode fazer com um só braço e é morto. Trunks se enfurece e se transforma em Super Sayajin pela primeira vez. Trunks luta sozinho contra os Andróides e é derrotado e humilhado. Então ele resolve voltar vinte anos atrás na máquina do tempo construída por Bulma para conhecer seu pai Vegeta,dar o remédio da doença a Goku e é claro derrotar os Andróides.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Homem mais Forte do Mundo  [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Homem mais Forte do Mundo  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7487d94e1f1e8ffa27865f68e2e6cd4b15dcd3f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pLuoFuzygOdWBRJhLQWSbKeoZ0s.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Oolong rouba o radar do dragão da Bulma e descobre que no Pólo Norte um tal de Dr. Kouchin invocou Shenlong com a intenção de pedir ao dragão que retire Dr. Whillow e seu laboratório das profundezas do gelo. Há cinquenta anos, Dr. Whillow foi destruído e acabou soterrado no gelo junto com seu laboratório. Agora ele é apenas cérebro em cima de um robô que está à procura do corpo do homem mais forte do mundo, mas na época em que ele foi derrotado e soterrado no gelo, o homem mais forte do mundo era Mestre Kame e ele acaba o raptando, além de sequestrar Bulma também e Piccolo.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z - O Resgate De Gohan [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z - O Resgate De Gohan [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59165ff1b43f55ba904446f5159049a989572789</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bgSKtVLW8RPSQc4ovtXLrpReCAT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vrO39EtblVpFNExJO5bitJiAwXI.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O vilão Garlick quer destruir Kami Sama e Piccolo, e torna-se imortal usando o poder das 7 esferas do dragão. Gohan é raptado pelos cúmplices do vilão garlick , Goku corre para salvar seu filho, mas Garlick se torna imortal e para demonstrar seu poder acaba criando um portal chamado Zona Mortal, capaz de sugar tudo para um mundo totalmente vazio. Entretanto, Gohan libera seus verdadeiros poderes que envia Garlick para zona. Garlick Jr reaparece em uma saga filler do anime após a saga de Freeza. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball Z [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball Z [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Cinco anos após vencer o Torneio Mundial de Artes Marciais, Goku tem uma vida pacífica com sua esposa e filho. No entanto, isso muda com a chegada de um misterioso inimigo chamado Raditz, que se apresenta como o irmão perdido de Goku e revela que ele é um guerreiro da raça Saiyan, e que originalmente foi enviado à Terra para conquista-la. Com sua tentativa fracassada de recrutar Goku como aliado, Raditz adverte Goku e seus amigos de que uma nova ameaça se aproxima rapidamente da Terra, uma que poderia mergulhar o planeta em um conflito intergaláctico e fazer os próprios céus tremerem. Uma guerra será travada pelas esferas místicas do dragão, e somente os mais fortes sobreviverão.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comedia / Drama[/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comedia / Drama[[/COLOR][/B]</info></item>
 
 
-<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
+<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
 <thumbnail>IGNOREME</thumbnail>
 <link>IGNOREME</link></item>
 #############################################################################################################
