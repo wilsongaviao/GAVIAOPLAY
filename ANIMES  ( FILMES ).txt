@@ -48,7 +48,7 @@
 <info>Sinopse: [COLOR yellow][B] Uma adolescente chamada Makoto Kono em seu terceiro ano do ensino médio passa por eventos estranhos até que descobre que ela tem a capacidade de viajar através do tempo. Assustada com seu novo poder e novas experiências Makoto confia em seus amigos Chiaki e Kousuke que inicalmente não acreditam em tal façanha. Com o tempo, ela tenta usá-lo para sua vantagem e como meio de ajudar o presente, mas logo descobre que adulteração do tempo pode levar a grandes consequências. 
 [COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COLEÇÃO DRAGON BALL ( Z ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
+<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR lime]COLEÇÃO DRAGON BALL ( Z ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7gksLHQSrsyuQQKh9EHPUYfINtR.jpg</thumbnail>
 <link>IGNOREME</link>
 <fanart>https://www.themoviedb.org/t/p/original/wMQTjoScCPYttzRx04gQtZreWg.jpg</fanart>
@@ -57,7 +57,7 @@
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]###### [COLOR lime]DRAGON BALL  [COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7WLT6AEcwBtDhIfxjBOBAU9FAV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yXggMemopUDHwPgmi6X9Wh2BQra.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]ragon Ball segue as aventuras do protagonista Goku, um forte garoto ingênuo que, ao se encontrar com a adolescente Bulma, se propõe a reunir as sete desejáveis Esferas do Dragão. Depois ele se torna um estudante de artes marciais com o mestre Kame-Sennin, e um ano depois ele e seu amigo Kuririn entram em um torneio que atrai os lutadores mais poderosos do mundo. Ele então parte sozinho em uma nova busca pelas Esferas do Dragão e acaba enfrentando e destruindo o Exército da Red Ribbon sozinho.[2] Três anos depois Goku e Kuririn participam de um outro torneio, porém Kuririn é mais tarde assassinado após esta competição, e Goku exige vingança sobre seu assassino: Piccolo Daimaoh.[3] Três anos mais tarde, Goku deve lutar contra o filho de Piccolo Daimaoh, Piccolo Junio
@@ -65,42 +65,42 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball  [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82766ffa8082c1fbdf361e2a4c05bc46f120043f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wUC8qdVZunTHFobx3bW44EYywfd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ydf1CeiBLfdxiyNTpskM0802TKl.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A história de Dragon Ball (esfera do dragão) conta a vida de Son Goku, um menino morador da Montanha Paozu com cauda de macaco, baseado na lenda chinesa Jornada ao Oeste (西遊記), desde as suas aventuras enquanto criança até se tornar avô. Durante a sua vida, participa de muitas batalhas com adversários cada vez mais fortes, procurando sempre aumentar a sua força. Nas suas viagens, Goku conhece várias pessoas, criando muitas vezes uma amizade muito forte com elas que os ajudam a vencer os vilões da história. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Lenda de Shenlong  [COLOR yellow] ( 720p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball - A Lenda de Shenlong  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WNMPSRV3SQC4JBMTPURI7MCS3GKK6PCY</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3ZaiWLU8Z9M4tlY2hv95CTCKMAF.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]É uma versão alternativa da primeira busca das Esferas de Dragão, na que Bulma conhece Goku, e juntos exploram o mundo para encontrar as esferas e descobrir o que há de verdadeiro na lenda do dragão Shenlong. Ao mesmo tempo, Gourmet, um rei consumido pela fome, que a cada vez que come precisa que a comida seja mais extraordinária que a anterior para a poder digerir, também busca as esferas do dragão, com o propósito de invocar Shenlong e lhe pedir que solucione o seu problema. Tal é a angústia do rei, que explora o povo para financiar o seu exército e pagar aos melhores chefs e cozinheiros do mundo. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Aventura Mística [COLOR yellow] ( 1080p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball - A Aventura Mística [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTAFR6CRQRKVCPMJGDOVUEHXA6RNZBGJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aG5Vq24AD4TEFvQjPWOQyQKZTri.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bkJ3XReVX9OmkWlsPlM5SMabTIR.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Goku e Kuririn estão treinando para um Torneio de Artes Marciais que acontecerá no país Mifan. O Imperador de Mifan, Chaos, está tentando encontrar sua perdida “Lan Lan”. O ministro, Mestre Tsuru, faz Pilaf e sua gangue construírem um Radar do Dragão Global, o pegam dele e está a usando para encontrar as Esferas do Dragão. Ministro Tsuru e o General Tao Pai Pai dizem que usarão o desejo de Shenlong para localizar Lan Lan, mas na verdade estão planejando, com a ajuda de Tenshinhan, matar Chaos e dominar o país. Tenente Blue diz que o único lugar que eles não procuraram por ela foi no quarto do Ministro Tsuru, e portanto ela está lá, mas Blue é morto por Tao Pai Pai. Bora e Upa têm a última Esfera do Dragão e a levam para Mifan para usá-la para pedir ao Exército Mifan que saiam da Terra Sagrada de Karin.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Caminho do Poder  [COLOR yellow] ( 1080p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball - A Caminho do Poder  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UGNCVYYBVRNMC7C42PZ6R6NE2UGNJB2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rFEdH9qtmecGInK5pGSfA980K0B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1R9xxxweS2se0pbcLToYZPXVbtv.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Nesse filme é feito um remake do inicio da história de Son Goku e Bulma que vão a procura das Esferas do Dragão, a aparição de Oolong, Yamcha, Pual, Mestre Kame e a força Red Ribbon, alguns personagens como o Comandante White, Sargento Metálico, General Blue, Comandante Black e Red foram desenhados diferentes da série principal. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Bela Adormecida no Castelo do Diabo [COLOR yellow] ( 1080p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball - A Bela Adormecida no Castelo do Diabo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f2650102665b6a8ca9a6dc335e366d38ed63f0b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scvwYMmVLI5aEBX4efEG9ByjeDu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/81ploCRzK7R1npjgkx7KPjWpIyx.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Depois de separar-se de Bulma e os demais, Goku toma a determinação de ir a casa de Mestre Kame Senim a pedir-lhe que lhe treine, para assim se fazer mais forte. Pouco depois de sua chegada, aparece também um pequeno rapaz chamado Kurirín, que também lhe pede ser seu aluno. O idoso mestre diz-lhes que não aceita mais de um aluno, e que terão que competir para conseguir o posto, lhe levando uma formosa rapariga. Então conta-lhes a lenda da Bela Adormecida no Castelo Amaldiçoado, a quem terão que resgatar e lha levar a Mestre Kame, se querem ter a oportunidade de ser treinados. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - Episódio de Bardock [COLOR yellow] ( 1080p )/COLOR][/B]</title>
+<item><title>[B][COLOR white]Dragon Ball - Episódio de Bardock [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39509244E94B3B3201B428DF73E3BBC8D973E7C7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1xSFEVT24BgOwbZJqAV0EE8mr1g.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pLctvg69kQGVfqSLqeL55sbWNRr.jpg</fanart>
@@ -109,75 +109,13 @@
 
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] DRAGON BALL Z [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR lime] DRAGON BALL Z [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Cinco anos após vencer o Torneio Mundial de Artes Marciais, Goku tem uma vida pacífica com sua esposa e filho. No entanto, isso muda com a chegada de um misterioso inimigo chamado Raditz, que se apresenta como o irmão perdido de Goku e revela que ele é um guerreiro da raça Saiyan, e que originalmente foi enviado à Terra para conquista-la. Com sua tentativa fracassada de recrutar Goku como aliado, Raditz adverte Goku e seus amigos de que uma nova ameaça se aproxima rapidamente da Terra, uma que poderia mergulhar o planeta em um conflito intergaláctico e fazer os próprios céus tremerem. Uma guerra será travada pelas esferas místicas do dragão, e somente os mais fortes sobreviverão.
 [COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Ficção[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR yellow]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]###### [COLOR lime]DRAGON BALL  [COLOR crimson]######[[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7WLT6AEcwBtDhIfxjBOBAU9FAV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yXggMemopUDHwPgmi6X9Wh2BQra.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]ragon Ball segue as aventuras do protagonista Goku, um forte garoto ingênuo que, ao se encontrar com a adolescente Bulma, se propõe a reunir as sete desejáveis Esferas do Dragão. Depois ele se torna um estudante de artes marciais com o mestre Kame-Sennin, e um ano depois ele e seu amigo Kuririn entram em um torneio que atrai os lutadores mais poderosos do mundo. Ele então parte sozinho em uma nova busca pelas Esferas do Dragão e acaba enfrentando e destruindo o Exército da Red Ribbon sozinho.[2] Três anos depois Goku e Kuririn participam de um outro torneio, porém Kuririn é mais tarde assassinado após esta competição, e Goku exige vingança sobre seu assassino: Piccolo Daimaoh.[3] Três anos mais tarde, Goku deve lutar contra o filho de Piccolo Daimaoh, Piccolo Junio
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [[/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82766ffa8082c1fbdf361e2a4c05bc46f120043f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/wUC8qdVZunTHFobx3bW44EYywfd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ydf1CeiBLfdxiyNTpskM0802TKl.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]A história de Dragon Ball (esfera do dragão) conta a vida de Son Goku, um menino morador da Montanha Paozu com cauda de macaco, baseado na lenda chinesa Jornada ao Oeste (西遊記), desde as suas aventuras enquanto criança até se tornar avô. Durante a sua vida, participa de muitas batalhas com adversários cada vez mais fortes, procurando sempre aumentar a sua força. Nas suas viagens, Goku conhece várias pessoas, criando muitas vezes uma amizade muito forte com elas que os ajudam a vencer os vilões da história. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Lenda de Shenlong  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WNMPSRV3SQC4JBMTPURI7MCS3GKK6PCY</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3ZaiWLU8Z9M4tlY2hv95CTCKMAF.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]É uma versão alternativa da primeira busca das Esferas de Dragão, na que Bulma conhece Goku, e juntos exploram o mundo para encontrar as esferas e descobrir o que há de verdadeiro na lenda do dragão Shenlong. Ao mesmo tempo, Gourmet, um rei consumido pela fome, que a cada vez que come precisa que a comida seja mais extraordinária que a anterior para a poder digerir, também busca as esferas do dragão, com o propósito de invocar Shenlong e lhe pedir que solucione o seu problema. Tal é a angústia do rei, que explora o povo para financiar o seu exército e pagar aos melhores chefs e cozinheiros do mundo. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Aventura Mística [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTAFR6CRQRKVCPMJGDOVUEHXA6RNZBGJ</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aG5Vq24AD4TEFvQjPWOQyQKZTri.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bkJ3XReVX9OmkWlsPlM5SMabTIR.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Goku e Kuririn estão treinando para um Torneio de Artes Marciais que acontecerá no país Mifan. O Imperador de Mifan, Chaos, está tentando encontrar sua perdida “Lan Lan”. O ministro, Mestre Tsuru, faz Pilaf e sua gangue construírem um Radar do Dragão Global, o pegam dele e está a usando para encontrar as Esferas do Dragão. Ministro Tsuru e o General Tao Pai Pai dizem que usarão o desejo de Shenlong para localizar Lan Lan, mas na verdade estão planejando, com a ajuda de Tenshinhan, matar Chaos e dominar o país. Tenente Blue diz que o único lugar que eles não procuraram por ela foi no quarto do Ministro Tsuru, e portanto ela está lá, mas Blue é morto por Tao Pai Pai. Bora e Upa têm a última Esfera do Dragão e a levam para Mifan para usá-la para pedir ao Exército Mifan que saiam da Terra Sagrada de Karin.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Caminho do Poder  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UGNCVYYBVRNMC7C42PZ6R6NE2UGNJB2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rFEdH9qtmecGInK5pGSfA980K0B.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1R9xxxweS2se0pbcLToYZPXVbtv.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Nesse filme é feito um remake do inicio da história de Son Goku e Bulma que vão a procura das Esferas do Dragão, a aparição de Oolong, Yamcha, Pual, Mestre Kame e a força Red Ribbon, alguns personagens como o Comandante White, Sargento Metálico, General Blue, Comandante Black e Red foram desenhados diferentes da série principal. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - A Bela Adormecida no Castelo do Diabo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f2650102665b6a8ca9a6dc335e366d38ed63f0b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scvwYMmVLI5aEBX4efEG9ByjeDu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/81ploCRzK7R1npjgkx7KPjWpIyx.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Depois de separar-se de Bulma e os demais, Goku toma a determinação de ir a casa de Mestre Kame Senim a pedir-lhe que lhe treine, para assim se fazer mais forte. Pouco depois de sua chegada, aparece também um pequeno rapaz chamado Kurirín, que também lhe pede ser seu aluno. O idoso mestre diz-lhes que não aceita mais de um aluno, e que terão que competir para conseguir o posto, lhe levando uma formosa rapariga. Então conta-lhes a lenda da Bela Adormecida no Castelo Amaldiçoado, a quem terão que resgatar e lha levar a Mestre Kame, se querem ter a oportunidade de ser treinados. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Dragon Ball - Episódio de Bardock [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39509244E94B3B3201B428DF73E3BBC8D973E7C7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1xSFEVT24BgOwbZJqAV0EE8mr1g.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pLctvg69kQGVfqSLqeL55sbWNRr.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Em 2011 a V-Jump criou um mangá de 3 capítulos, Dragon Ball: Episode of Bardock, para contar a história de Bardock caso ele não tivesse sido morto por Freeza e se transformasse em um Super Saiyajin. No OVA a história conta os momentos cruciais entre Bardock e Freeza, que diz que está farto de trabalhar com Saiyajins. Freeza então dispara seu clássico ataque contra Bardock, pulverizando o Planeta Vegeta. Mas, em vez de morrer, Bardock acorda em uma cama em um planeta que se parece muito com o Planeta Vegeta. Ele está sendo tratado por alienígenas, Ipana (イパナ) e seu filho Berry (ベリー). Ipana então revela que o planeta onde Bardock está é o Planeta Plant (antigo nome do Planeta Vegeta) e Bardock começa a se perguntar se ele está no passado. Este filme trata-se de um spin-off. 
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [[/COLOR][/B]</info></item>
-
-
-<item><title>[B][COLOR crimson]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] DRAGON BALL Z [COLOR yellow]######[[/COLOR][/B]</title>
-<link>IGNOREME</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Cinco anos após vencer o Torneio Mundial de Artes Marciais, Goku tem uma vida pacífica com sua esposa e filho. No entanto, isso muda com a chegada de um misterioso inimigo chamado Raditz, que se apresenta como o irmão perdido de Goku e revela que ele é um guerreiro da raça Saiyan, e que originalmente foi enviado à Terra para conquista-la. Com sua tentativa fracassada de recrutar Goku como aliado, Raditz adverte Goku e seus amigos de que uma nova ameaça se aproxima rapidamente da Terra, uma que poderia mergulhar o planeta em um conflito intergaláctico e fazer os próprios céus tremerem. Uma guerra será travada pelas esferas místicas do dragão, e somente os mais fortes sobreviverão.
-[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Ficção[[/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 ####################################################### #######################################################
 <item><title>[B][COLOR white] Dragon Ball Z - A Queda dos Homens[COLOR yellow] ( 720p )[/COLOR][/B]</title>
