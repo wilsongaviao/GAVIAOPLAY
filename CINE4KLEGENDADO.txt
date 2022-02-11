@@ -1,3 +1,10 @@
+##################################################################################################################
+<item><title>[B][COLOR white]Kimi - Alguém Está Escutando [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22220d8a616fd406f3bfa312f7fad5f31b84216e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/DUNRzBjRKE1pvl2jiiooDLafKf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e5yBUFUTNcHFijOpZ2WNfiYkxTQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]E se cada respiração, cada som, cada momento fosse registrado? Durante a pandemia do COVID-19 em Seattle, uma agorafóbica que trabalhar com tecnologia descobre evidências de um crime violento ao revisar um fluxo de dados e encontra resistência e burocracia quando tenta denunciá-lo à sua empresa. Para se envolver, ela percebe que deve enfrentar seu maior medo saindo de seu apartamento e indo para as ruas da cidade, que estão cheias de manifestantes depois que a Câmara Municipal aprova uma lei que restringe os movimentos da população sem-teto.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Casa Gucci[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:534f8d0a9516f8acac16280d959535bf0deb5526</link>
