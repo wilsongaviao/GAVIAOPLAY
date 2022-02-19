@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SÉRIES ([COLOR yellow] ( DUBLADAS ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/5yyRc2qV/ANIMESSERIESDUBLADAS.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANIMES%20(%20SERIES%20)DUBLADAS.txt</externallink>
 <fanart>https://i.postimg.cc/HkpGkdtf/FANARTANIMESSERIESDUBLADAS.jpg</fanart>
 <info>[B][COLOR yellow]Coletanea  de séries em  animes dublados, com classicos e atuais , se  voce tiver algun de sua preferencia que não se encontra em nosso acervo e so entrar em contato e pedir que sera atendido na medida do possivel[/COLOR][/B]</info>
 </channels>
@@ -12,9 +12,9 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SÉRIES ([COLOR yellow] ( LEGENDADAS )  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SÉRIES ([COLOR yellow] ( LEGENDADAS )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/kgKhPZ8B/ANIMESSERIESLEGENDADAS.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANIMES%20SERIES%20LEGENDADAS.txt</externallink>
 <fanart>https://i.postimg.cc/x1gwkhxq/FANARTANIMESSERIESLEGENDADAS.jpg</fanart>
 <info>[B][COLOR yellow]Coletanea  de séries em  animes legendados, com classicos e atuais , se  voce tiver algun de sua preferencia que não se encontra em nosso acervo e so entrar em contato e pedir que sera atendido na medida do possivel[/COLOR][/B]</info>
 </channels>
