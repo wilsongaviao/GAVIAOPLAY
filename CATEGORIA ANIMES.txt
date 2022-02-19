@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES ([COLOR yellow] SERIES )  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/hP32HZGx/ANIMES-SERIES.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANIMES%20(%20SERIES%20).txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20ANIMES%20(%20SERIES%20).txt</externallink>
 <fanart>https://i.postimg.cc/Z5knRZ7L/FANART-ANIMES-SERIES.jpg</fanart>
 <info>[B][COLOR yellow]Coletanea com  animes  em series, com classicos e atuais , se  voce tiver algun de sua preferencia que não se encontra em nosso acervo e so entrar em contato e pedir que sera atendido na medida do possivel[/COLOR][/B]</info>
 </channels>
