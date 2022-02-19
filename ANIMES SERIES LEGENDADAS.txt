@@ -1,0 +1,21 @@
+##############################################################################################################
+<item><title>[B][COLOR white]Berserk  ( LEGENDADA) [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DF55606ACC3BB60272EDFFB6C6E2B34C845835E</link>
+<thumbnail>https://i.imgur.com/X9idpFa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dRF2zQeV6yOUrq70v7PGFou86hG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Berserk é protagonizado por Gatsu, um jovem e sombrio guerreiro que jamais se separa de sua fiel espada, a Dragon Slayer. Sua origem se remonta a quando, recém-nascido, foi encontrado abaixo do corpo de sua mãe, que estava pendurado em uma árvore; no entanto, ele estava unido a ela pelo cordão umbilical. O bebê é adotado pela esposa de Gambino, o chefe de um bando de mercenários . Após o falecimento da mãe adotiva, Gatsu cresce aprendendo com Gambino e seu bando a transformar-se em um forte guerreiro. Quando suas relações são cortadas, Gatsu mata o pai adotivo e se converte em um mercenário errante, acompanhado somente por sua espada e Puck (personagem apenas exibido no mangá), um elfo que lhe confere uma dose de ternura e humor. Por outro lado, Gatsu se torna um habilidoso caçador de demônios e outros espíritos malignos, os quais detecta com facilidade graças a uma marca no pescoço que começa a sangrar cada vez que um deles está perto. Por um tempo, o protagonista fará parte de outro bando de mercenários o Bando do Falcão. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Drama / Fantasia [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white]Bakemonogatari  ( LEGENDADA)[COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b986dfb08f555903ec0deedcfc636183819fcca</link>
+<thumbnail>https://i.imgur.com/KDSqozz.jpg</thumbnail>
+<fanart>https://www.animeunited.com.br/oomtumtu/2018/01/Feature-01-e1515591176559-1024x496.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história gira em Koyomi Araragi, um estudante do terceiro ano que recentemente sobreviveu a um ataque de vampiros, e se misturado com todos os tipos de aparições encontra.: Deuses, fantasmas, mitos e espírito
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Fantasia / Mistério / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]One Piece Filme Gold [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10F262A4F87D7AEF7E959E3457D1605DA356791B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXL61GC8DzVJCK6gFSPpBmdSbFn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wMzToVniA09xWS0DXSRQiufVvpZ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os Chapéus de Palha enfrentam Gild Tesoro, um dos homens mais ricos do mundo. Situado em Grantesoro , um país independente fretado pelo Governo Mundial, casa da maior cidade entretenimento do mundo, onde os piratas conhecidos, Marines, e milionários reúnem-se em um santuário absoluto que mesmo o Governo Mundial não pode tocar. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
