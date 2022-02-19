@@ -1,39 +1,5 @@
 
-##############################################################################################################
-<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+
 ##############################################################################################################
 <item><title>[B][COLOR white]Seiken Tsukai No World Break [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821C5855F318FDD25CD9DB366AF614DA65D7B900</link>
