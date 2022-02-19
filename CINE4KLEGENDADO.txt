@@ -1,3 +1,17 @@
+############################################################################################################## faceless
+<item><title>[B][COLOR white]Kingsman - A Origem [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99d9842f2125fa3792fed3ab246844413893c3be</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pVL9AyKKLfUwrYD6jhdsI15gBQ7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oQPbZ5e6J9fuAyv4Gl0mMZMIyPI.jpg</fanart>
+<info>[B][COLOR red]Sinopse: [COLOR yellow][B]Quando uma série dos piores tiranos e gênios do crime da história se juntam para criar uma guerra que aniquilará milhões, um homem e seu pupilo precisam correr contra o tempo para pará-los.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comédia [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]O Céu Está em Todo Lugar [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bba2bb687628bb98f5956e209be1380fdc8a2dc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJPsIaBEReV2byAUqUelqQKimy2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4V5EWfD7ydCF2sZlePaWar7zVOd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lennie é uma adolescente que é um prodígio musical e está de luto pela morte de sua irmã quando se vê entre um novo cara da escola e o namorado arrasado de sua irmã. Por meio de sua imaginação vívida e coração em conflito, Lennie navega pelo primeiro amor e pela primeira perda.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Musical / Romance [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]Kimi - Alguém Está Escutando [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22220d8a616fd406f3bfa312f7fad5f31b84216e</link>
@@ -13,21 +27,21 @@
 <info>Sinopse: [COLOR yellow][B]Casa Gucci é inspirada na chocante história real do império da família por trás da italiana casa de moda Gucci. Abrangendo três décadas de amor, traição, decadência, vingança e em última instância, assassinato, vemos o que um nome significa, o que vale e quão longe uma família é capaz de ir para se manter no controle. 
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]A Vida Depois [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]A Vida Depois [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3b7e76165f59e4a053b35cfb205024f937d40e7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qbgaxrljyqb2tMjfTntTbwRw89C.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O filme acompanha a colegial Vada em sua jornada por uma crise emocional após vivenciar uma tragédia escolar. Seu relacionamento com família e amigos, assim como sua visão do mundo, são alterados para sempre.
 [COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
 #############################################################################################################
-<item><title>[B][COLOR white]Apresentando os Ricardos [COLOR yellow] ( 720p / 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Apresentando os Ricardos ][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85cb9b17e5d60af264c610ce8b34315475fde0c3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4wfA61Mi6E8GncUn8ze4w0jz0Za.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Lucille Ball e Desi Arnaz se casaram em 1940 e viram sua fama decolar após estrearem uma das mais memoráveis sitcoms americanas chamada "I Love Lucy". Entretanto, quando tudo parecia estar indo bem, os dois são envolvidos em uma trama de acusações chocantes que ameaçam sua vida pessoal e profissional. Ao longo da semana mais tensa de gravações, o relacionamento complexo dos dois será posto à prova, enquanto algumas verdades vêm à tona.
 [COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Noite Passada em Soho[COLOR yellow]( 4k )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Noite Passada em Soho[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eeecaba6013e71822541cb24493900395300a19$nome=[B] LINK 1 [COLOR yellow]4kp[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=mmagnet:?xt=urn:btih:0d0631012a925a96cbe344c6656cd4aecb9ae9dc$nome=[B] LINK 2 [COLOR yellow]4k[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3qYnuYly2qspRkxtSSMhh4Xd6qx.jpg</thumbnail>
@@ -35,14 +49,14 @@
 <info>Sinopse: [COLOR yellow][B]. Uma jovem apaixonada por moda misteriosamente ganha a chance de voltar aos anos 60 e encontrar sua ídola, uma encantadora cantora aspirante. Mas a Londres dessa década não é o que parece e logo o tempo começa a desmoronar com perigosas consequências.
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / TERROR[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [COLOR yellow](1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d87046de83b4d42f350a0d28f20f83728d70bd52</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rAksPS6LjBONzY84szQBz5gGej6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]A Lenda de Candyman [COLOR yellow]( 2021)[/COLOR][/B]</title>
+<item><title>[B][COLOR white]A Lenda de Candyman [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e375ae65e17c45b52a1344e94580ba51bcea1b14$nome=[B] LINK 1[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02dfb96ced0ada2464926cb5627204be8c7d0522$nome=[B] LINK 2 [/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg</thumbnail>
@@ -50,7 +64,7 @@
 <info>Sinopse: [COLOR yellow][B]Com a carreira à beira da estagnação, o artista visual Anthony McCoy descobre a obscura história do Candyman, uma antiga lenda urbana local que ele começa a usar como inspiração para suas pinturas, sem saber que está abrindo uma porta para um passado complexo que desafia sua própria sanidade e desencadeia uma onda de violência terrivelmente viral que o coloca em rota de colisão com o destino
 [COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Escape Room 2 - Tensão Máxima [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Escape Room 2 - Tensão Máxima [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53bcaedb90e790806ac93bfea028ce18b19f1d27$nome=[B] LINK 1 [/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520e95f231c0e40b4d83d6996461ac872414ce36$nome=[B] LINK 2 [/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg</thumbnail>
@@ -58,126 +72,119 @@
 <info>Sinopse: [COLOR yellow][B]Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / TERROR  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]P!NK: Tudo Que Aprendi Até Agora[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]P!NK: Tudo Que Aprendi Até Agora[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8310c5c7466efba67f236a9750849025e4cb968</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vtoEBoGvrSJuDPfQ3rPELqIcG5e.jpg</thumbnail>
 <fanarthttps://www.themoviedb.org/t/p/original/1C7OJjGDnrFUGQIrXVy96Kbdp5h.jpgfanart>
 <info>Sinopse: [COLOR yellow][B]Uma olhada nos bastidores de P! NK enquanto ela equilibra a família e a vida na estrada, levando a sua primeira apresentação no Estádio de Wembley na turnê mundial "Beautiful Trauma" de 2019.
 [COLOR white][B] Gênero:  [COLOR lime]Biografia / Documentário [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Cinderela[COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Cinderela[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:162193e481e27e5fc5f1829f4f87654200d630e0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfXinhEH2oJ1odvAiwPS1Yjidyr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3EmwUuGBp44hTzZGJqpzyiAmAVT.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Cinderela, uma jovem que sonha em sair da casa de sua madrasta e abrir sua própria loja de vestidos, e nessa busca por sua independência ela vai encontrar também o amor.
 [COLOR white][B] Gênero:  [COLOR lime]COMÉDIA / FAMÍLIA / FANTASIA  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Amizade de Férias [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Amizade de Férias[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dad4e7a225a2e9e5a561b3de6ff8b9530822f304</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/je3tu6z7ljDLv5eJ8cucRWnTMWE.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Os corretos Marcus e Emily fazem amizade com os caçadores de aventuras Ron e Kyla em um resort no México. Vivendo o momento, Marcus e Emily curtem uma semana de louca diversão e devassidão com essa nova "amizade de férias". Meses após a temporada de subversão, Marcus e Emily ficam apavorados quando Ron e Kyla aparecem, sem terem sido convidados, em seu casamento.
 [COLOR white][B] Gênero:  [COLOR lime]AVENTURA / COMÉDIA  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Caminhos da Memória [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Caminhos da Memória [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4ae1fbaabc017fb04995eebdef1ee183077ff4c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aef6dMfVJ5eVogGQbvtaKDcB43K.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xPBBXV8LPVgBQacp6qNvmMGV3ga.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O filme segue Nick Bannister, um investigador particular da mente, enquanto ele tenta ajudar os clientes a acessar memórias perdidas. Depois que um desses clientes, Mae, desaparece, Bannister descobre uma conspiração violenta.
 [COLOR white][B] Gênero:  [COLOR lime]	Ficção / Mistério / Romance  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]G.I. Joe Origens - Snake Eyes [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]G.I. Joe Origens - Snake Eyes [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7f6a2ca9922c913256559e68fbc0c7be5048e77</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6IxMW3939dOCjzenwzkWEjgICVq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nvwunGeiiY9HldzGlFLYa56YqAc.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após salvar a vida do herdeiro de Arashikage, Storm Shadow, Snake Eyes é aceito nesse antigo clã japonês se junta à batalha contra o grupo terrorista Cobra. Desafiando os limites, Snake Eyes será o melhor dos guerreiros ninjas. Porém, são revelados segredos do passado, testando sua honra e lealdade - mesmo que isso signifique perder tudo pelo que lutou.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Fantasia  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]O Cavaleiro Verde [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Cavaleiro Verde[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3273b6cc31c5b9d24870f64dcd10e6318ec620a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Z5LuDh6Ja3umKTHSo95aq71fEK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lDsaJDnivY4NIrBXkoAOIEghoK.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Sir Gawain (Dev Patel), o teimoso e inconsequente sobrinho do Rei Arthur, aceita o desafio de acabar com o infame Cavaleiro Verde, um gigante feito de esmeralda e destruidor de homens. Enfrentando fantasmas, gigantes, ladrões e trapaceiros no caminho, Gawain embarca na jornada da sua vida que definirá seu caráter e lhe dará a chance de provar que é merecedor aos olhos de sua família e reino. 
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama / Fantasia  [/COLOR][/B]</info></item>
 #############################################################################################################
-<item><title>[B][COLOR white]Viúva Negra [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Viúva Negra[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e49946f7d841c6b015c7c8fac8ba59f0612fa9d</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38SVfXq1O45HKQ2RFUPvECz8Pse.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7sHiTGLBxSQIeoWM3N0vMKhdw3B.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / FICÇÃO  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Jungle Cruise [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Jungle Cruise [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cee0d85cd4c2cb5fb35932f84d63e6277ae2566</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UwGwHhRYVnI8bnEFNfu2kpVQkB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tbTjcH6l4SS6ccmdFsVDyKX2NZ9.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O destemido capitão Frank Wolff e a intrépida pesquisadora Lily Houghton se aventuram pela Amazônia a bordo da peculiar embarcação La Quila. Determinados a encontrar uma árvore cujos poderes de cura podem mudar o futuro da medicina, nem mesmo as águas perigosas e as forças sobrenaturais que enfrentam pelo caminho poderão detê-los. Mas os riscos aumentam ainda mais conforme os segredos da árvore se revelam, o destino de Lily e Frank e também de toda a humanidade está em jogo.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / COMÉDIA  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Velozes e Furiosos 9 [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Velozes e Furiosos 9 [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBFA89AE2BE5EAD927BB7FA7224B7F5C7A473F90</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fWjcUTKOKsAPK4VUAzEQW4kN4K6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA / POLICIAL  [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Fathom - Nas Profundezas [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Fathom - Nas Profundezas [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7ed602edb6c324d08a7fa671f7760f453b65632</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wbPR6BeRwb93EdcBSW4tRMqC6Qr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sgK33G5tH3pxovh9YAn6gkqp4J7.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Duas biólogas encaram um desafio colossal: decifrar a complexa comunicação das baleias. A Dra. Michelle Fournet e a Dra. Ellen Garland cruzam hemisférios para descobrir uma cultura muito mais antiga do que a nossa.
 [COLOR white][B] Gênero:  [COLOR lime]DOCUMENTÁRIO[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Aqueles Que Me Desejam a Morte [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Aqueles Que Me Desejam a Morte [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81214c19ef7147af85f2fbac4cebb949caba11eb</link>
 <thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/gPFlBElSqV2cPPKivrMxVEcZxgT.jpg></thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em Aqueles que me Desejam a Morte, Connor é um menino de 12 anos que presencia o assassinato dos pais. Ele, então, precisa escapar dos assassinos que começam a caça-lo incessantemente. Ele encontra proteção com Hannah Faber (Angelina Jolie), uma bombeira traumatizada pelo fracasso de sua última missão. Os dois vão precisar lutar muito para sobreviver.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / DRAMA / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Até a Morte [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Até a Morte [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12860ed8c6d6ba71e2366147024f380ad62b144a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMF0D2G8lCmDktS0mLRZANPOez1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4ik6GoNFHzWaSvuq2vf77649EYK.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Depois de uma noite romântica em sua casa isolada no lago, uma mulher acorda algemada ao marido morto. Presa e isolada no auge do inverno, ela deve lutar contra assassinos contratados para escapar do plano distorcido de seu falecido esposo.
 [COLOR white][B] Gênero:  [COLOR lime]SUSPENSE / TERROR[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Uma Noite com a Família Blacks 2 [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Uma Noite com a Família Blacks 2 [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75253ddffce8d9c46bd57c6956bbbcd90aa0951b</link>
 <thumbnail>https://abutretorrents.com/imagens/uma-noite-com-a-familia-blacks-2-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bJKd2F0fzOIzoMHe4TaaYHvZfWe.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Quando o autor de best-sellers Carl Black transfere sua família de volta para sua casa de infância, ele deve se juntar a vizinhos excêntricos para lutar com um cafetão, que pode ou não ser um verdadeiro vampiro. 
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA / TERROR[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Colonizadores [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Colonizadores [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8149b10770d5d7782b90632a01b60f3fe7089a4a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yj08JzKmWC8XJNsapfWE1fbeTds.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uMClfgmBx89A3Exd83bpyhQHGcL.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Os primeiros colonizadores da humanidade na fronteira marciana fazem o que devem para sobreviver aos elementos cósmicos e uns aos outros.
 [COLOR white][B] Gênero:  [COLOR lime]FICÇÃO[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Quem é você, Charlie Brown?  [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Quem é você, Charlie Brown?  [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c91b25cb4f310436dcdf74bc37c9f42ea82712b1</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khaC503gF2X3Nuu5hq8Tdw3DZ50.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pcw5dfLu7sT6xdSiOAXtRX66KPt.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Lupita Nyong’o narra documentário sobre a turma do Snoopy e seu criador, Charles M. Schulz. Fãs famosos, Drew Barrymore, Kevin Smith e Al Roker falam sobre a sua influência e Charlie Brown vive uma nova aventura animada.
 [COLOR white][B] Gênero:  [COLOR lime]DOCUMENTÁRIO[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Infiltrado [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Infiltrado [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f54609b40edcd99eb3a9fec3669b3d200668c8c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/77tui163estZrQ78NBggqDB4n2C.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / SUSPENSE[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]P!NK: Tudo Que Aprendi Até Agora[COLOR yellow]( 2021 )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8310c5c7466efba67f236a9750849025e4cb968</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i310b9eYLmNPt3zc3ZW0ep1N7Qx.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1C7OJjGDnrFUGQIrXVy96Kbdp5h.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Uma olhada nos bastidores de P! NK enquanto ela equilibra a família e a vida na estrada, levando a sua primeira apresentação no Estádio de Wembley na turnê mundial "Beautiful Trauma" de 2019.
-[COLOR white][B] Gênero:  [COLOR lime]BIOGRAFIA / DOCUMENTÁRIO[/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Time [COLOR yellow]( 2020)[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Time [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32919a2615643e4015fff47b7a54c2bdcb6d11a7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tQ1FbMz5zQTCr91iGf7FTu3utBY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8BolqPLcJajKb70D1avsf7Os1jk.jpg</fanart>
