@@ -1,3 +1,10 @@
+##############################################################################################################
+<item><title>[B][COLOR white]Fátima A História De Um Milagre [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5EY6DRWDINJ7FWRCPEPL244DX4OTZTM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uhOvDIvkSrqkdFk8Bn6f8UNuntK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jrsB8tChsAFTQilhsS8fxNTuear.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A História de um Milagre, em meio a Primeira Guerra Mundial, três crianças de Portugal Jacinta, Francisco Marto e Lucia de Jesus dos Santos testemunham seis visões da Virgem Maria entre os meses de maio e outubro de 1917. Após contar para adultos céticos, a igreja católica romana válida a visão das crianças, transformando a cidade de Fátima um dos principais lugares de peregrinação.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Guerra[/COLOR][/B]</info></item>
 ######################################################################################################################################
 <item><title>[B][COLOR white]Barrabas[COLOR yellow] (2020)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56030b367fd473518142f928d3ec2a07a27e8d9f</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xpM25ZU8gjBboYU814iFntsvn2U.jpg</thumbnail><info>[B][COLOR yellow]A história de Jesus Cristo de Nazaré, o conhecido filho de Deus, sua crucificação, morte e ressureição é contada pelo ponto de vista de Barrabás. Um bandido preso e condenado a morte na mesma época que Cristo, Barrabás é solto por conta da tradição da soltura de um preso na Festa da Libertação e acaba escapando da cruz. [/COLOR][/B]</info></item>
