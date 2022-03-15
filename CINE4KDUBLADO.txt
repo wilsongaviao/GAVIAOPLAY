@@ -1,19 +1,26 @@
+#############################################################################################################
+<item><title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa  [COLOR yellow] ( 4k )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc9450eb7efd7c7304e754afeaf4ed3b266603</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Fantasia[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Venom - Tempo de Carnificina [COLOR yellow]( 4K)[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Venom - Tempo de Carnificina [COLOR yellow]( 4K )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33bf6d77f72d222a03bf1ea15ec80ed2b0c6b943</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/70nxSw3mFBsGmtkvcs91PbjerwD.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Em busca de seu próximo furo de reportagem, o jornalista Eddie Brock consegue uma entrevista exclusiva com Cletus Kasady, um assassino no corredor da morte, que descobre o segredo de Eddie e se torna o hospedeiro de Carnificina, um simbionte aterrorizante e ameaçador. Eddie e Venom precisam superar sua relação atribulada e trabalhar em conjunto para derrotar Carnificina.
 [COLOR white][B] Gênero:  [COLOR lime] AÇÃO / AVENTURA / FICÇÃO[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [COLOR yellow](1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [COLOR yellow](4k )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ac425bda5239b5dd4417fb46c3960e5a2509307</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rAksPS6LjBONzY84szQBz5gGej6.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / AVENTURA [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Maligno [COLOR yellow]( 2021 )[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Maligno [COLOR yellow]( 2021 )[COLOR yellow](4k )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37ZJYQHQMWSZFRLVZCANG5V3HE6VIPEC</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uh1xY834MyV0Dfr334CjS1vU76F.jpg</fanart>
