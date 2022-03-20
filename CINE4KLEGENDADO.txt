@@ -1,3 +1,11 @@
+
+##############################################################################################################
+<item><title>[B][COLOR white] Águas Profundas[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01c704366be50d482f2f4b7e414efd577405281</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGhSy2ao59xJDbCXyABofNhsV3o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vCb65mxV6HkQAYPewlka5AlY0lk.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Vic e Melinda são um casal que, ao tentar resolver os problemas do casamento, abre a relação para ter casos com outras pessoas. Mas, quando os amantes de Melinda passam a aparecer mortos, Vic se torna o principal suspeito dessa série de assassinatos.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Mistério / Suspense [/COLOR][/B]</info></item>
 ############################################################################################################## faceless
 <item><title>[B][COLOR white]Kingsman - A Origem [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99d9842f2125fa3792fed3ab246844413893c3be</link>
@@ -6,21 +14,21 @@
 <info>[B][COLOR red]Sinopse: [COLOR yellow][B]Quando uma série dos piores tiranos e gênios do crime da história se juntam para criar uma guerra que aniquilará milhões, um homem e seu pupilo precisam correr contra o tempo para pará-los.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comédia [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]O Céu Está em Todo Lugar [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Céu Está em Todo Lugar [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bba2bb687628bb98f5956e209be1380fdc8a2dc</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJPsIaBEReV2byAUqUelqQKimy2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4V5EWfD7ydCF2sZlePaWar7zVOd.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Lennie é uma adolescente que é um prodígio musical e está de luto pela morte de sua irmã quando se vê entre um novo cara da escola e o namorado arrasado de sua irmã. Por meio de sua imaginação vívida e coração em conflito, Lennie navega pelo primeiro amor e pela primeira perda.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Musical / Romance [/COLOR][/B]</info></item>
 ##################################################################################################################
-<item><title>[B][COLOR white]Kimi - Alguém Está Escutando [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Kimi - Alguém Está Escutando [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22220d8a616fd406f3bfa312f7fad5f31b84216e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/DUNRzBjRKE1pvl2jiiooDLafKf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e5yBUFUTNcHFijOpZ2WNfiYkxTQ.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]E se cada respiração, cada som, cada momento fosse registrado? Durante a pandemia do COVID-19 em Seattle, uma agorafóbica que trabalhar com tecnologia descobre evidências de um crime violento ao revisar um fluxo de dados e encontra resistência e burocracia quando tenta denunciá-lo à sua empresa. Para se envolver, ela percebe que deve enfrentar seu maior medo saindo de seu apartamento e indo para as ruas da cidade, que estão cheias de manifestantes depois que a Câmara Municipal aprova uma lei que restringe os movimentos da população sem-teto.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Casa Gucci[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Casa Gucci[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:534f8d0a9516f8acac16280d959535bf0deb5526</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxrVdr5x5FxOtbqS14UovcswFby.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6VZF8JVNOgJX56WCapYaqcVQiAw.jpg</fanart>
@@ -49,7 +57,7 @@
 <info>Sinopse: [COLOR yellow][B]. Uma jovem apaixonada por moda misteriosamente ganha a chance de voltar aos anos 60 e encontrar sua ídola, uma encantadora cantora aspirante. Mas a Londres dessa década não é o que parece e logo o tempo começa a desmoronar com perigosas consequências.
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / TERROR[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Shang-Chi e a Lenda dos Dez Anéis  [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d87046de83b4d42f350a0d28f20f83728d70bd52</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArrOBeio968bUuUOtEpKa1teIh4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rAksPS6LjBONzY84szQBz5gGej6.jpg</fanart>
