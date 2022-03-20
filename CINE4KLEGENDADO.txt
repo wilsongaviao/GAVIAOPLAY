@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Fantasmas do Passado ( Master ) [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4c121d199cfb9c723296123dd9aad9c3a3cb2bc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bW0zTTdvc9zafc6hDEG1pMDuMCW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Três mulheres lutam para encontrar seus lugares em uma universidade de elite no nordeste dos Estados Unidos, tão antiga quanto o país. Quando ataques racistas anônimos são feitos contra uma caloura negra - que insiste que está sendo assombrada por fantasmas do passado da escola - cada mulher deve descobrir onde está a verdadeira ameaça.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Águas Profundas[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01c704366be50d482f2f4b7e414efd577405281</link>
