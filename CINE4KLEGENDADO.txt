@@ -1,4 +1,11 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Doze é Demais  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c183866d8b915ef454f0bb6c3688e179c9435a20</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWFxqnDGY5D9dYZn97bikXpB5DR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4YOpxmGyQZFELwLB7JqcpYKnmKw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A engraçada e emocionante história das façanhas dos Bakers, uma família mista de 12 pessoas, em sua agitada vida doméstica enquanto administram os negócios da família.
+[COLOR white][B] Gênero:  [COLOR lime]	Aventura / Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Fantasmas do Passado ( Master ) [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4c121d199cfb9c723296123dd9aad9c3a3cb2bc</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg</thumbnail>
