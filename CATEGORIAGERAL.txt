@@ -10,8 +10,8 @@
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] PLUTO TV [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/arrownegra/PlutoTV_HL/main/tv/PlutoTV_TV_BR.m3u</externallink>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] CANAIS DE TV 2 [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/GAVIOA/main/README.md</externallink>
 <thumbnail>https://i.mjh.nz/PlutoTV/br.xml.gz</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQX4wUyWOzUvRl5ilD7fXaPRN3LOFTkoDqow&usqp=CAU</fanart>
 <info>[B][COLOR yellow] CANAIS DA REDE DE PROGRAMAÇÃO DO PLUTO TV ;SERVIÇO DE STREAMING QUE OFERECE UMA GRANDE VARIEDADE DE CANAIS ORIGINAIS, SÉRIES E FILMES SOB DEMANDA DOS PRINCIPAIS CANAIS DE TELEVISÃO[/COLOR][/B]</info>
