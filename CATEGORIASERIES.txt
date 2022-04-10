@@ -3,7 +3,8 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] SÉRIES AÇÃO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/nVXZBwCb/SERIESA-AO.jpg</thumbnail>       
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIASERIESACAO.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER
+/main/CATEGORIASERIESACAO.txt</externallink>
 <fanart>https://i.postimg.cc/Kz9VRFnk/fanartseriesa-o.jpg</fanart>
 <info>[B][COLOR yellow]EXCELENTE COLETÂNEA DE SÉRIES DE AÇAÕ .SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
 </channel>
