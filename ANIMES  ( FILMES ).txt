@@ -1,3 +1,38 @@
+##############################################################################################################
+<item><title>[B][COLOR white] Escola de Magia [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d40bbb066e3bfb68b5a249f9e25e8b03e752b71</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8K4fa8VUrBYI9QjSOVpF3nqTph.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gP8L9TJKPRPXvfTozVDLQAGnNrX.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Aura tem habilidades mágicas. Ela e seus amigos vivem aventuras emocionantes na escola, mas não demora até ela aprender que o lugar guarda muitos segredos sombrios que precisam ser revelados.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Apollo 10 e Meio - Aventura na Era Espacial [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VOM4FID5LLVQ4VM23WXMDXTVYOADGIJU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3yAoVcQR1i7Zgm7yNxy58i3RzCi.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um coming-of-age situado nos subúrbios de Houston, Texas, no verão de 1969, em meio a histórica viagem a Lua da Apollo 11, contado pelas perspectivas dos astronautas que fizeram parte do momento triunfante e de uma criança que vive perto da NASA mas acompanhando todo o processo pela TV assim como milhões de pessoas. 
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Drama [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] Turma da Mônica - Lições[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752e7f981e9ae707e1f9b643cbccd39e4100300e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzaLnQ2CctXaHqatSlRbSVp8Bh4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kolcIeckAekJfJ3IA4Z0Fr1kk38.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na sequência de Turma da Mônica: Laços, acompanhamos Mônica, Cebolinha, Magali e Cascão lidando com as consequências de um erro cometido na escola. Ao mesmo tempo, eles enfrentam transformações da passagem da infância para a adolescência, e estão prestes a descobrir o valor da amizade.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Família [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Child of Kamiari Month [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IQ4ZRKWPFVNVADDPTNWUMAAMPXMNYQ2X</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cHNzifTZYtk26kYYOLtPafvkrkv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lr79OVNnJp1Jwys77zEjnJnQ1pc.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um ano depois de perder a mãe, uma menina descobre que deve atravessar o Japão para a reunião anual de deuses na terra sagrada de Izumo.
+[COLOR white][B] Gênero:  [COLOR lime]Anime / Drama / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Shaman King [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690d172477ea84caa1b5a9ffaf8bd1c591e9f67c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5O1ovLYTkJvisM6d8PgbKq0nQGO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sAaGHo7ww5QMw6lk1ZWYrSPcgI7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história acompanha Manta, um garoto comum que em um certo dia vê um estranho garoto conversando com espíritos dentro de um cemitério. Pouco tempo depois, o garoto é transferido para a sua escola, e explica para Manta que ele é um shaman, e que está ali para encontrar um espírito que possa servir de parceiro para um importante torneio que vai participar.
+[COLOR white][B] Gênero:  [COLOR lime]Anime / Drama / Fantasia [/COLOR][/B]</info></item>
 #############################################################################################################
 <item><title>[B][COLOR white]Evangelion 3.33: Você (Não) Pode Refazer[COLOR lime] Legendado [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56033D87A47D0E7ED7D050E9D0DB9C49EC7534CB</link>
