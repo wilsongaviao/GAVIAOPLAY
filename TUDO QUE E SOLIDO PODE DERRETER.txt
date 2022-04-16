@@ -1,0 +1,8 @@
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] TUDO QUE E SOLIDO PODE DERRETER[COLOR lime] COMPLETO [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvcoJe5XTzG9z-CWP5669aS-lCYWLQevA</jsonrpc>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/int.055973/0055973_335.jpg</thumbnail>
+<fanart>http://observatoriodoaudiovisual.com.br/wp-content/uploads/2018/08/solido1.jpg</fanart>
+<info>[B][COLOR yellow]A série explora de forma atraente e com muito bom humor o universo adolescente através do cotidiano de uma jovem chamada Thereza. A moça estuda as grandes obras literárias da língua portuguesa na escola e acaba descobrindo e envolvendo-se em suas histórias. Viajando por entre os livros, a série traça paralelos entre o público jovem e a vida, misturando humor e drama a fim de abordar a transição para a idade adulta. Em cada um dos 13 episódios, Thereza se aproxima da obra literária em questão, onde é acompanhada pelos amigos Letícia, João Felipe e Marcos, sua rival Dalila, seus pais, Marta e Décio, e a recordação de seu tio Augusto, já falecido.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
