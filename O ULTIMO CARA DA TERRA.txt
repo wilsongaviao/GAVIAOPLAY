@@ -1,0 +1,153 @@
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO CARA DA TERRA [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D1D4336D9E8008A5A553F988EA9985DE8D48EF79</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/hWf5gMqZ0Vzp6JaGY9XB78plOXm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6g6NdCgFxO8qVp0cosVOm4xdjQG.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Drama] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR  crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+ ##############################################################################################################
+<item><title>[B][COLOR yellow ]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO CARA DA TERRA [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/iD05ebg1Wu2JSrYkvsjE1wnMrqX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2VtDz0nXZ4QMfIgM5vebxW3dgFY.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Drama] [/COLOR][/B]</info></item></item>
+<item><title>[B][COLOR  yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>  
+
+ ##############################################################################################################
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO CARA DA TERRA [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lawRFFy0eNOIDDfdHF9gKhgiAxL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7fTSz7C3PI6OTZ1oEjoIJWn1Dd8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Drama] [/COLOR][/B]</info></item>
+
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01>>>07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ED986568B179223063A04680FB47C13D0349AB8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lawRFFy0eNOIDDfdHF9gKhgiAxL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7fTSz7C3PI6OTZ1oEjoIJWn1Dd8.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08>>>12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1776419c6a9d08a0b62277acd0125762f8ecb239</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lawRFFy0eNOIDDfdHF9gKhgiAxL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7fTSz7C3PI6OTZ1oEjoIJWn1Dd8.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13/14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94a46a4e9e42b51709f5dd6b5acc854f22d3ec9a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lawRFFy0eNOIDDfdHF9gKhgiAxL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7fTSz7C3PI6OTZ1oEjoIJWn1Dd8.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15>>>17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dad5794df3e62cd14b5618d132a47ddcb85ce6c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/lawRFFy0eNOIDDfdHF9gKhgiAxL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7fTSz7C3PI6OTZ1oEjoIJWn1Dd8.jpg</fanart></item>
+<item><title>[B][COLOR  crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>  
+
+ ##############################################################################################################
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] O ULTIMO CARA DA TERRA [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Drama] [/COLOR][/B]</info></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c46821d8d64f49fc126798dd25b2739bf4516deb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82c9e07d84484aa5a29e34ffe3872766ebfea443</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8B97AA772D902B19B65DC9F2CCF5098EE21B71F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d53dfe8db0b3adf941f2945e7fb7d6beb87a46e1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+]#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FAEE6DE7F549A8C3C2AEEC27F249E7D1AB501B9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:818937bbefb052eeb37485d766123ca54c64b133</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52658b530cd9ccb431cd7c6025a0291b38278324</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d6406dc1d59163db601db6a6689e9672c576176</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a922baf7527a355b9936d26fdd85705cfd6a6a1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aead8741d2bdba1715241b9070972f596aafd01</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4506ebb011fdf12c9c54d3f6ec22a2f5841296</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>############################
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:217224C0A5BBDBEDC823FEA39B11216583E334F4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a06cb54fd6782924e8edaa3748ccea6652ecfdf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57ACCFDDC1AE03CAFC198BA0B3DEBCDC36A88690</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:617F98E836EC92E8DEC1CD3DD7A880C324B498B4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08d2e57abb74901e6d7a8fbddca65507bebf8b7b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]17[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28f3a013f52e26dcb3365a9cbb1bb06b7314c6cc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fcaa6d2d75676b4ee85b06ea4dfe0c4fd3d773a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q8FS5ZtkV98MYbUR1wJRyvVJGav.jpg</fanart></item>
+
+
+<item><title>[B][COLOR  yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>  
+ ##############################################################################################################
