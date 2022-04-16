@@ -1,0 +1,8 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ENGANA-ME SE PUDER [COLOR lime] COMPLETA  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:155E471EB60718ABF177AA1D71D36B12DE1AC88F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jljveFwTYsMYfzxcLCds1MGIpeN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6IvnmM2DyzckO6az1iWt9QSCTSW.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando você coça o queixo, aperta as mãos, franze o nariz ou engole saliva demais, o doutor Cal Lightman sabe que você está mentindo. Ele não acha, ele tem certeza, porque usou sua excepcional capacidade de observação para se tornar o principal especialista em mentiras do país. Um verdadeiro detector de mentiras humano, Cal consegue descobrir os segredos mais profundos e resolver os casos mais difíceis. Mais certeiro do que um exame com polígrafo, ele sabe quando está diante de alguém que não está dizendo tudo que sabe, sejam pessoas da família, amigos ou completos desconhecidos
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Mistério / Policial / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></ite
