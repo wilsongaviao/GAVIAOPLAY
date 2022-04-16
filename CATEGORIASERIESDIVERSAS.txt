@@ -274,17 +274,6 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUNDO DA LUA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5q5EfaxmbCFQzDYSu7E3lw7RZhi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MUNDO%20DA%20LUA.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/lDswYdqQRv4NGp2GSWqWV1CT4x7.jpg</fanart>
-<info>[B][COLOR yellow]O seriado apresenta Lucas Silva e Silva, um garoto que ganha um gravador de seu avô paterno Orlando ao completar dez anos. Em meio aos problemas típicos da passagem da infância para a adolescência, Lucas cria no gravador histórias a partir de como gostaria que as coisas fossem. Ele vive na casa do avô com os pais, Rogério, professor que se desdobra para conseguir trabalhar em três empregos, e Carolina, que trabalha em uma boutique; a irmã mais velha, Juliana; e a empregada Rosa, que enquanto namora Marcelo, conversa com apresentador Ney Nunes em seu rádio.
-[COLOR white][B] Gênero:  [COLOR lime]COMEDIA[/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O TOQUE DE UM ANJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pHK9H1OlAkJCM6VGKEhYgmIfDgc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOQUE%20DE%20UM%20ANJO</externallink>
