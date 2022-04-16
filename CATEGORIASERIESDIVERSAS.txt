@@ -1,18 +1,29 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SNOWFALL - INFERNO BRANCO[COLOR lime] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/orvFrLzqSeW5qTFpfJEbPfHRPWg.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SNOWFALL%20-%20INFERNO%20BRANCO%20.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/eEXwPg7nIERmRHC1yJoBf3Q5C7k.jpg</fanart>
-<info>[B][COLOR yellow]As desventuras de Franklin Saint (Damson Idris), traficante, Gustavo Zapata (Sergio Peris-Mencheta), gangster e Logan Miller (Eric Mitro), filhinho de papai, na Los Angeles dos anos 80 às vésperas do início da epidemia de cocaína que abalou os Estados Unidos. 
-[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO CARA DA TERRA [COLOR yellow] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUzTquHw656j6qy6XLYMbn78Nhs.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://www.themoviedb.org/t/p/original/2VtDz0nXZ4QMfIgM5vebxW3dgFY.jpg</fanart>
+<info>[B][COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA / DRAMA[/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INFERNO SOBRE RODAS [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ENGANA-ME SE PUDER [COLOR yellow] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>b</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jljveFwTYsMYfzxcLCds1MGIpeN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6IvnmM2DyzckO6az1iWt9QSCTSW.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando você coça o queixo, aperta as mãos, franze o nariz ou engole saliva demais, o doutor Cal Lightman sabe que você está mentindo. Ele não acha, ele tem certeza, porque usou sua excepcional capacidade de observação para se tornar o principal especialista em mentiras do país. Um verdadeiro detector de mentiras humano, Cal consegue descobrir os segredos mais profundos e resolver os casos mais difíceis. Mais certeiro do que um exame com polígrafo, ele sabe quando está diante de alguém que não está dizendo tudo que sabe, sejam pessoas da família, amigos ou completos desconhecidos
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Mistério / Policial / Suspense [/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INFERNO SOBRE RODAS [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qpu2oA0FIuti0C27hbnWfOCpprf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/INFERNO%20SOBRE%20RODAS</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg</fanart>
@@ -23,7 +34,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BOARDWALK EMPIRE - O IMPÉRIO DO CONTRABANDO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BOARDWALK EMPIRE - O IMPÉRIO DO CONTRABANDO[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BOARDWALK%20EMPIRE%20-%20O%20IMP%C3%89RIO%20DO%20CONTRABANDO</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg</fanart>
@@ -33,7 +44,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BIG BANG: A TEORIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BIG BANG: A TEORIA[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BIG%20BANG%20-%20A%20TEORIA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ngoiHQul4QetfA62SdmZZOdDFAP.jpg</fanart>
@@ -269,17 +280,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/84sFzAa4Gea3r2Zh6Qg2lxuJPMO.jpg</fanart>
 <info>[B][COLOR yellow]Detetives que fazem parte da Unidade de Vítimas Especiais da polícia de Nova York investigam crimes de natureza sexual, como estupros, em que a vítima sobrevive, e auxilia as autoridades na investigação.
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA / MISTÉRIO / POLICIAL / SUSPENSE[/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO CARA DA TERRA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUzTquHw656j6qy6XLYMbn78Nhs.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20ULTIMO%20CARA%20DA%20TERRA.txt</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/2VtDz0nXZ4QMfIgM5vebxW3dgFY.jpg</fanart>
-<info>[B][COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
-[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA / DRAMA[/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
