@@ -1,5 +1,5 @@
 ##############################################################################################################
-<item><title>[B][COLOR white]RIO HEROES [COLOR yellow] ( 1080p )NEW[COLOR lime] - COMPLETA - 2 TEMP[/COLOR][/B]</title>
+<item><title>[B][COLOR white]RIO HEROES [COLOR yellow] ( 1080p )[COLOR lime] - COMPLETA - 2 TEMP[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:349cd2492fef27525c09c93d03c07a2fade7a440</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xNinfGS2HUcn5zGe9OwnNFQGJBj.jpg</fanart>
@@ -87,3 +87,10 @@
 [COLOR white][B] Gênero:  [COLOR lime]DRAMA  [/B][/COLOR] 
 [/COLOR][/B]</info></item>
 ###################################################################################################################
+<item><title>[B][COLOR white]TUDO QUE E SOLIDO PODE DERRETER ( COMPLETA )[COLOR yellow] 13 EPS[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TUDO%20QUE%20E%20SOLIDO%20PODE%20DERRETER.txt</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/int.055973/0055973_335.jpg</thumbnail>
+<fanart>http://observatoriodoaudiovisual.com.br/wp-content/uploads/2018/08/solido1.jpg</fanart>
+<info>[B]COLOR yellow]A série explora de forma atraente e com muito bom humor o universo adolescente através do cotidiano de uma jovem chamada Thereza. A moça estuda as grandes obras literárias da língua portuguesa na escola e acaba descobrindo e envolvendo-se em suas histórias. Viajando por entre os livros, a série traça paralelos entre o público jovem e a vida, misturando humor e drama a fim de abordar a transição para a idade adulta. Em cada um dos 13 episódios, Thereza se aproxima da obra literária em questão, onde é acompanhada pelos amigos Letícia, João Felipe e Marcos, sua rival Dalila, seus pais, Marta e Décio, e a recordação de seu tio Augusto, já falecido.
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA  [/B][/COLOR] 
+[/COLOR][/B]</info></item>
