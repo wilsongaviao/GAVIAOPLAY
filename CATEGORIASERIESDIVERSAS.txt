@@ -274,6 +274,17 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO CARA DA TERRA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUzTquHw656j6qy6XLYMbn78Nhs.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20ULTIMO%20CARA%20DA%20TERRA.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/2VtDz0nXZ4QMfIgM5vebxW3dgFY.jpg</fanart>
+<info>[B][COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
+[COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA / DRAMA[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O TOQUE DE UM ANJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pHK9H1OlAkJCM6VGKEhYgmIfDgc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOQUE%20DE%20UM%20ANJO</externallink>
