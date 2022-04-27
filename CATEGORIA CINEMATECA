@@ -28,7 +28,7 @@
 <info>[B][COLOR yellow]cOLETANEA COM VARIOS FILMES NACIONAIS,DE TODOS OS GENEROS E ANOS, SERÃO ADICIONADOS AQUI.SE VC NÃO ENCONTRAR ALGUM DE SEU INTERESSE FAVOR ENTRAR EM CONTATO.[/COLOR][/B]</info></item>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE CATÁSTROFES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -38,7 +38,7 @@
 <info>[B][COLOR yellow]COLETÂNEA COM SUCESSOS DO CINEMA INTERNACIONAL RELACIONADOS A CATASTROFES NATURAIS, FISICA E ESPACIAIS SERAO ADICIONADOS AQUI., SE FALTAR A DE SEU GOSTO E SO PEDIR E SERÁ ADICIONADO ASSIM QUE FOR ENCONTRADO[/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -48,7 +48,7 @@
 <info>[B][COLOR yellow]COLETÂNEA COM AS MELHORES COLEÇÕES E FRANQUIAS DE FILMES ESTARÃO AQUI,SE FALTAR A QUE VC GOSTE E SO FAZER O PEDIDO E SERA ADICIONADO LOGO QUE FOR ENCONTRADA[/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channels>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ÉPICO [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -58,7 +58,7 @@
 <info>[B][COLOR yellow]COLETANEA COM SUCESSOS DE FILMES HISTÓRICOS.ÉPICOS QUE MARCARAM NA HISTORIA DO CINEMA MUNDIAL, GRANDES CLASSICOS,FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SE ENCONTRAR EM NOSSOS ACERVOS . [/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FAROESTE [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -68,7 +68,7 @@
 <info>[B][COLOR yellow]COLETÂNEA COM SUCESSOS DE FILMES DE FAROESTE,COM ARTISTAS FAMOSOS DO GENERO SERÃO ADICIONADO AQUI , FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SE ENCONTRAR EM NOSSOS ACERVOS .[/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -78,7 +78,7 @@
 <info>[B][COLOR yellow] OS GRANDES SUCESSOS DE BILHETERIA E PUBLICO DO PASSADO ESTARÃO AQUI NAS SUAS CATEGORIAS, FAÇA O PEDIDO SE O DE SEU GOSTO NÃO SE ENCOTRAR POSTADO.[/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE MARVEL'S[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -98,7 +98,18 @@
 <info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA A PARTIR DE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
 </channels>
 </channel>
-###############################################################################################################################
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] CINE PEDIDOS [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/TYwL2TVn/CINEPEDIDOS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINE%20PEDIDOS.txt</externallink>
+<fanart>https://i.postimg.cc/6qH8VPX7/FANARTCINEPEDIDOS.jpg</fanart>
+<info>[B][COLOR yellow] TODOS O PEDIDOS DE FILME  QUE FOREM ENCONTRADOS SERAO ADICIONADOS AQUI INDEPENDENTE DO GENERO OU ANO E TAMBEM NACIONALIDADE DO FILME.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+</channels>
+</channel>
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE RELIGIOSO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
@@ -118,7 +129,7 @@
 <info>[B][COLOR yellow]COLETANEA COM OS SUCESSOS DE BILHETERIA E DE PUBLICO DO GENERO DE TERROR,SERÃO ADICIONADOS AQUI, SE O FILME DE SUA PREFERENCIA NÃO SE ENCONTRAR EM NOSSO ACERVO E SO FAZER O PEDIDO QUE SERA ATENDIDO ASSIM QUE POSSIVEL.[/COLOR][/B]</info></item>
 </channels>
 </channel>
-###############################################################################################################################
+######################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
