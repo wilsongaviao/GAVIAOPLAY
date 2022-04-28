@@ -1,36 +1,27 @@
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE( GAVIÃO PLAYER )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
-<externallink>https://gist.githubusercontent.com/summersongoncalves/501fcae528e0dcaea83d519b771aeb8b/raw/d108b970725241aadc94f4ac1d40eb5c5ac3cdab/Perfeita2.m3u</externallink>
-<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info>
-</channel>
-
 
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE( GAVIÃO PLAYER & ADDON BXL)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TV%20ON%20LINE</externallink>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LISTA%20PRO</externallink>
 <fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
 <info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO CARIVALDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON BXL[/COLOR][/B]</info>
 </channel>
 
 <channels>
-<channel>
+<channel>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-GAVIA-/main/README.md
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAIS DE TV( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-GAVIA-/main/README.md</externallink>
+<externallink></externallink>
 <fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
 <info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
 </channel>
 </channels>
 ###############################################################################################################################
 <channels>
-<channel>
+<channel>https://raw.githubusercontent.com/RAMALHOTV/GAVIOA/main/README.md
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] CANAIS DE TV 2 [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/GAVIOA/main/README.md</externallink>
+<externallink></externallink>
 <thumbnail>https://i.mjh.nz/PlutoTV/br.xml.gz</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQX4wUyWOzUvRl5ilD7fXaPRN3LOFTkoDqow&usqp=CAU</fanart>
 <info>[B][COLOR yellow] CANAIS DA REDE DE PROGRAMAÇÃO DO PLUTO TV ;SERVIÇO DE STREAMING QUE OFERECE UMA GRANDE VARIEDADE DE CANAIS ORIGINAIS, SÉRIES E FILMES SOB DEMANDA DOS PRINCIPAIS CANAIS DE TELEVISÃO[/COLOR][/B]</info>
