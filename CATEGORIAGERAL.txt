@@ -1,3 +1,12 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE( GAVIÃO PLAYER )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/Y0S197wy/TV-ON-LINE.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/summersongoncalves/501fcae528e0dcaea83d519b771aeb8b/raw/d108b970725241aadc94f4ac1d40eb5c5ac3cdab/Perfeita2.m3u</externallink>
+<fanart>https://i.postimg.cc/VsrP1cdN/FANARTGAVIAOPLAYER.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info>
+</channel>
+
 
 <channels>
 <channel>
