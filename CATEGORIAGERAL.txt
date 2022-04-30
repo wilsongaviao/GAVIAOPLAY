@@ -24,7 +24,7 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/GAVIOA/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQX4wUyWOzUvRl5ilD7fXaPRN3LOFTkoDqow&usqp=CAU</fanart>
-<info>[B][COLOR yellow] CANAIS DA REDE DE PROGRAMAÇÃO DO PLUTO TV ;SERVIÇO DE STREAMING QUE OFERECE UMA GRANDE VARIEDADE DE CANAIS ORIGINAIS, SÉRIES E FILMES SOB DEMANDA DOS PRINCIPAIS CANAIS DE TELEVISÃO[/COLOR][/B]</info>
+<info>[B][COLOR yellow]REDE DE CANAIS DE TV DISPONIBILIZADOS PELO AMIGO RAMALHO CRIADOR E DESENVOLVEDOR DO ADDON RAMALHO TV[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
