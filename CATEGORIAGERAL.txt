@@ -10,21 +10,21 @@
 
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAIS DE TV( GAVIÃO PLAYER&VTV ONLINE)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE 2( GAVIÃO PLAYER & RAMALHO IPTV )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-GAVIA-/main/README.md</externallink>
-<fanart>https://i.postimg.cc/pd0XpwJP/fanartcanaisdetv.jpg</fanart>
-<info>[B][COLOR yellow]CANAIS DE TV CORTEZIA DO AMIGO RICARDO ADMINISTRADOR E DESENVOLVEDOR DO ADDON VTV ONLINE[/COLOR][/B]</info>
+<fanart>https://i.postimg.cc/y62Kf0sj/FANARTTVONLINE2.jpg</fanart>
+<info>[B][COLOR yellow]LISTA DE CANAIS DE TV DISPONIBILIZADOS PELO AMIGO RAMALHO CRIADOR E DESENVOLVEDOR DO ADDON RAMALHO TV, NAO NOS RESPONSABILIZAMOS PELO SERVIÇO POIS ESSE E TOTALMENTE GRATIS E A DISPONIOBILIZAÇÃO ESTA NA RESPONSABILIDADE DO  DESENVOLVEDOR,NOSSO ADDON APENAS  DIVULGAMOS O SERVIÇO  DO AMIGO E COLABORADOR[/COLOR][/B]</info>
 </channel>
 </channels>
 ###############################################################################################################################
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] CANAIS DE TV 2 [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] TV ON LINE 3( GAVIÃO PLAYER & RAMALHO IPTV )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/GAVIOA/main/README.md</externallink>
-<thumbnail></thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQX4wUyWOzUvRl5ilD7fXaPRN3LOFTkoDqow&usqp=CAU</fanart>
-<info>[B][COLOR yellow]REDE DE CANAIS DE TV DISPONIBILIZADOS PELO AMIGO RAMALHO CRIADOR E DESENVOLVEDOR DO ADDON RAMALHO TV[/COLOR][/B]</info>
+<thumbnail>https://i.postimg.cc/1XxdK3PR/tv-on-line-3.jpg</thumbnail>
+<fanart>https://i.postimg.cc/SN8hHjKh/FANARTTVONLINE3.jpg</fanart>
+<info>[B][COLOR yellow]LISTA DE CANAIS DE TV DISPONIBILIZADOS PELO AMIGO RAMALHO CRIADOR E DESENVOLVEDOR DO ADDON RAMALHO TV, NAO NOS RESPONSABILIZAMOS PELO SERVIÇO POIS ESSE E TOTALMENTE GRATIS E A DISPONIOBILIZAÇÃO ESTA NA RESPONSABILIDADE DO  DESENVOLVEDOR, NOSSO ADDON APENAS  DIVULGAMOS O SERVIÇO  DO AMIGO E COLABORADOR[/COLOR][/B]</info>
 </channels>
 </channel>
 ###############################################################################################################################
