@@ -88,6 +88,16 @@
 <info>[B][COLOR yellow]COLETÂNEA COM OS FILMES PRODUZIDOS PELO ESTUDIO MARVEL'S ESTARÃO ADICIONADOS AQUI.[/COLOR][/B]</info>
 </channels>
 </channel>
+##################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE NOVELAS [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/YCFXD2ZZ/CINENOVELAS.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/Yqr9Lw0Z/fanartnovelas.jpg</fanart>
+<info>[B][COLOR yellow]AQUI ENCONTRARÃO  OS LINKS DE NOVELAS ANTIGAS QUE  FOREM ENCONTRADOS NA INTERNET. [/COLOR][/B]</info></item>
+</channels>
+</channel>
 ###############################################################################################################################
 <channels>
 <channel>
