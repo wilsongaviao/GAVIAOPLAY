@@ -11,7 +11,7 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TV ON LINE 2( GAVIÃO PLAYER & RAMALHO IPTV )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/BQf71X6n/CANAIS-DE-TV.jpg</thumbnail>
+<thumbnail>https://i.postimg.cc/Gp5VHj5y/tv-on-line-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-GAVIA-/main/README.md</externallink>
 <fanart>https://i.postimg.cc/y62Kf0sj/FANARTTVONLINE2.jpg</fanart>
 <info>[B][COLOR yellow]LISTA DE CANAIS DE TV DISPONIBILIZADOS PELO AMIGO RAMALHO CRIADOR E DESENVOLVEDOR DO ADDON RAMALHO TV, NAO NOS RESPONSABILIZAMOS PELO SERVIÇO POIS ESSE E TOTALMENTE GRATIS E A DISPONIOBILIZAÇÃO ESTA NA RESPONSABILIDADE DO  DESENVOLVEDOR,NOSSO ADDON APENAS  DIVULGAMOS O SERVIÇO  DO AMIGO E COLABORADOR[/COLOR][/B]</info>
