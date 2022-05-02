@@ -1,4 +1,11 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]A Lista de Schindler [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6209f8d8a6bc3035df5e4b635f72f81ccc4ffbf6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Tempo De Gloria [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F38EE10F712F2F8C967F97B5538A64E7EACB8891</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7TfKmu3XQTTiktXIDOhyLO4T4BK.jpg</thumbnail>
