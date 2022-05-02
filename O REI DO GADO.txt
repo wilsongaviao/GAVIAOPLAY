@@ -1,0 +1,8 @@
+##############################################################################################################
+<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [ 1 ][/COLOR][/B]</title>
+<ube>PLKRXgidHHdbmRaXplGpSA_IG4jjgh3IlA</ube>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail>></item>
+#############################################################################################################
+<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [ 2 ][/COLOR][/B]</title>
+<ube>https://www.youtube.com/watch?v=r1k8uIhK5W0</ube>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail></item>
