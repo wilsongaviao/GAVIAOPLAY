@@ -14,7 +14,7 @@
 [COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
 ##############################################################################################>
 <item>
-<title>[B] *[COLOR yellow]O Rei Do Gado[/COLOR](1996)[/B]</title>
+<title>[B][COLOR yellow]O REI DO GADOo[/COLOR] (1996)[/B]</title>
 <link>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20REI%20DO%20GADO.txt</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xrJR8Yvw4l6004spZo5MBW17Q2W.jpg</fanart>
