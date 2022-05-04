@@ -1,25 +1,6 @@
 ##############################################################################################################
-<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [[COLOR lime] 01 ][/COLOR][/B]</title>
+<item><title>[B][COLOR white] O REI DO GADO [COLOR yellow] [COMPLETA ][/COLOR][/B]</title>
 <link>IGNOREME</link>
-<ube>PLKRXgidHHdbmRaXplGpSA_IG4jjgh3IlA</ube>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLeqiZSlnUHduRF9ymAeb2Fgy-0DKP8g9m/?page=0</jsonrpc>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail>></item>
 #############################################################################################################
-<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [[COLOR lime] 02 ][/COLOR][/B]</title>
-<link>IGNOREME</link>
-<ube>https://www.yoututube.com/watch?v=r1k8uIhK5W0</ube>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail></item>
-#############################################################################################################
-<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [[COLOR lime] 03 ][/COLOR][/B]</title>
-<link>IGNOREME</link>
-<ube>PLKRXgidHHdbmRaXplGpSA_IG4jjgh3IlA</ube>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail></item>
-#############################################################################################################
-<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [[COLOR lime] 04 ][/COLOR][/B]</title>
-<link>IGNOREME</link>
-<ube>PLKRXgidHHdbmRaXplGpSA_IG4jjgh3IlA</ube>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail></item>
-#############################################################################################################
-<item><title>[B][COLOR white] CAPITULO [COLOR yellow] [[COLOR lime] 05 ][/COLOR][/B]</title>
-<link>IGNOREME</link>
-<ube>PLKRXgidHHdbmRaXplGpSA_IG4jjgh3IlA</ube>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBgFMkmhrulE0snPlAXLn9k8GyQ.jpg</thumbnail></item>
