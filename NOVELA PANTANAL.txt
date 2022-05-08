@@ -50,3 +50,21 @@
 ##############################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]29[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EVV4WRZQO4X53FXAP7LMBCPWCR2BTT6O</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]30[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5FTQXIVOQGZYCTIPRATCGXNOIRQ3Y26</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AnfXhKJwb9rBa8cvPBV54XgJxMF.jpg</fanart>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]31[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IIOMJWWNBAVCSC37EFP3RERTNFKFA3OY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AnfXhKJwb9rBa8cvPBV54XgJxMF.jpg</fanart>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]32[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPBAMGVMGLEYWIGGWUVJYKPO377JRPLK</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AnfXhKJwb9rBa8cvPBV54XgJxMF.jpg</fanart>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
