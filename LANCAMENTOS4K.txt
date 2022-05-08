@@ -1,12 +1,26 @@
-############################################################################################################
-<item><title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa[/COLOR][/B]</title>
+##############################################################################################################
+<item><title>[B][COLOR white]Ambulância - Um Dia de Crime [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a45bb9bd208ed25ba843c11d65d12cf54becafc1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/192vHmAPbk5esL34XMKZ1YLGFjr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/192vHmAPbk5esL34XMKZ1YLGFjr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O condecorado veterano Will Sharp, desesperado por dinheiro para cobrir as despesas médicas de sua esposa, pede ajuda de uma pessoa que ele sabe que não deveria - seu irmão adotivo Danny. Um criminoso carismático, Danny oferece-lhe uma pontuação: o maior assalto a banco na história de Los Angeles: 32 milhões de dólares. Com a sobrevivência de sua esposa em jogo, Will não pode dizer não. Mas quando sua fuga dá espetacularmente errado, os irmãos desesperados sequestram uma ambulância com um policial ferido lutando por sua vida e a técina de emergência médica Cam Thompson a bordo. Em uma perseguição em alta velocidade que nunca para, Will e Danny devem escapar, manter seus reféns vivos e, de alguma forma, tentar não se matar, ao mesmo tempo em que executam a fuga mais insana que Los Angeles já viu.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Policial [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Uncharted - Fora do Mapa [COLOR yellow] ( 4k )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6UCNHPAVKZ77ZFJHHQGNR2WJCBWVF2WV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/soD18uucENplI81kUErvMzdb5Lm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura[/COLOR][/B]</info></item>
+###########################################################################################################
+<item><title>[B][COLOR white]Homem-Aranha - Sem Volta Para Casa  [COLOR yellow] ( 4K )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc9450eb7efd7c7304e754afeaf4ed3b266603</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha.
 [COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Fantasia[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Jackass Para Sempre [COLOR yellow] LEGENDADO[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Jackass Para Sempre [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:768d6f22abb8186e47d18f4fe3fdd09b7337704</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zaGCCXBKq34EG7HOMlVKxFcgwr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6wqQSAq8kV3K7KqtVE46HZVTsFH.jpg</fanart>
@@ -19,10 +33,3 @@
 <fanart>https://www.themoviedb.org/t/p/original/4YOpxmGyQZFELwLB7JqcpYKnmKw.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A engraçada e emocionante história das façanhas dos Bakers, uma família mista de 12 pessoas, em sua agitada vida doméstica enquanto administram os negócios da família.
 [COLOR white][B] Gênero:  [COLOR lime]	Aventura / Comédia / Família [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white] [COLOR yellow] ( 4K )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Sinopse: [COLOR yellow][B]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
