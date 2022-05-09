@@ -12,7 +12,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/htxMBxHJ/FLASHHITS1.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1o8aOnkPIT4Kz2PPoDshm5movC0OQb-4k</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%201%20PG1</externallink>
 <fanart>https://i.postimg.cc/jjZyKV2J/fanartflashits1.jpg</fanart>
 <info>[COLOR yellow]COLEÇÃO DE SUCESSOS INTERNACIONAIS DOS ANOS 70,80,90 ,2000 EM VIDEO CLIP VOL 1 COM 300 ITENS[/COLOR]</info>
 </channels>
@@ -22,7 +22,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS 2[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/LXy3TVZW/FLASHHITS2.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Wg_DdfmJGQ-x5zal-7OwLNgQSFm7UZIy</externallink>https://pastebin.com/raw/w4J0Zg6C
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%201%20PG2</externallink>https://pastebin.com/raw/w4J0Zg6C
 <fanart>https://i.postimg.cc/CL8hVj5G/fanartflashits2.jpg</fanart>
 <info>[COLOR yellow]COLEÇÃO DE SUCESSOS INTERNACIONAIS DOS ANOS 70,80,90 ,2000 EM VIDEO CLIP VOL 2 COM 300 ITENS[/COLOR]</info>
 </channels>
@@ -31,7 +31,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS 2[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/LXy3TVZW/FLASHHITS2.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Wg_DdfmJGQ-x5zal-7OwLNgQSFm7UZIy</externallink>https://pastebin.com/raw/w4J0Zg6C
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%201%20PG3</externallink>https://pastebin.com/raw/w4J0Zg6C
 <fanart>https://i.postimg.cc/CL8hVj5G/fanartflashits2.jpg</fanart>
 <info>[COLOR yellow]COLEÇÃO DE SUCESSOS INTERNACIONAIS DOS ANOS 70,80,90 ,2000 EM VIDEO CLIP VOL 2 COM 300 ITENS[/COLOR]</info>
 </channels>
