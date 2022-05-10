@@ -21,7 +21,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS POP / ROCK [COLOR limee] PAGINA 3  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS POP / ROCK [COLOR lime] PAGINA 3  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/g2N07PTn/poprock1pg3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%201%20PG3</externallink>
 <fanart>https://i.postimg.cc/dQzN8PHc/FLASHHITSPOPROCK1pg3.jpg</fanart>
