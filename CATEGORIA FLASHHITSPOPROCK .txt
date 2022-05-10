@@ -4,8 +4,7 @@
 <thumbnail>https://i.postimg.cc/YCFd0G2c/POPROCK1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FLASH%20HITS%20POP%20ROCK1.txt</externallink>
 <fanart>https://i.postimg.cc/jjgZ2Gw9/FLASHHITSPOPROCK1.jpg</fanart>
-<info>[B][COLOR yellow]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]PRIMEIRA PARTE IMPERDIVEL DESSA COLEÇÃO MAGNIIC ADE VIDEOS DE SUCESSOS MUSICAIS DO POP ROCK INTERNACIONAL DOS ANOS 60,70,80 E 90 [/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
@@ -13,10 +12,10 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FLASH HITS POP/ROCK 2[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/QxH4LYRd/POPROCK2.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FLASH%20HITS%20POP%20ROCK2.txt</externallink>
 <fanart>https://i.postimg.cc/m2jMT7Fp/FLASHHITSPOPROCK2.jpg</fanart>
-<info>[B][COLOR yellow]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]SEGUNDA PARTE IMPERDIVEL DESSA COLEÇÃO MAGNIIC ADE VIDEOS DE SUCESSOS MUSICAIS DO POP ROCK INTERNACIONAL DOS ANOS 60,70,80 E 90 
+[/COLOR][/B]</info></item>
 </channels>
 </channel>
 ###################################################################################################################
