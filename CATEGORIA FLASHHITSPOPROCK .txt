@@ -1,0 +1,33 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FLASH HITS POP/ROCK 1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/YCFd0G2c/POPROCK1.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/jjgZ2Gw9/FLASHHITSPOPROCK1.jpg</fanart>
+<info>[B][COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FLASH HITS POP/ROCK 2[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/QxH4LYRd/POPROCK2.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/m2jMT7Fp/FLASHHITSPOPROCK2.jpg</fanart>
+<info>[B][COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FLASH HITS POP/ROCK 3[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/tCwr9tjt/POPROCK3.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/c4FKpZVV/FLASHHITSPOPROCK3.jpg</fanart>
+<info>[B][COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
