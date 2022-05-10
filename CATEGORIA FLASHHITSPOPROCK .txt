@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FLASH HITS POP/ROCK 1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/YCFd0G2c/POPROCK1.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FLASH%20HITS%20POP%20ROCK1.txt</externallink>
 <fanart>https://i.postimg.cc/jjgZ2Gw9/FLASHHITSPOPROCK1.jpg</fanart>
 <info>[B][COLOR yellow]
 [COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
