@@ -43,7 +43,7 @@
 #####################################################################################################
 <item>
 <title>[B][COLOR white]SERTANEJO BOM DEMAIS - 80'S[/COLOR][/B]</title>
-<link>-cPMhPGENfM</link>
+<utube>-cPMhPGENfM</utube>
 <thumbnail>https://i.postimg.cc/Vk3fWCY4/SERTANEJO-BOM-DEMAIS.jpg</thumbnail>
 <fanart>https://i.postimg.cc/Vk3fWCY4/SERTANEJO-BOM-DEMAIS.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]COLETANEA DE SUCESSOS SERTANEJOS QUE FIZERAM NOS ANOS 80  E CONTINUAM  ATE OS DIAS DE HOJE[/COLOR][/B]</info></item>
