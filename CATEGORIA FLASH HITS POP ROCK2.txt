@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS POP / ROCK[COLOR crimson] VOL 2 [COLOR lime] PAGINA 1 [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/d13kBTFs/poprock2pg1.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%202%20PG1</externallink>
 <fanart>https://i.postimg.cc/x1PsDk09/FLASHHITSPOPROCK2pg1.jpg</fanart>
 <info>[B][COLOR yellow]PRIMEIRA PAGINA COM GRANDES CLASSICOS DO POP ROCK INTERNACIONAL NA SEGUNDA PARTE DESTA INCRIVEL VIDEOTECA  [/COLOR][/B]</info></item>
 </channels>
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS POP / ROCK[COLOR crimson] VOL 2  [COLOR lime] PAGINA 2  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/bJ5GFNYQ/poprock2pg2.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%202%20PG2</externallink>
 <fanart>https://i.postimg.cc/tTsDx2Fg/FLASHHITSPOPROCK2pg2.jpg</fanart>
 <info>[B][COLOR yellow]SEGUNDA PAGINA COM GRANDES CLASSICOS DO POP ROCK INTERNACIONAL NA SEGUNDA PARTE DESTA INCRIVEL VIDEOTECA   [/COLOR][/B]</info></item>
 </channels>
@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS POP / ROCK[COLOR crimson] VOL 2 [COLOR lime] PAGINA 3  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Y0m4cKjT/poprock2pg3.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITS%202%20PG%203</externallink>
 <fanart>https://i.postimg.cc/gkWqzYtj/FLASHHITSPOPROCK2pg3.jpgg</fanart>
 <info>[B][COLOR yellow]TERCEIRA PAGINA COM GRANDES CLASSICOS DO POP ROCK INTERNACIONAL NA SEGUNDA PARTE DESTA INCRIVEL VIDEOTECA  [/COLOR][/B]</info></item>
 </channels>
