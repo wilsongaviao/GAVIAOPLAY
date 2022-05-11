@@ -52,7 +52,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUNDO SERTANEJO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/3NspSfrt/MUNDOSERTANEJO.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1QB89TB_hg3mQviLnOOfJT7RBdttpnL30</externallink>https://pastebin.com/raw/dH6FnBTV
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20MUNDO%20SERTANEJO</externallink>h
 <fanart>https://i.postimg.cc/tRhZV55Z/fanartmundosertanejo.jpg</fanart>
 <info>O MELHOR EM VIDEO DO SERTANEJO RAIZ AO  SERTANEJO UNIVERSITARIO VOCE PODE VER E OUVIR AQUI</info>
 </channels>
