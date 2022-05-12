@@ -32,7 +32,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS BRASIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/hj61bkj1/FLASHHITSBRASIL.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1g6nb6_OJqFt9giToVxLMFeazIkWIFQ4M</externallink>https://pastebin.com/raw/1ndY5s6q
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20FLASH%20HITS%20BRASIL</externallink>
 <fanart>https://i.postimg.cc/MGdzLnsZ/FANARTFLASHHITSBRASIL.jpg</fanart>
 <info>OS SUCESSOS DO SOM BRASILEIRO DE TODOS OS RITMOS POP ROCK, MPB, AXÉ,FORRÓ,ETÇ...., VOCE VERA E OUVIRÁ AQUI </info>
 </channels>
