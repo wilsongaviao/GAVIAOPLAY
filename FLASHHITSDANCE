@@ -2,23 +2,27 @@
 <title>[B][COLOR yellow]DANCE MUSIC[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLofDO9VpE_gjVqCNec-4HRPP1iEEEkSuq/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.scdn.co/image/ab67616d0000b27366e49eb6cd91bf870ae08dd0</thumbnail>
+<fanart>https://i.scdn.co/image/ab67616d0000b27366e49eb6cd91bf870ae08dd0</fanart>
+<info>[B][COLOR yellow] COLETANEA COM OS GRANDES CLASSICOS DA MUSICA ELETRONICA DOS ANOS 90,2000 [/COLOR][/B]</info>
+</channels>
 </item>
 ###############################################################################################################
 <item>
 <title>[B][COLOR yellow]POP ROCK DANCE[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL64E6BD94546734D8/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51+Kkeu+AiL.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51+Kkeu+AiL.jpg</fanart>
+<info>[B][COLOR yellow] COLETANEA COM GRANDES CLASSICOS DO POP ROCK DANCANTE INTERNACIONAL [/COLOR][/B]</info>
 </item>
 ###############################################################################################################
 <item>
-<title>[B][COLOR yellow]POP MUSIC 2020 HITS[/COLOR][/B]</title>
+<title>[B][COLOR yellow]POP SONGS 2020 HITS[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcA6NptBH5BXQNo3tukYLB8pe20Re4MZA/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://static.stereogum.com/uploads/2020/12/pop-songs-2020-1607480023.jpg</thumbnail>
+<fanart>https://static.stereogum.com/uploads/2020/12/pop-songs-2020-1607480023.jpg</fanart>
+<info>[B][COLOR yellow] COLETANEA COM GRANDES SUCESSOS DA MUSICA POP INTENACIONAL VALE A PENA CONFERIR [/COLOR][/B]</info>
 </item>
 ###############################################################################################################
