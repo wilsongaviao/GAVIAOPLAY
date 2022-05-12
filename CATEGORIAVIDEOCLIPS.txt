@@ -22,7 +22,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FLASH HITS DANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/VknZRGQv/DANCEMUSIC.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASH%20HITSDANCE%20MUSIC</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FLASHHITSDANCE</externallink>
 <fanart>https://i.postimg.cc/C18Z7Hp2/fanartflashitsdance.jpg</fanart>
 <info>[COLOR yellow]SELEÇÃO DE SUCESSOS INTERNACIONAIS DA DANCE MUSIC DOS ANOS 80,90 E 2000[/COLOR]</info>
 </channels>
