@@ -1,20 +1,29 @@
+###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR][B] [COLOR white]CLASSICOS SERTANEJOS[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://s3.amazonaws.com/vinils3/wp-content/uploads/2015/06/conjunto-cristal3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CL%C3%81SSICOS%20SERTANEJOS.txt</externallink>
-<info>[B][COLOR yellow] Os grandes sucessos do mundo sertanejo, grandes interpretes tudo aqui pra vc curtir  e se divertir[/COLOR][/B]</info>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CLÁSSICOS SERTANEJOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/xCyn5kFN/CLASSICOSSERTANEJOS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CL%C3%81SSICOS%20SERTANEJOS.txtF</externallink>
+<info>[B][COLOR yellow]OS SUCESSOS DO SERTANEJO RAIZ, CLÁSSICOS INESQUECÍVEIS DE TODOS OS TEMPOS.SOMENTE EM AUDIO[/COLOR][/B]</info></item>
 </channels>
 </channel>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+###################################################################################################################
 <channels>
 <channel>
-<name>[[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [B][COLOR white] SERTANEJO UNIVERSITARIO[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://img.discogs.com/UMtvgo0tEdf3HILhFnE5V4YLyAQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745151-1448152745-7982.jpeg.jpg</thumbnail>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERTANEJO UNIVERSITÁRIO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/k43c7L4d/SERTANEJOUNIVERSITARIO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SERTANEJO%20UNIVERSITARIO.txt</externallink>
-<info>[B][COLOR yellow]Os grandes sucessos do mundo sertanejo universitario ,  grandes interpretes tudo aqui pra vc curtir  e se divertir [/COLOR][/B]</info>
+<info>[B][COLOR yellow]SUCESSOS DO SERTANEJO UNIVERSITÁRIO DESDE O COMEÇO DO RITMO QUE MUDOU O SERTANEJO TRADICIONAL ATE OS DIAS DE HOJE.SOMENTE EM AUDIO[/COLOR][/B]</info></item>
+</channels>
+</channel> 
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UNIVERSO SERTANEJO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/9Q40DgbG/UNIVERSOSERTANEJO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/UNIVERSO%20SERTANEJO.txt</externallink>
+<info>[B][COLOR yellow]SUCESSOS SERTANEJOS DE TODOS OS TEMPOS E GENEROS , DESDE O SERTANEJO RAIZ ATE OS DIAS DE HOJE. SOMENTE EM AUDIO[/COLOR][/B]</info></item>
 </channels>
 </channel>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
