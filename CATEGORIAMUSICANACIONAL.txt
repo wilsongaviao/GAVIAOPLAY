@@ -20,7 +20,7 @@
 <channels><channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] MUNDO SERTANEJO  [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/3NspSfrt/MUNDOSERTANEJO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20MUNDO%20SERTANEJO%20(MP3).txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20MUNDO%20SERTANEJO</externallink>
 <fanart>https://i.postimg.cc/tRhZV55Z/fanartmundosertanejo.jpg</fanart>
 <info>[B][COLOR yellow]COLETANEAS DE SUCESSOS DO MUNDO SERTANEJO EM TODOS OS GENEROS[/COLOR][/B]</info>
 </channel></channels> 
