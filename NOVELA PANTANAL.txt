@@ -1,7 +1,6 @@
 ##############################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]01 >>>>> 09[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWF4ACRICMMPX3Q3A7YJYKLTAACEEFJO</link>
-</item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWF4ACRICMMPX3Q3A7YJYKLTAACEEFJO</link></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EJDWX2DV3PEYTX3GKQDDTYPHZ7SGXZKO</link></item>
@@ -51,20 +50,49 @@
 <item><title>[B][COLOR white]EP - [COLOR yellow]29[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EVV4WRZQO4X53FXAP7LMBCPWCR2BTT6O</link></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]30[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5FTQXIVOQGZYCTIPRATCGXNOIRQ3Y26</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AnfXhKJwb9rBa8cvPBV54XgJxMF.jpg</fanart>
-[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]EP - [COLOR yellow]30[/COLOR][/B]</title></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]31[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IIOMJWWNBAVCSC37EFP3RERTNFKFA3OY</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AnfXhKJwb9rBa8cvPBV54XgJxMF.jpg</fanart>
-[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IIOMJWWNBAVCSC37EFP3RERTNFKFA3OY</link></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]32[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPBAMGVMGLEYWIGGWUVJYKPO377JRPLK</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AnfXhKJwb9rBa8cvPBV54XgJxMF.jpg</fanart>
-[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPBAMGVMGLEYWIGGWUVJYKPO377JRPLK</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]33[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q4TBSDEE3DJ3CFBJDTINKK33JZTFAGOH</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]34[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJXUVBVQV6FAWBP376LZQ2HDAHGTA564</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]35[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AYHI6T4MQSCFRGTJ62GBDTO6Q3M6DRTZ</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TD5VQ767DF2RM2HPRVCOLJ6I5QCSERLL</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]37[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3XZC6T5N3XUJCI26CWWWMTEQL4H23YKC</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]38[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMDOIEIHRU476IFB2CQFXNI46JGEQ4DX</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]39[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UM7A4GX56M5QX334K2BNNPYCVKP5O5OV</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]41[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVFN6NRKUISCQNT3NCZCMLDJT4FGC2E4</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]42[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D22LIPMWX67MUYAUEAAHJRF4ZWSNC7E3</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]43[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7TPNRUEKLMZVTZLFBTSZHWB4TMUW6RK4</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]44[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UE2PW6PALMDACWZONRH6CG76SKCQMYAK</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]45[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4WNH57AWKIXFCH3ISBRYNTGQOZQWF3A4</link></item>
+##############################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]46/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MK5FDH4OKTDF7CNLE2UQJU3MZHY3KJID</link></item>
