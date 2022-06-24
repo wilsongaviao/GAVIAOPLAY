@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]  CINE 2022 DUBLADOS [COLOR white][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Bvg8XdM9/CNE-2022-DUBLADO.jpg</thumbnail>
-<externallink>https://github.com/wilsongaviao/GAVIAOPLAYER/blob/main/CINE%202022%20DUBLADO</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINE%202022%20DUBLADO</externallink>
 <fanart>https://i.postimg.cc/sXYTQfbf/FANART-CINE-2022-DUBLADO.jpg</fanart>
 <info>[B][COLOR yellow]TODOS OS FILMES DE 2022 NACIONAIS . INTERNACIONAIS E ANIMAÇOES DUBLADOS DISPONIVEIS ESTARAO AQUI,ALGUMA OUTRA INDICAÇÃO FAVOR ENTRAR EM CONTATO  [/COLOR][/B]</info></item>
 </channels>
