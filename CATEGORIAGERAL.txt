@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/hj3VxPkW/LAN-AMENTOS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LAN%C3%87AMENTOS.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20LAN%C3%87AMENTOS</externallink>
 <fanart>https://i.postimg.cc/Vk07WTSQ/FANART-LAN-AMENTOS.jpg</fanart>
 <info>[B][COLOR yellow]RELAÇÃO DE FILMES LANÇADOS NO ANO DE 2022, DE TODOS OS GENEROS, DUBLADOS E LEGENDADOS QUE ESTIVEREM DISPONIVEIS SERÃO ADICIONADOS AQUI.[/COLOR][/B]</info></item>
 </channels>
