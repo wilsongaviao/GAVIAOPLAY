@@ -19,24 +19,4 @@
 </channels>
 </channel>
 ###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]  LANÇAMENTOS 4 k [COLOR white][/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/G26FPDtL/lancamento-4k.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LANCAMENTOS4K.txt</externallink>
-<fanart>https://i.postimg.cc/sg5pY1Cy/FANARTLANCAMENTOS4-K.jpg</fanart>
-<info>[B][COLOR yellow]TODOS OS LANÇAMENTOS INTERNACIONAIS EM QUALIDADE 4 K DUBLADOS  E LEGENDADOS DISPONIVEIS SERÃO ADICIONADOS AQUI , ALGUMA OUTRA INDICAÇÃO FAVOR ENTRAR EM CONTATO  [/COLOR][/B]</info></item>
-</channels>
-</channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] LANÇAMENTOS  ( C A M ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/tJPhBgnh/lancamento-CAM.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LANCAMENTOS(CAM)</externallink>
-<fanart>https://i.postimg.cc/bND0v36Z/FANARTLANCAMENTOCAMERA.jpg</fanart>
-<info>[B][COLOR yellow]FILMES GRAVADOS POR CAMERA DENTRO DO CINEMA, FILMES INTERNACIONAIS E NACIONAIS LANÇADOS  E AINDA NAO DISPONIVEIS EM QUALIDADE ORIGINAL, COM LEGENDAS OU DUBLADOS,ESTARÃO AQUI,ALGUMA OUTRA INDICAÇÃO FAVOR ENTRAR EM CONTATO[/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
 
