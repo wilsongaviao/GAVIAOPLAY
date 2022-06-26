@@ -1,19 +1,26 @@
 ##############################################################################################################
-<item><title>[B][COLOR white]Doze é Demais  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Meu Namorado Fake [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PWN4P5K4IA53MVVVX2IITBOHZDTW34YQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zGDMNqWTtkWL6So4yM3ewNCtYY1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rGhCGxE2WWqzyRa8dy448uYGr4w.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Drew vive um relacionamento tóxico e conturbado. Para colocar seu ex de uma vez por todas fora de sua vida e ajudá-lo a seguir em frente, os melhores amigos de Drew, Kelly e Jake, decidem criar um namorado fake para ele. O plano parecia perfeito até que Drew se apaixona por Rafi, mas ainda está preso ao namorado fake.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Doze é Demais  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c183866d8b915ef454f0bb6c3688e179c9435a20</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWFxqnDGY5D9dYZn97bikXpB5DR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4YOpxmGyQZFELwLB7JqcpYKnmKw.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A engraçada e emocionante história das façanhas dos Bakers, uma família mista de 12 pessoas, em sua agitada vida doméstica enquanto administram os negócios da família.
 [COLOR white][B] Gênero:  [COLOR lime]	Aventura / Comédia / Família [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Fantasmas do Passado ( Master ) [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Fantasmas do Passado ( Master ) [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4c121d199cfb9c723296123dd9aad9c3a3cb2bc</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bW0zTTdvc9zafc6hDEG1pMDuMCW.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Três mulheres lutam para encontrar seus lugares em uma universidade de elite no nordeste dos Estados Unidos, tão antiga quanto o país. Quando ataques racistas anônimos são feitos contra uma caloura negra - que insiste que está sendo assombrada por fantasmas do passado da escola - cada mulher deve descobrir onde está a verdadeira ameaça.
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Águas Profundas[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Águas Profundas[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01c704366be50d482f2f4b7e414efd577405281</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGhSy2ao59xJDbCXyABofNhsV3o.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vCb65mxV6HkQAYPewlka5AlY0lk.jpg</fanart>
