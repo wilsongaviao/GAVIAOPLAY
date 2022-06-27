@@ -524,3 +524,10 @@
 <fanart>https://www.themoviedb.org/t/p/original/ejkbJM697dNrtQvIiUpeUPGpoXX.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Johnny é um jornalista de rádio que viaja pelo país entrevistando várias crianças sobre seus pensamentos a respeito de seu mundo e seu futuro. Em seguida, Johnny está encarregado de cuidar de seu jovem sobrinho Jesse. Jesse traz uma nova perspectiva e, conforme eles viajam de um estado para outro, logo Johnny começa a olhar o mundo de outra forma. 
 [COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Eu Acredito em Conto de Fadas  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2TC7HB5R2Y4E43TORRWKXCZQSHNNSUV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3lI4fjY5AuOIvkjem5rNXAN6zc3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jeK0quJOnw91GsSuvpDChouyxMc.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No Mundo Encantado, as princesas não quererem seguir os passos de suas mães, causando uma grande confusão. A Fada Madrinha manda as princesas para o Mundo Real, com o objetivo de fazer todos voltarem a acreditar em Contos de Fadas, pois ninguém mais está lendo livros, mas na verdade isso é um plano terrível da Bruxa Má.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia [/COLOR][/B]</info></item>
