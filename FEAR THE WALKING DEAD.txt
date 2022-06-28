@@ -1,6 +1,8 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A85D451EC77E414F5266AE89847F12673DB19BB6</link>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:A85D451EC77E414F5266AE89847F12673DB19BB6[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0801ebab06cddfdd5a3134ca90a4e446fe8205eb$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2w1OK5czFBhXretyjxLrQ3GY1tI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série inicia com o professor Travis Manawa e sua família que vivem em Los Angeles. Todos tem suas rotinas diárias e normais. Travis e sua esposa dão aula em uma escola, enquanto sua enteada Alicia continua sendo desobediente e seu enteado Nick se joga cada vez mais no mundo das drogas. Mesmo com seus problemas internos e externos, a paz da família é destruída quando um vírus começa a circular pelo mundo. Ao tentarem fugir, eles esbarram com novas pessoas e novas famílias, enquanto a Guarda Nacional do país tenta tomar as ordens e os impedir de escapar.[/COLOR][/B]</info></item>
@@ -19,91 +21,17 @@
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
-<link>IGNOREME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607a9c4cfd29b1a7a7e5e7dfd741747b2e1e7a22</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kNKrHQwjzl6NLKonCwt0ojQjGCK.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Nesta terceira temporada de Fear The Walking Dead, as famílias se reencontrarão na vibrante e violenta ecótona fronteira do México. Os limites territoriais se foram com o fim do mundo e os personagens terão que tentar reconstruir não apenas a sociedade, mas a família também. Madison se reencontrou com seu parceiro Travis, e Alicia está abalada por ter assassinado Andres. Em sua primeira ação como líder, Nick, o filho de Madison que está a meros quilômetros de distância, viu Luciana ser emboscada por uma milícia americana. A dupla escapou da morte, mas Nick não se sente mais intocável. Se recuperando tanto emocional quanto fisicamente, Strand está se focando em tirar vantagem da moeda de troca do novo mundo, enquanto o cativeiro de Ofelia testará sua habilidade de sobrevivência e mostrará se ela conseguirá evocar a selvageria de seu pai.[/COLOR][/B]</info></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 01[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1dd06b67dcbdb33258f6ed9882c26542aa46c9$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d56b9a4ec441eb83411aa4fdbfa4e465fda56df$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 02[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:863784b6f4e00dee7003b759a685f295d65d4d47$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ef8a2e13224a09c4e30a4738ada12a10d89a51c$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 03[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd2c34e7c5d1b5c5bea4bae6c8eaa21ec1f899ee$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d8463abe358a4b3191bf1365b5a3382d794976d$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 04[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a31f560428ba9888822e492320c497a046dc7e3$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:377fa5a72a1baf6ddd021793c42907871b48546a$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 05[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4082069e50e0890fe0d8cfc6d304b742e70a713$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d25b4960f0375474f441f3436902784c1958f53$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 06[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:2609e938e33e9727d385d7184711930dde979a52[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:c423ef1f712b9577faecff4f64474ef9ec65bfd0[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 07[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8d37bd4787d589d409d21ec9da51f1e58675502$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5820cec88f884238987a92dfff03502b7e5bcc8$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 08[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b5a723d6b3cbb640ee59f7f48d5095edfd78af$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07a32334f77be7333af47415eb2dc392a92295c6$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 09[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31b3b150f51f4565817987cbb6d9150016811382$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67a08a5c614c90d896da320bc8d754cde46d63b9$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 10[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d1cea16da77ce7c32bd9e4a80b41721c0b5a7df$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1173dd633442c6bdee5beb098d1b1ad12792c834$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 11[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef7ee191fd0d8893fa2428c348d1797b54da185b$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7bac90c093fa6c5d0328bafd214dfd6052ef0c9$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 12[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abd68e610de9676498695b1e796889082969c732$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59c36f1e17707e06a9f88b3f93c87893ab47e7a7$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 13[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8505040394e9070bdcd1d3674477f27cce0cf5b$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54deb7fec66bcd66c0f828a6a782f02ecc963f7b$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 14[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16785d665acde02d1d2162695321b40830f92863$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:439c50d047891eab46665c226a135e03c3677ac7$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 15[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1dd000bf3f0f6892cece1889b57c5a01cb83a86$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a2798b394f298644370538a592babadf374378b$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/xtKtnIIJ7sAlsucm2NPtz3lWTmw.jpg</thumbnail></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a89708ac7582047450a4611c751b6d02f960812</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a89708ac7582047450a4611c751b6d02f960812$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2NsIABfhijeP2TokJ9oMmMvWAD9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/92B6765nyQkIW8yLWt3pNcS6Cip.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Na quarta temporada de Fear the Walking Dead, veremos o mundo de Madison Clark e sua família através de novos olhos, os olhos de Morgan Jones, que está se juntando à história chegando do mundo de The Walking Dead. Os passados imediatos dos personagens se misturam a um presente incerto de luta e descoberta enquanto eles encontram novos amigos, inimigos e ameaças. Eles lutam uns pelos outros, contra os outros e contra uma legião dos mortos para construir de alguma maneira uma existência contra a pressão esmagadora de vidas desmoronando. Haverá escuridão e luz; terror e graça; e o heroico, mercenário e covarde, todos colidindo em direção a uma nova realidade para Fear the Walking Dead.[/COLOR][/B]</info></item>
@@ -111,161 +39,159 @@
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - 720p[COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB76F0B115B9494F743041D2B3A644D897BC0110</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7r4FieFH6Eh6S55hi8c9LOiFENg.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Na quinta temporada de Fear The Walking Dead, a missão do grupo é clara: localizar sobreviventes e ajudar a tornar o que sobrou do mundo um lugar um pouco melhor. Com determinação ferrenha, Morgan Jones lidera o grupo com uma filosofia arraigada em benevolência, comunidade e esperança. Cada personagem acredita que ajudar o próximo lhes permitirá expiar os erros do passado. Mas confiança não será ganhada facilmente. Sua missão de ajudar os outros passará por um teste definitivo quando nosso grupo se deparar com território desconhecido, o qual os forçará a enfrentar não somente seus passados, como também seus medos. E somente encarando estes medos o grupo descobrirá um modo inteiramente novo de se viver, que os mudará para sempre.[/COLOR][/B]</info></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c390f62cdfb66ab009e4fe9d71082ce75d0d424c&</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad9d3489c0c5cc4622113af35f541daa21124d78&</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bcbc90a2d4e881cb0d27d2c2e2afd4e6fe7f36c&</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa3b22ffc66b5892ccaa30814adfccfeb90e184&</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cd60cd909ef899f219f1c51438d1237ce834b81&</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3fd4a5401c7ab6288ce57fc65473ec553612652&</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dd31e9753c6960ac65eee7351be36aaa0a9538e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3376d50ad347e3d9c7d7f602668e9790c2ecdf1</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9b30da65655c007ba728b044588ba7b916a0546</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d116d707ff35525c81d927023d86df78d146a50f</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f201069cb4ab941fbb3eb6ec9614ced74df9aa0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]12[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8982cacf6a7ede4f4f644fb22ffdde96e78be7e8</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]13[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:333f89a2e3121b7bef5c720585a02f4d6456eec2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]14[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a206ce7acfa985cdd81437f657ac48c9aa2b76</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]15[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85fa2507f079844191ef99c1940c07b4d85f9b96</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]16[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cf5532bb22662d69c6fa282758c6206786dd271</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 6ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>IGNOREME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81BDC2137092179B5906B15B9EA2614C3942B309</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sVLkvrT93EmMIg6ddXoCE0u1Bv3.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Na 6ª temporada, espalhado por assentamentos distantes da Virgínia, o grupo luta para sobreviver separado um do outro enquanto tenta manter quem eles são e no que eles acreditaram.[/COLOR][/B]</info></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 01[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c8cf3e0ffd231e9fbd975ded19a25233091d14d</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 02[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0cce1121b3ac9fac4d7984725df69e103e9f473</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 03[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e182f11d06294b2468669bdc437ff168d51442c8</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 04[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:286ef6fabf5292ded1a9143123e6e36249fb6e85</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 05[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f61b7c9c4a84880c86e8d0ae104e81454e27c461</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 06[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ccd5cb0b3e18c1828ab35af8f2035a79a849884</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 07[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc198ef7a36a81a5fda7c0aa651e948b1bed3eac</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 08[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ad28971145386bcb65001144a4a30c858eae40d</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 09[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5ecfbc95c47dcbb725333d0660763bd767e72a2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 10[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b196df841b4fe4c7318e0e88492ac60a2fd789f2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 11[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e2d92b409f1d9844f16433d91979d7def6032f</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 12[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19e2a0ce3056d97c4e253d4891dbc8dd17d461ce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 13[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aaefefcc231a92f2beadf652dd7e9358e4d67c99</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 14[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c08773f4eff951cfd85b028215b631f65451d51b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 15[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ad3f020a38e23e11cf211f94254289fd953abd7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 16[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6dea8da2d967210f9245fe8ef95e9bbe807582a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/zoHOGdi5SxWkjjtcVVTZBiuvb9f.jpg</thumbnail></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 7ª TEMPORADA[COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:B5A7946D246651D8423E6485A0FEF8BF2E0246DB=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zrMCOQnzIgGyBtGCdMPom9bOw0r.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-#############################################################################################################################
-<item><title>[B][COLOR white]EP -[COLOR yellow] 01[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a8c0439867baccfb70c743a4fa063ba4d1fb4a3</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zrMCOQnzIgGyBtGCdMPom9bOw0r.jpg</fanart></item>
+<info>[B]Sinopse:[COLOR yellow] Liderados por Morgan e Alicia, o grupo chega a um território desonhecido em busca de sobreviventes que precisionm de ajuda. Mas nem tudo é o que parece ser neste lugar sinistro e novo.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 8ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B329DE6E8FB5DD7796C4875CBF5D61BA09EB1C79</link>
+<thumbnail>https://2.bp.blogspot.com/-IKtJKMIhd6Q/W-J5ylNor2I/AAAAAAAACng/BxIX43h_-q0jvkFUymnKpvgPtlFgF0G3wCLcBGAs/s1600/The%2BWalking%2Bdead%2B8%2Btemporada%2Btorrent%2Bdownload%2Bdublada.jpg</thumbnail>
+<fanart>https://www.meugamer.com/ezoimgfmt/i0.wp.com/www.meugamer.com/wp-content/uploads/2022/04/fear-the-walking-dead-assistir-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1&ssl=1&w=1200</fanart>
+<info>[B]Sinopse:[COLOR yellow] Até agora, a sobrevivência vem sido o foco de Rick e seu grupo mas não é o suficiente. Eles precisam lutar por sua liberdade para que possam viver. Assim como qualquer batalha, haverão perdas e mortes. Mas com Rick liderando as forças de Alexandria, Maggie liderando Hilltop e Rei Ezekiel liderando o Reino, a tirania de Negan e os Salvadores pode finalmente estar chegando a um fim. [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 9ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AAB57D066BDC22A58E8B7DD7D2405CC843DAB07$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AAB57D066BDC22A58E8B7DD7D2405CC843DAB07[$nome=B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://1.bp.blogspot.com/-qVkTme7wQug/W7osvq6v8kI/AAAAAAAABUw/rbTbvGwRIIAqaPVaJHaaRuoVFMKFb20VwCLcBGAs/s1600/The%2BWalking%2BDead%2B9%2Btemporada%2Btorrent%2Bdublada%2Bcompleta%2Bdownload.jpg</thumbnail>
+<fanart>https://geekdama.com.br/wp-content/uploads/2019/01/the-walking-dead-9-temporada-parte-2-poster-daryl-carol-michonne-capa.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] o líder de Alexandria deve continuar com sua nova missão de construir um mundo de paz para todos. Mas será que todos os Salvadores simplesmente abaixarão a cabeça e entrarão na linha? E será que Rick será forte e estável o suficiente para resistir ao derramamento de sangue da próxima vez que as coisas ficarem difíceis? Novos episódios são lançados toda a semana após serem exibidos na televisão.[/COLOR][/B]</info></item></info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 10ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart>
+<info>[B]Sinopse:[COLOR yellow]Meses após a retribuição de Alpha, as comunidades restantes tentam lidar com as perdas, relutantemente respeitando as fronteiras que lhe são impostas, enquanto se preparam para uma inevitável batalha. Mas os Sussurradores são uma ameaça diferente de todas que eles já enfrentaram.. [/COLOR][/B]</info></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]O1 (1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5e372a4b97990af61490e4ceb682b043a63aebe</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 02(1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e663e8e4af5647739c34abc71d1018068baac29e</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 03(1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e663e8e4af5647739c34abc71d1018068baac29e</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 04 (1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c291a00c4ffe2e19cdbe2ec46c9ced619fade6f&</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:076e41d06a3aaf04bdc4982c7f17f9db15020498&</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+Victor#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 06 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f2312fc15a68fdce386ad7aa155393881e9cfa4&</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fced96f3ec9525fe34dfd7822395a5f17b08723a</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fced96f3ec9525fe34dfd7822395a5f17b08723a</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 09 (1080p )  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b96e01b6db5538545e6c1096da4a3786f637435d</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 10  (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aff59a47302803bfe84b06e7085a7f0a40a09b4f</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 11 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ea110ff17d4143b84e1e59f9a108f5a2af912b</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 12 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b35531f5465c2f746f6a006f5162a8df8c538db3</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 13 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56c0fe3c1a24b3e620a3b84c3d641fa8f0633d4c</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 14 >15 (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cd952e9e484e4f7bad0d77c498caba15fa2dcad</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 16 (1080p )  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cd952e9e484e4f7bad0d77c498caba15fa2dcad</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 17  (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027def9198f6e372994f5a567db60e7928429b99</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 18 (1080p )  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2a0f57b06461e7fee73884e1661fa8a31eedaa7</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 19  (1080p ) [ /COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c237274416890085a3071a25ba9800a4d72acfb</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 20  (1080p ) [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1a806d0d00800b3f18bb4dccde4f48530b8d3ac</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 21 (1080p )  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d05a75a86aa591e1a5683e3f80a5469118602f</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 22 (1080p )  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93faad322a287328e4e9fdc12e7f2254daa0b98a</link>
+<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
+
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
