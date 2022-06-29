@@ -68,16 +68,21 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] RAIO NEGRO [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
-</item>
-##################################################################################################################
-<item><title>[COLOR white]EPS[COLOR yellow]01 >>> 06[/COLOR]</title>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Jefferson Pierce é um pai de família que precisa voltar a atuar como o justiceiro Black Lightning quando a violência de gangues ameaça o futuro de sua comunidade e sua filha se torna obcecada com a execução da justiça. Ele precisa agir com cuidado, entretanto, pois a polícia está á sua procura. [/B]</info></item>
+
+<item><title>[B][COLOR white]EPS[COLOR yellow]01 >>> 06[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f3c8591e953596dd8eaa23eeccf5278cb234acc</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail></item>
-<item><title>[COLOR white]EPS[COLOR yellow]07 >>> 13[/COLOR]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg</fanart></item>
+##################################################################################################################
+<item><title>[B][COLOR white]EPS[COLOR yellow]07 >>> 13 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8c1d80221a3ed85788b32945684a1cad423ee7e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow][/COLOR]Jefferson Pierce é um pai de família que precisa voltar a atuar como o justiceiro Black Lightning quando a violência de gangues ameaça o futuro de sua comunidade e sua filha se torna obcecada com a execução da justiça. Ele precisa agir com cuidado, entretanto, pois a polícia está á sua procura. [/B]</info></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item
