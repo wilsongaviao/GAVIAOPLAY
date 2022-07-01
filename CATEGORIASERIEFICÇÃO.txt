@@ -2,7 +2,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BLACK%20MIRROR</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7PRddO7z7mcPi21nZTCMGShAyy1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/b92npz1sZwvmjUfVIrWXehrk3pc.jpg</fanart>
@@ -13,7 +13,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HEROES</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvCPxEZmy8kjedNZXTw7x4jLYvI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4QMjJCtt82VqBAavDfuWuUONoRS.jpg</fanart>
@@ -24,7 +24,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/eMUs9YPK3OKyU00kJPLfU1CSTnR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOTHER%20LIFE%20(OUTRA%20VIDA%20).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/yzoIO9VpZTIh62ZGv1B4YdiUZ6R.jpg</fanart>
@@ -197,7 +197,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE EXPANSE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE EXPANSE [COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wikmaI7OVqmq2O9HfknkzxX6Ygu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20EXPANSE.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/hVrcSy5ca0xRjy9e9w5bguXSjAc.jpg</fanart>
