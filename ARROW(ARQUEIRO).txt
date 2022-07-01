@@ -1,163 +1,358 @@
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title<//item>
+<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]1ª Temporada [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9bm4rcSy0mOBLCIT6FzS6ujExXs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xSM3Ba3Nabs2p0wW8vTJP0yx3Zv.jpg</fanart>
+<info>[B]Sinopse [COLOR yellow]Stephen Amell (Hung, 90210) vai fazer o papel principal, Oliver Queen/Arqueiro Verde, descrito como um bad boy reabilitado de 27 anos que, depois de sofrer um naufrágio, passa cinco anos brutais em uma ilha no sul da China e retorna para a cidade como um homem mudado: um mestre torturado e reflexivo do arco e flecha, determinado a fazer a diferença.[/COLOR][/B]</info><fanart></fanart></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><title<fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dcd64b6e93f2ee4467086cd27f81f41d3a37fe1</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title><fanart></fanart></item>
+<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]2ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dcd64b6e93f2ee4467086cd27f81f41d3a37fe1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yyocMgEiwXxWiOQ1J0g6memWVSW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mCvDivLKijVUQF9naJLtLQmgfOE.jpg</fanart
+<info>[B] Sinope:[COLOR yellow] Starling City foi dividida ao meio depois dos eventos catastróficos que marcaram o final da primeira temporada, por isso, todos precisam urgentemente que o vigilante encapuzado - agora conhecido como O Arqueiro - entre em ação em uma Segunda Temporada ainda mais explosiva, nessa série de ação de sucesso baseada no popular personagem do universo DC Comics. Depois de se retirar para a ilha onde ficou preso uma vez, Oliver Queen retorna para a proteção de sua mãe, irmã e de sua corporação sitiada, mas vem a perceber que tanto seus aliados quanto seus inimigos mudaram de lado. E o domínio do mal na família, nos amigos e na cidade está diabolicamente relacionado ao seu fatídico naufrágio. Um companheiro de armas dos seus tempos da ilha e um soro que aumenta sua força e capacidade cognitiva, desenvolvido lá, podem provar ser os piores adversários que O Arqueiro jamais encontrou.[/COLOR][/B]</info><fanart></fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]3ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308F777C5B22F5B412A6248E711F15FF8F08A6A6</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><title><fanart></fanart></item>
+<item><title>[B][COLOR crimson### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]3ª Temporada[COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308F777C5B22F5B412A6248E711F15FF8F08A6A6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eiNC7vd7O67byIJijdmSaOM4zpl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/36lPLpuigHqROFsG576RAy1asga.jpg</fanart>
+<info>[B] Sinopse :[COLOR yellow] O Arqueiro se tornou um herói para os cidadãos de Starling City, mas isso não significa que Oliver Queen possa desviar sua atenção e levar uma vida normal na espetacular terceira temporada do seriado de sucesso baseado no personagem criado pela DC Comics. Uma nova onda de diabólicos gênios do crime dos terrores caseiros infligidos pelo ressuscitado Vertigo, o demente Cupido, o lançador de bumerangues Digger Harkness e o sedento de sangue Brick Brickwell, até a insidiosa e penetrante destruição forjada por Ra's al Ghul e a Liga das Sombras tudo ameaça aquilo que ele mais preza. A equipe do Arqueiro se transformou em uma poderosa força, mas os perigos e os segredos que os mantém juntos frequentemente testam uns aos outros, à medida que a escuridão promovida por Malcolm Merlyn e o invencível Ras'al Ghul rompem laços de lealdade e de alianças que os testarão em seu íntimo. Para testemunhar um heroísmo sem comparação e muita ação.[/COLOR][/B]</info><fanart></fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title<fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]4ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD48DD5E232CE6374736C68004D49D6E95BFE9D8</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
+<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 4ª Temporada [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD48DD5E232CE6374736C68004D49D6E95BFE9D8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aXfaEuhwLbH1HvYEC6GwvIk0wiJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8qPtIOJCGDOBG6nWnetLGhHH7fT.jpg</fanart>
+<info>[B]Sinopse : [COLOR yellow]Arriow reinventa o bilionário Oliver Queen, um arqueiro "justiceiro" que retorna de uma ilha remota determinado a consertar os erros de seu pai e frustar os planos daqueles que corromperam Starling City. Diggle (David Ramsey), Thea (Willa Holland) e Laurel (Katie Cassidy) continuam combatendo o crime em Starling City, recentemente renomeada "Star City" em homenagem a Ray Palmer.[/COLOR][/B]</info><fanart></fanart></item>
+<item><title>[B][COLOR crimson##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></title><fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]5ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AE429FA7D7EDDF0D8556C40438CD0B54898C4FC</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
+<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 5ª Temporada[COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AE429FA7D7EDDF0D8556C40438CD0B54898C4FC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ol21S0AuSphTnHt5TcF5UGumIeS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tVKBqBj8XzZNNatpSjLblfaqOD8.jpg</fanart>
+<info>[B]Sinopse : [COLOR yellow]O recém eleito prefeito Oliver Queen assume seu cargo e precisará atuar em duas frentes para manter Star City protegida, na função de Prefeito e como Arqueiro Verde. Com seu fiel parceiro John Diggle de volta ao serviço militar e sua irmã, Thea Queen, mudando de ideia sobre permanecer como Speedy, a equipe do Arqueiro Verde acaba reduzida a Oliver e Felicity Smoak. A derrota pública de Oliver para Damien Darhk no fim da quarta temporada acaba inspirando uma nova geração de heróis mascarados para defender a cidade. Echo Kellum junta-se ao elenco como o brilhante inventor Curtis Holt, ao mesmo tempo em que um novo oponente mortal força Oliver a enfrentar questões sobre seu legado.[/COLOR][/B]</info><fanart></fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]6ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail><fanart></fanart></item>
+<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 6ª Temporada[COLOR yellow]###[/COLOR][/B]</title><link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart>
+<info>[B]Sinopse : [COLOR yellow]Como o Arqueiro Verde, Oliver Queen (Stephen Amell) protege sua casa, Star City, com a ajuda do ex-soldado John Diggle (David Ramsey), a especialista em ciência da computação Felicity Smoak (Emily Bett Rickards), sua Thea Queen (Willa Holland), o vice-prefeito Quentin Lance (Paul Blackthorne), o brilhante inventor Curtis Holt (Echo Kellum) e seus novos recrutas, Rene Ramirez (Rick Gonzalez) e Minah Drake (Juliana Harkavy). Na sexta temporada, Oliver finalmente solidificou e fortaleceu sua equipe de combate ao crime, para logo serem ameaçados quando inimigos inesperados de seu passado, incluindo a Black Siren (Katie Cassidy), retornaram a Star City, forçando Oliver a repensar seu relacionamento com cada membro sua família. Com a equipe pendente na balança, o foco muda para o destino de todos os membros da Equipe Arrow![/COLOR]Temporada completa com todos os links em torrent[/B]</info><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 01[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF756D8A83494D60B86BE2591569267B01CD9997</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]01[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF756D8A83494D60B86BE2591569267B01CD9997</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 02[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3DF421525972B7B48221307BBC0404622EB2E74</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3DF421525972B7B48221307BBC0404622EB2E74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 03[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626430E9671F694C0DDD91DD424124F2E3B17A7E</link><thumbnail></thumbnail></item
+<item><title>[B][COLOR white]EP [COLOR yellow]03[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626430E9671F694C0DDD91DD424124F2E3B17A7E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 04[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C42413918B39026D4CFC12906F669BB68B6F917</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]04[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C42413918B39026D4CFC12906F669BB68B6F917</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 05[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012EEEA71E687F5F85728AF9D42E9BF17EDAD266</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]05[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012EEEA71E687F5F85728AF9D42E9BF17EDAD266</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 06[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63822778D33B83A92BE7FDB6BF9EF61DB6FA1BC6</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63822778D33B83A92BE7FDB6BF9EF61DB6FA1BC6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 07[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB81320B58A427C8F4E851E74E91FEAD6D25FA1D</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]07[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB81320B58A427C8F4E851E74E91FEAD6D25FA1D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 08[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C936CC3F1413B037716A0E7FF7AC856B87DFABA</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]08[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C936CC3F1413B037716A0E7FF7AC856B87DFABA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 09[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E6F74DEAE432B669DB8F30204C7FF8C96137C15</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]09[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E6F74DEAE432B669DB8F30204C7FF8C96137C15</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 10[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9253C323A79361E68D39D77D3992AB5B8B937489</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]10[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9253C323A79361E68D39D77D3992AB5B8B937489</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 11[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A844B58AD4B5F34B4C10F12D2E53F78799C7949D</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]11[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A844B58AD4B5F34B4C10F12D2E53F78799C7949D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 12[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1D96735AE1BF794F3ADE13699B5218781D0CB45</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]12[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1D96735AE1BF794F3ADE13699B5218781D0CB45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 13[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C8079A742769EED699BAE80AAC50D960DD75542</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]13[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C8079A742769EED699BAE80AAC50D960DD75542</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 14[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5669C60269BEBCE08E583EAFC3EDE79978101A3</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]14[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5669C60269BEBCE08E583EAFC3EDE79978101A3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 15[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93214B1A9195C161F1BD0B895CC32E11886C542F</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]15[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93214B1A9195C161F1BD0B895CC32E11886C542F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 16[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D61EE1E5057F5915686F5787145D80A90986624</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]16[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D61EE1E5057F5915686F5787145D80A90986624</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 17[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BAFC4AC4595847A3F8F14FF0DA5AAE03A764DBE8</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]17[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BAFC4AC4595847A3F8F14FF0DA5AAE03A764DBE8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 18[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F4FA22562A3877A6ECE58D02AC3DBBE7E8CF96E</link><thumbnail></thumbnail></item>
  
-<item><title>[B][COLOR white]EP 19[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BFD0B8366905AEEFCBFF95F27C8FF6BF85B5512</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]18[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F4FA22562A3877A6ECE58D02AC3DBBE7E8CF96E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 20[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1C0FBFA89F770F760980534DCF5494C070BB397</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]19[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BFD0B8366905AEEFCBFF95F27C8FF6BF85B5512</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 21[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50E5E8CE35FFDBA72C9599C54F793183FA6B2666</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]20[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1C0FBFA89F770F760980534DCF5494C070BB397</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 22[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04C90D205CEEBAFB0D16D11E1D5E099BAA9EAED3</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]21[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50E5E8CE35FFDBA72C9599C54F793183FA6B2666</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 23[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FF288287F22BBED9051405DC42D3F24E6F220E5</link><thumbnail></thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]22[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04C90D205CEEBAFB0D16D11E1D5E099BAA9EAED3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]23[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FF288287F22BBED9051405DC42D3F24E6F220E5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart><fanart></fanart></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><fanart></fanart></item>
  
  
 
+
  
+<item><title>[B][COLOR yellow;]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title><fanart></fanart></item>
+<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]7ª Temporada
+[COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<info>[B][COLOR yellow][/COLOR][/B]</info><fanart></fanart></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]01[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e90ea496dbeff68d97b51758b5d33e2dbc087150</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w6pv2Gc0I5v3DhgLsXbWc3o1Ryy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iViBrd6Cn1L7zw5Awn34wF6VTXk.jpg</fanart>
+</item>
  
+<item><title>[B][COLOR white]EP [COLOR yellow]02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04cc6886f917210ac9efeaed5611126539d72d0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]7ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR white]EP 01[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e90ea496dbeff68d97b51758b5d33e2dbc087150</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]03[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:504b7e8e5993472dbab9c385b84ef7930f9ccfc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 02[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04cc6886f917210ac9efeaed5611126539d72d0b</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow] 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05a3a11714ca1057db8d7062ac5a7f98e07814b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 03[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:504b7e8e5993472dbab9c385b84ef7930f9ccfc3</link><thumbnail></thumbnail></item
+<item><title>[B][COLOR white]EP [COLOR yellow]05[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46d35a06e64f01d35f15e7a4216042cc3460897a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 04[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05a3a11714ca1057db8d7062ac5a7f98e07814b</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]06[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4434F8F053957A59357CC746FEE9C8EB4BDA77EA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 05[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46d35a06e64f01d35f15e7a4216042cc3460897a</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]07[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6E2738C9F5971317B696A5DA68F8AF1916F7BDE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 06[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4434F8F053957A59357CC746FEE9C8EB4BDA77EA</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP 0[COLOR yellow]8[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfc1816d47af580d87e348ba15301c64734bc114</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 07[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6E2738C9F5971317B696A5DA68F8AF1916F7BDE</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]09[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:235a771dbc4456d670f25642bf400b36876226b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 08[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfc1816d47af580d87e348ba15301c64734bc114</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]10[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B0398ADB27314A7F247D5987868939F127ECBC5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 09[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:235a771dbc4456d670f25642bf400b36876226b0</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]11[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47C39A8EBD11F3549FEED1D6D82ECBB2CF0C2991</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 10[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B0398ADB27314A7F247D5987868939F127ECBC5</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]12[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f624cb9653a8c8b5acd9e004f19b319ed50a25fe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 11[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47C39A8EBD11F3549FEED1D6D82ECBB2CF0C2991</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]13[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c40a5eec4ddd2fb57a2175d1d1375da277e6b725</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 12[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f624cb9653a8c8b5acd9e004f19b319ed50a25fe</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]14[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00b06e8e70ffa21fefa19314f02c7b999565f7de</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail><
+/item>
  
-<item><title>[B][COLOR white]EP 13[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c40a5eec4ddd2fb57a2175d1d1375da277e6b725</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]15[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:208FA6A898988C1B5FC4C60E3A9E4579ABA9A12A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 14[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00b06e8e70ffa21fefa19314f02c7b999565f7de</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]16[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e948933b012c5f0c41abc17c3615ad463370a724</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 15[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:208FA6A898988C1B5FC4C60E3A9E4579ABA9A12A</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]17[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4e41a240bc0bc5b104b5c2c96c01e435f29f4b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 16[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e948933b012c5f0c41abc17c3615ad463370a724</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]18[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:426494b62b34ae030d76cc8c208d63edcd431bc7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 17[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4e41a240bc0bc5b104b5c2c96c01e435f29f4b5</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]19[/B][/COLOR]</title>
+link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0f0cc35172d10684511a0e9a8dc42af0350b987</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 18[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:426494b62b34ae030d76cc8c208d63edcd431bc7</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]20[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e627c9efbdf4582f1f1ec067a509298e423c3cc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 19[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0f0cc35172d10684511a0e9a8dc42af0350b987</link><thumbnail></thumbnail></item>
+<item><title>[B][COLOR white]EP [COLOR yellow]21[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:149bb37f552e508fd2dfcc9a1a2f47ed677b50cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
  
-<item><title>[B][COLOR white]EP 20[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e627c9efbdf4582f1f1ec067a509298e423c3cc3</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 21[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:149bb37f552e508fd2dfcc9a1a2f47ed677b50cb</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 22[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e440a0e6cf37196ec78d4c77822982c60fadeff8</link><thumbnail></thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
- 
+<item><title>[B][COLOR white]EP [COLOR yellow]22[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e440a0e6cf37196ec78d4c77822982c60fadeff8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
+<fanart></fanart></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
  
  
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]8ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
-<item><title>[B][COLOR white]EP 01[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e41ee8c0d91966ea2479ae30b8d2d6ff7e9d4e2</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 02[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:229a3d382e1b5299286e04ea998713b41df39f28</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 03[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:276950041c4dabf63724818d279ed902c6a76e0d</link><thumbnail></thumbnail></item
- 
-<item><title>[B][COLOR white]EP 04[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5861bc4756b4d9d2ad49e7c2f33f98b0cac7225e</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 05[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acd31004704b80a198c9444218d43c92f2a321bd</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 06[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8940090F61A151B1B1BCA9A2C79125612CD30D7</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 07[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCFE239D8DFF7D07AB0ECD1473F5795440B9B27D</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 08[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ece868fd198e6358d5b7c65037c10e8a2433998</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 09[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21d54f0f1bcdb9aebfa7bb8eb41aa4b5fd87c181</link><thumbnail></thumbnail></item>
- 
-<item><title>[B][COLOR white]EP 10[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f309b5ee6ee4a60d4e8ecad386f4bff2bda61d0</link><thumbnail></thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
- 
- 
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title></item>
+<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]8ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart>
+<info>[B]Sinopse [COLOR yellow]Após descobrir o que seu futuro lhe reserva, Oliver (Stephen Amell) se encontra na sua batalha mais desafiadora até então, uma que deixará o multiverso em perigo. Na oitava e última temporada, Oliver Queen é forçado a confrontar a realidade do que significa ser um herói.[/COLOR]
+[/B]</info></item>
 
+<item><title>[B][COLOR white]EP [COLOR yellow]01[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e41ee8c0d91966ea2479ae30b8d2d6ff7e9d4e2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:229a3d382e1b5299286e04ea998713b41df39f28</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]03[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:276950041c4dabf63724818d279ed902c6a76e0d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]04[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5861bc4756b4d9d2ad49e7c2f33f98b0cac7225e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]05[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acd31004704b80a198c9444218d43c92f2a321bd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]06[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8940090F61A151B1B1BCA9A2C79125612CD30D7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]07[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCFE239D8DFF7D07AB0ECD1473F5795440B9B27D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]08[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ece868fd198e6358d5b7c65037c10e8a2433998</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]09[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21d54f0f1bcdb9aebfa7bb8eb41aa4b5fd87c181</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+ 
+ 
+<item><title>[B][COLOR white]EP [COLOR yellow]10[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f309b5ee6ee4a60d4e8ecad386f4bff2bda61d0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><fanart></fanart></item>
+ 
+ 
