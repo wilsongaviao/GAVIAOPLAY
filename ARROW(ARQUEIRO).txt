@@ -1,5 +1,5 @@
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title<//item>
+<link>IGNOREME</link><thumbnail>IGNOREME</tumbnail><//item>
 <item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]1ª Temporada [COLOR yellow]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9bm4rcSy0mOBLCIT6FzS6ujExXs.jpg</thumbnail>
@@ -9,47 +9,47 @@
 <link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><title<fanart></fanart></item>
  
  
-<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title><fanart></fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]2ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dcd64b6e93f2ee4467086cd27f81f41d3a37fe1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yyocMgEiwXxWiOQ1J0g6memWVSW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mCvDivLKijVUQF9naJLtLQmgfOE.jpg</fanart
-<info>[B] Sinope:[COLOR yellow] Starling City foi dividida ao meio depois dos eventos catastróficos que marcaram o final da primeira temporada, por isso, todos precisam urgentemente que o vigilante encapuzado - agora conhecido como O Arqueiro - entre em ação em uma Segunda Temporada ainda mais explosiva, nessa série de ação de sucesso baseada no popular personagem do universo DC Comics. Depois de se retirar para a ilha onde ficou preso uma vez, Oliver Queen retorna para a proteção de sua mãe, irmã e de sua corporação sitiada, mas vem a perceber que tanto seus aliados quanto seus inimigos mudaram de lado. E o domínio do mal na família, nos amigos e na cidade está diabolicamente relacionado ao seu fatídico naufrágio. Um companheiro de armas dos seus tempos da ilha e um soro que aumenta sua força e capacidade cognitiva, desenvolvido lá, podem provar ser os piores adversários que O Arqueiro jamais encontrou.[/COLOR][/B]</info><fanart></fanart></item>
-<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><fanart></fanart></item>
+<info>[B] Sinope:[COLOR yellow] Starling City foi dividida ao meio depois dos eventos catastróficos que marcaram o final da primeira temporada, por isso, todos precisam urgentemente que o vigilante encapuzado - agora conhecido como O Arqueiro - entre em ação em uma Segunda Temporada ainda mais explosiva, nessa série de ação de sucesso baseada no popular personagem do universo DC Comics. Depois de se retirar para a ilha onde ficou preso uma vez, Oliver Queen retorna para a proteção de sua mãe, irmã e de sua corporação sitiada, mas vem a perceber que tanto seus aliados quanto seus inimigos mudaram de lado. E o domínio do mal na família, nos amigos e na cidade está diabolicamente relacionado ao seu fatídico naufrágio. Um companheiro de armas dos seus tempos da ilha e um soro que aumenta sua força e capacidade cognitiva, desenvolvido lá, podem provar ser os piores adversários que O Arqueiro jamais encontrou.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title>></item>
  
  
-<item><title>[B][COLOR yellow]]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><title><fanart></fanart></item>
-<item><title>[B][COLOR crimson### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]3ª Temporada[COLOR crimson]###[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
+<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]3ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308F777C5B22F5B412A6248E711F15FF8F08A6A6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eiNC7vd7O67byIJijdmSaOM4zpl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/36lPLpuigHqROFsG576RAy1asga.jpg</fanart>
-<info>[B] Sinopse :[COLOR yellow] O Arqueiro se tornou um herói para os cidadãos de Starling City, mas isso não significa que Oliver Queen possa desviar sua atenção e levar uma vida normal na espetacular terceira temporada do seriado de sucesso baseado no personagem criado pela DC Comics. Uma nova onda de diabólicos gênios do crime dos terrores caseiros infligidos pelo ressuscitado Vertigo, o demente Cupido, o lançador de bumerangues Digger Harkness e o sedento de sangue Brick Brickwell, até a insidiosa e penetrante destruição forjada por Ra's al Ghul e a Liga das Sombras tudo ameaça aquilo que ele mais preza. A equipe do Arqueiro se transformou em uma poderosa força, mas os perigos e os segredos que os mantém juntos frequentemente testam uns aos outros, à medida que a escuridão promovida por Malcolm Merlyn e o invencível Ras'al Ghul rompem laços de lealdade e de alianças que os testarão em seu íntimo. Para testemunhar um heroísmo sem comparação e muita ação.[/COLOR][/B]</info><fanart></fanart></item>
-<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title<fanart></fanart></item>
+<info>[B] Sinopse :[COLOR yellow] O Arqueiro se tornou um herói para os cidadãos de Starling City, mas isso não significa que Oliver Queen possa desviar sua atenção e levar uma vida normal na espetacular terceira temporada do seriado de sucesso baseado no personagem criado pela DC Comics. Uma nova onda de diabólicos gênios do crime dos terrores caseiros infligidos pelo ressuscitado Vertigo, o demente Cupido, o lançador de bumerangues Digger Harkness e o sedento de sangue Brick Brickwell, até a insidiosa e penetrante destruição forjada por Ra's al Ghul e a Liga das Sombras tudo ameaça aquilo que ele mais preza. A equipe do Arqueiro se transformou em uma poderosa força, mas os perigos e os segredos que os mantém juntos frequentemente testam uns aos outros, à medida que a escuridão promovida por Malcolm Merlyn e o invencível Ras'al Ghul rompem laços de lealdade e de alianças que os testarão em seu íntimo. Para testemunhar um heroísmo sem comparação e muita ação.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimsonw]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title<fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
-<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 4ª Temporada [COLOR yellow]###[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
+<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 4ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD48DD5E232CE6374736C68004D49D6E95BFE9D8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aXfaEuhwLbH1HvYEC6GwvIk0wiJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8qPtIOJCGDOBG6nWnetLGhHH7fT.jpg</fanart>
 <info>[B]Sinopse : [COLOR yellow]Arriow reinventa o bilionário Oliver Queen, um arqueiro "justiceiro" que retorna de uma ilha remota determinado a consertar os erros de seu pai e frustar os planos daqueles que corromperam Starling City. Diggle (David Ramsey), Thea (Willa Holland) e Laurel (Katie Cassidy) continuam combatendo o crime em Starling City, recentemente renomeada "Star City" em homenagem a Ray Palmer.[/COLOR][/B]</info><fanart></fanart></item>
-<item><title>[B][COLOR crimson##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></title><fanart></fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></title><fanart></fanart></item>
  
  
-<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
-<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 5ª Temporada[COLOR crimson]###[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
+<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 5ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AE429FA7D7EDDF0D8556C40438CD0B54898C4FC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ol21S0AuSphTnHt5TcF5UGumIeS.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tVKBqBj8XzZNNatpSjLblfaqOD8.jpg</fanart>
 <info>[B]Sinopse : [COLOR yellow]O recém eleito prefeito Oliver Queen assume seu cargo e precisará atuar em duas frentes para manter Star City protegida, na função de Prefeito e como Arqueiro Verde. Com seu fiel parceiro John Diggle de volta ao serviço militar e sua irmã, Thea Queen, mudando de ideia sobre permanecer como Speedy, a equipe do Arqueiro Verde acaba reduzida a Oliver e Felicity Smoak. A derrota pública de Oliver para Damien Darhk no fim da quarta temporada acaba inspirando uma nova geração de heróis mascarados para defender a cidade. Echo Kellum junta-se ao elenco como o brilhante inventor Curtis Holt, ao mesmo tempo em que um novo oponente mortal força Oliver a enfrentar questões sobre seu legado.[/COLOR][/B]</info><fanart></fanart></item>
-<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title><fanart></fanart></item>
  
  
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail><fanart></fanart></item>
-<item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 6ª Temporada[COLOR yellow]###[/COLOR][/B]</title><link>IGNOREME</link>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</item>
+<item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime] 6ª Temporada[COLOR crimson]###[/COLOR][/B]</title><link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5NM63IzApefKcuOJfpT0VcCufAb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eb0JaHVCEMhFwDUrjEJ0Ac8sQV.jpg</fanart>
-<info>[B]Sinopse : [COLOR yellow]Como o Arqueiro Verde, Oliver Queen (Stephen Amell) protege sua casa, Star City, com a ajuda do ex-soldado John Diggle (David Ramsey), a especialista em ciência da computação Felicity Smoak (Emily Bett Rickards), sua Thea Queen (Willa Holland), o vice-prefeito Quentin Lance (Paul Blackthorne), o brilhante inventor Curtis Holt (Echo Kellum) e seus novos recrutas, Rene Ramirez (Rick Gonzalez) e Minah Drake (Juliana Harkavy). Na sexta temporada, Oliver finalmente solidificou e fortaleceu sua equipe de combate ao crime, para logo serem ameaçados quando inimigos inesperados de seu passado, incluindo a Black Siren (Katie Cassidy), retornaram a Star City, forçando Oliver a repensar seu relacionamento com cada membro sua família. Com a equipe pendente na balança, o foco muda para o destino de todos os membros da Equipe Arrow![/COLOR]Temporada completa com todos os links em torrent[/B]</info><fanart></fanart></item>
+<info>[B]Sinopse : [COLOR yellow]Como o Arqueiro Verde, Oliver Queen (Stephen Amell) protege sua casa, Star City, com a ajuda do ex-soldado John Diggle (David Ramsey), a especialista em ciência da computação Felicity Smoak (Emily Bett Rickards), sua Thea Queen (Willa Holland), o vice-prefeito Quentin Lance (Paul Blackthorne), o brilhante inventor Curtis Holt (Echo Kellum) e seus novos recrutas, Rene Ramirez (Rick Gonzalez) e Minah Drake (Juliana Harkavy). Na sexta temporada, Oliver finalmente solidificou e fortaleceu sua equipe de combate ao crime, para logo serem ameaçados quando inimigos inesperados de seu passado, incluindo a Black Siren (Katie Cassidy), retornaram a Star City, forçando Oliver a repensar seu relacionamento com cada membro sua família. Com a equipe pendente na balança, o foco muda para o destino de todos os membros da Equipe Arrow![/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
  
 <item><title>[B][COLOR white]EP [COLOR yellow]01[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF756D8A83494D60B86BE2591569267B01CD9997</link>
@@ -173,7 +173,7 @@
 
 
  
-<item><title>[B][COLOR yellow;]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title><fanart></fanart></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]7ª Temporada
 [COLOR crimson]###[/COLOR][/B]</title>
 <link>IGNOREME</link>
@@ -294,7 +294,7 @@ link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0f0cc35172d10
  
  
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></title></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
 <item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]8ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
@@ -353,6 +353,6 @@ link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0f0cc35172d10
 <thumbnail>https://www.themoviedb.org/t/p/original/bFQorbBHOwxxoRXjUVolO7057E2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bJtWyFBYjundsi1wwgpEvh1ysTv.jpg</fanart></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><fanart></fanart></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
  
  
