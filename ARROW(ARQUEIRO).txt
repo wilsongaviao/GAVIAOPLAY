@@ -18,7 +18,7 @@
  
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
 <item><title>[B][COLOR yellow]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]3ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A86D08EA9C8971B4F7ADC3FEE221D8813154BF69/link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A86D08EA9C8971B4F7ADC3FEE221D8813154BF69</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eiNC7vd7O67byIJijdmSaOM4zpl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/36lPLpuigHqROFsG576RAy1asga.jpg</fanart>
 <info>[B] Sinopse :[COLOR yellow] O Arqueiro se tornou um herói para os cidadãos de Starling City, mas isso não significa que Oliver Queen possa desviar sua atenção e levar uma vida normal na espetacular terceira temporada do seriado de sucesso baseado no personagem criado pela DC Comics. Uma nova onda de diabólicos gênios do crime dos terrores caseiros infligidos pelo ressuscitado Vertigo, o demente Cupido, o lançador de bumerangues Digger Harkness e o sedento de sangue Brick Brickwell, até a insidiosa e penetrante destruição forjada por Ra's al Ghul e a Liga das Sombras tudo ameaça aquilo que ele mais preza. A equipe do Arqueiro se transformou em uma poderosa força, mas os perigos e os segredos que os mantém juntos frequentemente testam uns aos outros, à medida que a escuridão promovida por Malcolm Merlyn e o invencível Ras'al Ghul rompem laços de lealdade e de alianças que os testarão em seu íntimo. Para testemunhar um heroísmo sem comparação e muita ação.[/COLOR][/B]</info></item>
