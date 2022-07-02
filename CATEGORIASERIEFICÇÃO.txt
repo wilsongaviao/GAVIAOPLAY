@@ -2,7 +2,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BLACK%20MIRROR</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7PRddO7z7mcPi21nZTCMGShAyy1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/b92npz1sZwvmjUfVIrWXehrk3pc.jpg</fanart>
@@ -13,7 +13,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HEROES</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvCPxEZmy8kjedNZXTw7x4jLYvI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4QMjJCtt82VqBAavDfuWuUONoRS.jpg</fanart>
@@ -24,7 +24,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/eMUs9YPK3OKyU00kJPLfU1CSTnR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOTHER%20LIFE%20(OUTRA%20VIDA%20).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/yzoIO9VpZTIh62ZGv1B4YdiUZ6R.jpg</fanart>
@@ -35,7 +35,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW (ARQUEIRO)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW (ARQUEIRO)[COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ARROW(ARQUEIRO).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/fFT7T9y9NVRdcdVh81roVrJBcDh.jpg</fanart>
@@ -46,7 +46,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATWOMAN[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATWOMAN[COLOR lime]COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfraYF6Mf2T7cKDLKhtjKtq3hAG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BATWOMAN.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vPkQ4SAz5Zw7NxQ3Xgj3LKkyuQe.jpg</fanart>
@@ -57,7 +57,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COLONIA[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COLONIA[COLOR lime]COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4eeJ0MLNVkiC9SkqbimUkBrosb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/COLONIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/voRHFanyYArpefihyLgc5lcqylA.jpg</fanart>
@@ -147,7 +147,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAIO NEGRO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAIO NEGRO[COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pBibiDKiguCRRoOzZsq6wkfkPLk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RAIO%20NEGRO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg</fanart>
@@ -207,7 +207,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE WALKING DEAD[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE WALKING DEAD [COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1xoHodf1uK8XOWmKQufO8dEjtsZtpW_DW</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
