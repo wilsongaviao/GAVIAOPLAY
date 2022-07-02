@@ -1,7 +1,6 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a85d451ec77e414f5266ae89847f12673db19bb6$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c92241c9cbe946364db867904dbd9b6b4d23572$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A85D451EC77E414F5266AE89847F12673DB19BB6</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2w1OK5czFBhXretyjxLrQ3GY1tI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série inicia com o professor Travis Manawa e sua família que vivem em Los Angeles. Todos tem suas rotinas diárias e normais. Travis e sua esposa dão aula em uma escola, enquanto sua enteada Alicia continua sendo desobediente e seu enteado Nick se joga cada vez mais no mundo das drogas. Mesmo com seus problemas internos e externos, a paz da família é destruída quando um vírus começa a circular pelo mundo. Ao tentarem fugir, eles esbarram com novas pessoas e novas famílias, enquanto a Guarda Nacional do país tenta tomar as ordens e os impedir de escapar.[/COLOR][/B]</info></item>
@@ -9,9 +8,7 @@
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11c76f40e067b50c09f174d5f301d41426db8076$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73eadf2e1ebebb7b9d859d4c39a158f43187a15a$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a12e4057ced222c304b9c1272a061f37fb76875f$nome=[B] 3 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11C76F40E067B50C09F174D5F301D41426DB8076</link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/slegdVhlKg074pj3vyhUSSKMpwb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d5K2L39aS4TdI1tEgmBfDh2aSFx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Com o vírus misterioso se espalhando cada vez mais pela cidade, Travis e os outros descobrem que a Guarda Nacional tinha um plano muito mal intencionado e conseguem sair da zona segura, onde conhecem um estranho chamado Victor Strand, que lhes oferece segurança em alto mar com seu iate que se chama de Abigail. Agora as famílias tentarão novos rumos atrás de segurança em outras terras.[/COLOR][/B]</info></item>
