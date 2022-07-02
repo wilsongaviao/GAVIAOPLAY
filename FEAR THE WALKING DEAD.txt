@@ -1,8 +1,8 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:A85D451EC77E414F5266AE89847F12673DB19BB6[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0801ebab06cddfdd5a3134ca90a4e446fe8205eb$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A85D451EC77E414F5266AE89847F12673DB19BB6$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c92241c9cbe946364db867904dbd9b6b4d23572$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2w1OK5czFBhXretyjxLrQ3GY1tI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]A série inicia com o professor Travis Manawa e sua família que vivem em Los Angeles. Todos tem suas rotinas diárias e normais. Travis e sua esposa dão aula em uma escola, enquanto sua enteada Alicia continua sendo desobediente e seu enteado Nick se joga cada vez mais no mundo das drogas. Mesmo com seus problemas internos e externos, a paz da família é destruída quando um vírus começa a circular pelo mundo. Ao tentarem fugir, eles esbarram com novas pessoas e novas famílias, enquanto a Guarda Nacional do país tenta tomar as ordens e os impedir de escapar.[/COLOR][/B]</info></item>
@@ -10,9 +10,9 @@
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11C76F40E067B50C09F174D5F301D41426DB8076$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73EADF2E1EBEBB7B9D859D4C39A158F43187A15A$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A12E4057CED222C304B9C1272A061F37FB76875F$nome=[B] 3 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11c76f40e067b50c09f174d5f301d41426db8076$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73eadf2e1ebebb7b9d859d4c39a158f43187a15a$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a12e4057ced222c304b9c1272a061f37fb76875f$nome=[B] 3 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/slegdVhlKg074pj3vyhUSSKMpwb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d5K2L39aS4TdI1tEgmBfDh2aSFx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Com o vírus misterioso se espalhando cada vez mais pela cidade, Travis e os outros descobrem que a Guarda Nacional tinha um plano muito mal intencionado e conseguem sair da zona segura, onde conhecem um estranho chamado Victor Strand, que lhes oferece segurança em alto mar com seu iate que se chama de Abigail. Agora as famílias tentarão novos rumos atrás de segurança em outras terras.[/COLOR][/B]</info></item>
@@ -30,16 +30,16 @@
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 4ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a89708ac7582047450a4611c751b6d02f960812$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a89708ac7582047450a4611c751b6d02f960812</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2NsIABfhijeP2TokJ9oMmMvWAD9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/92B6765nyQkIW8yLWt3pNcS6Cip.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]Na quarta temporada de Fear the Walking Dead, veremos o mundo de Madison Clark e sua família através de novos olhos, os olhos de Morgan Jones, que está se juntando à história chegando do mundo de The Walking Dead. Os passados imediatos dos personagens se misturam a um presente incerto de luta e descoberta enquanto eles encontram novos amigos, inimigos e ameaças. Eles lutam uns pelos outros, contra os outros e contra uma legião dos mortos para construir de alguma maneira uma existência contra a pressão esmagadora de vidas desmoronando. Haverá escuridão e luz; terror e graça; e o heroico, mercenário e covarde, todos colidindo em direção a uma nova realidade para Fear the Walking Dead.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Na quarta temporada de Fear the Walking Dead, veremos o mundo de Madison Clark e sua família através de novos olhos, os olhos de Morgan Jones, que está se juntando à história chegando do mundo de The Walking Dead. Os passados imediatos dos personagens se misturam a um presente incerto de luta e descoberta enquanto eles encontram novos amigos, inimigos e ameaças. Eles lutam uns pelos outros, contra os outros e contra uma legião dos mortos para construir de alguma maneira uma existência contra a pressão esmagadora de vidas desmoronando. Haverá escuridão e luz; terror e graça; e o heroico, mercenário e covarde, todos colidindo em direção a uma nova realidade para Fear the Walking Dead.[/COLOR][/B]</info></item>magnet:?xt=urn:btih:6a89708ac7582047450a4611c751b6d02f960812
+
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - 720p[COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 5ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB76F0B115B9494F743041D2B3A644D897BC0110</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/3pXSzeUSCJZ0K4jfAbvljeNjPha.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7r4FieFH6Eh6S55hi8c9LOiFENg.jpg</fanart>
@@ -58,140 +58,9 @@
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 7ª TEMPORADA[COLOR crimson]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:B5A7946D246651D8423E6485A0FEF8BF2E0246DB=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5A7946D246651D8423E6485A0FEF8BF2E0246DB</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zrMCOQnzIgGyBtGCdMPom9bOw0r.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Liderados por Morgan e Alicia, o grupo chega a um território desonhecido em busca de sobreviventes que precisionm de ajuda. Mas nem tudo é o que parece ser neste lugar sinistro e novo.[/COLOR][/B]</info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 8ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B329DE6E8FB5DD7796C4875CBF5D61BA09EB1C79</link>
-<thumbnail>https://2.bp.blogspot.com/-IKtJKMIhd6Q/W-J5ylNor2I/AAAAAAAACng/BxIX43h_-q0jvkFUymnKpvgPtlFgF0G3wCLcBGAs/s1600/The%2BWalking%2Bdead%2B8%2Btemporada%2Btorrent%2Bdownload%2Bdublada.jpg</thumbnail>
-<fanart>https://www.meugamer.com/ezoimgfmt/i0.wp.com/www.meugamer.com/wp-content/uploads/2022/04/fear-the-walking-dead-assistir-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1&ssl=1&w=1200</fanart>
-<info>[B]Sinopse:[COLOR yellow] Até agora, a sobrevivência vem sido o foco de Rick e seu grupo mas não é o suficiente. Eles precisam lutar por sua liberdade para que possam viver. Assim como qualquer batalha, haverão perdas e mortes. Mas com Rick liderando as forças de Alexandria, Maggie liderando Hilltop e Rei Ezekiel liderando o Reino, a tirania de Negan e os Salvadores pode finalmente estar chegando a um fim. [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 9ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AAB57D066BDC22A58E8B7DD7D2405CC843DAB07$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AAB57D066BDC22A58E8B7DD7D2405CC843DAB07[$nome=B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://1.bp.blogspot.com/-qVkTme7wQug/W7osvq6v8kI/AAAAAAAABUw/rbTbvGwRIIAqaPVaJHaaRuoVFMKFb20VwCLcBGAs/s1600/The%2BWalking%2BDead%2B9%2Btemporada%2Btorrent%2Bdublada%2Bcompleta%2Bdownload.jpg</thumbnail>
-<fanart>https://geekdama.com.br/wp-content/uploads/2019/01/the-walking-dead-9-temporada-parte-2-poster-daryl-carol-michonne-capa.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow] o líder de Alexandria deve continuar com sua nova missão de construir um mundo de paz para todos. Mas será que todos os Salvadores simplesmente abaixarão a cabeça e entrarão na linha? E será que Rick será forte e estável o suficiente para resistir ao derramamento de sangue da próxima vez que as coisas ficarem difíceis? Novos episódios são lançados toda a semana após serem exibidos na televisão.[/COLOR][/B]</info></item></info></item>
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD [COLOR lime] 10ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>IGNOREME</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart>
-<info>[B]Sinopse:[COLOR yellow]Meses após a retribuição de Alpha, as comunidades restantes tentam lidar com as perdas, relutantemente respeitando as fronteiras que lhe são impostas, enquanto se preparam para uma inevitável batalha. Mas os Sussurradores são uma ameaça diferente de todas que eles já enfrentaram.. [/COLOR][/B]</info></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]O1 (1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5e372a4b97990af61490e4ceb682b043a63aebe</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 02(1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e663e8e4af5647739c34abc71d1018068baac29e</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 03(1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e663e8e4af5647739c34abc71d1018068baac29e</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 04 (1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c291a00c4ffe2e19cdbe2ec46c9ced619fade6f&</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:076e41d06a3aaf04bdc4982c7f17f9db15020498&</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-Victor#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 06 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f2312fc15a68fdce386ad7aa155393881e9cfa4&</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 07 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fced96f3ec9525fe34dfd7822395a5f17b08723a</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 08 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fced96f3ec9525fe34dfd7822395a5f17b08723a</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 09 (1080p )  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b96e01b6db5538545e6c1096da4a3786f637435d</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 10  (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aff59a47302803bfe84b06e7085a7f0a40a09b4f</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 11 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ea110ff17d4143b84e1e59f9a108f5a2af912b</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 12 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b35531f5465c2f746f6a006f5162a8df8c538db3</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 13 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56c0fe3c1a24b3e620a3b84c3d641fa8f0633d4c</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 14 >15 (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cd952e9e484e4f7bad0d77c498caba15fa2dcad</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 16 (1080p )  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cd952e9e484e4f7bad0d77c498caba15fa2dcad</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 17  (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027def9198f6e372994f5a567db60e7928429b99</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 18 (1080p )  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2a0f57b06461e7fee73884e1661fa8a31eedaa7</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 19  (1080p ) [ /COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c237274416890085a3071a25ba9800a4d72acfb</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 20  (1080p ) [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1a806d0d00800b3f18bb4dccde4f48530b8d3ac</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 21 (1080p )  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d05a75a86aa591e1a5683e3f80a5469118602f</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-#################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow] 22 (1080p )  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93faad322a287328e4e9fdc12e7f2254daa0b98a</link>
-<thumbnail>https://abutretorrents.com/capas/the-walking-dead-10-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/02/twd-1-790x444.png</fanart></item>
-
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
