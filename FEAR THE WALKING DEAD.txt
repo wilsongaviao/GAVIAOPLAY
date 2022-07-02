@@ -1,7 +1,6 @@
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A85D451EC77E414F5266AE89847F12673DB19BB6$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a85d451ec77e414f5266ae89847f12673db19bb6$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c92241c9cbe946364db867904dbd9b6b4d23572$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/2w1OK5czFBhXretyjxLrQ3GY1tI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg</fanart>
