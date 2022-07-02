@@ -8,7 +8,7 @@
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR yellow]######[COLOR white] FEAR THE WALKING DEAD - [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11C76F40E067B50C09F174D5F301D41426DB8076</link></link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73EADF2E1EBEBB7B9D859D4C39A158F43187A15A</link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/slegdVhlKg074pj3vyhUSSKMpwb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d5K2L39aS4TdI1tEgmBfDh2aSFx.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Com o vírus misterioso se espalhando cada vez mais pela cidade, Travis e os outros descobrem que a Guarda Nacional tinha um plano muito mal intencionado e conseguem sair da zona segura, onde conhecem um estranho chamado Victor Strand, que lhes oferece segurança em alto mar com seu iate que se chama de Abigail. Agora as famílias tentarão novos rumos atrás de segurança em outras terras.[/COLOR][/B]</info></item>
