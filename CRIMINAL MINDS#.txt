@@ -210,8 +210,7 @@
 <info>[B]Sinopse:[COLOR yellow]A BAU (Unidade de Análise Comportamental) é uma subdivisão do FBI com base em Quantico, no estado da Virginia. Quando a polícia local pede assistência para a resolução de crimes em série ou de natureza extremamente violenta, o time usa técnicas controversas como criar perfil para o suspeito, com base nas suas vítimas e nas características já conhecidas. Devido à natureza do trabalho, esses profissionais quase não têm tempo para manter uma vida pessol estável e feliz. [/COLOR][/B]</info></item>
 #############################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e5dcacfa5b40dd6dc4210f2ffef2526a5b381b$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XDS5ZLH2LNAN23OEEEHS77XSKJVFWOA3$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e5dcacfa5b40dd6dc4210f2ffef2526a5b381b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/m1qAbSF3dWKvNIizaU01thdRWmJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/y7m2b4joAjfRZvC5iwyBksYXdnr.jpg</fanart></item>
 #############################################################################################################################
