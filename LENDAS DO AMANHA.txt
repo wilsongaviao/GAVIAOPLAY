@@ -1,15 +1,15 @@
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 1ª TEMPORADA [COLOR crimson]########[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CFBF38B9DDE8C9B577C2934E3141DC27E75D3C4$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cc79ac9c01db1f6c1fd762fdf90b8a53da1718d$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/v2s0J1eG3U5Pcda9m0RawkSf0mw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4LTWJ7WNiSk5SUWhRkHT279026o.jpg</fanart>
 <info>[B][COLOR yellow]Quando heróis sozinhos não são o suficiente... o mundo precisa de lendas. Já tendo visto o futuro, um deles irá desesperadamente tentar impedi-lo de acontecer. Rip Hunter (Arthur Darvill), o viajante do tempo, recebe a tarefa de reunir um disforme grupo de heróis e vilões para confrontar uma ameaça difícil de parar; uma que não ameaça somente a integridade do planeta, mas do próprio tempo como uma entidade. Será que este improvável time é capaz de combater uma ameaça imortal, diferente de tudo que eles conhecem? [/COLOR][/B]</info></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 2ª TEMPORADA [COLOR crimson]########[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 2ª TEMPORADA [COLOR yellow]########[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/8cOJxfP20HAQHqe5StMam33UGJb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qrZM0mPbADdtECdcjkONe2akCMY.jpg</fanart>
 <info>[B][COLOR yellow]Após a derrota do vilão imortal Vandal Savage e dos corruptos Mestres do Tempo que haviam se unido a ele, surge uma nova ameaça. O Dr. Nate Heywood, um historiador sedutor e excêntrico, se envolve na ação ao fazer uma descoberta chocante: as Lendas do Amanhã estão espalhadas pelo tempo. Agora, Nate deverá encontrar uma forma de resgatar a adorada equipe de heróis da Waverider, incluindo o inventor Ray Palmer, que criou um exo-traje capaz de encolhê-lo a um tamanho diminuto, na pele do Átomo; Sara Lance, uma assassina treinada conhecida como Canário Branco; o Professor Martin Stein e Jefferson “Jax” Jackson, que, juntos, formam o meta-humano Nuclear; e o criminoso de carreira Mick Rory, também conhecido como Onda Térmica. Quando as Lendas encontram a Sociedade da Justiça da América (JSA) está foi a (precursora da Liga da Justiça, da DC), na década de 1940, Amaya Jiwe (Mari Jiwe McCabe), também conhecida como Vixen, se une ao grupo. Enquanto a equipe se reúne, surge um mistério: o destino do ex-capitão Rip Hunter. Uma vez reunidas, as Lendas seguem em sua nova missão de proteger a linha do tempo contra aberrações temporais, e das mudanças incomuns à história, capazes de gerar consequências potencialmente catastróficas. Quando Heywood, o neto do Comandante Steel, membro da Sociedade da Justiça da América, ganha poderes inesperados, ele deverá vencer suas inseguranças e externar seu lado herói. Finalmente, as Lendas enfrentarão inimigos do passado e do presente, para salvar o mundo de uma misteriosa nova ameaça.[/COLOR][/B]</info></item>
@@ -67,7 +67,7 @@
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
  
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 3ª TEMPORADA [COLOR crimson]########[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bPtkKoWk398bFspaxKqZN9u5FuL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5YdqbMKReJTFvgp99Se28dJRAjY.jpg</fanart>
@@ -126,11 +126,11 @@
 <item><title>[COLOR white]EP - [COLOR yellow]18[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7b99c0e1d66260a435963f9f83418474f81c063</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/bPtkKoWk398bFspaxKqZN9u5FuL.jpg</thumbnail></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 4ª TEMPORADA [COLOR crimson]########[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 4ª TEMPORADA [COLOR yellow]########[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/gzyXA6u0IpL4nPVL1DbtG8ehiFc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/guBnWzTNVung9e0yifzwOvtwNAf.jpg</fanart>
 <info>[B][COLOR yellow]Depois de derrotar Mallus, acariciando-o até a morte com um animal de pelúcia gigante chamado Beebo, os Lendas estavam prontos para tirar uma folga. Isso até que Constantine chegou para informá-los de que, ao resolver um grande problema, eles criaram outro, muito maior. Quando os Lendas deixaram o tempo desmoronar para liberar e derrotar Mallus, a barreira entre os mundos se suavizou. A história está agora infectada com 'fugitivos' - criaturas mágicas de mitos, contos de fadas e lendas. Tendo sido expulsas ao longo do tempo por pessoas como Constantine, esses fugitivos estão agora voltando ao nosso mundo em massa e fazendo uma verdadeira bagunça.[/COLOR][/B]</info></item>
@@ -184,15 +184,14 @@
 <item><title>[COLOR white]EP - [COLOR yellow]16[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8134309e5883b890080fe73bb29f5d9550e3476a&</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/gzyXA6u0IpL4nPVL1DbtG8ehiFc.jpg</thumbnail></item>
 
-
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 5ª TEMPORADA [COLOR crimson]########[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kTcRP9OHLDEkwJsxfR3eKy2ngmb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dqPePpcUw7nrVdkLWXHjyCA7SYm.jpg</fanart>
-<info>[B][COLOR yellow]A tripulação da Waverider está de volta e pronta para viajar no tempo e enfrentar a maior, e mais estranha, crise que já viram.[/COLOR][/B]</info></item>
+<info>[B] Sinopse :[COLOR yellow] A tripulação da Waverider está de volta e pronta para viajar no tempo e enfrentar a maior, e mais estranha, crise que já viram.[/COLOR][/B]</info></item>
 
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow]01[/COLOR]</title>
@@ -207,14 +206,14 @@
 <item><title>[COLOR white]EP - [COLOR yellow]10 - 15[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5a1aae602926c024c12e45cc059ce907560ab23</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/kTcRP9OHLDEkwJsxfR3eKy2ngmb.jpg</thumbnail></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link></item>
 
 
-<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]######## [COLOR white] LENDAS DO AMANHÃ[COLOR yellow] 6ª TEMPORADA [COLOR crimson]########[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uzQpQGISbtxc047IOssFo5AiDwU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8P9iXFGeBpXhwbqquR4Ayuewfzs.jpg</fanart>
-<info>[B][COLOR yellow] [/COLOR][/B]</info></item>
+<info>[B]Sinopse  :[COLOR yellow] Rogue Hunter, que viaja no tempo, precisa recrutar uma equipe de heróis e vilões para ajudar a prevenir um apocalipse que pode afetar não apenas a Terra, mas o tempo todo. [/COLOR][/B]</info></item>
 
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 01[/COLOR]</title>
@@ -258,11 +257,82 @@
 ##################################################################################################################
 <item><title>[COLOR white]EP - [COLOR yellow] 15[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3GGXV7XZEP52FOYHZFTRXLS3FISWXCJY</link><thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/uzQpQGISbtxc047IOssFo5AiDwU.jpg</thumbnail></item>
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+##################################################################################################################
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] LENDAS DO AMANHA [COLOR lime] 7ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando apenas heróis sozinhos não são suficientes… o mundo precisa de lendas. Tendo visto o futuro, um que ele precisa desesperadamente evitar que aconteça, o viajante do tempo Rip Hunter recebe a tarefa de juntar um time heterogêneo, composto tanto de heróis quanto vilões, que devem dar fim a uma gigantesca ameaça — uma que coloca não apenas o planeta em risco, mas o próprio tempo. Será este time capaz de derrotar um inimigo imortal diferente de tudo que já foi visto? </item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09e743f88538a117ba389ab7268f54dcc89e38da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242053a3eb8b6ca917bbfd5112356dd320b09124</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e359f4700ce96a742f4976c87d7fb94370f23ade</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33e792c59865cc111debcaa88116c7a2b9bd97d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1087c7edaee9882f2e52cbf7db7720f3c820f0e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fef951a5fa7ad46a0ac0e9ac625890a5e1a08eed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7797901e217f86411da76c4c5e8cab5d487a467c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a339a259735cbfa5876c53252a3488432e1d0e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d546b068f82edfb8a7302e45e7c8128781ed604</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1113cd43023a14129d2fcca436b82cdbcec8f81</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 11[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fec6aaa4339487d4300d1a056e0539097d79e0ab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]12 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c171f08371c8dd778d8bec3539b1421eb0199be7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 13[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0de0a94344432fc5c07403bc6b6cb941a1658a1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiqoHjW6uyKydnzWz3yp5M7182Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n1aAT1OO7dOJfGeaCseeeL76OV0.jpg</fanart></item>
 
-
-
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 
