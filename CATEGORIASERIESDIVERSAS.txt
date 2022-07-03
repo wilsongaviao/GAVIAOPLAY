@@ -371,3 +371,15 @@
 </channels>
 </channel>
 ##################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE BANG THEORY [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20BG%20BANG%20THEORY</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/x4DO7mY7usT8BwLiHTUsYT7EKbc.jpg</fanart>
+<info>[B][COLOR yellow]Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Romance[/COLOR][/B]</info>
+</channels>
+</channel>
+##################################################################################################################
+
