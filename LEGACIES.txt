@@ -181,7 +181,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bS2ENepTMWxUPOkCXrPhplJfbcU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wblSifvXAlqAYqEUoXmhpzeau7b.jpg</fanart></item>
 #################################################################################################################
-
 <item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bS2ENepTMWxUPOkCXrPhplJfbcU.jpg</thumbnail>
