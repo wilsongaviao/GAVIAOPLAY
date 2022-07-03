@@ -2,7 +2,7 @@
 
 <item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR red]######[COLOR lime] CHICAGO FIRE )[COLOR yellow] 1ªTEMPORADA (LEGENDADA)[COLOR red]######[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C39E52D7A8A12AA1266CC8BCC503892E7BA1AB02</link><thumbnail>https://d26lpennugtm8s.cloudfront.net/stores/148/504/products/chicagofire-s1-e175dd4b66418b248115132812227297-640-0.jpg</thumbnail></item>
+<link>https://kati3kat.tube/episodio/assistir-chicago-fire-1-temporada-episodio-1-online/</link><thumbnail>https://d26lpennugtm8s.cloudfront.net/stores/148/504/products/chicagofire-s1-e175dd4b66418b248115132812227297-640-0.jpg</thumbnail></item>
 <item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
 
