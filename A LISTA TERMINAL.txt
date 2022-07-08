@@ -1,0 +1,8 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] A LISTA TERMINAL [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1TqjxwfH39VGmkLMbmxvQhQsaYN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cHeOxQuHhiI0rfOHkTXPjcaLd3g.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Após o pelotão de Navy SEAL de Reece ser emboscado durante uma missão secreta de alto risco, ele volta para casa com memórias conflitantes do evento e perguntas sobre sua culpabilidade. No entanto, à medida que novas evidências vêm à tona, Reece descobre forças das trevas trabalhando contra ele. 
+[COLOR white][B] Gênero:  [COLOR lime] AÇÃO[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
