@@ -1,0 +1,8 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] HALO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLPBMF4LKAJQXSHERF7SYIAKSJYPDEYQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1qpUk27LVI9UoTS7S0EixUBj5aR.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]No ano de 2552, os humanos do planeta Madrigal lutaram pela independência da Terra, mas um encontro fatal com o Alien Covenant complica as coisas. Master Chief John 117 e seu super soldado "Spartans" se juntam à luta. Após a batalha, Master Chief segue para seu planeta natal, Reach, com um sobrevivente de Madrigal e um objeto misterioso que ele descobriu no planeta. Mas uma ordem controversa faz John questionar sua missão e a si mesmo.
+[COLOR white][B] Gênero:  [COLOR lime] Ficção / aventura / ação [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
