@@ -1,4 +1,14 @@
-
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] HALO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HALO.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/1qpUk27LVI9UoTS7S0EixUBj5aR.jpg</fanart>
+<info>[B][COLOR yellow]No século 26, a raça humana prossegue em conflito com uma ameaça alienígena conhecida como Covenant
+[COLOR white][B] Gênero:  [COLOR lime]	Ficção / Aventura / Ação [/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
