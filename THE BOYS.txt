@@ -1,0 +1,92 @@
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE BOYS [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C90B5DD957F1A4BBFC57DDDC6709476FF48A5B7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dzOxNbbz1liFzHU1IPvdgUR647b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando a fama sobe? cabeça, alguns super-heróis passam a se corromper e usar seu status para se promoverem ainda mais, o que pode colocar em risco a própria população. Pensando nisso, uma equipe da CIA foi preparada para cuidar desse caso. Conhecidos como "os meninos", esses agentes têm a missão de vigiar o trabalho dessas personalidades, assim como controlar o surgimento de novos heróis. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Comédia / Policial / Ficção[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item
+>
+###################################################################################################################
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE BOYS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hjO01XnizdVgwygBNzDwUEK9CDB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Em uma segunda temporada mais intensa e mais desesperada de THE BOYS, Butcher, Hughie e a equipe se recuperam de suas perdas na primeira temporada. Fugindo da lei, eles sofrem para lutar contra os Super-heróis. Enquanto Vought, a empresa que gerencia os heróis, entra em pânico com a ameaça dos Supervilões, e uma nova heroína, Stormfront, agita a empresa e desafia um Homelander já instável.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Comédia / Policial / Ficção[/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 >>> 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e8b99929f959eefd22ca68efce236140c8c4680</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f521df169657646010ec5e25a3ab2cfb5ac950d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f521df169657646010ec5e25a3ab2cfb5ac950d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6255b9373e5e4b90c30799f83bb4bcedcf19e58</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b2341c12152346038c7b0574c1ed17494581eb0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98c5b733b6f2352d7d12fbb7acf9aae32132a648</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+###################################################################################################################
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE BOYS [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Foi um ano tranquilo. O Capitão Pátria foi subjugado. Butcher trabalha para o governo, supervisionado por ninguém menos que Hughie. Mas os dois anseiam por transformar essa paz e tranquilidade em sangue e ossos. Então, quando os Boys descobrem uma misteriosa arma anti-super, eles colidem com os Sete, iniciando uma guerra e investigando a lenda do primeiro super-herói: o Soldier Boy. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Policial / Ficção [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP -[COLOR yellow] 01>>> 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd434b69dfdd923f9b4a2296f3d2b20e589c84e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart></item>
+>#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b8e8439f7254620d5d1afabf81ef2c85c6c01fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6306b5acf1895abd98fcd8ff6c3109b53fee765</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:155124605f7af62e46d2be6e163c1ddfea04587a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:e4321afd7dbf2477bd51b6ee934f2d2bd3dd9282/link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4321afd7dbf2477bd51b6ee934f2d2bd3dd9282</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j7FnrXS9auRjRPanb4qGa1xiCEP.jpg</fanart></item>
+<item><title>[B][COLOR 
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
