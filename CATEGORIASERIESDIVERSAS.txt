@@ -1,9 +1,21 @@
+
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE BOYS [COLOR yellow] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBi4Otjddaa92ecwcNDEIhQFxcl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20BOYS.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/czffzEgaBko4mXW84B1J1EnQBzo.jpg</fanart>
+<info>[B][COLOR yellow]Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Policial / Ficção[/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ULTIMO CARA DA TERRA [COLOR yellow] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUzTquHw656j6qy6XLYMbn78Nhs.jpg</thumbnail>
-<externallink></externallink>
+<externallinkhttps://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20ULTIMO%20CARA%20DA%20TERRA.txt></externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2VtDz0nXZ4QMfIgM5vebxW3dgFY.jpg</fanart>
 <info>[B][COLOR yellow]Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.
 [COLOR white][B] Gênero:  [COLOR lime]AÇÃO / COMÉDIA / DRAMA[/COLOR][/B]</info>
@@ -13,7 +25,7 @@
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ENGANA-ME SE PUDER [COLOR yellow] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<externallink>b</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ENGANA-ME%20SE%20PUDER.txt</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jljveFwTYsMYfzxcLCds1MGIpeN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6IvnmM2DyzckO6az1iWt9QSCTSW.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Quando você coça o queixo, aperta as mãos, franze o nariz ou engole saliva demais, o doutor Cal Lightman sabe que você está mentindo. Ele não acha, ele tem certeza, porque usou sua excepcional capacidade de observação para se tornar o principal especialista em mentiras do país. Um verdadeiro detector de mentiras humano, Cal consegue descobrir os segredos mais profundos e resolver os casos mais difíceis. Mais certeiro do que um exame com polígrafo, ele sabe quando está diante de alguém que não está dizendo tudo que sabe, sejam pessoas da família, amigos ou completos desconhecidos
@@ -23,7 +35,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INFERNO SOBRE RODAS [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INFERNO SOBRE RODAS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qpu2oA0FIuti0C27hbnWfOCpprf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/INFERNO%20SOBRE%20RODAS</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg</fanart>
