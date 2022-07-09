@@ -1,12 +1,12 @@
-###################################################################################################################
+##################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A LISTA TERMINAL [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<externallink></externallink>
-<thumbnail>/thumbnail>
-<fanart></fanart>
-<info>[B]Depois que todo o seu pelotão das Forças de Operações Especiais da Marinha dos Estados Unidos (Navy SEALs) é emboscado durante uma missão secreta de alto risco, James Reece volta para casa com memórias conflitantes do evento e perguntas sobre sua culpa no acontecimento. No entanto, à medida que novas evidências vêm à tona, Reece descobre que forças obscuras estão trabalhando contra ele, colocando em risco não apenas sua vida, mas também a vida daqueles que ele ama.
-[COLOR white][B] Gênero:  [COLOR lime] Ação /COLOR][/B]</info></item>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] A LISTA TERMINAL [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/yXtlv2MFYVpzGlQSDY6bO1RHBw7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20LISTA%20TERMINAL.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/yQTQL9pliY6vpRt8HkjUJrKymBb.jpg</fanart>
+<info>[B][COLOR yellow]Depois que todo o seu pelotão das Forças de Operações Especiais da Marinha dos Estados Unidos (Navy SEALs) é emboscado durante uma missão secreta de alto risco, James Reece volta para casa com memórias conflitantes do evento e perguntas sobre sua culpa no acontecimento. No entanto, à medida que novas evidências vêm à tona, Reece descobre que forças obscuras estão trabalhando contra ele, colocando em risco não apenas sua vida, mas também a vida daqueles que ele ama.
+[COLOR white][B] Gênero:  [COLOR lime] AÇÃO[/COLOR][/B]</info>
 </channels>
 </channel>
 ###################################################################################################################
