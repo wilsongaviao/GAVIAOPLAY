@@ -1,4 +1,11 @@
 ##############################################################################################################
+<item><title>[B][COLOR white] Thor - Amor e Trovão[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ynUgLlrTASSz87Op39DKj6SHeOR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demai
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]The Spider [COLOR yellow] ( 1080p )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A413AA019F381CF3C3F3C96DE489846D120D32A5</link>
 <thumbnail>https://abutretorrents.com/imagens/the-spider-cam-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
