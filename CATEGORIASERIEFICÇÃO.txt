@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] HALO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HALO.txt</externallink>
+<externallink></externallink>
 <fanart>https://www.themoviedb.org/t/p/original/1qpUk27LVI9UoTS7S0EixUBj5aR.jpg</fanart>
 <info>[B][COLOR yellow]No século 26, a raça humana prossegue em conflito com uma ameaça alienígena conhecida como Covenant
 [COLOR white][B] Gênero:  [COLOR lime]	Ficção / Aventura / Ação [/COLOR][/B]</info>
@@ -12,7 +12,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BLACK MIRROR [COLOR lime]COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BLACK%20MIRROR</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7PRddO7z7mcPi21nZTCMGShAyy1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/b92npz1sZwvmjUfVIrWXehrk3pc.jpg</fanart>
@@ -23,7 +23,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HEROES [COLOR lime]COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HEROES</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvCPxEZmy8kjedNZXTw7x4jLYvI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4QMjJCtt82VqBAavDfuWuUONoRS.jpg</fanart>
@@ -34,7 +34,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANOTHER LIFE ( OUTRA VIDA )[COLOR lime]COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/eMUs9YPK3OKyU00kJPLfU1CSTnR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANOTHER%20LIFE%20(OUTRA%20VIDA%20).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/yzoIO9VpZTIh62ZGv1B4YdiUZ6R.jpg</fanart>
@@ -45,7 +45,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW (ARQUEIRO)[COLOR lime]COMPLETA COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW (ARQUEIRO)[COLOR lime]COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ARROW(ARQUEIRO).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/fFT7T9y9NVRdcdVh81roVrJBcDh.jpg</fanart>
@@ -67,7 +67,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COLONIA[COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]COLONIA[COLOR lime]COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4eeJ0MLNVkiC9SkqbimUkBrosb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/COLONIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/voRHFanyYArpefihyLgc5lcqylA.jpg</fanart>
@@ -77,7 +77,7 @@
 </channel>
 ###################################################################################################################
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FEAR THE WALKING DEAD [COLOR lime]COMPLETA[[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white] FEAR THE WALKING DEAD[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbgPaIEZa9BuKKESdyapOn0CZh6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FEAR%20THE%20WALKING%20DEAD.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/d5K2L39aS4TdI1tEgmBfDh2aSFx.jpg</fanart>
@@ -97,7 +97,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FRONTEIRAS [COLOR lime]COMPLETA[[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FRONTEIRAS[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDemPkYXt1BHXSEV8NSX8hV0eJ6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FRONTEIRAS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/2yZXtM2Kky1Sy0kachbDlwybl3y.jpg</fanart>
@@ -107,7 +107,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GOTHAM [COLOR lime]COMPLETA[[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GOTHAM[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nOeHVzmh3uSFkcQKIlzzDtF2211.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/GOTHAM.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/97GsCX3k6BbprnBIIMlVKirmhLz.jpg</fanart>
@@ -127,7 +127,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KATLA [COLOR lime]COMPLETA[[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KATLA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRPDQP51i1Z2RuoIQaxVSj7Pd5R.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/KATLA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mF25LlPgSek0Wgv6NUKSlzLLQBQ.jpg</fanart>
@@ -137,7 +137,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LEGADOS (LEGACIES)[COLOR lime]COMPLETA[ [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LEGADOS (LEGACIES)[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/pwvKOtTpbMacI463EDfyKtfn4Kd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LEGACIES.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/wblSifvXAlqAYqEUoXmhpzeau7b.jpg</fanart>
@@ -147,7 +147,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LENDAS DO AMANHÃ [COLOR lime]COMPLETA[ [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LENDAS DO AMANHÃ[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/LENDAS%20DO%20AMANHA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/t4qCYpHkwbC8PwYasyyXRBYUbU8.jpg</fanart>
@@ -157,7 +157,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAIO NEGRO[COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAIO NEGRO[COLOR red] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pBibiDKiguCRRoOzZsq6wkfkPLk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RAIO%20NEGRO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg</fanart>
@@ -167,7 +167,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROSWELL, NEW MEXICO [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROSWELL, NEW MEXICO [COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zoSHKlPlbtkIENur8oxhtJqHPp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ROSWELL%2C%20NEW%20MEXICO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/smvOakAfgY9jRt7hP6WJCU2y3JT.jpg</fanart>
@@ -177,7 +177,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] RUNAWAYS - FUGITIVOS DA MARVEL [COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] RUNAWAYS - FUGITIVOS DA MARVEL  [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/zceMrfO17AQkeWJZNra4O90s1vE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RUNAWAYS%20-%20FUGITIVOS%20DA%20MARVEL.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/3IQuUfYYwWndQ2YV4CvsG0HKgos.jpg</fanart>
@@ -187,7 +187,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERGIRL[COLOR lime] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERGIRL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DlY7SfBbhrem8jOMo3RuudiW7z.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SUPERGIRL.txt/externallink>
 <fanart>https://www.themoviedb.org/t/p/original/5wj5tBJKlcMSdU7nv1BgBtKUSji.jpg</fanart>
@@ -197,7 +197,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 100 [COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 100[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20100.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/d5AHQX2L4Wtk0RqXEi5ysiibVOG.jpg</fanart>
@@ -227,7 +227,7 @@
 </channel>
 ###################################################################################################################
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VAN HELSING [COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VAN HELSING[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/cu9wob15Rdxf7KISXmSabvlUolj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/VAN%20HELSING.txt7</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/mQm1uvITaVQTQhFylxFCIhn3Y0.jpg</fanart>
@@ -237,7 +237,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIAJANTES NO TEMPO ( TRAVELERS ) [COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIAJANTES NO TEMPO ( TRAVELERS )[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TRAVELERS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vP4lFeWQVivgE4LaHTBeeSw6ulv.jpg</fanart>
@@ -247,7 +247,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VOYAGERS! OS VIAJANTES DO TEMPO [COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VOYAGERS! OS VIAJANTES DO TEMPO[COLOR lime]NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVoyDxmQnpbCExQa1KAGQ4KUdbF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/VOYAGERS!%20OS%20VIAJANTES%20DO%20TEMPO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/uJCrcWHKNTJYNEuNoJGVcwXyhn2.jpg</fanart>
@@ -258,7 +258,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WESTWORLD[/COLOR] [COLOR lime] COMPLETA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WESTWORLD[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pZHCn5kecPiiX94evTMARH9rakM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/WESTWORLD.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/At6G2kZRcTFwT28OmqYBsOpSj2p.jpg</fanart>
@@ -268,7 +268,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WYNONNA  EARP - A MALDIÇÃO DOS RENASCIDOS [COLOR lime] COMPLETA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WYNONNA  EARP - A MALDIÇÃO DOS RENASCIDOS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iSxh4UkxhU50fgo8Ec7lJpENyxY.jpg</thumbnail>
 <externallink>https://docs.google.com/uc?export=download&id=1BxXOMW36x43GY70LlA5P-ULFoZ5Wj89E</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/slzmLBpJ6lIL6I7j2XiXwZ0b255.jpg</fanart>
