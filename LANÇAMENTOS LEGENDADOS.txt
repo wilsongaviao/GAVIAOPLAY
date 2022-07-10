@@ -1,4 +1,136 @@
-
+#############################################################################################################
+<item><title>[B][COLOR white] A Broken Mother[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F09F4C4362BBA644A4E26794BF33CAF8006BFF26</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2c6wdl4aqJ4Mdbb0FlzKNJQTzvA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wBmxk0fAiwP95bOVeq2RJSU9kcf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A nova mãe Hallie é dedicada ao seu bebê, que teve um transplante de coração quando ela nasceu. Hallie fica emocionada quando faz uma nova amiga em Megan, mas a vida de Hallie toma um rumo sinistro quando o perigo parece seguir cada movimento dela.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Score [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0FCF3E2B9302631999E1491E4E19EB4CE12A442</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uiLJUERcDE2PjDsaFea2LuLUvJS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cNKvwxodIP9DmOLdLzbzkteMvoQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mike e Troy estão um café na beira da estrada, enquanto esperam uma entrega, Troy se apaixona pela garçonete Gloria e começa a questionar suas escolhas de vida. Mas pode ser tarde demais para mudar, porque, sem o seu conhecimento, Mike o trouxe aqui para matá-lo
+[COLOR white][B] Gênero:  [COLOR lime]Musical / Policial / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Tales from the Other Side [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF41C69F9B9CC68ACD4EDCBEC5E0229AF2F2BA6D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b26Int3GU1sO5O11mJWZNpRx2hm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3WB38hQdjGfqhFZzNOyPcuDr7Ln.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Três crianças procuraram ter a noite de Halloween mais lendária de todos os tempos. Sua aventura de doces ou travessuras os leva à casa da lenda da cidade local “Scary Mary”. As lendas dizem que ela é uma mulher de pura maldade, mas uma coisa é certa, ela conhece as histórias assustadoras certas para dar a essas três crianças o susto de suas vidas. Compartilhando seis histórias únicas que levarão as crianças por um caminho misterioso para o inesperado.
+[COLOR white][B] Gênero:  [COLOR lime] Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] The Good Neighbor [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5703A33ACD1EE8D972C73F1A1D93569B6192FE5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8IdKtir1TqzEgh4JO0YAPaUAxG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qPhVn5JIvRCgrnNc0MTvB6iHe99.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A amizade entre dois vizinhos muito diferentes toma um rumo trágico quando David atropela uma jovem e causa sua morte. ma noite de pesadelo se desenrola para David, um ex-jornalista do New York Times, quando ele e seu novo vizinho estranho, Robert, acidentalmente atropelam uma garota em sua bicicleta. Zumbido e desorientado, David deixa Robert convencê-lo a fugir do local e deixar a garota para morrer, a fim de proteger sua carreira. Robert não mostra remorso e, em nome da amizade, faz coisas indescritíveis para proteger o segredo. Agora que a polícia está à caça do assassino atropelado, as coisas começam a sair do controle quando o jornal local de David o envia para cobrir a história em que ele conhece a irmã da menina falecida, Vanessa. Apesar das circunstâncias e de seu profundo desejo de encontrar o assassino de sua irmã, os dois imediatamente têm uma conexão romântica, que surpreende e assombra David, enquanto pressiona Robert a tomar medidas brutais para manter seu novo amigo para si mesmo. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Noite da Babá [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B806BD13C41FE3D5FFE768C4F7275027EDE6FF96</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/godIHjaVnPaXUweXHb76vPoa4VW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bIQT7BtcO5UODk4uOGA3dcNFX5z.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma noite de pesadelo se desenrola para David, um ex-jornalista do New York Times, quando ele e seu novo vizinho estranho, Robert, acidentalmente atropelam uma garota em sua bicicleta. Zumbido e desorientado, David deixa Robert convencê-lo a fugir do local e deixar a garota para morrer, a fim de proteger sua carreira. Robert não mostra remorso e, em nome da amizade, faz coisas indescritíveis para proteger o segredo. Agora que a polícia está à caça do assassino atropelado, as coisas começam a sair do controle quando o jornal local de David o envia para cobrir a história em que ele conhece a irmã da menina falecida, Vanessa. Apesar das circunstâncias e de seu profundo desejo de encontrar o assassino de sua irmã, os dois imediatamente têm uma conexão romântica, que surpreende e assombra David, enquanto pressiona Robert a tomar medidas brutais para manter seu novo amigo para si mesmo. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Saga De Robin Hood [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D6A67C1C29E0AB3BF1C274F9DD576F15F840813</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9U991H3b73u3R6u0BUQkuaSfoup.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vf9NYIcXyrqf4A6NUI4QXKFQUL5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O implacável xerife de Nottingham ordenou o ataque brutal à família do jovem Robin. Ele promete se vingar dos homens responsáveis ​​e libertar aqueles presos sob o domínio opressivo do reino. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]V for Vengeance [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05D793DBA3CC7C5FF574DE3E0C166C1E12C3D554</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLtP8TLycVzLUlkkhp8PipXfUh6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vEuLPsiMa9fA6pQUctNoOZeyawS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de saber que sua irmã mais nova escapou de uma tentativa anterior de sequestro que também matou seus pais, duas irmãs distantes devem unir forças para resgatá-la de um grupo de vampiros sedentos de sangue. 
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Suspense / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Nanny Knows [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53D51A14AA4354A4A39400C61BEC1677168FD96E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vS0MB0CrglFcsjNuLOxy63RdWrh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v91uXM60VBrBh2e15C0ubUImZhP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando a babá Kim descobre acidentalmente que seu patrão, Steven, está tendo um caso com o tutor de espanhol de seus filhos, ela decide guardar para si mesma para não arriscar separar sua família. Mas quando a amante de Steven é assassinada e ele diz à polícia que não a vê há meses, Kim percebe que ela é a única pessoa que sabe que ele está mentindo e está determinada a descobrir o porquê. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Wolf Hound [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A355CF734244E2BC1097BB754118870870DC9E42</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kzYin0Tr51KOa6y8dcbbcvwcq9k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vLPSvAt1CnfmDCeqG3zkFh0s6S4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Inspirado na unidade de operações especiais alemã KG 200 da vida real, que derrubou, consertou e voou aeronaves aliadas como cavalos de Tróia, “Wolf Hound” acontece em 1944 na França ocupada pelos alemães e segue as ousadas façanhas do piloto de caça judeu-americano Capitão David Holden. Emboscado atrás das linhas inimigas, Holden deve resgatar uma tripulação capturada do B-17 Flying Fortress, fugir de um inimigo implacável que o persegue a cada passo e frustrar um plano que poderia alterar completamente o resultado da Segunda Guerra Mundial. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Guerra[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Zero Avenue [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4D8DB064E2B179EC12983FCFD01D53DD753B94E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6vgdiwT8yFL1QeeNWCECvI6D3II.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ygsQQZxXWFKpnRTgB5OG2eoJuYi.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] Joshua, um imortal relutante, planeja acabar com sua vida em seu aniversário, com a ajuda de Veronica, uma prostituta, antes que seu pai, o Diabo, possa matá-la. 
+[COLOR white][B] Gênero:  [COLOR lime]Romance / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Bloody Summer Camp [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83D357E280FCA92F5521573F33A3BA08A2550973</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auVuw5JI9YLh81vwtRC8XqRuUo9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b49OmmFRVQVDO128iwRu6eH3q4R.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 1986, um grupo de conselheiros se reúne no Camp Trustfall para se preparar para o novo verão. Logo depois de chegar, um assassino usando uma máscara de diabo começa a matá-los um por um. Este é o garoto da lenda do acampamento ou é outra pessoa com um machado para moer?
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ip Man - The Awakening [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D1C2D65EEA4E5CEE74AFBAC8E2B5BC80C36E5A43</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6jnW1fFgHBves4YOvu4HclkVhYr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bTLnotEeJpnS57py0Onh3Bf4Yl0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando Ip Man estava estudando em Hong Kong durante sua juventude, ele acidentalmente se envolve no caso de sequestro de mulheres chinesas pela empresa britânica Stark Industries para serem traficadas para o exterior. 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Attack On Finland [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96BD808CE8F05ABC8D260FD562F16883768A140A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/llItP3ncQG7mTsMXGUvxkDtXkhB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jrJqGwW4hxiSUV4Uzbm2Ld3lt2J.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A recepção para o Dia da Independência da Finlândia é rudemente interrompida quando o palácio presidencial é atacado e a liderança do estado é feita refém. Max Tanner, da Polícia de Segurança, é apontado como negociador na crise dos reféns, que se desdobra como parte de um plano maior para minar a segurança europeia. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Above Snakes [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1DDE955847776B830194EE316805AE65180D393</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iMmDw8FxzoZC5ptOaJWhHpwQ0NA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ekvoacO22qlwXXo9tKsjWOckD7k.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Coleman Dobbs voltou da prisão em busca de vingança contra o juiz que o sentenciou. Que melhor maneira de extrair sua vingança do que levando a única coisa que o juiz realmente se importa. Sua filha. Mas pode realmente ser tão fácil? 
+[COLOR white][B] Gênero:  [COLOR lime]Faroeste / Mistério [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Black Glasses [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:972119F4F2C914E2F003F90372A4718881E903C3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iftI4txKOGtUDpuVePwZdW4sVIz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iYFiMSfY2YwDfazzM4yhxIDHmlB.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Diana, uma acompanhante de luxo que perdeu a visão após um ataque, encontra um parceiro guia em um garoto chinês chamado Chin. Juntos, eles caçarão um perigoso assassino no meio da escuridão da Itália. 
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Blood in the Water[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F5194F89975EE5B207B27E5BE55633B36169043</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vez0ZFJ21nfO7bv4vEnMs7GKWAR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b8gXRap2uO8x5u6V3V85W2kv6mx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem, culpada por um crime que cometeu, mas do qual escapou, é capturada por um sádico para um jogo de roleta russa com um grande tubarão branco e quatro oportunistas semelhantes que escaparam da lei.
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Blowback [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41CB449F6AC86873C5DC1F6DD6D877767B4F2B7F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/87VZeYnyNFQrXz6d6bbU5tOXQ88.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tQE4bq45d67F22uApKgzxzq3Yv8.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de planejar um assalto perfeito, Nick está pronto para se dá bem. Mas só que tem um problema, sua garota e a equipe, têm outras idéias. Eles atiram em Nick, mas Nick não morre e em uma corrida por sua vida, busca vingança, um alvo de cada vez. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Policial / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Buried in Barstow  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADE1F57A0DD7B61A3F707C89F17D3FDB36C65DFA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6wnxj7jPpANISwMlfQ0Z09VViYv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xY6smX9kNLNqODRjT7pWwTHpRiH.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Segue Hazel King, uma mãe solteira determinada a proteger sua filha da vida que ela já teve enquanto defende e protege aqueles que não podem se proteger. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Crawlspace [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:206630472F31F1C562DE351733E223B727E4809B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/60UN7vvcWWggLe0Uz9EFZJx718P.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um homem de família se vê preso no sótão de uma cabana remota do Oregon, onde marginais implacáveis ​​esconderam seus ganhos.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]The Spy Who Never Dies  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A75C7E4534C3AA071010791E58BC18813B1DF27</link>
