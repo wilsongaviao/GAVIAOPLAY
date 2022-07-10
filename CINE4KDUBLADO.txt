@@ -1,4 +1,18 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Animais Fantásticos - Os Segredos de Dumbledore [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JJBYP6UANXGHPNTIYYQD6F3SEFC7UCK</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Uncharted - Fora do Mapa [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f504d3bc15567ffc95273c0cd8eac9106d52ead5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/soD18uucENplI81kUErvMzdb5Lm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura[/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Doutor Estranho no Multiverso da Loucura  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IR3XICRGPYHH7YE42KBNQZIFEGCCYSFA</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg</thumbnail>
