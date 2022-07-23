@@ -297,7 +297,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RESIDENT EVIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://sites.google.com/site/downloaddefilmess/_/rsrc/1309477403744/resident-evil-1-2-3-4/Trilogia-Resident-Evil_BaixarFilmesOnline_Tv1.jpg?height=400&width=283</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1_flp2N40seamWet8HDHp60uNVo3EHWKx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RESIDENTEVIL.txt</externallink>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2017/01/24085001/resimovie.jpg?fit=1500%2C871&ssl=1</fanart>
 <info>[B][COLOR yellow]BASEADO VAGAMENTE NOS GAME DA CAPCOM DO MESMO NOME. A SÉRIE DE FILMES É ESCRITA POR PAUL W.S. ANDERSON COM A PROTAGONISTA ALICE, INTERPRETADA POR MILLA JOVOVICH. A UMBRELLA CORPORATION ATUA COMO O PRINCIPAL ANTAGONISTA DA SÉRIE, UMA EMPRESA FARMACÊUTICA DE BIOENGENHARIA RESPONSÁVEL PELO APOCALIPSE ZUMBI COMO RESULTADO DA CRIAÇÃO DO VIRUS T.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -305,7 +305,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RIDDICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/NySWQBzo_zIRHzu12M-lC0E7xLg=/210x312/smart/media/movies/covers/2018/08/A_Batalha_de_Riddick.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1pivqEIJA80zyBhqgP9qMLW0PMi1ADsqV</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/RIDDICK%20.txt/externallink>
 <fanart>https://media.fstatic.com/N5l6dd_4cUyXqKXElMBXX976jEo=/640x480/smart/media/movies/covers/2012/05/3372ab1aee4b6c9cb1be0e94fa19eb67_2.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA DE RIDDICK É UMA SÉRIE DE FILMES DE FICÇÃO CIENTÍFICA QUE SEGUE AS AVENTURAS DO ANTI-HERÓI RICHARD B. RIDDICK.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -313,7 +313,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROCKY[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://assistirfilmesonline.pro/wp-content/uploads/2019/07/rocky-210x300.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1qvrM4pkO8FU4kByoFXPAtpcXeB9G6p9_</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ROCKY.txt</externallink>
 <fanart>https://boletimnerd.com.br/wp-content/uploads/2016/06/maratona-rocky-balboa-megapix-1.jpg</fanart>
 <info>[B][COLOR yellow]ROCKY É UMA SÉRIE DE FILMES DE AÇÃO ESTRELADA E ESCRITA PELO ATOR AMERICANO SYLVESTER STALLONE, O QUAL NESTES FILMES INTERPRETA O BOXEADOR ROCKY BALBOA.EM SUA BUSCA DA FAMA E DAS VITORIAS NO MUNDO DO BOXE E EM SUA VIDA PESSOAL[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -321,7 +321,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROGUE WARFARE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1hFttF_tQO9JL7dKwI4DGn6XNo-Y0qYEu</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ROGUEWARFARE.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iQxJuPqCGOO4Iy3uFbMWCIGHkwE.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA NARRA AS AVENTURAS, AÇÕES DE UMA EQUIPE DE ELITE DE SOLDADOS SE DIRIGE A MISSÕES PERIGOSAS CONTRA OPERATIVOS TERRORISTAS, GERALMENTE POR ORDEM DO PRESIDENTE DOS ESTADOS UNIDOS[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -329,7 +329,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  SAGA ROBERT LANGDON[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Robert_Langdon_film_series_home_release_artwork.jpeg/220px-Robert_Langdon_film_series_home_release_artwork.jpeg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1b0tfr274beU1ILI-Oki7K8KkiSQOpgOW</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20SAGA%20ROBERTO%20LANGDON%20.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5DjYDwtCRWjGY8acWmFW4I4Pf0Nw9MV1dl1BaIOwM2fSDTTDl</fanart>
 <info>[B][COLOR yellow] A SAGA ACOMPANHA AS AVENTURAS  DO PROFESSOR DE SIMBOLOGIA ROBERT LANGDON ÉEM SUAS AVENTURAS  PELA EUROPA PARA DECIFRAR CODIGOS RELATIVOS A BIBLIA E A RELIGIAO CRISTÃ[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -338,7 +338,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHREK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Shrek_Poster.jpg/215px-Shrek_Poster.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1vbsKMYJ_pZucMsuHpmCf4jg5Mq8LIPLx</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SHREK.txt</externallink>
 <fanart>https://live.mrf.io/statics/i/ps/amenteemaravilhosa.com.br/wp-content/uploads/2018/08/shrek-fiona-burro.jpeg</fanart>
 <info>[B][COLOR yellow]A SAGA ACOMPANHA AS AVENTURAS DE SHREK ,UMA HISTÓRIA DE CONTO DE FADAS DE UM OGRO GRANDE, FORTE, AMANTE DA SOLIDÃO E INTIMIDANTE CHAMADO SHREK E SEUS AMIGOS.[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -346,7 +346,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOMB RAIDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/hb1xbCaA7VCTrPaWbawDV6IO8Jc=/290x478/smart/media/movies/covers/2018/07/tomb-raider-5b0d895925482.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1-0-En7ybx5IxXhQ_Csc5_zReS9x1J0kP</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TOMBRAIDER.txt</externallink>
 <fanart>https://media.fstatic.com/Ob7O2RfyY2SKAZNKx1YIbYMnR0c=/640x480/smart/media/movies/covers/2017/03/IMG_20170328_131317.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA  TOMB RAIDER MOSTRA AS AVENTURAS DA ARQUEÓLOGA LARA CROFT PELO MUNDO! ELA PRECISA RESOLVER ENIGMAS, ENCONTRAR ARTEFATOS E ENCARAR INIMIGOS QUE VÃO DESDE MERCENÁRIOS ATÉ FORÇAS MÍSTICAS[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -354,7 +354,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TRANSFORMERS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ee/Transformers-poster.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1fnsG1Vkhnrp8gMl-rnyCgeXQKaIaa7jJ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TRANSFORMERS.txt</externallink>
 <fanart>https://img.estadao.com.br/thumbs/640/resources/jpg/7/9/1530138434297.jpg</fanart>
 <info>[B][COLOR yellow]OS FILMES RETRATAM UMA GUERRA CONTINUA ENTRE OS AUTOBOTS E OS DECEPTICONS.ROBÔS GIGANTES QUE PODEM SE TRANSFORMAR EM VEÍCULOS E OUTROS OBJETOS[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -362,7 +362,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]TROPAS ESTELARES[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://minhateca.org/wp-content/uploads/2019/08/Tropas-Estelares-8211-Trilogia-Dublado.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1hJmWREpOM9uIX-uc1IxdEuRxHp7-uE3s</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TROPASESTELARES.txt</externallink>
 <fanart>https://www.planocritico.com/wp-content/uploads/2020/06/tropas_estelares_plano_critico-620x400.jpg</fanart>
 <info>[B][COLOR yellow]A SAGA TROPAS ESTELARES É UMA DE FILMES DE FICÇÃO CIENTÍFICA MILITAR AMERICANO . A HISTÓRIA DA SAGA  SEGUE UM JOVEM SOLDADO CHAMADO JOHNNY RICO E SUAS FAÇANHAS NA INFANTARIA MÓVEL, UMA UNIDADE MILITAR FUTURISTA. A CARREIRA MILITAR DE RICO PROGRIDE DE RECRUTA A OFICIAL NÃO COMISSIONADO E, FINALMENTE, A OFICIAL CONTRA O PANO DE FUNDO DE UMA GUERRA INTERESTELAR ENTRE A HUMANIDADE E UMA ESPÉCIE DE ARACNÓIDE CONHECIDA COMO "OS INSETOS".[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -370,7 +370,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UMA NOITE NO CRIME (THE PURGE )[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://3.bp.blogspot.com/-WYvK5vonqpE/W47xSRfH83I/AAAAAAAAQhE/u7hBsVPo_QARYRKRbnmiXo3dpUpFZ2r_wCLcBGAs/s1600/Trilogia%2BUma%2BNoite%2Bde%2BCrime%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1zu3v0hSkjzPD5rWlloaLyIXb0wu3UpHr</externallink>
+<externallink>https://github.com/wilsongaviao/GAVIAOPLAYER/blob/main/UMANOITENOCRIME.txt</externallink>
 <fanart>https://media.fstatic.com/lg963jYFD4eA8DeymC_PzGgah2Q=/full-fit-in/629x300/media/articles/main/2015/02/dd4a6cf1-9f1a-4c72-a919-6cde9c27a5f1.jpe</fanart>
 <info>[B][COLOR yellow]UMA SÉRIE DE FILMES DE SUSPENSE E TERROR BASEADOS EM UMA FUTURA AMÉRICA DISTÓPICA, ONDE TODO CRIME É LEGALIZADO UMA VEZ POR ANO.,POR CAUSA DA ALTO INDICE DA POPULAÇÃO CARCERARIA AMERICANA [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -378,7 +378,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UM POLICIAL BOM PRA CACHORRO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mBNUe0X4WYywe6w5DyihltmAn.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1lxPZwCbIJf3vHRhOYIxG87WZyNoIsqVGKXcFfd1n</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/UMPOLICIALBOMPRACACHORRO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/5Qb522GHp2eJlcwr6BHnu3hLTQZ.jpg</fanart>
 <info>[B][COLOR yellow]AS AVENTURAS DE MICHAEL DOOLEY, UM POLICIAL EXTRAVAGANTE QUE NECESSITA DE ALGUMA AJUDA, O SEU PARCEIRO UM CACHORRO PASTOR ALEMÃO ,JERRY LEE,  PARA LUTAR CONTRA O CRIME , E O TRAFICO DE DROGAS EM SUA CIDADE[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -386,7 +386,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VELOZES E FURIOSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://img.comunidades.net/bai/baixefilmeshd/saga_velozes_e_furiosos_340x311_.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1l59Bfszy_gA2vXJL5NedXixQKzTNcP9g</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/VELOZESFURIOSOS.txt</externallink>
 <fanart>https://www.coxinhanerd.com.br/wp-content/uploads/2017/04/topolista2.png</fanart>
 <info>[B][COLOR yellow]COLETANEA COM TODOS OS FILMES DA FRANQUIA COM  FILMES DE AÇÃO CENTRADA EM CORRIDAS DE RUA ILEGAIS E ROUBOS E OUTROS MEIOS [/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -394,7 +394,7 @@ ESTA TRILOGIA COMEÇA COM ONZE HOMENS E UM SEGREDO (OCEAN’S ELEVEN) QUANDO DAN
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]X-MEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/1417408/1000858937.jpg?v=637003781718900000</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1R6Cd0mEC33bFTKJZwoDVIKHa-tq83LbU</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/XMEN.txt</externallink>
 <fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2016/05/x-men-apocalypse.jpg</fanart>
 <info>[B][COLOR yellow] A SAGA ACOMPANHA A HISTORIA DE HUMANOS MUTANTES COM SUPER PODERES  QUE COM AJUDA DO PROF CHAVIER OS ORIENTA A USAR OS SEUS PODERES SEMPRE PARA O BEM, LUTANDO CONTRA HUMANOS QUE TAMBEM TEM SUPER PODERES MAS USAM SEMPRE PARA PREJUDICAR OS HUMANOS NORMAIS EM BUSCA DO PODER[/COLOR][/B]</channels></channel>
 #####################################################################################################################################
