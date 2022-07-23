@@ -1,0 +1,7 @@
+##################################################################################################################
+<item><title>[COLOR white]Os Trapalhões - [COLOR yellow]Todos Os Filmes Clássicos[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35982634aa20959fe9382427735b51c196e9277b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cAtXWtCr2zAODHyg4VXos63xZZB.jpg</thumbnail>
+<fanart>https://i.pinimg.com/236x/52/8f/66/528f662db0fb2a7021d24b84e92b99f2--sou--s.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Coleção completa com 25 filmes clássicos da franquia Os Trabalhões. O primeiro filme deles contava apenas com a dupla Didi e Dedé. Com o quarteto clássico, foram produzidos vinte e um filmes, começando com Os Trapalhões na Guerra dos Planetas (1978) até Uma Escola Atrapalhada (1990). Mais de cento e vinte milhões de pessoas já assistiram aos filmes de Os Trapalhões, sendo que sete destes filmes estão na lista das dez maiores bilheterias do cinema brasileiro. [/COLOR][/B]</info></item>
+######################################################################################################################################
