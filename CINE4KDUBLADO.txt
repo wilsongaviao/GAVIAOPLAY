@@ -1,4 +1,11 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Jurassic World: Domínio[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4LR4HJK5IYJLT7PDUCCYO256E2R2IGX</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8MiUVWIx7XDeu5xl9zaTMFVtwiE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Animais Fantásticos - Os Segredos de Dumbledore [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JJBYP6UANXGHPNTIYYQD6F3SEFC7UCK</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg</thumbnail>
