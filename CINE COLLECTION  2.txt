@@ -1,8 +1,21 @@
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PREMONIÇÃO [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4W3gnOJATpEGwq4wqpxHgiJrBub.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PREMONI%C3%87%C3%83O.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7LU0ryVKd0AkmENyEzCYiGullu5.jpg</fanart>
+<info>[B][COLOR yellow]é uma série de filmes de terror estadunidense. A franquia possui cinco filmes lançados, Final Destination é uma das séries de filmes de terror mais bem sucedidas comercialmente, ficando em quarto lugar nas franquias de terror mais lucrativas, perdendo para Saw, Jaws e Paranormal Activity.
+Com uma formidável quantidade de detalhes em cenas de acidentes e mortes, a série de filmes, ao contrário da grande maioria dos filmes do gênero terror que utilizam assassinos, monstros ou fantasmas como inimigos, tem a própria morte como principal antagonista dos filmes. E também a série que contradiz as outras quando algumas das personagens principais não sobrevivem depois da "aventura". 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANACONDA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ezsTWnemx5AfWHsn3LrszVseK8.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1WSLyqu4qUNUxd6Wuk1VuXs3ngTWhXFcM</externallink>
+<externallink>hhttps://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ANACONDA.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzvAjXCbpFVbRh-NL8oZFjFt6kFwfNDVdcw&usqp=CAU</fanart>
 <info>[B][COLOR yellow]COLETANEA DE FILMES DE TERROR AMERICANO QUE COMEÇOU EM 1997,  CADA SEQUÊNCIA GIRA EM TORNO DE ANACONDAS GIGANTES E OS ESFORÇOS DE VÁRIOS GRUPOS DE PESSOAS PARA CAPTURAR OU DESTRUIR AS CRIATURAS. A PLANTA FICTÍCIA CONHECIDA COMO "ORQUÍDEA SANGRENTA" ("BLOOD ORCHID" EM INGLÊS) E A EMPRESA WEXEL HALL PHARMACEUTICALS, BEM COMO A FAMÍLIA MURDOCH SÃO REPETIDAMENTE REFERENCIADOS NO 3° E NO 4° FILME, ALÉM DO CROSSOVER.  [/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
@@ -10,7 +23,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MUMIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/O1Dod8MPE97xHvi1OOVdna-dFtg=/290x478/smart/media/movies/covers/2014/06/a-mumia_t113.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Tv9gAU4Vh0saD03RYby_oMM5hEpYpnhq</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20MUMIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/9a9GpRaCkdcPfa5z0vPQj9ldtQh.jpg</fanart>
 <info>[B][COLOR yellow]A MÚMIA É O TÍTULO DE VÁRIAS SÉRIES DE FILMES DE HORROR-AVENTURA, CENTRADA EM UM ANTIGO SACERDOTE EGÍPCIO, QUE É ACIDENTALMENTE RESSUSCITADO, TRAZENDO COM ELE UMA PODEROSA MALDIÇÃO E, POSTERIORMENTE, OS ESFORÇOS SUBSEQUENTES DE ARQUEÓLOGOS HERÓICOS PARA DETÊ-LO.[/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
@@ -18,7 +31,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ASSASSINO A PREÇO FIXO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/injh3UPPqXbteDmFNcerHvBnjwn.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1xSk9rpTHsi3t4ORz0u_C7XPjHRDx7C91</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ASSASSINO%20A%20PRE%C3%87O%20FIXO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/4CCvDWKtmFms4tSTXeawA19sheU.jpg</fanart>
 <info>[B][COLOR yellow]ASSASSINO A PREÇO FIXO É UMA COLETÂNEA COMPOSTA POR TRES FILMES, ESTRELADA POR JASON STATHAM, NO PERSONAGEM DE  ARTHUR BISHOP, UM MATADOR DE ALUGUEL COM MUITA HABILIDADE PARA ELIMINAR OS SEUS ALVOS SEM DEIXAR VESTIGIOS ,UM DOS MELHORES  DA ELITE DE ASSASSINOS DE ALUGUEL[/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
@@ -26,7 +39,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BRADDOCK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AonSSoJOFIbOubZt0gMBIZvw9MH.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1uexo76Zl4k_R9RDpxvzFX6Kb02fLqfh8</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BRADDOCK.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hXRDREMveK8niPh9o3eD71Dm4HR.jpg</fanart>
 <info>[B][COLOR yellow]O CORONEL BRADDOCK FOI PRISIONEIRO DE GUERRA NO VIETNÃ DURANTE ANOS. UM TEMPO DEPOIS DE CONSEGUIR ESCAPAR, ELE DESCOBRE QUE VÁRIOS SOLDADOS AMERICANOS AINDA SÃO MANTIDOS LÁ COMO PRISIONEIROS. JUNTO COM TUCKER, UM ANTIGO AMIGO DO EXÉRCITO, ELES LIDERAM UMA MISSÃO PARA RESGATAR SEUS COMPATRIOTAS.[/COLOR][/B]</info></channels></channel>
 ######################################################################################################################################
@@ -34,7 +47,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DURO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=16PhCFcQfhwwcspnyyfq4Z5bE5KDDIgIQ</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DURO%20DE%20MATAR%20.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg</fanart>
 <info>[B][COLOR yellow]COLEÇÃO DE FILMES DE AÇÃO CENTRADA NO PERSONAGEM DE JOHN MCCLANE, UM DETETIVE DA POLÍCIA DE NOVA YORK QUE SE VÊ LUTANDO CONTRA UM GRUPO DE TERRORISTAS EM CADA FILME.[/COLOR][/B]</info>
 </channels></channel>
@@ -43,7 +56,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EM NOME DO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4QP0pbVKepSDjkQwWfhXxKknE1z.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1uqT7szMeRjPJleieEPBVhuwgcAWndv8P</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/EM%20NOME%20DO%20REI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qtmwb0iF41DhfZIXvuk0TIXu23p.jpg</fanart>
 <info>[B][COLOR yellow]A HISTORIA GIRA EM TORNO DAS AVENTURAS  DE FARMER (JASON STATHAM), UM HOMEM QUE DESEJA RESGATAR SUA ESPOSA, QUE ESTÁ SEQUESTRADA, E AINDA VINGAR A MORTE DE SEU FILHO. OS DOIS ATORES FORAM COMETIDOS POR KRUGS, UMA ESPÉCIE DE ANIMAIS-GUERREIROS QUE SÃO CONTROLADOS PELO TEMIDO GALLIAN.SÉRIE DE FILMES DE FANTASIA E AÇÃO INSPIRADA NA SÉRIE DE VIDEOGAMES DUNGEON SIEGE.[/COLOR][/B]</info></channels></channel>
 ###################################################################################################################
@@ -51,7 +64,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HIGH SCHOOL MUSICAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cn5Ik0y9K8zkk09JYWaD8YNGmoC.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1gchosvsMDoXjWnpbBBEUbHcUBtLpuG1Y</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/HIGH%20SCHOOL%20MUSICAL(F).txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/xZpFjP6cZSrXr0FQaHBwvNQKgcn.jpg</fanart>
 <info>[B][COLOR yellow]A série de filmes High School Musical narra dois alunos do ensino médio, Troy Bolton, capitão do time de basquete da East High School (Wildcats) e Gabriella Montez, uma estudante tímida de primeira. Ambos tentam os papéis principais no musical de sua escola e rapidamente se apaixonam no processo, apesar da falta de apoio do resto de seus colegas, um deles sendo Sharpay Evans e seu irmão companheiro Ryan Evans. O filme também se concentra em Chad Danforth, o melhor amigo de Troy e Taylor McKessie, o melhor amigo de Gabriella que também se apaixona.[/COLOR][/B]</info></item>
 </channels>
@@ -61,7 +74,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/S9cGoZiSP_QWHqPNhXjF2RiM8c0=/290x478/smart/media/movies/covers/2014/09/superman-o-filme_t1083_2.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1Hslts5Lg5WPeS8wWKNowRKMPFUgF1fAS</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SUPERMAN.txt</externallink>
 <fanart>https://www.einerd.com.br/wp-content/uploads/2018/11/Superman-1978-Christopher-Reeve.jpg</fanart>
 <info>[B][COLOR yellow]COLETANEA DE FILMES DO FAMOSO SUPER HEROI  CRYPTONIANO,E SUAS LUTAS PARA LIVRAR A TERRA DE SEUS VILÕES[/COLOR][/B]</channels></channel>
 ######################################################################################################################################
@@ -69,7 +82,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS TRAPALHÕES[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cAtXWtCr2zAODHyg4VXos63xZZB.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=1g-LG5H-0n8FUhD034QeZDcz31xXg_G8a</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/OS%20TRAPALH%C3%95ES.txt</externallink>
 <fanart>https://i.pinimg.com/236x/29/64/dc/2964dc31974e37c8a7dc24dda656b54e.jpg</fanart>
 <info>[B][COLOR yellow]Coleção completa com 25 filmes clássicos da franquia Os Trabalhões. O primeiro filme deles contava apenas com a dupla Didi e Dedé. Com o quarteto clássico, foram produzidos vinte e um filmes, começando com Os Trapalhões na Guerra dos Planetas (1978) até Uma Escola Atrapalhada (1990). Mais de cento e vinte milhões de pessoas já assistiram aos filmes de Os Trapalhões, sendo que sete destes filmes estão na lista das dez maiores bilheterias do cinema brasileiro. [/COLOR][/B]</info></item>
 </channels>
@@ -79,8 +92,8 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DE VOLTA PARA O FUTURO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3grRdVqV48ubeJu3Tifp5Q8bOx.jpg</thumbnail>
-<externallink>https://docs.google.com/uc?export=download&id=</externallink>
-<fanart></fanart>
+<externallink>hhttps://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DE%20VOLTA%20PARA%20O%20FUTURO.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/877f7BJivcS7Gz13WnHxMI1sSD7.jpg</fanart>
 <info>[B][COLOR yellow]Marty McFly é um adolescente típico americano dos anos 80. Acidentalmente ele viaja de volta no tempo para 1955 em uma máquina do tempo inventada pelo cientista maluco Dr. Brown. Durante sua incrível viagem ao passado, Marty tem como missão fazer com que seus pais ainda adolescentes se conheçam e se apaixonem. Só assim ele conseguirá ter uma chance de voltar ao futuro. [/COLOR][/B]</info></item>
 </channels>
 </channel>
