@@ -7,6 +7,41 @@
 <info>Sinopse: [COLOR yellow][B]Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white]Borrego - Saia Do Caminho [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/obTdaJ22RNFi3fmzUVT5eWOFsOe.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem botânica se muda para uma pequena cidade deserta, para estudar uma nova espécie de plantas. Enquanto pesquisa, a jovem se depara com um avião caído cheio de drogas e é capturada pelos criminosos. 
+[COLOR white][B] Gênero:  [COLOR lime] Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Não Me Diga Adeus[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MXYI6B4H5GUY5OIGRA4FWPPHUECROCE7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wvlBBhGyerkbEdk6wWPCw1yMQiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fsP0ifx95oLDQGJjLwQ4Rh05O5z.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um pai solteiro descobre que sua filha adolescente tem câncer e leva a filha em uma viagem para encontrar a mãe que a abandonou anos atrás. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Beavis e Butt-Head - Detonam o Universo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96919b21ad7b105a785c6780827af7eb3e9fb0c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8eZJAypCDdD7oV9WXi9902LyQ2D.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Beavis e Butt-head vão em uma missão de ônibus espacial em 1998, caem em um buraco negro e ressurgem na Terra em 2022, onde são perseguidos pela NSA e duas versões altamente inteligentes deles mesmos.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Wolf [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4JHPGPAR7WC3U5L7KBQR2TRJTJFT5LU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39SHAfnH7xoP2SH7BQoUXMeXjUQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gU4MTmcZeNoFy0jlKwADO3NKAe0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Numa casa onde jovens acreditam que são na verdade animais ao invés de seres humanos, um jovem (George MacKay) acredita que é um lobo e apesar do tratamento humilhante que recebe de seu médico, ele não pode escapar de sua própria verdade pessoal.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Flee - Nenhum Lugar Para Chamar de Lar[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTL7F66G3ALOJY6RAMYT4UEMPOKQNTZQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92sguHEFTZm5bvvTYRoGksFrasb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r7r2jxFgRN0TFcEldM1hjUD5LQS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O documentário animado nos apresenta Amin Nawabi (pseudônimo), um intelectual altamente graduado de 36 anos, luta com um segredo doloroso que manteve escondido por vinte anos e que ameaça desestabilizar a vida que construiu para si e para o futuro marido. Recontada pelo diretor Jonas Poher Rasmussen, seu amigo próximo, a história extraordinária da viagem feita por Amin na infância, como refugiado afegão, vem à luz pela primeira vez. História de autodescoberta, a animação mostra que só quem confronta o passado pode criar um futuro, e só quem para de fugir de si mesmo descobre o verdadeiro significado de ter um lar. 
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Biografia / Documentário [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] Passagem Secreta[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4b2a2aa90d8b41bd5261679763065add604d8a2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1NB89sWY4coysIN9xyKMmJ3H7s0.jpg</thumbnail>
