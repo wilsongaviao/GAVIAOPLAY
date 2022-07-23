@@ -1,0 +1,21 @@
+##############################################################################################################
+<item><title>[B][COLOR white]De Volta Para o Futuro [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:630631d23cb5abc5b02e922883ee4b55eb822e58</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]De Volta Para o Futuro 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9245A934A4A481F4B528518E289AE498AE3D4BBA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9xt4iL2DRzG6XHfYJtSEgzGFRC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma despretensiosa visita de McFly e Doc ao ano de 2015 revela alguns problemas com a futura família de McFly. Mas quando os dois voltam para casa, logo descobrem que alguém alterou a linha temporal e criou uma terrível Hill Valley em 1985. A única esperança é poder voltar de novo para o ano de 1995 e salvar o futuro.
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Clássico / Ficção[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] De Volta Para o Futuro 3 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518AB5557CE890526AF356A8F7AA0AA150BC436F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yjSqXqdpaa6ECsiIQxW44ye0qAc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nh6mrOtIvD8MMC6JQIzwNDZi2G0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Presos em 1955 depois de um estranho estouro de luz, McFly tem que viajar para o ano de 1885 para resgatar Doc Brown de uma morte prematura. Depois de sobreviver a um ataque de índios hostis e de moradores da cidade nada amigáveis, McFly encontra Doc Brown. Mas com Doc apaixonado pela charmosa Clara Clayton, está nas mãos de McFly conseguir tirá-los do velho oeste e voltar para o futuro.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Ficção [/COLOR][/B]</info></item>
