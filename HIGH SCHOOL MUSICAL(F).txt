@@ -1,0 +1,24 @@
+##################################################################################################################
+<item><title>[COLOR white]High School Musical[COLOR yellow]( 2006 )[COLOR lime] DRAMA / COMÉDIA [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DXXJKK2UEOR5GKIL3BYAKLKCO62NQ7Y2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1yZrcFypOmIgi30MTO4sikGsSqo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yfbrFyzmEqPIL9vcNeWmCQAVwZw.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]roy, o popular capitão do time de basquete, e a bela Gabriella, quebram todas as regras do East High Society quando resolvem fazer um teste secreto para cantar no evento de música da escola. Em busca dos seus sonhos, eles acabam vivendo um bonito romance durante os ensaios para o musical, e aprendem a importância do trabalho em equipe e de serem eles mesmos.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white]High School Musical 2[COLOR yellow]( 2007 )[COLOR lime] COMÉDIA / DRAMA [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OKXAUWKIJKAJ7EBS227OEBMICXPDYDF7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w94_and_h141_bestv2/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hmcqqFUnqhQRBUs7U3Kj4jVSP0S.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Os Wildcats de East High estão prontos para as melhores férias de suas vidas. Troy fica empolgado ao ser convidado para trabalhar no Country Club, sem desconfiar que isso seja parte do plano de Sharpay de afastá-lo de Gabriella. E agora? Essa e outras perguntas serão respondidas na noite do show de talentos.[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white]High School Musical 3: Ano da Formatura[COLOR yellow]( 2008 )[COLOR lime] DRAMA / COMÉDIA [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7VYYQPITHL2CBJJ53RNJS3577KGNHTGW</link>
+<thumbnail>https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Vce8715c2BmQvzQhcBqilMCliW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3RkFOgwRckYrpxNHTZQYJk2SmQD.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O dia da formatura está se aproximando para Troy, Gabriella, Sharpay, Chad, Ryan e Taylor – e a idéia de que estão prestes a se separar faz com que eles pensem em fazer alguma coisa da qual irão se lembrar para sempre. Junto aos demais Wildcats, eles preparam um musical que reflete suas esperanças e medos sobre o futuro e suas inesquecíveis experiências de crescerem juntos. Mas com a graduação e os planos para o futuro se aproximando, como ficarão os sonhos, romances e amizades do East High?[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white]High School Musical: O Musical: Especial de Festas[COLOR yellow] ( 2000 )[COLOR lime] DRAMA / COMÉDIA[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b3f815da3024d45369249329bcae9a3d617a3f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dMbeUJMX1xk5XbxjcL0E1n7sfsT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rbfuYPgQucuvz3jQNpAiX9z5BS8.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O elenco de "High School Musical: A Série: O Musical" oferece uma abundância de alegria nesse Especial de Festas enquanto apresentam suas canções favoritas de Natal, Hanukkah e Ano Novo, e compartilham suas melhores memórias das festas.[/COLOR][/B]</info></item>
