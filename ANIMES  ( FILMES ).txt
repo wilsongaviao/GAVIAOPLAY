@@ -1,4 +1,18 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Beavis e Butt-Head - Detonam o Universo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96919b21ad7b105a785c6780827af7eb3e9fb0c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8eZJAypCDdD7oV9WXi9902LyQ2D.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Beavis e Butt-head vão em uma missão de ônibus espacial em 1998, caem em um buraco negro e ressurgem na Terra em 2022, onde são perseguidos pela NSA e duas versões altamente inteligentes deles mesmos.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Flee - Nenhum Lugar Para Chamar de Lar[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTL7F66G3ALOJY6RAMYT4UEMPOKQNTZQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92sguHEFTZm5bvvTYRoGksFrasb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r7r2jxFgRN0TFcEldM1hjUD5LQS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O documentário animado nos apresenta Amin Nawabi (pseudônimo), um intelectual altamente graduado de 36 anos, luta com um segredo doloroso que manteve escondido por vinte anos e que ameaça desestabilizar a vida que construiu para si e para o futuro marido. Recontada pelo diretor Jonas Poher Rasmussen, seu amigo próximo, a história extraordinária da viagem feita por Amin na infância, como refugiado afegão, vem à luz pela primeira vez. História de autodescoberta, a animação mostra que só quem confronta o passado pode criar um futuro, e só quem para de fugir de si mesmo descobre o verdadeiro significado de ter um lar. 
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Biografia / Documentário [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]South Park - Guerras do Streaming Parte 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e14d21f12c29351cbe1cf85db71f04ff3ea9f12</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqWXH5rYHTD32I5RY6pHR828BrO.jpg</thumbnail>
