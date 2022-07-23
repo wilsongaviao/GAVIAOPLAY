@@ -92,7 +92,7 @@ Com uma formidável quantidade de detalhes em cenas de acidentes e mortes, a sé
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DE VOLTA PARA O FUTURO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3grRdVqV48ubeJu3Tifp5Q8bOx.jpg</thumbnail>
-<externallink>hhttps://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DE%20VOLTA%20PARA%20O%20FUTURO.txt</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/DE%20VOLTA%20PARA%20O%20FUTURO.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/877f7BJivcS7Gz13WnHxMI1sSD7.jpg</fanart>
 <info>[B][COLOR yellow]Marty McFly é um adolescente típico americano dos anos 80. Acidentalmente ele viaja de volta no tempo para 1955 em uma máquina do tempo inventada pelo cientista maluco Dr. Brown. Durante sua incrível viagem ao passado, Marty tem como missão fazer com que seus pais ainda adolescentes se conheçam e se apaixonem. Só assim ele conseguirá ter uma chance de voltar ao futuro. [/COLOR][/B]</info></item>
 </channels>
