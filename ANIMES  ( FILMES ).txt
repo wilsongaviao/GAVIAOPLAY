@@ -1,4 +1,25 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]South Park - Guerras do Streaming Parte 2 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e14d21f12c29351cbe1cf85db71f04ff3ea9f12</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqWXH5rYHTD32I5RY6pHR828BrO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uDSdc2j0IhApkNzMbHOyVT5F4A2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma seca deixa a cidade de South Park à beira de um desastre. 
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Bobs Burgers - O Filme [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff9d63ed406b6dab8df0d6171b7d6556cad8c6c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nrfmvujlTaxJDh6MBZcH4h9RFXu.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um cano rompido cria um buraco em frente ao Bob's Burgers, bloqueando a entrada e arruinando os planos de um verão bem-sucedido. Enquanto Bob e Linda lutam para manter o negócio, as crianças tentam resolver um mistério que pode salvar o restaurante da família. Os perigos aumentam, e eles se ajudam, lutando para voltar para trás do balcão.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Fera do Mar  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d10bce312fa90d64dd5e7c8e1c93b22079968361</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ynHncD1HQZEQA2r747uv3eL3XDY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q0h0GNvHRXvDPh0JviKIeX3q3E5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma menina entra escondida no navio de um grande caçador de monstros marinhos. Juntos, eles iniciam uma jornada épica por águas desconhecidas
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] Escola de Magia [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d40bbb066e3bfb68b5a249f9e25e8b03e752b71</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8K4fa8VUrBYI9QjSOVpF3nqTph.jpg</thumbnail>
