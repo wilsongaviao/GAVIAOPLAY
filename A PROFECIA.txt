@@ -21,8 +21,8 @@
 [COLOR white][B] Gênero:  [COLOR lime]Clássico / Suspense / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]A Profecia IV: O Despertar [COLOR yellow] ( 720p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58C235812BF1FC46562C400B7D49E95EB0F47919$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>https://ia902505.us.archive.org/30/items/profecia-4/Profecia4.mkv$nome=[B] LINK 2 [COLOR yellow] LINK DIRETO (720p)[/COLOR][/B]</link
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19461443334487F7C07B3D2510E4B00B0AD0A9D0$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>https://ia902505.us.archive.org/30/items/profecia-4/Profecia4.mkv</link
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bs42hbXgMGjfzqI3SWSFZuml92G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aXf1Fun0Z1Hv4coQEPbqW9wwXI.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Damien Thorn está morto, mas sua profecia renasce através de uma misteriosa garota chamada Delia, que é adotada por dois advogados, Gene e Karen York. Quando Karen percebe que sua nenê nasceu sob circunstâncias suspeitas, ela contrata um investigador particular para encontrar os verdadeiros pais de Delia. Uma série de acidentes bizarros começa a ocorrer, e Karen suspeita que todos estão conspirando contra ela à medida que vai descobrindo a verdade sobre seu bebê.
