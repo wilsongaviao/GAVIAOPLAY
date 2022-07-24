@@ -1,6 +1,28 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] A PROFECIA [COLOR white] [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ano0QkiMx4MLKpKIBShpVxNxUWE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/A%20PROFECIA.txt</externallink>
+<fanart>https://pipocaecafe.files.wordpress.com/2016/03/max1160a331628-frontback-cover.jpg</fanart>
+<info>[B][COLOR yellow]A série de filmes Omen é uma franquia de filmes de terror criada na década de 1970. A história foi originalmente escrita por David Seltzer, que escolheu não continuar a série após o primeiro romance. O segundo romance e roteiro foram então escritos por Joseph Howard e o terceiro por Gordon McGill. Depois que o terceiro filme foi produzido, um quarto foi feito para a TV em uma tentativa de trazer de volta a série, mas foi mal. A série gira em torno de Damien Thorn, uma criança nascida de Satanás e dada a Robert e Katherine Thorn, antes de ser passada ao longo das famílias Thorn quando criança. É revelado entre as famílias que Damien é de fato destinado a ser o Anticristo, e como um adulto está tentando ganhar o controle do negócio de espinhos e alcançar a presidência
+[COLOR white][B] Gênero:  [COLOR lime] Clássico / Suspense / Terror[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] O EXORCISTA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uPTu5kroKS6lHm6TKncIzVgwW2o.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20EXORCISTA.txt</externallink>
+<fanart>http://www.cinemaepipoca.com.br/wp-content/uploads/2014/09/exorcista-banner.jpg</fanart>
+<info>[B][COLOR yellow]Coletanea contendo  os cinco filmes da maior franquia de filmes de terror baseados no livro escrito por  William Peter Blatty ,que foi baseado numa suposta história real que aconteceu em Maryland  ,esse o primeiro livro que deu origem  a essa franquia de muito sucesso
+[COLOR white][B] Gênero:  [COLOR lime]Clássico / Terror [/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PREMONIÇÃO [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4W3gnOJATpEGwq4wqpxHgiJrBub.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PREMONI%C3%87%C3%83O.txt</externallink>
