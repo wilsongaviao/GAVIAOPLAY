@@ -7,52 +7,66 @@
 <item><title>[COLOR white]Resident Evil: O Hóspede Maldito[COLOR yellow] ( 2002 )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa1b68ac28d5152be974f2809530b70c6188bcaa</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9vJX0Q9LSoOlTio8cTAm2ms0sWz.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Uma equipe de comando militar composta por civis deve lutar contra mortos-vivos carnívoros, cães mutantes e defesas mortíferas de um super computador, antes que um vírus solto consuma a humanidade, nesta adaptação do sucesso da série de vídeo-games![/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Uma equipe de comando militar composta por civis deve lutar contra mortos-vivos carnívoros, cães mutantes e defesas mortíferas de um super computador, antes que um vírus solto consuma a humanidade, nesta adaptação do sucesso da série de vídeo-games!
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Ficção / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white]Resident Evil 2: Apocalipse[COLOR yellow]( 2004 )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8afaa9899d12a316640b3ac01fe15adf208359ac</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppAMfnKoXkDX5Mh3zr7Qqy4umw6.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Desde que foi capturada pela Corporação Umbrella, Alice passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine e Carlos Olivera para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Desde que foi capturada pela Corporação Umbrella, Alice passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine e Carlos Olivera para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Ficção / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white] Resident Evil 3: A Extinção  [COLOR yellow]( 2007 )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e17cef71ffbaba0a020dc04d6b9cd7f6d65144f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qetrFNiG9kbsI5nyM853S0N9ydP.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que o vírus que transforma humanos em aterrorizantes zumbis contamine todo o mundo.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que o vírus que transforma humanos em aterrorizantes zumbis contamine todo o mundo.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Ficção / Terror[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white] Resident Evil: Degeneração  [COLOR yellow](2008) Animação[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ee47207effec8bd8ea8a7d694299405d51c8696</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]O vírus mortal T foi erradicado. Sete anos depois, um passageiro chega aos EUA com os mesmos sintomas, e zumbis tomam o aeroporto. Surgem dúvidas sobre a erradicação do vírus, e o governo manda seus melhores agentes investigarem.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Animação / Suspense / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white] Resident Evil 4: Recomeço[COLOR yellow] ( 2010 )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d87e1dc173351a128fffc7b31639a251ea0a5e8b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/diPrexFmSxHylFEoxVXta0Ok3hw.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Ficção / Terror[/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[COLOR white] Resident Evil: Condenação  [COLOR yellow](2012) Animação[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:667DC5F738C6608D94A0F20E59F78E5DDB77941F$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02B81158CDAC95A78CA00137AA2809B641D4B11D$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fDXEVM49qy5CrNySBXRUaTLJty7.jpg</thumbnail>
+<info>[B]Sinopse:[COLOR yellow]O agente especial dos Estados Unidos, Leon S. Kennedy, vai a um pequeno país da Europa Oriental investigar rumores de que armas biológicas (B.O.W.s) estão sendo usadas em guerra. Logo após infiltrar-se no local, o governo ordena que Leon se retire imediatamente. Determinado a descobrir a verdade, Leon ignora a ordem e entra no campo de batalha para encerrar a cadeia de tragédias causadas por B.O.W.s.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Animação / Suspense / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white] Resident Evil 5: Retribuição [COLOR yellow]( 2012 )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c3476b114010d9ebb6ae36ab37fd8ed4e957adc$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f51b83f3bef1d00f8f665da91e9207cf4578eb73$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Ficção / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white] Resident Evil 6: O Capítulo Final[COLOR yellow] ( 2016 )[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:644999f255916c0fb87f041e5f06cad54e6aac21$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d8e9a71e746e3f84066b853d633f806277c162cnome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:776da5fc06f4fb400702c9546e9c6b7526b1ce9b$nome=[B] 3 [COLOR yellow]1080p - 3D[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos.[/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[COLOR white] Resident Evil: Degeneração  [COLOR yellow](2008) Animação[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ee47207effec8bd8ea8a7d694299405d51c8696</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]O vírus mortal T foi erradicado. Sete anos depois, um passageiro chega aos EUA com os mesmos sintomas, e zumbis tomam o aeroporto. Surgem dúvidas sobre a erradicação do vírus, e o governo manda seus melhores agentes investigarem.[/COLOR][/B]</info></item>
-##################################################################################################################
-<item><title>[COLOR white] Resident Evil: Condenação  [COLOR yellow](2012) Animação[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:667DC5F738C6608D94A0F20E59F78E5DDB77941F$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02B81158CDAC95A78CA00137AA2809B641D4B11D$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fDXEVM49qy5CrNySBXRUaTLJty7.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]O agente especial dos Estados Unidos, Leon S. Kennedy, vai a um pequeno país da Europa Oriental investigar rumores de que armas biológicas (B.O.W.s) estão sendo usadas em guerra. Logo após infiltrar-se no local, o governo ordena que Leon se retire imediatamente. Determinado a descobrir a verdade, Leon ignora a ordem e entra no campo de batalha para encerrar a cadeia de tragédias causadas por B.O.W.s.[/COLOR][/B]</info></item>
- re 
+<info>[B]Sinopse:[COLOR yellow]Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Ficção / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[COLOR white]Resident Evil: A Vingança  [COLOR yellow]( 2017 ) Animação[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b63a64faedffd9df50c3c1f674f2921180b7a83e$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b716b7f4e8dd311a27c0b62a56ce2945a098573$nome=[B] 2 [COLOR yellow]1080p[/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg</thumbnail>
-<info>[B]Sinopse:[COLOR yellow]Um inimigo sem escrúpulos planeja uma vingança brutal e libera um vírus mortal. O capitão Chris Redfield, membro da organização que luta contra o bioterrorismo, terá que responder ao ataque.[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]Um inimigo sem escrúpulos planeja uma vingança brutal e libera um vírus mortal. O capitão Chris Redfield, membro da organização que luta contra o bioterrorismo, terá que responder ao ataque.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Animação / Suspense / Terror[/COLOR][/B]</info></item>
 ##################################################################################################################
-
+<item><title>[B][COLOR white]Resident Evil - Bem-Vindo a Raccoon City [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnKi8Vx9mRvOGrmzBOOh5wHEbQI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o76ZDm8PS9791XiuieNB93UZcRV.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O que já foi um dia a casa da gigante farmacêutica em expansão Umbrella Corporation, Raccoon City, é agora uma cidade agonizante do meio-oeste. O êxodo da empresa transformou a cidade em um deserto, com um grande mal fermentando escondido abaixo da superfície. Quando esse mal é libertado, um grupo de sobreviventes deve trabalhar juntos para descobrir a verdade por trás da Umbrella enquanto buscam viver por mais uma noite.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Ficção / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
