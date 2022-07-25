@@ -1,4 +1,14 @@
-
+##################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MELHOR CHAMAR O SAUL [COLOR lime] NEW - [COLOR yellow] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MELHOR%20CHAMAR%20O%20SAUL.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ck6XmdLwsmbp21QYydXh2CuzOzu.jpg</fanart>
+<info>[B][COLOR yellow] Better Call Saul ( Melhor chamar o Saul ) conta a história do advogado Saul Goodman anos antes de ser contratado por Walter White. De multas de estacionamento a assassinatos, de acidentes de carro a fraudes públicas, Saul faz de tudo. A série vai se passar em 2002, seis anos antes dos eventos de Breaking Bad, embora acontecimentos durante e após a série original também serão explorados. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial[/COLOR][/B]</info></item>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
