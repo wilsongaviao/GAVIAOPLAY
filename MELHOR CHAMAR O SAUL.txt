@@ -1,0 +1,151 @@
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MELHOR CHAMAR O SAUL (  BETTER CALL SAUL ) [COLOR lime]1 ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6184047F9AB4D106F21CD8C096D55F19FD6553F$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE3C1EE3884E249681540FCD9AB528781763975C$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uJN7C6mkRpMQOhkCtaXvskP8UZn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9pySevXt9Q6c5p0ZQ8DLftlzR78.jpg</fanart><link>plugin://plugin.video.elementum/play?uri=</link>
+<info>[B]Sinopse:[COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MELHOR CHAMAR O SAUL (  BETTER CALL SAUL )  [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8AA6DA526E9B01CFD40AEE86C5FFE7E5A8CF09$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8AA6DA526E9B01CFD40AEE86C5FFE7E5A8CF09$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3u4O9GmaZSL0wjAXUKEXw0tKeLE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8YVWoZO09ka8Kwj4jIrxAms7uZ7.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MELHOR CHAMAR O SAUL (  BETTER CALL SAUL )  [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8AA6DA526E9B01CFD40AEE86C5FFE7E5A8CF09$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:357969ABDFDC080F9B711FA076BFDA218067F004$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xEggmiD4WoJBQR2AiVF46yPUUgD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jwD493AhnFVh57phFmAnSNOBeeX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MELHOR CHAMAR O SAUL (  BETTER CALL SAUL )  [COLOR lime] 4ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7983C68984986C069752D0ACDB060153FAC6F29C$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A877B38EC72E6B1227550C6D801D228DB3856AC$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4DEDEFA89D4CAFD6D38DAC87E935526A6724EF9$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/des5a6go6OVy7RoWf6Wv7GaknHF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fIRHZDTnKe0qSZIQ2AwBluCGfxH.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] MELHOR CHAMAR O SAUL (  BETTER CALL SAUL )  [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Agora que recuperou a sua licença e está finalmente livre da sombra do irmão, Saul Goodman continua sua cruzada como um "advogado criminoso". Enquanto isso, Mike Ehrmantraut continua trabalhando para Gus Fring
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial[/COLOR][/B]</info></item>
+
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:138ad0ee55fdfb5f920e40e2279c87c071e8786e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2b100da02f455e3f1e5e10e20d11284e25896fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5a336da9e78960f8ff1bcc90625417c0fb644fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8b9472a5ca0debde73f9d50e58650740ca57d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394488aa8f4cb8413ec513c66126c931d78d9a8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sYQ4ryHIEGYUWJhhyIYYiX2K6og.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fhVjFMVFW53w2YY75VR9lfii416.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] MELHOR CHAMAR O SAUL (  BETTER CALL SAUL )  [COLOR lime] 6ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
+
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01 > 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NANZ5AQPSEAD2Y4HPZPOJURSXGFIRP5I</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54RDZT4CJ2HSVTBMBBXDOYZ7BQF2BUNM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RVISMEA5DOZL6XK3ZPEJNRMW6TDYQHN5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3XMWLIIO6EPC5FJSYZGUFJE5JPZYKV6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CIYFKACIK2CFHSXUEXZT6O75FS5OP4H6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BQKXG3ZNBH7UFOLT2JVV7OP7V7OIO5HW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4O7T4VTKSZQ4CVB4H73WYL5HJ73TNTKA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5czxtWqG9HAbYU8ycdlAYdJ62PH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cBVFdkU8I0XOclDuEZEZt9GQkv6.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
