@@ -20,12 +20,12 @@
 <info>Sinopse: [COLOR yellow][B]O tenente Kinderman e o Padre Dyer tentam lidar com a morte de seu amigo em comum, o Padre Damien, porém, um assassino está a solta. O tenente da polícia investiga uma série de assassinatos envolvendo tortura, decapitação e profanação religiosa. Kinderman descobre que as morte têm semelhança com as praticadas pelo serial killer Gemini, um homem que morreu há quinze anos.[COLOR crimson] LINK DIRETO.
 [COLOR white][B] Gênero:  [COLOR lime]Clássico / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]O Exorcista - O Início [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4befc5058d5e021de76636417a62192bd5ce4f09</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mqPIcqZ16iIsrF3fItVe4n3JCMJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hz4Tzv4jac2usrCpMUGJp4akkoK.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Tendo abandonado sua fé em Deus, O Padre Merrin (Stellan Skarsgard) se une a uma escavação arqueológica inglesa no Quênia, que revela a existência da primeira igreja cristã erguida logo após a morte de Jesus Cristo e inexplicavelmente enterrada de cabeça para baixo – como se tivesse sido engolida pela Terra no mesmo dia em que ficou pronta. Mas, além da igreja, alguma coisa muito mais antiga dorme ali, aguardando o momento certo para despertar.
-[COLOR white][B] Gênero:  [COLOR lime] 	Clássico / Terror[/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Domínio: Prequela do Exorcista [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>https://ia902503.us.archive.org/24/items/dominio-prequela-de-o-exorcista/Dom%C3%ADnio-%20Prequela%20de%20O%20Exorcista.mp4?cnt=0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8dUGy6axmWIIhQOKSSraTKpw3GG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q4DQgtcd0q3X892qJk6SaMymHuZ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Padre Merrin aceita participar de uma escavação arqueológica e, resistindo à presença de forças sobrenaturais, tem seu primeiro encontro com o demônio Pazuzu, presenciando sinais de possessão demoníaca.
+[COLOR white][B] Gênero:  [COLOR lime]	Clássico / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Domínio: Prequela do Exorcista [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DADD576DF13F99362CE713951012BB5766E710C7</link>
