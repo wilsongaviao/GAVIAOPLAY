@@ -1,5 +1,33 @@
 
 ##############################################################################################################
+<item><title>[B][COLOR white]Neon Lights [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C43292EC831F1BC376B6E3FB37929B14E93027E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7tlxaXoxmZCqeyq4MLhy0DSTPdl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1KaosmJ5S31EO7vN1oZUtrmeWoS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O magnata da tecnologia, Clay Amani, se retira para um local fora da grade em busca de significado e paz, com irmãos desconectados e seus filhos, apenas para ser pego em uma matança de arrepiar dentro de sua nova propriedade. 
+[COLOR white][B] Gênero:  [COLOR lime] Suspense / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Galaxy Games[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1862FDDE73DA1A551DB41C8B025652E02D4F0F57</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um grupo de jovens adultos é enviado para um planeta distante para competir nos prestigiados jogos Sol Invictus. Quando ocorre um desastre e as equipes ficam sem equipamento ou comunicação, elas devem trabalhar juntas para sobreviver o tempo suficiente para serem resgatadas. 
+[COLOR white][B] Gênero:  [COLOR lime]Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Curse of the Macbeths [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FDAD644A14B8EA51DAFBD6A68C300BBE07461184</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1THWBFbKR97ApyTFkGvzG5UeSYi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1THWBFbKR97ApyTFkGvzG5UeSYi.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em sua busca implacável pelo poder, Macbeth e Lady Macbeth se envolvem em assassinatos e caos para alcançar a Coroa e mantê-la, nesta versão moderna da famosa história de Shakespeare. Beba um copo do mal sangue terá sangue. 
+[COLOR white][B] Gênero:  [COLOR lime] Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Code Name Banshee[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D3928E825057675D08FCBFF7C2F150D9C7845B7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dt53jhcegkYu2hKcE4tAdnbpBzt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fg5m0w7FNTFD6tFfXS1UT16jjAD.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Caleb é um ex-assassino do governo vivendo escondido. Ele ressurge quando sua protegida, a assassina igualmente mortal conhecida como Banshee, descobre que há uma recompensa pela cabeça de Caleb. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Rising Boas in a Girls School  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC8354479A462614DA24B8C23760C4BD5AB23864</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xR7gW2Oj8Qku5m82SvWfwTbwopM.jpg</thumbnail>
