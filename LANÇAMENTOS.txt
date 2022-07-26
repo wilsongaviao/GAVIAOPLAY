@@ -1,3 +1,4 @@
+
 ##############################################################################################################
 <item><title>[B][COLOR white]Jurassic World: Domínio[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
@@ -6,6 +7,41 @@
 <fanart>https://www.themoviedb.org/t/p/original/8MiUVWIx7XDeu5xl9zaTMFVtwiE.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Chamas da Vingança [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c35e2c42ccdec167424a3dbdf98981c4b0d36a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qU8xM8nFsXvUYSZsRQOdIti267.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bIFrsAcqkLUUxaaiqqpFexYPeCh.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Por mais de uma década, os pais Andy e Vicky estão fugindo, desesperados para esconder sua filha Charlie de uma agência federal sombria que quer aproveitar seu dom sem precedentes para criar fogo em uma arma de destruição em massa. Andy ensinou Charlie como desarmar seu poder, que é desencadeado pela raiva ou pela dor. Mas quando Charlie faz 11 anos, o fogo fica cada vez mais difícil de controlar. Depois que um incidente revela a localização da família, um agente misterioso é enviado para caçar a família e capturar Charlie de uma vez por todas. Charlie tem outros planos.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Ficção / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Red Rocket  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74ec52b915dd76a6722be78d8db73a5a5d1ca55</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/345gLhiNpItU1ICx8OxJQwjgPmH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/813nJmttymrbbQv4MmKlyjMazIE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mikey é um astro decadente de filmes adultos cuja carreira terminou. Enfrentando problemas financeiros em Los Angeles, ele decide rastejar de volta para sua pequena cidade natal, no Texas, para viver com a ex-esposa e a sogra. Quando essa família disfuncional parece estar fazendo as coisas funcionarem, Mikey conhece uma jovem chamada Strawberry trabalhando na caixa registradora de uma loja de donuts local e imagina que a garota pode ser a solução para seus problemas – e a volta por cima em sua carreira.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Resgate de Ruby [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:327SYM4QJIJTZLTD6NVSTYZ72UUISUVW</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uvhYsuo1tsPkfFzYljCKjCkxL1T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zQG1FYDqoWo2hYhE5GVZ1yrWSfh.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ele quer entrar para a unidade K-9. Ela é uma cadela esperta e só precisa de um lar e treinamento. Juntos, eles mudam a vida um do outro. Baseado em uma história real. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Vamos Consertar o Mundo  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:JCQGYWREJWPC2CBOWWIG7FVRGBJUH6GP</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u1RbxBDWKrk9iMaSyHNX5EVqiRs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/36NYs5FPCai8uGpnM0dUshBgRIx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]David Samarás, “El Griego”, é o produtor geral de um popular talk show chamado “Hoy se arregla el mundo”, onde pessoas comuns tentam resolver conflitos de trabalho, de relacionamento, de amizade, de família. El Griego é solteiro e nunca pôde ter um vínculo afetivo duradouro. O laço mais forte de sua vida é Benito, seu filho de 9 anos, fruto de uma relação ocasional. Mais unidos pela obrigação legal que pelo afeto, sempre existe a sensação de que Benito é alguém que sobre em sua vida. A história muda quando durante uma forte discussão com Silvina, a mãe do garoto, El Griego fica sabendo que Benito não é seu filho. Pouco depois dessa revelação, Silvina morre. A notícia é tomada por El Griego como um alívio em meio à difícil relação com Benito e então decide contar a verdade. O menino pede então que ele faça uma última coisa: ajudar a encontrar o verdadeiro pai. El Griego aceita. A busca os levará a uma encruzilhada muito maior que a que saíram para enfrentar. 
+[COLOR white][B] Gênero:  [COLOR lime] Comédia / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]As Agentes 355 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TI3KG3TMNKFFP2DKJO7RCH75OJSGES75</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oSNqhngemquRBzxKSC3ysAmnC5e.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando uma arma ultrassecreta cai nas mãos de um grupo de mercenários que ameaçam o mundo, a agente da CIA Mace Brown terá que unir forças para uma missão letal com a agente alemã Marie; a ex-membro do MI6, especialista em computadores, Khadijah; a psicóloga Graciela, e com Lin Mi Sheng, uma mulher misteriosa que está rastreando todos os seus movimentos.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Borrego - Saia Do Caminho [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3</link>
