@@ -1,0 +1,56 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE ORVILLE  [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:593B00A3F4B866AAD29844618BCAB95410866997</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tHNxWnb9YauPEOdQRK7cJr0ncAX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2Qg2fViQzWenpUaMjhv0kNhCbE9.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Ed Grayson (Seth MacFarlane), que acaba de enfrentar um divórcio, assume a missão de comandar a nave exploratório Orville, e vê neste trabalho a chance de recomeçar sua vida. O capitão começa a montar uma equipe tão bem preparada quanto excêntrica, e é aí que descobre que uma das tripulantes será sua ex-esposa Kelly Grayson (Adrianne Palicki). Agora, não importa suas desavenças, juntos eles precisam aprender a conviver no espaço.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Comédia / Fantasia / Ficção[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] THE ORVILLE  [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1q2gRQ8uN8D2ythPMzd5NvsHkVf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2kB5B3319w9mmbZTyW1EZNYGGaF.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Ed Grayson (Seth MacFarlane), que acaba de enfrentar um divórcio, assume a missão de comandar a nave exploratório Orville, e vê neste trabalho a chance de recomeçar sua vida. O capitão começa a montar uma equipe tão bem preparada quanto excêntrica, e é aí que descobre que uma das tripulantes será sua ex-esposa Kelly Grayson (Adrianne Palicki). Agora, não importa suas desavenças, juntos eles precisam aprender a conviver no espaço.
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01>>>04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a73658b0cc1088dd9819990ba9312ac6a557e0a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1q2gRQ8uN8D2ythPMzd5NvsHkVf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2kB5B3319w9mmbZTyW1EZNYGGaF.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05>06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8425c418e3cbee5a35d5c6200949d8c56296cd27</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1q2gRQ8uN8D2ythPMzd5NvsHkVf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2kB5B3319w9mmbZTyW1EZNYGGaF.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7a4b286f9bb2e187b1b98cc8cabff8f56bea97d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1q2gRQ8uN8D2ythPMzd5NvsHkVf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2kB5B3319w9mmbZTyW1EZNYGGaF.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE ORVILLE  [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/IwfpXUYaqZ9WaRfgXnLVvdLA3r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l9YKPjSWED2ma9BURHa0nWFTDEQ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Ed Grayson (Seth MacFarlane), que acaba de enfrentar um divórcio, assume a missão de comandar a nave exploratório Orville, e vê neste trabalho a chance de recomeçar sua vida. O capitão começa a montar uma equipe tão bem preparada quanto excêntrica, e é aí que descobre que uma das tripulantes será sua ex-esposa Kelly Grayson (Adrianne Palicki). Agora, não importa suas desavenças, juntos eles precisam aprender a conviver no espaço.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Comédia / Fantasia / Ficção[/COLOR][/B]</info></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db9e76e421434c6e8c6aee3e5360efe530e774de</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/IwfpXUYaqZ9WaRfgXnLVvdLA3r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l9YKPjSWED2ma9BURHa0nWFTDEQ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:854120ac50be5f2179fd11feeb9cd90653199baf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/IwfpXUYaqZ9WaRfgXnLVvdLA3r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l9YKPjSWED2ma9BURHa0nWFTDEQ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ad5ce353781d0c873265a828d02f177e09f9815</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/IwfpXUYaqZ9WaRfgXnLVvdLA3r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l9YKPjSWED2ma9BURHa0nWFTDEQ.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
