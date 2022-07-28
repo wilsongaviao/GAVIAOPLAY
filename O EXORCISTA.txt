@@ -7,10 +7,10 @@
 [COLOR white][B] Gênero:  [COLOR lime]	Clássico / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] O Exorcista 2 - O Herege[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a71ba4bf8ea8c10b57856a875f39ea49714781ce</link>
+<link>https://ia601400.us.archive.org/10/items/o-o-exorcista-2-herege/oO%20Exorcista%202%20-%20%20herege.mp4?cnt=0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2XASU2NnhnOTitNwSN9GmWVhlov.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/59VsvjEbxNkEomcsKXTZAf24ubu.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Anos depois de ter sido libertada pelas forças do mal, a jovem Regan volta a ouvir vozes e ter delírios. Com a ajuda de uma psicanalista, ela tenta se curar, mas só mesmo com uma sessão de exorcismo que poderá afastar de vez o demônio. Ao mesmo tempo, um padre investiga a morte do exorcista que ajudou a menina durante o seu primeiro surto.
+<info>Sinopse: [COLOR yellow][B]Anos depois de ter sido libertada pelas forças do mal, a jovem Regan volta a ouvir vozes e ter delírios. Com a ajuda de uma psicanalista, ela tenta se curar, mas só mesmo com uma sessão de exorcismo que poderá afastar de vez o demônio. Ao mesmo tempo, um padre investiga a morte do exorcista que ajudou a menina durante o seu primeiro surto.[COLOR crimson] LINK DIRETO.
 [COLOR white][B] Gênero:  [COLOR lime]	Clássico / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] O Exorcista 3 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
@@ -33,4 +33,3 @@
 <fanart>https://www.themoviedb.org/t/p/original/q4DQgtcd0q3X892qJk6SaMymHuZ.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Padre Merrin aceita participar de uma escavação arqueológica e, resistindo à presença de forças sobrenaturais, tem seu primeiro encontro com o demônio Pazuzu, presenciando sinais de possessão demoníaca.
 [COLOR white][B] Gênero:  [COLOR lime]	Clássico / Terror [/COLOR][/B]</info></item>
-
