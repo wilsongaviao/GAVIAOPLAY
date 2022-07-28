@@ -1,0 +1,30 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SINTONIA [COLOR lime] 1 TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6C1BB67DB4EC38777613D3B6FB6E6AD8DFC6295</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SINTONIA [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N4M5B74KV6GJCGOE22PDKY6T45SOP5DU$name=[COLOR lime] 720P [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IV7YSA72M5HO6VPUSANANLC46ODJMKRW$nome=[COLOR lime] 1080P[/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hhUlw0btv9ceEOSZZJAFlSCoFYf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zOB91gj1sH6uuYpnSSnQQGEKEoY.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SINTONIA [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e68a95852855d153f52eee036a53882945beb9c&$name=[COLOR lime]  720p  [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f35c18c7fdd579b373a1a75a0c031da628805b7c$name=[COLOR lime] 1080p [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR lime] 1080P[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR lime] 720P [/COLOR] - DUBLADO</link>
+<thumbnail>https://abutretorrents.com/imagens/sintonia-3-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jA8hgFE6IVwf2vsK5reV600Bmtv.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
