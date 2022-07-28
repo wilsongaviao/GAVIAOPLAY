@@ -1,0 +1,27 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] QUEM MATOU SARA?. [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ca61bd5c7a79fec1fac408519d306bcb119fed7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5BYyTmEqkYXIgdDPyEiAeAbhIsI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pLG4ihU1d2XkQbASQDjsFu9U7d9.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Após 18 anos de prisão, Álex se vinga da família Lazcano, que o incriminou pelo assassinato de sua irmã Sara para salvar sua reputação.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] QUEM MATOU SARA?. [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d7d76a953d9befc842262ec73ab702417f214e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vb5DM5AFcIoXhyzpm1SKf3HPicL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dYvIUzdh6TUv4IFRq8UBkX7bNNu.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Para se vingar, Álex terá que trazer à tona o lado mais sombrio de sua irmã – e aceitar o fato de que ele nunca conheceu a verdadeira Sara.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] QUEM MATOU SARA?. [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZKHOXPJBORJY4VWT7W6DAWK4YWTPUR4D</link>
+<thumbnail>https://seuladogeek.com.br/wp-content/uploads/2022/05/Quem-Matou-Sara-800x1120.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aUG2SakkJKyKXw4obSPC678fd37.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Nesta temporada final, à medida que os inimigos se tornam aliados, Álex obtém uma resposta para a pergunta que o atormenta há anos: O que realmente aconteceu com Sara?
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
