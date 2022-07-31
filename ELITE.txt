@@ -4,7 +4,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/WNB3KDmMgeWPuTppS2O48FRRAb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dky1HUcWAq7fNw3aiBtuSsgPrJn.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Após três jovens da escola pública serem transferidos para um conceituado colégio de elite, o conflito entre classes acaba levando a um assassinato
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -13,7 +13,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/sn8BiYgUdDxNp7ln22bAzMgKBoY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9s98t9dn9lxMp1ijF2XfivaYuzP.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Após a morte de uma estudante, alianças mudam, novos amigos chegam, um aluno desaparece e os segredos ficam grandes demais para continuarem escondidos.
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Suspense[/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -22,7 +22,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wLqhEDVwXwyoWBGtRw5qX2LmZh2.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]Uma nova investigação tenta esclarecer o assassinato de outro colega. Os estudantes pensam no futuro, mas são atormentados pelo passado.
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -31,7 +31,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/kx2OOfgfpC0yGhZe6plxV58J3sM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ww8NiTrtG6Ri94m8YUYURg47Rn1.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Um diretor rigoroso e quatro novos alunos chegam a Las Encinas, trazendo uma enxurrada de envolvimentos românticos, rumores intensos e um novo mistério.
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Suspense[/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -40,6 +40,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2BNk1bA41984EoiN4tdq90wsU7q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h5vfKb9cE5UDka1jPngMpQqZWEe.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow]
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
