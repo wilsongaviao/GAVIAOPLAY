@@ -4,7 +4,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -14,7 +14,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/hhUlw0btv9ceEOSZZJAFlSCoFYf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zOB91gj1sH6uuYpnSSnQQGEKEoY.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial[/COLOR][/B]</info></item>
 <item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -26,5 +26,5 @@
 <thumbnail>https://abutretorrents.com/imagens/sintonia-3-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jA8hgFE6IVwf2vsK5reV600Bmtv.jpg</fanart>
 <info>[B]Sinopse:[COLOR yellow] Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
