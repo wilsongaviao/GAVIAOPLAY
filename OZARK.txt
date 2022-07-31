@@ -1,0 +1,35 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] OZARK [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC3EA2C4360CB8C7B03A29840533E25407413206</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eLluMqJUIBRo0M5AP6ckLcSyeSb.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Um consultor financeiro de Chicago precisa lavar US$ 500 milhões para aplacar a ira de um barão das drogas e arrasta a família para o interior do Missouri.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Suspense[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] OZARK [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DB8E5B2057BD97B6647D2EEB9ABA1E363C18E27</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oTTKc6FTBUzNx8GPvC6JCPSFD5g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3eo3PMD0P9FxUSpfmrjPkP62BwY.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]As armações de Darlene, a condicional do pai de Ruth, as leis estaduais e um mafioso de Kansas City complicam os planos de Marty de abrir um cassino flutuante.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] OZARK [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f795251ecabdc88609588baa2269e0e99496726c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Nova temporada, novos problemas. Marty e Wendy discordam sobre os próximos passos, e um hóspede inesperado vira a rotina deles de cabeça para baixo.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Suspense[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] OZARK [COLOR lime] 4ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1537d06828b5ec2fada522ebbd701643249de9c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m73bD8VjibSKuTWg597GQVyVhSb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aatG9iVAUL7U7OyFEmupESpOrD2.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]A liberdade do cartel está aparentemente ao alcance, mas os laços familiares desgastados podem vir a ser a ruína final dos Byrdes.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Suspense[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
