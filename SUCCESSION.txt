@@ -1,0 +1,125 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SUCCESSION [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C83CF703C435AB63DCB6F8006B65BEAE7CC7DD9A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fkAM5cLVK8EWXJVMBZBurg3Qiza.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kExkOcvDptfHPATQbmbYds9tAZv.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Quando o idoso patriarca super-rico Logan Roy - CEO de um dos maiores conglomerados de mídia e entretenimento do mundo - decide se aposentar, cada um de seus quatro filhos adultos segue uma agenda pessoal que nem sempre sincroniza com a de seus irmãos - ou de o pai deles.
+
+
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] SUCCESSION [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Começando onde a primeira temporada parou dramaticamente, a segunda temporada segue a família Roy enquanto eles lutam para manter o controle de seu império e, embora o futuro pareça cada vez mais incerto, é o passado que ameaça destruí-los.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:515b76732a8afaa74dd2974bbd79896953b2bb6b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27012649285c85547a838301b77e53ff0ff66345</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f96fc37cc4aea4bfdd928600a4f048b366bde87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f330dd6d1dc179805dac45ab421967c2ff0c9a8f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4ca05c63f69b28a7319cf6e36ff1971cd20182d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f10f0811c3a59edf6897ba3fca3c0c739262952</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de38e93626bddb176dbb35d1dc3119fb217a36c7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d310e7955a3cddc4deb004c7d7c44c586296a3e3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dce9cbbaaf627189e21bf15d79556e1fa549972</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61c8f355f6d614354fdc4565cab19a230551d626</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyYObGGEc0QHe3cRasBCp9O2zdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] SUCCESSION [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Emboscado por seu filho rebelde Kendall no final da segunda temporada, Logan Roy começa a terceira temporada em uma posição perigosa. Lutando para garantir alianças familiares, políticas e financeiras, as tensões aumentam quando uma amarga batalha corporativa ameaça se transformar em uma guerra civil familiar.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9710ddaadad52eb259e98eeb77b432792b55217</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51806a1ef57240cf0e5f295f0ea6e7d494509780</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602e07035119a2736242c776bcf86c24b4946559</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34e3b12271a1c864ff44e6a2735372902f1d89e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a94f9619ff33fb0efc79eebe4e87115905bf9af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f97c0af6009f42a803dfc746757e82444802faf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80bce5c7f1642bfdcb0b9dab393e321c4b530ee7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:56dfa7e4651f3c90cbe5ac3e3ca8b72707f310a5/link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2X32jUfJ2kb4QtNg3WCTnLyGxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pvxlTSiM7VsbxdSYLrnKrN1OIUZ.jpg</fanart></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
