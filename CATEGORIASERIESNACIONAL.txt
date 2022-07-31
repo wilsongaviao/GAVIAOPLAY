@@ -7,6 +7,17 @@
 <info>[B][COLOR yellow]COLETÂNEA DE MINISSÉRIES BRASILEIRA QUE FIZERAM SUCESSO E QUE ESTÃO EM DESTAQUE NA MIDIA NACIONAL[/COLOR][/B]</info></item>
 </channels>
 </channel>
+##################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SINTONIA [COLOR lime] NEW - [COLOR yellow] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/n65TKuAZgAWG2bJ6wVo6j2VH3De.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SINTONIA.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>[B][COLOR yellow]Os jovens Doni, Nando e Rita cresceram juntos na mesma favela, sob a influência do funk, das drogas e da igreja. Porém, conforme o tempo passa, eles transformam suas experiências na infância e seguem caminhos bem diferentes. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial [/COLOR][/B]</info></item>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
