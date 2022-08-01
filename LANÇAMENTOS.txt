@@ -1,12 +1,88 @@
-
 ##############################################################################################################
-<item><title>[B][COLOR white]Jurassic World: Domínio[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4SHSE2HSU6ZZPMXETM5MPNYAJPQODDH$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8MiUVWIx7XDeu5xl9zaTMFVtwiE.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.
-[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
+<item><title>[B][COLOR white] Hora de Brilhar[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7462V7ZMGVQ6BGKPWOCI7S3ER7JHL2H</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2pBQidMHRu4xP6Jafd8PBDqy05.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/oAriginal/tzUSbii5gb4POtp008BGWGCKv3n.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ariana sonha em ser cantora. Seu namorado decide inscrevê-los no concurso cultural da escola para apresentarem um show musical. Além dos medos e inseguranças, ela precisará encarar uma rival, que fará de tudo para atrapalhar a apresentação deles.
+[COLOR white][B] Gênero:  [COLOR lime]	Comédia / Nacional [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Influencer de Mentira [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BNVC7XQBUZYYRGVJDSGNJOLQYSYOPLX</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dJKVZFS61uqFrTdyu0bo57ExX3Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bHTAaLCXnMTThs57mAbptjmOLX2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem ambiciosa consegue seguidores e fama ao dizer ter sobrevivido a um ataque mortal, mas logo descobre o preço terrível de ser uma celebridade digital.
+[COLOR white][B] Gênero:  [COLOR lime] Comédia / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Continência ao Amor [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5CV4MTB2PNKQ2CXVPZVN73XHGZIALJL</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncBNV5G7EBLPK2X6cO55krYrPRw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k5SYb9AM0x4IGVxG8fYEEH4wK1I.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história da aspirante a cantora e compositora Cassie e do oficial da marinha Luke, que, apesar de suas muitas diferenças e contra todas as probabilidades, se apaixonam perdidamente
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Musical / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Pior Pessoa do Mundo [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5b919aa11ccaeb47f3c6e138e775644696aebd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7yD8k4iSgUVzK76em6ww7OQ1y9x.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Julie é jovem, bonita, inteligente e não sabe exatamente o que deseja em uma carreira ou parceiro. Uma noite ela conhece Aksel, um conhecido romancista gráfico 15 anos mais velho que ela, e eles rapidamente se apaixonam. Ela também conhece um barista de café, Eivind, que também está em um relacionamento. Julie tem que decidir, não apenas entre dois homens, mas também quem ela é e quem ela quer ser. Entre idas e vindas, Julie escolhe com quem ficar e mais problemas surgem em sua vida. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Barba, Cabelo e Bigode [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5216bd287c40ba19c53c43e6842e81ca49583c2$name=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf4db6e2f6b2f794853c0cd88d3863adc66b070f$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvLZHjiJRj2uefPoBlBaF0ohxsL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wuQKraviznkWPFg0RxGTXNOOQhL.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Richardsson luta para salvar o salão de sua mãe, que está prestes a falir. Em busca de dinheiro para quitar as dívidas, ele embarca numa aventura e descobre seu dom inato de fazer cortes estilizados atraindo clientes de todo o subúrbio carioca
+[COLOR white][B] Gênero:  [COLOR lime] Documentário / Nacional[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Até os Ratos Merecem o Céu [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76deb0e0dac4bab5bee9a977e59719943b7c3f6a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9CyWbn4HvrcNGLNjsVfDkyEOIrQ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um filme sobre dois inimigos mortais - um pequeno Ratinho e uma Raposa, que após um infeliz acidente, se encontram no paraíso animal. Eles perdem seus instintos naturais e se tornam melhores amigos. Seu desejo de ficar juntos depois de retornar à Terra se torna realidade, mas eles renascem em papéis opostos. Graças ao poder da amizade eles podem até superar o que parece ser impossível.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Ex casados [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b50754732e4b4202bed3cbbde090228b45dc0d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4nxqqtsXsOI7KcFnqqE25eW0Rul.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6ampldnK6xcTiN0wZGf1CQJ5frS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um casal se reencontra um ano após o divórcio e precisam morar juntos devido a um acidente, o que os colocará novamente em conflito. Uma comédia sobre o amor após o ódio. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Lenda do Cavaleiro Negro [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NG44CBPNXEFYGVJU64HS4AJKPJNBWC5O</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9qEUwCulckZeSU3M7uPCzWi3wND.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O infame ladrão de estradas Dick Turpin está fugindo no interior da Inglaterra depois de sequestrar acidentalmente a filha do Conde de Pembroke, Elizabeth. Enquanto seu noivo Winthroppe tenta localizá-los, Elizabeth começa a se apaixonar pelo arrojado ladrão, deixando Turpin sem escolha a não ser enfrentar Winthroppe em uma luta pelo coração de Elizabeth e sua fortuna.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Maldição [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6858993387606556a1b096f15f110cf360a97a2d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jZXvRmQTAFmNaHSyN8DQqS5IIaM.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Inspirado no folclore do Leste Europeu, uma traição impensável leva a uma maldição maléfica colocada sobre a linhagem de uma família. Décadas depois, um casamento une a próxima geração de famílias distantes. Quando um deles desperta inconscientemente uma força negra que começa a eliminá-los um por um, Hana, a matriarca da linhagem de hoje, deve descobrir quem está trabalhando contra eles antes que a maldição sangrenta tome conta deles para sempre.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] A Suspeita[COLOR yellow] ( 720p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70af3cce4279de4e32d61330b7179d6ed07b85c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v6EFb5B1j5RuyYaMeCJIz8FTYj8.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lúcia é uma comissária exemplar da inteligência da Polícia Civil do Rio de Janeiro que, diagnosticada com Alzheimer, começa a articular sua aposentadoria. Durante a investigação do que seria seu último caso, descobre um esquema do qual ela vira suspeita. Entre os desdobramentos das investigações e os lapsos de memória, Lúcia agora terá que lutar por sua vida.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Endgame - Roubo de Identidade [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AO566AM75SIH7FGRDDHY7X7MBXWEDEHM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euoonsQCowBYYqI1ztvonNjxibM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nOKekoCQuwYdNg2JsUbyo6NNdVC.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Chen Xiaomeng é um ator de teatro que simplesmente não consegue dar um tempo na vida. Sua carreira está em ruínas, sua vida amorosa é deprimente e ele não consegue nem cometer suicídio. Antes de fazer outra tentativa de suicídio, ele decide visitar o balneário local para poder morrer com dignidade. Na casa de banho, Xiaomeng acidentalmente faz com que um homem escorregue em um pedaço de sabão e cai em coma profundo. Em uma fração de segundo, ele decide trocar de lugar com o homem em coma, apenas para descobrir que o homem é um renomado assassino profissional.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Policial [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Uma Aventura Lunática [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P7PGBR3WHOYGLFNKJ4SGQU42WXVXSND5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tB7lTA1JyMj1KoUBkTbwNbfzBgt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6I7NCNMEUlDpYy5ytqMLtFlu4B6.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A fim de salvar sua irmã Anne desaparecida das garras do sinistro Homem Lua, Peter tem que embarcar em uma fantástica jornada para a lua. Logo ele percebe que a história maluca de Anne de falar sobre June Bug Zoomzeman, os incríveis Espíritos da Natureza e o Palácio da Fada da Noite, são mais do que apenas um sonho!
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Família [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Chamas da Vingança [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c35e2c42ccdec167424a3dbdf98981c4b0d36a6</link>
@@ -42,6 +118,14 @@
 <fanart>https://www.themoviedb.org/t/p/original/oSNqhngemquRBzxKSC3ysAmnC5e.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Quando uma arma ultrassecreta cai nas mãos de um grupo de mercenários que ameaçam o mundo, a agente da CIA Mace Brown terá que unir forças para uma missão letal com a agente alemã Marie; a ex-membro do MI6, especialista em computadores, Khadijah; a psicóloga Graciela, e com Lin Mi Sheng, uma mulher misteriosa que está rastreando todos os seus movimentos.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Jurassic World: Domínio[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB$nome=[B] LINK 1 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4SHSE2HSU6ZZPMXETM5MPNYAJPQODDH$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8MiUVWIx7XDeu5xl9zaTMFVtwiE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Borrego - Saia Do Caminho [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3</link>
