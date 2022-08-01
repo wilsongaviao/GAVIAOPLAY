@@ -8,6 +8,15 @@
 </channels>
 </channel>
 ##################################################################################################################
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SOB PRESSÃO [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
+<info>[B][COLOR yellow]O dia-a-dia dos funcionários de um hospital público no subúrbio do Rio de Janeiro não é nada fácil, especialmente para o Dr. Evandro (Júlio Andrade), o cirurgião-chefe da equipe médica. Cético, ele encontra alívio para os seus problemas na companhia da doutora Carolina (Marjoire Estiano), sua colega de trabalho que, diferente dele, encontra na fé o refúgio para seus problemas. Os dois podem até ser diferentes, mas vão encontrar um no outro uma maneira de sobreviver entre as emergências do hospital e o caos de suas próprias vidas
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+</channels>
+</channel>
+##################################################################################################################
 <channels>
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SINTONIA [COLOR lime] NEW - [COLOR yellow] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
