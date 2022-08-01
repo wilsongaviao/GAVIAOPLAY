@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Paradise Highway  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a598c3a7bd5cf178fde7813a082ef3e3173b7332</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c4U2vJPh9cGeazRTcbepGS2zotr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um motorista de caminhão foi forçado a contrabandear cargas ilícitas para salvar seu irmão de uma gangue de uma prisão mortal. Com os agentes do FBI em seu rastro, a consciência de Sally é desafiada quando o pacote final acaba por ser de uma adolescente. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Neon Lights [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C43292EC831F1BC376B6E3FB37929B14E93027E</link>
