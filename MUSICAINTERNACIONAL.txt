@@ -5,7 +5,7 @@
 <link>https://ia601402.us.archive.org/18/items/remember-anos-80-vol-1_202201/Remember%20anos%2080%20vol1.mp4</link>
 <info>[B]Sinopse:[COLOR yellow]35 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA MUSICAL, ONDE PODEMOS TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSA COLETANEA[/COLOR][/B]</info></item>
 ###################################################################################################################
-<item><title>[B][COLOR white] GOLDEN OLDIES [/COLOR][/B]</title>
+<item><title>[B][COLOR white]GOLDEN OLDIES[/COLOR][/B]</title>
 <thumbnail>https://i.postimg.cc/j2d518Zs/GOLDEN-OLDIES.jpg</thumbnail>
 <fanart>https://i.postimg.cc/j2d518Zs/GOLDEN-OLDIES.jpg</fanart>
 <link>https://ia601403.us.archive.org/5/items/golden-oldies_202108/Golden%20Oldies.mp3</link><info>[B]Sinopse:[COLOR yellow]35 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA MUSICAL, ONDE PODEMOS TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSA COLETANEA[/COLOR][/B]</info></item>
