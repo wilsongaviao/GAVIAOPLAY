@@ -1,5 +1,5 @@
 ###################################################################################################################
-<item><title>[B][COLOR white]REMEMBER ANOS 80 VOL 1  [/COLOR][/B]</title>
+<item><title>[B][COLOR white]REMEMBER ANOS 80 VOL 1[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>https://ia601402.us.archive.org/18/items/remember-anos-80-vol-1_202201/Remember%20anos%2080%20vol1.mp4</link>
