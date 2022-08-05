@@ -1,0 +1,17 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] BOM DIA, VERÔNICA [COLOR lime]  1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98923c2bef45623e3345507e9233a863a3602a86</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/v1I0MO1uSplZiF9hxUv6UXjMSjj.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Verônica Torres (Tainá Müller) trabalha como escrivã na delegacia de Homicídios de São Paulo, onde vive uma rotina burocrática e pouco dinâmica dentro do sistema. Casada e mãe de dois filhos, ela se vê diante do abismo quando presencia um suicídio que acaba por despertar nela dolorosas feridas do passado. Na mesma semana, recebe a ligação anônima de uma mulher desesperada clamando por sua vida. Baseada no romance homônimo de Raphael Montes e Ilana Casoy (originalmente lançado sob o pseudônimo Andrea Killmore). 
+[COLOR white][B] Gênero:  [COLOR lime] 	Drama / Mistério / Policial / Suspense[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] BOM DIA, VERÔNICA[COLOR lime]  2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079f26a5dd67da5eee784cbaeac861b86668c6d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jk7iScoX3uCuVlfejzFHW9Ue8JV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r2CQ2rKiwvFye1b2XWrOfUMvKEN.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Na segunda temporada, Verôncia investiga uma conspiração envolvendo o orfanato onde Brandão cresceu. Lá, ela descobre sobre o missionário Matias, um homem perigoso que manipula pessoas através de mentiras elaboradas e promessas vazias de "cura".
+[COLOR white][B] Gênero:  [COLOR lime] 	Drama / Mistério / Policial / Suspense[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
