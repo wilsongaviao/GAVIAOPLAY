@@ -1,0 +1,17 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] IRMANDADE [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xwkJxpja51EJBNQ7qZRJfAMrS9c.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aKaAzZbm5kfEgAiwgUG4eIqV0S6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Uma advogada honesta enfrenta um dilema moral depois que policiais a forçam a delatar seu irmão, que está preso e lidera uma facção criminosa em ascensão.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] IRMANDADE [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dLUhakcLW2485GDvFtyqGdYJJ0r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aKaAzZbm5kfEgAiwgUG4eIqV0S6.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Uma advogada honesta enfrenta um dilema moral depois que policiais a forçam a delatar seu irmão, que está preso e lidera uma facção criminosa em ascensão.
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
