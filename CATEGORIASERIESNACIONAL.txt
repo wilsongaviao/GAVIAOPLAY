@@ -7,6 +7,39 @@
 <info>[B][COLOR yellow]COLETÂNEA DE MINISSÉRIES BRASILEIRA QUE FIZERAM SUCESSO E QUE ESTÃO EM DESTAQUE NA MIDIA NACIONAL[/COLOR][/B]</info></item>
 </channels>
 </channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] IMPUROS[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/IMPUROS.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/vZ2zmzieNXn7m2ziSJmUPErsYzc.jpg</fanart>
+<info>[B][COLOR yellow]Rio de Janeiro, anos 90. Evandro do Dendê é um jovem da favela carioca cujo principal objetivo ao fazer 18 anos é ganhar o próprio dinheiro de forma honesta. Mas tudo muda quando seu irmão traficante é morto por policiais. Evandro decide se vingar e mata os responsáveis pelo tal assassinato, ganhando notoriedade dentro da hierarquia do comando. Enquanto isso, o policial alcoólatra Victor Morello não economiza esforços para colocar Evandro atrás das grades. 
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Drama /  Policial [/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  IRMANDADE [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwkJxpja51EJBNQ7qZRJfAMrS9c.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/IRMANDADE.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/4kKN8HqfgQE2lqkvTA9OkSouCld.jpg</fanart>
+<info>[B][COLOR yellow]Nos anos 90, conhecemos Cristina (Naruna Costa), uma advogada honesta e dedicada, que descobre que seu irmão (Seu Jorge) esteve preso há anos e é líder de uma ascendente facção criminosa. Coagida pela polícia, ela é obrigada a se tornar informante e trabalhar contra o irmão a quem ela sempre idolatrou. Mas conforme se infiltra na Irmandade, começa a questionar seus próprios valores sobre a lei e a justiça, e entra em contato com um lado sombrio de si mesma que não imaginava ter 
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Suspense [/COLOR][/B]</info>
+</channels>
+</channel>
+##################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BOM DIA, VERÔNICA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/v0azlmZz6oKOvKii8XiDfWL3cjY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BOM%20DIA%20VERONICA.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/rPCVCmQ5oFRODh4MvXBGVU6nr3S.jpg</fanart>
+<info>[B][COLOR yellow]Verônica Torres (Tainá Müller) trabalha como escrivã na Delegacia de Homicídios de São Paulo e tem uma rotina bastante entediante. Após presenciar um suicídio, ela precisa lutar contra os traumas de seu passado e acaba tomando uma arriscada decisão: usar toda a sua habilidade investigativa para ajudar duas mulheres desconhecidas. A primeira é uma jovem que se vê enganada por um golpista na internet. Já a segunda, Janete (Camila Morgado), é a esposa submissa de Brandão (Eduardo Moscovis), um policial de alta patente que a maltrata e leva uma vida dupla.  
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense[/COLOR][/B]</info>
+</channels>
+</channel>
 ##################################################################################################################
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SOB PRESSÃO [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
