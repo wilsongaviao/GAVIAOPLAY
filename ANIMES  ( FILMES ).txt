@@ -1,4 +1,32 @@
 ##############################################################################################################
+<item><title>[B][COLOR white] O Despertar das Tartarugas Ninja[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82b3867f3d7e863016d8f6536f641720389d56e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lJgQ0cTKsU4gVEVkNOc6jEJU0o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dg28jKGk5476InZjzTo1AmlpizZ.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os poderes místicos das tartarugas ninja são colocados à prova quando criaturas impiedosas de outro universo tentam instaurar o caos.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Animação / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Lego Star Wars - Férias de Verão[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16582f3c176cac3d7febdd168d95b665ed7560fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i56VuUUxgDUQB6SzJ9xfW60Rsy1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jhmGJmPcuAhF2ccuKluYlLxnyeP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Procurando uma pausa muito necessária dos stormtroopers e caças TIE, Finn organiza férias surpresa para seus amigos Rey, Poe, Rose, Chewie, BB-8, R2-D2 e C-3PO, a bordo do ultraluxuoso Galactic Starcruiser. o Halcyon. Mas o plano de Finn de ter um último descanso juntos rapidamente dá errado quando ele é separado do grupo. Enquanto procura por seus amigos, ele encontra três fantasmas da Força: Obi-Wan Kenobi, Anakin Skywalker e Leia Organa, que compartilham suas próprias histórias inesperadas de férias que deram errado, ajudando-o a entender que as férias são mais do que apenas se divertir 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Animação / Curta [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Sorte [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZXRIRLYTUMDA24MNDNQJSM4V22T4VASV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aeJHkkrDvbXPB25NghNbv5kUBVi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sKvQUSyqsFq8e1ts6oo3Xp3dPH2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em Luck, Sam Greenfield, a pessoa mais sem sorte do mundo, um belo dia encontra a desconhecida Terra da Sorte e vai em busca de um pouquinho de sorte na vida. Mas como humanos não são permitidos, sua única chance é juntar-se às criaturas mágicas que lá vivem. A Sorte e o Azar, duas organizações secretas, atuam há milênios na vida dos seres terrestres. O desvendamento de como essas instituições atuam irá revelar sua influência no nosso cotidiano. 
+[COLOR white][B] Gênero:  [COLOR lime] Animação / Aventura / Comédia[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Lightyear[COLOR yellow] ( 1080p )[/COLOR][/B]</title>magnet:?xt=urn:btih:MN45S6X5HPS2SXXC4KVFHZT7ECI5AVNS
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2SULPNPFJNCFFMEZJURTJ2CHRD7CH4PS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3pzVY7zFYDMA7KOLYgCpLTsIl5M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hwUxHPkuUleJeoick4uZsrKDXxF.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Animação / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Até os Ratos Merecem o Céu [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76deb0e0dac4bab5bee9a977e59719943b7c3f6a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg</thumbnail>
