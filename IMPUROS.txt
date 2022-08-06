@@ -1,0 +1,28 @@
+
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] IMPUROS [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bcb118d214f823798db6723506ffb614548e86e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7aAes3LRlzlXfi2ESYg4v3VmPY6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2uMJbLe7lXn2HZsYupVioiMbN3p.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Rio de Janeiro, nos anos 90. Evandro sonha em se tornar um grande empresário, mas acaba entrando no mundo do crime e criando um império com sua organização criminosa. Suas habilidades de negócios e liderança chamam a atenção de Morello, um policial federal com comportamento autodestrutivo que vê em Evandro um inimigo digno. Dois estrategistas que compartilham o amor pelo perigo. A caçada começa.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Policial[/COLOR][/B]</info></item> 
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] IMPUROS [COLOR lime] 2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2dd32a1c87e1c9e81da259845189949fc49564</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8SBeYksHHQolY9FCIdWPhjIUvAg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9NhIZNHbsyWoTmMhd2c7mG14IMO.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]  Evandro entra no mundo do crime e faz de sua facção criminosa um império. Seus negócios chamam a atenção do policial federal Morello. Dois estrategistas que compartilham o amor pelo perigo. A caçada começa. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Policial[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] IMPUROS [COLOR lime] 3ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VN3DRVK6ON2J2EGNBBZ5QEOT2LF5HJMN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o8Yx8JQZFedtaOCMi5h4Iio6w1C.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] O narcotraficante Evandro do Dendê e do policial Víctor Morello, que enfrentarão novos conflitos pessoais, familiares e criminais no contexto do narcotráfico da América Latina.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Policial[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
