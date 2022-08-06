@@ -1,4 +1,25 @@
 ##############################################################################################################
+<item><title>[B][COLOR white] Órfã 2 - A Origem[COLOR yellow] ( C A M )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4376464608ce9e0105ddd9b2bab80e8141fdd10</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/IXiOMDvaxxHq0sH3ZwTcBK4Vt4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dHei5YA1qyZfkW6UiOz0w3k2BSS.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Policial / Terror[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] Não! Não Olhe! [COLOR yellow]( C A M )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b550ee0183fe713970a814bd1ab7db512dfcb573</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x1VhwiNjr1dD0s5PT2iYvvOh2Op.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Os moradores de uma solitária ravina no interior da Califórnia testemunham uma descoberta misteriosa e maravilhosa.
+[COLOR white][B] Gênero:  [COLOR lime] Ficção / Mistério / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Trem-Bala [COLOR yellow] ( C A M )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f95e469f6de54444f8248b81335412224e348f56</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/glkQZXAA0QbF5BPDJKRzBNOORMl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pdD47rPAYKVdPasoyhSAFPIFIWo.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] Thor - Amor e Trovão[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
