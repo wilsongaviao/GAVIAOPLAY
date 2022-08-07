@@ -1,0 +1,60 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE GOOD DOCTOR [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be7950f7485a5e7d48d92aa8a5de90ddc033f172</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qYhUKf98Ut9yjqB515VgfvFezCQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tXSSPHvZQYHvdwrzLr2XPY6cRni.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]  Um jovem cirurgião diagnosticado com savantismo, um distúrbio psíquico raro, é recrutado para trabalhar na ala pediátrica de um hospital de prestígio. Apesar do seu incrível conhecimento na área da medicina, esse médico não consegue se relacionar com o mundo à sua volta. Resta saber se esta dificuldade será um problema na hora de salvar vidas. Um jovem cirurgião diagnosticado com savantismo, um distúrbio psíquico raro, é recrutado para trabalhar na ala pediátrica de um hospital de prestígio. Apesar do seu incrível conhecimento na área da medicina, esse médico não consegue se relacionar com o mundo à sua volta. Resta saber se esta dificuldade será um problema na hora de salvar vidas. 
+[COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] THE GOOD DOCTOR [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8FFF126BDB3C15EB6C47C013A163768800FB907</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/84XgUdvFfmt8syZSoWN4MmwLnBr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8C0eT8anizQBe8QoD4tY9GXq7tj.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O mundo do Dr. Shaun Murphy começou a se expandir à medida que ele continua a trabalhar mais do que nunca, navegando em seu novo ambiente e relacionamentos para provar a seus colegas da prestigiosa unidade cirúrgica do Hospital St. Bonaventure que seus extraordinários dons médicos salvarão vidas.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE GOOD DOCTOR [COLOR lime] 3ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR lime]  COMPLETA  [/COLOR] </link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP[COLOR lime] 11 >>>> 18[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=EP[COLOR lime] 18 >>>> 20[/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bi4tb3GMYFVNUom65SJm7A66rgM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6Ys6koNajP5ld9EIMfOSQrRquki.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O Dr. Shaun Murphy continua a usar seus extraordinários dons médicos na unidade cirúrgica do Hospital St. Bonaventure. À medida que suas amizades se aprofundam, Shaun aborda o mundo do namoro pela primeira vez e continua a trabalhar mais do que nunca.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] THE GOOD DOCTOR [COLOR lime] 4ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e4221e1275d2f55718b3d5a52515fa33f361e8$nome= EP[COLOR lime] 01 >>> 12[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73e02081edb1b1d06cf7c739a30db6e054609941$nome= EP[COLOR lime] 13 >>> 20 [/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gjGyWtMocj3OVjqkaglz1e371j4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/edLV34FXx1iFJA3hbZE7SYRSS4m.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]O Dr. Shaun Murphy continua a usar seus extraordinários dons médicos na unidade cirúrgica do Hospital St. Bonaventure. À medida que seu relacionamento romântico com Lea se aprofunda, ele também enfrentará novas responsabilidades como residente do quarto ano, quando for encarregado de supervisionar um novo conjunto de residentes que o testarão de maneiras que ele não pode prever. Enquanto isso, a equipe deve lidar com a incerteza e a pressão que a pandemia do COVID-19 traz agora que atingiu seu hospital.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] THE GOOD DOCTOR [COLOR lime] 5ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/37Z9oBaFG5PJov0tLZFnXZm0k5b.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Dr. Shaun Murphy se prepara para o seu quinto e último ano como residente no San Jose St. Bonaventure Hospital e, ao mesmo tempo, para o seu casamento com a sua namorada Lea. 
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01 >>>> 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KRL6MFSGS2747KVJ6XTEMSKYSS6ZM4Z7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/37Z9oBaFG5PJov0tLZFnXZm0k5b.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 08 >>>> 18[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IIE6XJCS7DVWAE5B6CQMIPMZGRE6KTP5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/37Z9oBaFG5PJov0tLZFnXZm0k5b.jpg</fanart></item>
+[COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
