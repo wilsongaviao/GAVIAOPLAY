@@ -1,3 +1,67 @@
+##############################################################################################################
+<item><title>[B][COLOR white]Teardrop  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3D4327E77FEB4C59078092D74CF112A2E92C1EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zDaeUl66l1JDrk2ImXggWTSRUf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/iwV5XsBruBQG1NhCw5nYhxOQ8CY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um escritor aspiracional que trabalha como professor leva seus alunos em uma viagem de campo para explorar a história de uma cidade fantasma fora do mapa, que é o assunto de seu próximo livro. Seus laços familiares o trouxeram de volta ao local assombrado, mas o que isso significa para a segurança de sua classe?.[COLOR yellow] DUBLAGEM NAO OFICIAL[/COLOR]
+[COLOR white][B] Gênero:  [COLOR lime] Faroeste / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Howards Mill[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19DAF30564038BD6F30E53CA98ADA9F272F63E1A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LaLcDXB3sbAinszQtkR3qbwOeZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/88HfZctyPImhDEoFwIrrId7rIxe.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um pedaço de terra abandonado na zona rural do Tennessee pode ser a chave para vários casos de pessoas desaparecidas por mais de 40 anos. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]	Mistério / Policial / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Maldição de Rose  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7deea617a694372c7f90f0b3469ad87025746eb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9DpbNMLDsSeORt9oKuBvXaGzyfr.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após o brutal assassinato de sua família pelas mãos de seu pai, uma veterana de guerra, Rose é enviada para morar em um convento no nordeste dos Estados Unidos. No entanto, os demônios que atormentavam seu pai, seguem despertando os pesadelos de seu passado.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Suspense / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Última Noite [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961dd1c721d567912f539eec5f54b2c8f451262d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nJYAAOk74VjPlwz34jWFh8MPw2r.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O casal Nell e Simon e seus amigos mais próximos juntam suas famílias para o jantar de Natal em sua incrível residência no interior da Inglaterra. A reunião lembra os bons e velhos tempos, mas por trás de todas as risadas e alegria, algo não está certo. O mundo exterior está enfrentando uma destruição iminente, e nenhum dos presentes natalinos, jogos em grupo ou Prosecco fará a destruição que promete dar fim a humanidade ir embora. Sobreviver às festividades será desafiador.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Sedenta de Sangue [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d05200b35b7efb581e7d6367084fee776e33db47</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pXoijqun4n8QtcVT4KW9BIOUOpG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HvJ8DxHs3brTMKCdS6RUlspeqj.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Gray é uma cantora indie que está tendo visões de que é um lobo. Quando ela recebe um convite para trabalhar com o famoso produtor musical Vaughn Daniels em seu estúdio remoto na floresta, ela começa a descobrir quem ela realmente é.
+[COLOR white][B] Gênero:  [COLOR lime]	Suspense / Terror [/COLOR][/B]</info></item>##################################################################################################################
+<item><title>[B][COLOR white]1303 - O Apartamento do Mal[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a019b76eb3e79bd416cbc94eb5f5b0246fb7ae89</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zTANZaCUwG6prdRygximOdWKV6U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4bWu9GqAJi7m5PxsPFFwTV79Krl.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma história de fantasmas que transforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror. Um belo imóvel, com uma enorme varanda, com vista para o mar e localizado no invejável bairro de Shonan, em Tóquio. Mas algumas coisas são boas demais para ser verdade. O suicídio da irmã mais nova de Mariko, a nova moradora, é o último de uma sequência de mortes da varanda deste apartamento. Mariko não aceita a versão oficial dos fatos, e não acredita que todas as mortes sejam coincidência. Disposta a descobrir a verdade, ela encontrará uma história de violência, abuso e desespero em torno do amor e ódio entre mãe e filha, que nem mesmo a morte trouxe um fim. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Don't Look - A Morte te Aguarda[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ODNGHCWR7QIXO6FHFRGKYZ2FONMZF6UV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3AlvJYQhQ62XRmUk9tMpzeUEBI3.jpg</thumbnail>
+<fanart>https://ottvsimg.ottvs.com.br/ban/acg.131122/looke_4001.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Cinco jovens da cidade de Nova Iorque planejam um fim de semana divertido na área rural da Pensilvania. Contudo, algo ameaça estragar os seus planos: a fazenda, antiga propriedade da família de Nicole e local onde os seus pais morreram misteriosamente, encontra-se ocupada. O preço de reaver a antiga propriedade será alto. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Não Feche os Olhos[COLOR yellow]( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKPU4DEQ5Y7IRIARP4VDJH4JRRXD4YL3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k2rDGHK5qDTemDare180EJxspe5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9cAiD44bvNJCw2dwA1bhuf7ZBIB.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma adolescente fugida de casa toma parte num estudo do sono que se torna uma terrível descida às profundezas de sua mente e um exame assustador do poder dos sonhos. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]Sozinha[COLOR yellow](1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cfc012a72a5e16cfe066cc8331986469c99e16f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1uM44zocn4f6Gm4lYFFgxpsZNX1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mO2dJfi1qd1JNR0OI97kvRM9FPx.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Uma viúva ainda em luto deixa sua cidade natal em uma tentativa de lidar com a perda do marido. Ela então é raptada por um homem misterioso e trancada em uma cabana no Pacífico, mas consegue escapar, fugir para a floresta, enquanto é caçada por seu algoz. [/COLOR][/B]</info></item>
+##################################################################################################################
+<item><title>[B][COLOR white]A Hora do Descarrego [COLOR yellow]()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fca664f282f2329c7e3cd9a94b9ba64979e8a768</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dOWz6FXWZeMCBQYXuUuo0p0zqIk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6WCy7leVWrmec3eakfYTa7960VG.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Dois amigos transmitem um falso webshow de exorcismos, mas quando a atriz se torna misteriosamente possuída por um demônio real, eles tem que correr contra o tempo para se livrar da entidade demoníaca que começa a revelar seus maiores segredos para o público. [/COLOR][/B]</info></item>
 
 ##############################################################################################################
 <item><title>[B][COLOR white]A Maldição de Rose  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
