@@ -1,4 +1,14 @@
-
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FUTURE MAN [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/qtjq3RsKk9Ef3w6NRh3GsMIusGW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FUTURE%20MAN.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/q0sVq3z1aVbGEixHIfm9t7GxCJt.jpg</fanart>
+<info>[B][COLOR yellow]O alheio zelador e nerd de videogame Josh Futterman (Josh Hutcherson) vira a salvação da terra do dia para a noite quando visitantes enigmáticos lhe recrutam para evitar que a humanidade seja extinta com a ajuda de viagens no tempo. 
+[COLOR white][B] Gênero:  [COLOR lime] Aventura / Comédia / Fantasia / Ficção[/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
