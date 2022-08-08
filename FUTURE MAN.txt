@@ -1,0 +1,28 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FUTURE MAN [COLOR lime]  1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3822E38C846C531E3680285EBA9273774925781</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/64ZMO1gbt9UhO0bQCBwNCuyDXIK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iTKdxyDC6rCfWWFEgotMzIQ9TJD.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Josh Futterman é um deprimido zelador que se torna o herói improvável da Terra quando é recrutado por misteriosos visitantes para viajar através do tempo a fim de evitar a extinção da humanidade
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Fantasia / Ficção [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FUTURE MAN [COLOR lime]  2ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16c1c08c613d4e06c9acfc480f2394905070c276</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9P72cymABXbQKaOUBdZf6pOW64e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qQxb3uVa3mhZ1pFY2DlmtdKreXd.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] O alheio zelador e nerd de videogame Josh Futterman (Josh Hutcherson) vira a salvação da terra do dia para a noite quando visitantes enigmáticos lhe recrutam para evitar que a humanidade seja extinta com a ajuda de viagens no tempo. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Fantasia / Ficção [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] FUTURE MAN [COLOR lime]  3ª TEMPORADA [COLOR  crimson ( LEGENDAS EXTERNAS) [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:662a79618cc76f8cf7e978713bb26d42415b2bde</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5314NBumaTdIhJn6hzRdE8dIHkr.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Condenados por crimes de tempo e condenados à morte por entretenimento, Josh, Tiger e Wolf se tornam fugitivos, fugindo do tempo, tentando desesperadamente escapar da captura enquanto limpam seus nomes e consertam a grande bagunça da história que fizeram ao longo do caminho.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Comédia / Fantasia / Ficção [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
