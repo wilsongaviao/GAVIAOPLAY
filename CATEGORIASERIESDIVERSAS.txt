@@ -1,3 +1,38 @@
+################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] THE GOOD DOCTOR ( O BOM DOUTOR )[COLOR lime] NEW - [COLOR yellow] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/z1K4mJwISETia59rrnMdXxzoSrZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/THE%20GOOD%20DOCTOR.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iKsStIUwRN4XEDFrDZcpQWubdyt.jpg</fanart>
+<info>[B][COLOR yellow]Um jovem cirurgião diagnosticado com savantismo, um distúrbio psíquico raro, é recrutado para trabalhar na ala pediátrica de um hospital de prestígio. Apesar do seu incrível conhecimento na área da medicina, esse médico não consegue se relacionar com o mundo à sua volta. Resta saber se esta dificuldade será um problema na hora de salvar vidas. 
+[COLOR white][B] Gênero:  [COLOR lime]DRAMA [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] BULL[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/BULL.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/6hZqJPG1em3aohjEGcy52af46ha.jpg</fanart>
+<info>[B][COLOR yellow]Dr. Jason Bull é o fundador de uma empresa de consultoria de sucesso que usa psicologia, intuição e dados de alta tecnologia para descobrir como pensam e agem jurados, advogados, testemunhas e acusados no tribunal.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Policial [/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
+<channels> 
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] O RESIDENTE [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/hHtLN6STucoYIZIKLZaqsZJL6SI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/O%20RESIDENTE.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/bycbvRHAYxcUfkJlIyX6GZ7nGuZ.jpg</fanart>
+<info>[B][COLOR yellow] Um jovem médico começa seu primeiro dia de trabalho sob a supervisão de um brilhante e frio residente, mas o dia-a-dia no hospital pode ser mais difícil do que ele imagina. Entre salvamentos e perdas, o novato percebe que suas expectativas sempre são frustradas. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Médico [/COLOR][/B]</info></item>
+</channels>
+</channel>
+
+###################################################################################################################
 ###################################################################################################################
 <channels>
 <channel>
