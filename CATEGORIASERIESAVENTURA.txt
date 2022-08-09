@@ -1,6 +1,17 @@
 ###################################################################################################################
 <channels>
 <channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]REBELDE [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/bDVvdav2ee0pTlyJAwX5wFOTzpP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/REBELDE.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/lvQWYz9kxOg3WCnIM12ZT39Grn2.jpg</fanart>
+<info>[B][COLOR yellow]No colégio, começa o novo ano escolar, mas uma sociedade secreta ameaça os sonhos musicais dos alunos. 
+[COLOR white][B] Gênero:  [COLOR lime] Comédia / Drama / Musica[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] FUTURE MAN [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/qtjq3RsKk9Ef3w6NRh3GsMIusGW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/FUTURE%20MAN.txt</externallink>
