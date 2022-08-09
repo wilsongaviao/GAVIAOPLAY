@@ -1,0 +1,17 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] REBELDE [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e241814c6a8cae00d810c018264eb620034515d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bDVvdav2ee0pTlyJAwX5wFOTzpP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yE85LA3UwYXzpL8PYYNoY5Kptwm.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]No colégio, começa o novo ano escolar, mas uma sociedade secreta ameaça os sonhos musicais dos alunos. 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] REBELDE [COLOR lime] 2ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7DRXBE3XBZEBR5BD7NZL3ZDNPP7DG46</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vif4Pux0bMVhfGRGhgZPYyIQkk4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3pu5UWb8OTuz1OhSN9ppn4ZhZkR.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] No colégio, começa o novo ano escolar, mas uma sociedade secreta ameaça os sonhos musicais dos alunos. 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
