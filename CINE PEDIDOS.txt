@@ -1,4 +1,18 @@
 ##############################################################################################################
+<item><title>[B][COLOR white] Cordeiro - Lamb  [COLOR lime] ( Dublado )([COLOR yellow]  1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EA778C4B41935FAFF474DD7EDA6761D4B3E2B68</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gP9yviboTGWGolqUZKIB1UkF1C2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m5HXtgHjHqpYtRCr9hSXVqle871.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um casal que vive sozinho numa fazenda remota na Islândia tem a sua tranquila existência abalada pela descoberta espantosa de um misterioso recém-nascido entre as suas ovelhas. Eles decidem criar a criança como sua, mas logo enfrentam as consequências de desafiar a vontade da natureza. [COLOR lime] DUBLAGEM NÃO OFICIAL.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Cordeiro - Lamb  [COLOR lime] ( Legendado ) [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8E09D5A9D28E10DEE74658684FB6898BF17E117</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gP9yviboTGWGolqUZKIB1UkF1C2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m5HXtgHjHqpYtRCr9hSXVqle871.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um casal que vive sozinho numa fazenda remota na Islândia tem a sua tranquila existência abalada pela descoberta espantosa de um misterioso recém-nascido entre as suas ovelhas. Eles decidem criar a criança como sua, mas logo enfrentam as consequências de desafiar a vontade da natureza
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Mistério / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]A Lista de Schindler [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6209f8d8a6bc3035df5e4b635f72f81ccc4ffbf6</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg</thumbnail>
