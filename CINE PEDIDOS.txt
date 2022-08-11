@@ -1,5 +1,5 @@
 ##############################################################################################################
-<item><title>[B][COLOR white] Cordeiro - Lamb  [COLOR lime] ( Dublado )([COLOR yellow]  1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Cordeiro - Lamb  [COLOR lime] ( Dublado ) [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EA778C4B41935FAFF474DD7EDA6761D4B3E2B68</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gP9yviboTGWGolqUZKIB1UkF1C2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m5HXtgHjHqpYtRCr9hSXVqle871.jpg</fanart>
