@@ -5,3 +5,11 @@
 <fanart>https://i.postimg.cc/DzzWVRvS/FANARTWEBRADIOS.jpg</fanart>
 <info>Jaguaribe web Rádio tem o objetivo principal é oferecer a todos os ouvintes músicas de qualidade e entretenimento.</info>
 </item>
+
+<item>
+<title>[COLOR silver] RADIO PARANÓIA [/COLOR][COLOR yellow] WEB FM [/COLOR]</title>
+<link>https://radioparanoia.net/player/outros.html</link>
+<thumbnail>https://i.postimg.cc/7PRjSfzF/paranoia.jpg</thumbnail>
+<fanart>https://i.postimg.cc/nrnKDKk4/fanart-paranoia.jpg</fanart>
+<info> Web Rádio paranoia tem o objetivo principal é oferecer a todos os ouvintes músicas de qualidade , grandes sucessos principalmente dos anos 80 nacionais e internacionais. programação inteira voltada para loucos  pelas musicas dos anos 80</info>
+</item>
