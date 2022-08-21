@@ -1,3 +1,18 @@
+
+##############################################################################################################
+<item><title>[B][COLOR white] The Reef - Stalked [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E33A38019C444C7A1F8B4FB73EB5497BDBB5C95A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JIeV8tVudDQCIW6IQnvH7vwEvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gmNRNvfYuExV6QrPPhVO6kMSTvp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]m um esforço para se curar depois de testemunhar o terrível assassinato de sua irmã, Nic viaja para um resort tropical com suas amigas para uma aventura de caiaque e mergulho. Apenas algumas horas em sua expedição, as mulheres são perseguidas e depois atacadas por um grande tubarão branco. Para sobreviver, elas precisarão se unir e Nic terá que superar seu estresse pós-traumático, enfrentar seus medos e matar o monstro. [COLOR lime]DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Gateway [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A6E84BAFEC8DA30BC2374587F6D8777E7917B4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fPE4cqnmwjUYvCHEppPgv0i1vtS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xAwcda4Asyow4F9AWAlpk2DXTOH.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma gangue de criminosos desesperados busca refúgio no que parece ser uma casa perfeitamente comum – mas descobre que ela abriga algo muito mais sinistro e muito mais sobrenatural do que eles pensavam inicialmente. [COLOR lime]DUBLAGEM NÃO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Teardrop  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3D4327E77FEB4C59078092D74CF112A2E92C1EE</link>
