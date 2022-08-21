@@ -1,4 +1,18 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]O Predador - A Caçada  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UVKG66737DVCBU3AAV5WTXBXSC5DHO2G</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A Caçada é umsuspense de ação e o mais novo lançamento da franquia Predador. Ambientada no mundo da Nação Comanche no início de 1700, o filme conta a história de Naru, uma jovem guerreira altamente qualificada, que foi criada entre os maiores caçadores que vagavam pelas Grandes Planícies. Confiante de que é tão capaz quanto os outros jovens caçadores, ela se propõe a proteger seu povo quando seu acampamento Comanche é ameaçado. Munida com armas primitivas, Naru encontra e confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado. O resultado é um confronto brutal e aterrorizante entre os adversários. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Terror[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Minions 2 - A Origem de Gru  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S4W27O36FYDGPQVBHAY3T5IEPBLDU5O5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yRGDZI2lYTgUM3ifsoFASU5z77v.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bn3fAIckhOFEnrIZNCSbgHXRHLY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] ‘Minions 2‘ dá continuidade as aventuras das criaturas amarelas que conquistaram o mundo todo. Os Minions estão sempre à procura de um líder malvado. Eis que encontram um menino de 12 anos e o ajudam a se transformar no maior supervilão de todo o mundo. 
+[COLOR white][B] Gênero:  [COLOR lime] 	Animação / Aventura / Comédia[/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Jurassic World: Domínio[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4LR4HJK5IYJLT7PDUCCYO256E2R2IGX</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
