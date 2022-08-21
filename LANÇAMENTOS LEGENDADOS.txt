@@ -1,4 +1,130 @@
 ##############################################################################################################
+<item><title>[B][COLOR white] Órfã 2 - A Origem[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0092bae1ff835443d8d5e7ca7030ee5494ee3f29</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3TsnQdMvxdfgLkWqwQYeILBCbbx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]SinopseLena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Dentro da Mente de um Gato [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70f0246f4f65f6afa7062989adfdff433110708f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTlxP1yJFPB2jegg4ece5iIWfgr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/Agx6yUbh09BAjQlXfQlaXRpdIq0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Neste documentário fofo e cativante, profissionais especialistas em gatos exploram a mente dos felinos e revelam suas verdadeiras habilidades.
+[COLOR white][B] Gênero:  [COLOR lime] Documentario[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Código - Imperador[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af0343c21fedada22e07ad014476b32512b7a673</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74HVV4JR2rT01S9NDZie4YWBLUD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wrxo3DkBvFh9Z0Pwhe7E14hBSVP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Juan é um agente que trabalha para os serviços de inteligência, que também se reporta a uma unidade paralela envolvida em atividades ilegais. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Vengeance[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ab2016e43e160e2bbc111cb134f0655a7a205f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pdQFGAX68LWoiBqzXwZhMRaraC0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6iQyybXB5quzLvco8HAXpAcAsJG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um apresentador de rádio de Nova York tenta resolver o assassinato de uma garota com quem ele teve um caso e viaja para o sul para investigar as circunstâncias de sua morte e descobrir o que aconteceu com ela.
+[COLOR white][B] Gênero:  [COLOR lime] 	Comédia / Mistério / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Sede Secreta[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:120772df3df51ec55ba3729fb7823a91afff0924</link>
+<thumbnail>https://abutretorrents.com/imagens/sede-secreta-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/sede-secreta-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O jovem Charlie Kincaid descobre uma sede secreta sob sua casa, que parece pertencer a um super-herói. Após compartilhar com seus amigos, eles começam a acreditar que o pai de Charlie pode ter uma vida dupla secreta.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Borrowed Time III  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DB68DB5C2313977F375A5EB5E85138ACEF7758D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cDwT1sSrutM3Ti2GsspdbWCabV4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/noe8j3UtPynBLREaAilnfuGan3S.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O vigilante, Franck Denard, é libertado da prisão depois de cumprir 10 anos por um crime que não cometeu. Ao descobrir que está com uma doença terminal, ele parte para uma última luta sanguinária em busca de redenção e vingança.
+[COLOR white][B] Gênero:  [COLOR lime]Ação [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white ]Diary of a Spy[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF02C3433621445B23A3995E01D9E6B6AC79AFC6</link>
+<thumbnail>]https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Edo6T4MQRxlH5IeQalb1UTSYUb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/86HNnhOajW0u1Thg5LWqBpai20b.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Anna é uma oficial de inteligência decadente cuja última missão deixou 7 pessoas mortas. Bêbada, falida e sozinha, ela tem a chance de uma última missão: seduzir e recrutar um valioso ativo ligado à família real saudita. À medida que se aproxima cada vez mais de seu alvo, Anna descobre que está fora de seu controle e deve decidir entre cumprir sua missão ou encontrar uma maneira de se salvar.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Lugar errado [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BECCF96CC469BD68BFFA2508413D559790E1705E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9mxNku6g2JmGmKTGGEOpU4lvVWM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zSre0UHWLSnDoNrM9F2Go9OXq5G.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um cozinheiro de metanfetaminas persegue o ex-chefe de polícia de uma pequena cidade para silenciá-lo antes que ele possa prestar depoimento de testemunha ocular contra sua família, mas acaba enfrentando mais do que esperava. 
+[COLOR white][B] Gênero:  [COLOR lime] 	Ação / Policial / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Veloz, Furioso e Apaixonado[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C44983E5D8D0CC9FBC09079517A66213BA5F9B0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/46Ab9aS5x9ZVhsbcQ3d5QjzfuBb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/68VirI4elWyjjfXneXfioeEpLL4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O campeão de um esporte inusitado luta para conciliar sua vida amorosa com a defesa do título de empilhador de copos mais rápido do mundo
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Prizefighter - The Life of Jem Belcher[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3BFCEFCD844A40404934EA19AD3D4FED05AD0A00</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x3PIk93PTbxT88ohfeb26L1VpZw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nea2djWuba9Y0hvWjSzcJp1N1Sv.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Na virada do século 19, o pugilismo era o esporte dos reis e um jovem boxeador talentoso lutou para se tornar campeão da Inglaterra. 
+[COLOR white][B] Gênero:  [COLOR lime] Biografia[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Irish Connection  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E1C42B55ACD972E96A93CF00916CD4F3029FC5D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/52RTgN7wHJ9Q5hqe7fiWyc6ieW5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kgKSVIdD8Szi0A6pxaUlkbRaJ2l.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A agente britânica Aureille é enviada para a Irlanda para investigar o roubo de Bearer Bonds por Rory Baker. Traído e armado por um padre, o agente se torna Rogue em Malta, esquivando-se dos implacáveis ​​assassinos do Baker e pior, seu próprio chefe Miranda.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Numbers [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF173C333C8D1C11296A8E1B8DAA0470501D697B</link>
+<thumbnail>https://abutretorrents.com/imagens/numbers-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/numbers-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Estranhos despertam em celas sem memória, logo percebem que, se não adquirem "curtidas" on-line suficientes em tempo hábil, morrerão horrivelmente nas mãos de um homem sinistro. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] A Queda de Usher[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4C9369F9EFD791F22355F990456F0022AEA1086</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9x2cz8oTRpIGs29wS35iEo3QYt2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9x2cz8oTRpIGs29wS35iEo3QYt2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um jovem que cuida de seu pai doente terminal é puxado para um turbilhão de assassinato, loucura e macabro. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] The Reef - Stalked [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04B679AB7D180C778EABF53FCC6735DE0C7CA13A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JIeV8tVudDQCIW6IQnvH7vwEvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gmNRNvfYuExV6QrPPhVO6kMSTvp.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]m um esforço para se curar depois de testemunhar o terrível assassinato de sua irmã, Nic viaja para um resort tropical com suas amigas para uma aventura de caiaque e mergulho. Apenas algumas horas em sua expedição, as mulheres são perseguidas e depois atacadas por um grande tubarão branco. Para sobreviver, elas precisarão se unir e Nic terá que superar seu estresse pós-traumático, enfrentar seus medos e matar o monstro. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] The Moderator[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D79BA86D863D6D01EF557DA2396D53A9920DC1CD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w4lx9fhjz07fC7UIdshEN7gfOWf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois do assassinato das suas duas amigas escandinavas no Marrocos, uma blogueira russa decide fazer justiça com as próprias mãos. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]La Sombra Del Gato [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B855A64DD44EDF3326C436F9708F7BAE8B71717C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t2oic7Le2a5LYz2Bjo6hrwlr6YS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4E796GkJzDMp4l6SRuwn2zbLyBy.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Gato vive com sua filha adolescente Emma e um pequeno grupo de pessoas, em uma fazenda isolada, sem telefone ou internet. Mas Emma, ​​tentada pela curiosidade, pega um celular e o ativa, tornando-se visível para o mundo. Horas depois, ele foge da fazenda. Gato sai em busca acompanhado de seu amigo Sombra, com quem há 17 anos, estavam prestes a ser capturados por uma seita. Juntos, eles devem resgatar Emma, ​​que foi sequestrada pela mesma organização para realizar um ritual sangrento. 
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Franco atirador. O Corvo Branco [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F8EAE417F71B3EBCDE27E81E7DBCCF2AEE62595</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/295gZzTXMvuiIG0U19h4M44PXxI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bZ6hEHRoOB5wGkRm9P8AchduODu.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de sofrer uma tragédia nas mãos de soldados invasores em Donbas, um professor de física ucraniano busca vingança. Ele está de olho em um franco-atirador russo de elite cuja eliminação pode mudar a maré do conflito. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Guerra [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Trem-Bala [COLOR yellow] ( C A M [COLOR crimson] NEW)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f95e469f6de54444f8248b81335412224e348f56</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/glkQZXAA0QbF5BPDJKRzBNOORMl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pdD47rPAYKVdPasoyhSAFPIFIWo.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Paradise Highway  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a598c3a7bd5cf178fde7813a082ef3e3173b7332</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg</thumbnail>
