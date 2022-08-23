@@ -1,4 +1,18 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Constantine - A Casa dos Mistérios [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I6LCVOFXRHKE6GFEN2QJ2SWFNMZZTVL7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKhlysJxSWt4lzuC4ScjTuOBHpO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após reescrever o tempo e impedir que a Guerra de Apokolips aconteça, John Constantine percebe que está preso na Casa dos Mistérios enfrentando um castigo que ainda não entende. Enquanto explora os labirintos da Casa, ele logo encontra Zatanna e muitos amigos, mas esses encontros repetidamente acabam em uma morte brutal para ele. Enquanto enfrenta o ciclo interminável de sua própria morte, o sempre brilhante Constantine começa a desvendar o caminho que o levou a este confinamento infernal.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Fantasia / Terror [/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[B][COLOR white] DC Liga dos Superpets[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7219aa74df9d811d4ed6e800f936d23b64d7bef</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oYIbivi986h4M8ZNQiwKSzIF8KJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]DC Super Pets acompanha Krypto o Supercão e Superman, amigos inseparáveis, compartilhando os mesmos superpoderes e lutando contra o crime em Metrópolis lado a lado. Quando Superman e o resto da Liga da Justiça são sequestrados, Krypto deve convencer um bando de abrigo - Ace o cão, PB o porco barrigudo, Merton a tartaruga e Chip o esquilo - a dominar seus próprios poderes recém-descobertos e ajudá-lo a resgatar os Super-heróis.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Animação / Aventura [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] O Despertar das Tartarugas Ninja[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82b3867f3d7e863016d8f6536f641720389d56e7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lJgQ0cTKsU4gVEVkNOc6jEJU0o.jpg</thumbnail>
