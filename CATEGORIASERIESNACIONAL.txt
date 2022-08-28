@@ -10,7 +10,18 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] IMPUROS[COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] ARCANJO RENEGADO [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/ARCANJO%20RENEGADO.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow] Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Drama / Nacional [/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] IMPUROS[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/IMPUROS.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/vZ2zmzieNXn7m2ziSJmUPErsYzc.jpg</fanart>
@@ -21,7 +32,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  IRMANDADE [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  IRMANDADE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwkJxpja51EJBNQ7qZRJfAMrS9c.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/IRMANDADE.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/4kKN8HqfgQE2lqkvTA9OkSouCld.jpg</fanart>
@@ -41,7 +52,7 @@
 </channels>
 </channel>
 ##################################################################################################################
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SOB PRESSÃO [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SOB PRESSÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
@@ -52,7 +63,7 @@
 ##################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SINTONIA [COLOR lime] NEW - [COLOR yellow] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SINTONIA [COLOR yellow] COMPLETA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/n65TKuAZgAWG2bJ6wVo6j2VH3De.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/SINTONIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
