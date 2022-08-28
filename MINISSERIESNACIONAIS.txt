@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white] O Caso Evandro[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DJ24JJXAX43TPJBENONLNEADVATCYLLR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AhJ0DZavpUUduWvU1q9R07dpTOW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história por trás de um dos crimes mais intrigantes do Brasil, a partir do podcast criado pelo jornalista Ivan Mizanzuk. Em abril de 1992, o menino Evandro Ramos Caetano, de 6 anos, desapareceu misteriosamente em Guaratuba, no litoral do Paraná. Dias depois, seu corpo foi encontrado em um matagal da cidade, sem vários órgãos, com mãos e pés amputados. Elementos como vingança, infidelidade conjugal, conspiração política e rituais satânicos marcaram a investigação do caso, que também ficou conhecido como As Bruxas de Guaratuba. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentário / Nacional / Policial [/COLOR][/B]</info></item>
 ##################################################################################################################
 <item><title>[B][COLOR white]PACTO BRUTAL - O ASSASSINATO DE DANIELLA PEREZ[COLOR yellow]()[COLOR lime] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b31b56b2b3bb77ba75cfe3d1ddc9ff9f22a8b1a2$nome=[COLOR lime] EP 01[/COLOR]</link>
