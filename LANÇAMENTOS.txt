@@ -1,3 +1,4 @@
+
 ##############################################################################################################
 <item><title>[B][COLOR white] Kaamelott - Premier Volet [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH</link>
@@ -90,30 +91,29 @@ v6EFb5B1j5RuyYaMeCJIz8FTYj8v
 <fanart>https://www.themoviedb.org/t/p/original/fX3tu1w7iZJVP91bNvocmisOfWD.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Neste reboot do clássico dos anos 1970 com Bud Spencer e Terence Hill, dois irmãos que passaram 25 anos afastados se reúnem para recuperar o amado bugue do pai. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia [/COLOR][/B]</info></item>
-########################################################################magnet:?xt=urn:btih:GVL2QAXHHUC5KUGMCKOACF2KJ6TF7YR5
 ##############################################################################################################
-<item><title>[B][COLOR white]Top Gun - Maverick [COLOR yellow] ( 1080 )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Top Gun - Maverick [COLOR yellow] ( 1080 )[/COLOR][/B]</title>magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66W</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/b36BLW00XyHijrqcpevkTqDWOkt.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.
 [COLOR white][B] Gênero:  [COLOR lime] Ação / Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Em um Passe de Mágica[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Em um Passe de Mágica[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:271fef6a4335b822cd9e0c76614b2b56438cf113</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lfprZ6p6rliMRgnhE09kVV57Q1o.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3AxQq0P8Bg0Ocw5ePcXAREpaaio.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Para se casar com o amor de sua vida, um mágico que nem gosta de futebol precisa dar um jeito de levar o time local às finais de um campeonato.
 [COLOR white][B] Gênero:  [COLOR lime] Comédia / Drama / Fantasia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Constantine - A Casa dos Mistérios [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Constantine - A Casa dos Mistérios [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I6LCVOFXRHKE6GFEN2QJ2SWFNMZZTVL7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKhlysJxSWt4lzuC4ScjTuOBHpO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Após reescrever o tempo e impedir que a Guerra de Apokolips aconteça, John Constantine percebe que está preso na Casa dos Mistérios enfrentando um castigo que ainda não entende. Enquanto explora os labirintos da Casa, ele logo encontra Zatanna e muitos amigos, mas esses encontros repetidamente acabam em uma morte brutal para ele. Enquanto enfrenta o ciclo interminável de sua própria morte, o sempre brilhante Constantine começa a desvendar o caminho que o levou a este confinamento infernal.
 [COLOR white][B] Gênero:  [COLOR lime]Animação / Fantasia / Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] DC Liga dos Superpets[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white] DC Liga dos Superpets[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7219aa74df9d811d4ed6e800f936d23b64d7bef</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oYIbivi986h4M8ZNQiwKSzIF8KJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg</fanart>
