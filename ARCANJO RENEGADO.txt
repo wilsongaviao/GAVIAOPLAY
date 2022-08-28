@@ -1,0 +1,23 @@
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]######[COLOR white] ARCANJO RENEGADO [COLOR lime] 1ª TEMPORADA [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b710565177b549636e356f78ea836182d8546f33</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u1VbA1AmDeGbQv2G5a5MUsB2Q9k.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellowNum conflito onde só há perdedores, Mikhael (Marcelo Mello Jr.) é sargento comandante do BOPE, sempre em missões perigosas no Rio de Janeiro. Só que, depois de se envolver em uma polêmica operação que culminou em chacina, ele é transferido para uma unidade policial no interior do estado. 
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama / Nacional [/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]######[COLOR white] ARCANJO RENEGADO [COLOR lime] 1ª TEMPORADA [COLOR crimson]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Nacional [/COLOR][/B]</info></item>
+
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow] 01 >>>> 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2p8nTAGBco5d2v6hqFBWN4OKPba.jpg</fannart></item>
+<item><title>[B][COLOR yellow]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
