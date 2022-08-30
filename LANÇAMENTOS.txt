@@ -1,4 +1,10 @@
-
+##############################################################################################################
+<item><title>[B][COLOR white]Top Gun - Maverick [COLOR yellow] ( 1080 )[/COLOR][/B]</title>magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b36BLW00XyHijrqcpevkTqDWOkt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.[COLOR crimson] LINK ATUALIZADO SEM PROPAGANDA
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Kaamelott - Premier Volet [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH</link>
@@ -91,13 +97,6 @@ v6EFb5B1j5RuyYaMeCJIz8FTYj8v
 <fanart>https://www.themoviedb.org/t/p/original/fX3tu1w7iZJVP91bNvocmisOfWD.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Neste reboot do clássico dos anos 1970 com Bud Spencer e Terence Hill, dois irmãos que passaram 25 anos afastados se reúnem para recuperar o amado bugue do pai. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Top Gun - Maverick [COLOR yellow] ( 1080 )[/COLOR][/B]</title>magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66W</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/b36BLW00XyHijrqcpevkTqDWOkt.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.
-[COLOR white][B] Gênero:  [COLOR lime] Ação / Drama[/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white] Em um Passe de Mágica[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:271fef6a4335b822cd9e0c76614b2b56438cf113</link>
