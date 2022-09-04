@@ -1,4 +1,88 @@
 ##############################################################################################################
+<item><title>[B][COLOR white] Inimigo Invisível[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3efd1709c07986996d886660df2e0d3b53be6476</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/znmFGF41VKALJIQx0coyjBXNWYm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mkyW1cHIKmw3Qdj3Xfw40p3JTVo.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história segue quatro soldados americanos que partiram na subida extenuante de uma montanha italiana nos últimos dias da Segunda Guerra Mundial, assombrados pelo assassinato a sangue frio de uma jovem mulher por um sargento cruel e com um velho italiano de lealdades incertas como o guia deles. .
+[COLOR white][B] Gênero:  [COLOR lime] Biografia / Guerra / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] O Festival dos Trovadores[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29ff2190838e82524c487d59d7fb1fd2f8e573f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70JB1IwPg5Ivf2D1Txk2VTAbbVI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aLDB5oqKDgzgED6YDsKeh0hCaVq.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] O advogado Yusuf e seu pai, Ali Caprichoso, se reencontram em uma longa (e talvez última) viagem depois de 25 anos separados. Pai e filho tentam resolver os problemas do passado e também o futuro deles. Nesse emocionante caminho para perdoar e ser perdoado, “O Festival dos Trovadores” faz uma viagem pela alma de uma pessoa cheia de arrependimentos. 
+[COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Duque  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD3BP7G56S3S7AX437MGN2VQ7TSDPQRD</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dZVzuH1Qau3WMndO2ISRbFTOhY1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gF02RlJ9hHwqUrUTphEppsCrjmY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O Duque se passa em 1961, quando Kempton Bunton (Jim Broadbent), um taxista de 60 anos, roubou o retrato do Duque de Wellington pintado por Goya da National Gallery em Londres. Foi o primeiro (e, até hoje, o único) roubo na história da galeria. Kempton mandou notas de resgate dizendo que devolveria a pintura com a condição de que o governo concordasse em fornecer televisão gratuitamente aos idosos. O que aconteceu a seguir tornou-se uma lenda. Passaram-se 50 anos antes que a história completa surgisse: uma revelação surpreendente de como um homem bom decidiu mudar o mundo e, ao fazê-lo, salvou seu filho (Fionn Whitehead) e seu casamento com Dorothy Bunton (Helen Mirren).
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Comédia / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Vizinhos [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oT7388wlquvpGN3LPxVeD849QAI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dNQbtjaVpq6gRFHborM8so16eWt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Walter, um cara bem estressado, um dia entra em colapso. Por orientação médica, ele abandona a vida urbana e busca o sossego em uma cidade pequena, cercada de paz e natureza. Porém, os planos de relaxamento vão por água abaixo por causa de um vizinho muito animado, o Toninho da Vila, que ensaia com sua escola de samba no ouvido do Walter. 
+[COLOR white][B] Gênero:  [COLOR lime] Comédia / Família / Fantasia / Nacional[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Amor em Verona  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3cabe702311153591ed5f9f5684a2b2d1a810fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9InVXZt8HKsprAKwDp2BYdVtaEt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem que acaba de sair de um relacionamento vai para Verona, na Itália, e descobre que a casa que reservou também foi alugada para outra pessoa. Agora, vai ter que passar as férias com um britânico cético e muito atraente.
+[COLOR white][B] Gênero:  [COLOR lime] Comédia / Romance[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Ilusões Perdidas[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5caa14e7ab2632e35f889789cc19d638ca4e6040</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mjrVEuDdhaKouYz2ykwKGeryEyd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cSCxGf1YSsNj3YxIGeWjbLUC9Xl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Lucien é um jovem poeta desconhecido da França do século XIX. Ele tem grandes esperanças e quer escolher seu destino. Ele larga a gráfica de sua província natal para tentar a sorte em Paris, nos braços de sua protetora. Logo deixado por conta própria na fabulosa vila, o jovem rapaz vai descobrir os bastidores de um mundo condenado à lei do lucro e das falsidades. Uma comédia humana na qual tudo se compra e se vende, da literatura à imprensa, da política aos sentimentos, das reputações às almas. Ele vai amar, sofrer, e sobreviver às suas ilusões.
+[COLOR white][B] Gênero:  [COLOR lime] Drama / Romance[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] Passei por Aqui [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5d08e8f53c535331b466d02de4938998e6d47f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txyWmAMhoy6liIueQhBnjqcbrSr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Segue um jovem grafiteiro que descobre um segredo chocante que colocaria ele e os mais próximos a ele em perigo. Um jovem grafiteiro rebelde tem como alvo principal as casas de uma elite rica da região, ação que o aproxima da propriedade de um sinistro juiz de prestígio. O grafiteiro acaba descobrindo um segredo chocante, que o leva a uma jornada que coloca em risco a si mesmo e aos mais próximos a ele, sendo perseguido como nunca. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] A Gestora [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a5c2ac94cabf3c7623ad957abbeb3355108d7c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bBB3MbdDaNtuNg6nX3Qlx1O6PKf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem ambiciosa faz um acordo inusitado com a chefe. Mas quando começam a surgir dúvidas, pode ser tarde demais para voltar atrás. 
+[COLOR white][B] Gênero:  [COLOR lime] Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]First Love - Descobrindo o Amor  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:REMIIYW6SZH7YOXWYBF5PI5LP6Q7QQXG</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6cJIPLtyWixpm6zt3Nf5wVkWzua.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iizAbEFEBcNKX2ayrV0vBjx3Hfx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história é descrita como um olhar comovente sobre a difícil entrada de um jovem na idade adulta. Com Diane Kruger e Hero Fiennes Tiffin. Neste intenso retrato do primeiro amor, um casal de adolescentes enfrenta as emoções da paixão e do descontrole emocional: a dor do rompimento, a cura e os encontros. 
+[COLOR white][B] Gênero:  [COLOR lime]Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Fortaleza Hotel [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fabd643b4d7ebe1c4b202fe830a759f21c09f41a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hFRXXYv63XcFI2jvbLiyrrFJuy2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fqYOhnXGZSj8A6m9bfeXAF8jCt0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Pilar, uma jovem camareira do Fortaleza Hotel, está de partida para Dublin, onde vai tentar uma nova vida logo após a virada do ano. Seu caminho cruza com o de Shin, uma hóspede sul-coreana de meia idade, que veio ao Brasil resgatar o corpo de seu falecido marido de volta à Seul. Os planos de ambas começam a dar errado e, apesar de tudo que as separa, as duas mulheres acabam se aproximando e estabelecendo uma intensa relação de solidariedade buscando encontrar uma na outra a solução para seus problemas 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Nacional [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Bios. Vidas que Marcaram a sua: Mercedes Sosa [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:0cb2e2d32fdf12497e554ad9b74155da3a918cd2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gh6mhy0TzZkeewChgRZ2myMFrX8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u3QgJtJg8MzOzT2Gzn7XfjmyYDX.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Mercedes Sosa é a mulher que mudou os rumos do folclore argentino. O especial conta com valiosos depoimentos de amigos, familiares e ex-colegas como Rodolfo Braceli, que testemunhou mais de cinquenta anos de carreira. Assim, os depoimentos tornam tangível a visão de mundo de Mercedes Sosa, seu legado musical e seus pensamentos sobre política, amor, música e vida.
+[COLOR white][B] Gênero:  [COLOR lime] Biografia / Documentário[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Nas Profundezas [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLjrhyl4JUEwAk72wRU7fog8rgs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fQ5sZ6frXiAZuufgkVJnDwFFUQ4.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma jovem desesperada por uma fuga, conhece um estranho misterioso e atraente que promete uma viagem romântica. O que se segue é engano, desconfiança e violência.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] O Telefone Preto[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HRJ2NVN6G4HLS52AOMC3XQPCPG2TFUYD</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vqaq3mYQ7oxZM4CCHuevUoQLs4C.jpg</thumbnail>
