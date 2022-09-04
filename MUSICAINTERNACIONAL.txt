@@ -1,9 +1,39 @@
 ###################################################################################################################
+<item><title>[B][COLOR white]LOVE FLASHBACK VOL 5 [/COLOR][/B]</title>
+<thumbnail>https://i.postimg.cc/W4DXfP0M/love-colection5.jpg</thumbnail>
+<fanart>https://i.postimg.cc/sXg69Zwg/love-colection5kjpg.jpg</fanart>
+<link>https://ia801405.us.archive.org/12/items/love-flashback-5/love%20Flashback5.ia.mp4?cnt=0</link>
+<info>[B]Sinopse:[COLOR yellow]2 HORAS DE SUCESSOS COM ESSA SUPER COLETANEAA DE MUSICAS ROMÂNTICAS, ONDE TEREMOS BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSE VOLUME[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]LOVE FLASHBACK VOL 4  [/COLOR][/B]</title>
+<thumbnail>https://i.postimg.cc/wvrnPvsQ/love-colection4.jpg</thumbnail>
+<fanart>https://i.postimg.cc/GmXvPsDt/love-colection4-I.jpg</fanart>
+<link>https://ia801408.us.archive.org/32/items/love-flashback-4/Love%20Flashback4.ia.mp4?cnt=0</link>
+<info>[B]Sinopse:[COLOR yellow]2 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA DE MUSICAS ROMÂNTICAS, ONDE TEREMOS BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSE VOLUME[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]LOVE FLASHBACK VOL 3  [/COLOR][/B]</title>
+<thumbnail>https://i.postimg.cc/3wHgYn9V/love-colection3.jpg</thumbnail>
+<fanart>https://i.postimg.cc/0NCRf5QQ/love-colection8.jpg</fanart>
+<link>https://ia601406.us.archive.org/34/items/love-flasback-3/Love%20Flasback3.ia.mp4?cnt=0</link>
+<info>[B]Sinopse:[COLOR yellow]2 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA DE MUSICAS ROMÂNTICAS, ONDE TEREMOS BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSE VOLUME[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]LOVE FLASHBACK VOL 2  [/COLOR][/B]</title>
+<thumbnail>https://i.postimg.cc/Bby3gCTq/love-colection2.jpg</thumbnail>
+<fanart>https://i.postimg.cc/cHmS8SkG/love-colection2e.jpg</fanart>
+<link>https://ia801400.us.archive.org/13/items/love-flashback-2_202208/Love%20Flashback%202.ia.mp4?cnt=0</link>
+<info>[B]Sinopse:[COLOR yellow]2 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA DE MUSICAS ROMÂNTICAS, ONDE TEREMOS BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSE VOLUME[/COLOR][/B]</info></item>
+###################################################################################################################
 <item><title>[B][COLOR white]LOVE FLASHBACK VOL 1  [/COLOR][/B]</title>
 <thumbnail>https://i.postimg.cc/J0FLrK1L/love-colection.jpg</thumbnail>
 <fanart>https://i.postimg.cc/KjSW-JVv4/love-colection1.jpg</fanart>
 <link>https://ia601504.us.archive.org/6/items/love-flashback-1_202209/Love%20Flashback1.ia.mp4?cnt=0</link>
-<info>[B]Sinopse:[COLOR yellow]35 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA MUSICAL, ONDE PODEMOS TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSA COLETANEA[/COLOR][/B]</info></item>
+<info>[B]Sinopse:[COLOR yellow]2 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA DE MUSICAS ROMÂNTICAS, ONDE TEREMOS BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSE VOLUME[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]REMEMBER ANOS 80 VOL 1  [/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://ia601402.us.archive.org/18/items/remember-anos-80-vol-1_202201/Remember%20anos%2080%20vol1.mp4</link>
+<info>[B]Sinopse:[COLOR yellow]2 HORAS DE SUCESSOS COM ESSA SUPER COLETANEA DE MUSICAS ROMÂNTICAS, ONDE TEREMOS BOAS RECORDAÇÕESE RELEMBRAR O PASSADO, UMA VERDADEIRA VIAGEM AO PASSADO ATRAVES DAS MUSICAS DESSE VOLUME[/COLOR][/B]</info></item>
 ###################################################################################################################
 <item><title>[B][COLOR white]REMEMBER ANOS 80 VOL 1[/COLOR][/B]</title>
 <thumbnail></thumbnail>
