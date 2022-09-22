@@ -1,3 +1,10 @@
+########################################################################################
+<item><title>[B][COLOR white] Thor - Amor e Trovão[COLOR yellow]( 4k )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66a573fedbc4ba29515790ebe17235a496c5f10e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ynUgLlrTASSz87Op39DKj6SHeOR.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura / Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Top Gun - Maverick[COLOR crimson] NEW [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303</link>
