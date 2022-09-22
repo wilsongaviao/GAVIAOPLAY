@@ -1,4 +1,11 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Drifting Home [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iNf1wC8cK6e8zgNyuMUqWFT7Din.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7id7oE3gqZuO0piWN20Ev7V90wl.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] Kousuke e Natsume são amigos desde a infância, mas com o passar do tempo, a relação entre os dois alunos da sexta série parece tensa, pois eles continuam se evitando. Um dia, durante as férias de verão, eles visitam um conjunto habitacional que está programado para ser demolido. Tendo crescido lá, o lugar guarda muitas memórias, mas durante o jogo, eles de repente se envolvem em um fenômeno misterioso. Quando recuperam a consciência, eles vêem um oceano inteiro à sua frente enquanto o complexo habitacional se transforma em um mar misterioso com Kousuke, Natsume e outros nele. Eles serão capazes de retornar ao seu mundo anterior? Uma jornada de despedida de verão começa ...
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Anime / Aventura / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Jujutsu Kaisen 0 [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caca57ec89df69bbfdf81b86bbb1fd1d5e752f72</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg</thumbnail>
