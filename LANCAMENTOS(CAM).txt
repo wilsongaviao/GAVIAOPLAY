@@ -1,4 +1,25 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]A Mulher Rei - Legendado  [COLOR yellow] [COLOR yellow] ( CAM )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7a1bd280dc7a2a47c8b80c7c253f0e08aab7fac</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mSuXg6tn3kqUjBiTlSBcL5XOwen.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Nanisca era a comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres, entre as guerreiras está a filha de Nanisca, Nawi, juntas elas combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Fogo-Fátuo [COLOR yellow] [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3A11B92FE606643EB6F5E1C597FB6538B9DAF5C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8QZb1nQezgoDbeOgk5T6UkDpah2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5lo56e6ckbrZ8Cw8RtkQaNPqdFs.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em seu leito de morte, Sua Alteza Real Alfredo, Rei sem coroa, é levado de volta às memórias distantes da juventude e do tempo em que sonhava em se tornar bombeiro. O encontro com o instrutor Afonso dos bombeiros, abre um novo capítulo na vida dos dois jovens dedicados ao amor e ao desejo… 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Musical / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Noites Brutais - Legendado [COLOR yellow] [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5559c34a338bfe8ba9473b2728dc868bd03e42b1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dRzpHPxYGINDsfMfDS5CgjJeOAV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3tmpWdxKgc2BvOkqBaGCWloNqh5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Estando na cidade para uma entrevista de emprego, uma jovem chega ao seu Airbnb tarde da noite, apenas para descobrir que seu aluguel foi erroneamente reservado para um homem estranho que já está hospedado lá. Contra seu melhor julgamento, ela decide passar a noite de qualquer maneira, mas logo descobre que há muito mais a temer em casa do que o outro hóspede da casa.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] Órfã 2 - A Origem[COLOR yellow] ( C A M )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4376464608ce9e0105ddd9b2bab80e8141fdd10</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/IXiOMDvaxxHq0sH3ZwTcBK4Vt4.jpg</thumbnail>
@@ -20,14 +41,14 @@
 <info>Sinopse: [COLOR yellow][B]5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si.
 [COLOR white][B] Gênero:  [COLOR lime] Ação / Suspense[/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white] Thor - Amor e Trovão[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<item><title>[B][COLOR white] Thor - Amor e Trovão[COLOR yellow]( C A M )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NI4FTZWUVES6JQCJSSEUQSSEXUODC6XH</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ynUgLlrTASSz87Op39DKj6SHeOR.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demai
 [COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura / Comédia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]The Spider [COLOR yellow] ( 1080p )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Spider [COLOR yellow] ( C A M )[COLOR crimson] LEGENDADO[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A413AA019F381CF3C3F3C96DE489846D120D32A5</link>
 <thumbnail>https://abutretorrents.com/imagens/the-spider-cam-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dPLYYDJHReDOyA2viPJoUebzUQb.jpg</fanart>
