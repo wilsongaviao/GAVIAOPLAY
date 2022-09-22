@@ -1,4 +1,15 @@
 ###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]Dahmer - Um Canibal Americano [COLOR yellow]( Completa 10 EPS) [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://www.themoviedb.org/t/p/original/5AzjmGoqRNGytd8bOKoDcWxhjV2.jpg</fanart>
+<info>[B][COLOR yellow]A história de um dos serial killers mais notórios dos Estados Unidos, contada em grande parte pelas pessoas ao redor de Jeffrey Dahmer, e exemplificando a incompetência da polícia que permitiu com que o assassino continuasse num rastro de crimes por anos. 
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama / Policial[/COLOR][/B]</info></item>
+</channels>
+</channel>
+###################################################################################################################
 <item><title>[B][COLOR yellow]######[COLOR white]Chicago Justice [COLOR yellow] 720p [COLOR lime] COMPLETA  13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>
