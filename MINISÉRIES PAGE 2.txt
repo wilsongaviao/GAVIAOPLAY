@@ -1,7 +1,7 @@
 
 ###################################################################################################################
 
-<item><title>[B][COLOR yellow]######[COLOR white] Infiniti ( Completa 10 EPS) [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] Infiniti ( Completa 10 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3h5VpRcCeUk0alWx2nsv0D5CYy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m4Stmu3Xdbk0Dn7ypvS3iKmOORN.jpg</fanart>
@@ -26,7 +26,7 @@
 </item>
 
 ###################################################################################################################
-<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]Dahmer - Um Canibal Americano [COLOR yellow]( Completa 10 EPS) [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
+<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]Dahmer - Um Canibal Americano [COLOR yellow]( Completa 10 EPS) [COLOR lime] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:THG6TJVU4DZLCQNLEXRTI23HGKBI5AXB</link>
 <fanart>https://www.themoviedb.org/t/p/original/5AzjmGoqRNGytd8bOKoDcWxhjV2.jpg</fanart>
