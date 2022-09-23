@@ -1,10 +1,25 @@
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MAR DO SERTÃO [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/MAR%20DO%20SERT%C3%83O.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/o8zk3QmHYMSC7UiJgFk81OFF1sc.jpg</fanart>
+<info>[B][COLOR yellow]Na cidade fictícia Canta Pedra Candoca (Isadora Cruz) é uma sertaneja romântica e corajosa que tem um relacionamento amoroso com Zé Paulino (Sérgio Guizé). Isso até ela ser convencida de que o companheiro está morto. Devido à suposta tragédia, a mocinha se verá obrigada a se casar com Tertulinho (Renato Góes). Mais à frente, Zé Paulino ressurgirá das cinzas anos depois e, ao retornar, o rapaz reencontrará a amada há muito perdida, casada com Tertulinho (Renato Góes) o principal vilão da história. Assim, Zé retorna para acertar as contas com quem tentou matá-lo e reconquistar sua antiga amada Há também a história de um príncipe árabe que foge do Oriente Médio e chega ao Brasil em busca de um grande amor. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Nacional / Romance [/COLOR][/B]</info>
+</channels>
+</channel>
 ##############################################################################################################
-<item><title>[B][COLOR white]Caminho Das Indias [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[B][COLOR white]Caminho Das Indias [COLOR yellow] ( 1080p )[/COLOR][/B]</name>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8ab46389001633c7e78b8da2b5a12e069183bbb</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xyix3KOYBZd1zqwy051Bhtwe3Vv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s2YrlYDupDwoTyIryZfnKVC74EP.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Amor, razão, sanidade e loucura. Com crenças e valores que diferenciam ocidente e oriente, a novela trouxe para a tela uma história repleta de contrastes. Na trama central, uma paixão proibida entre dois indianos de origem muito diferentes. Maya é esperta, alegre, funcionária de um telemarketing do Rajastão e pertence a uma tradicional família da casta dos comerciantes. Bahuan está se formando nos Estados Unidos, onde trabalha, mas nunca esqueceu as humilhações que passou na infância por ser um dalit (intocável) – parte do contingente humano que os textos sagrados definem como "a poeira aos pés do deus Brahma", aqueles considerados impuros e condenados a nem mesmo tocar com sua sombra um integrante das altas castas. Este sistema já foi banido pela lei, porém não pelos costumes. 
-[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama / Nacional / Novela / Romance [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama / Nacional / Novela / Romance [/COLOR][/B]</info>
+</channels>
+</channel>
 ##############################################################################################################
 <channels>
 <channel>
