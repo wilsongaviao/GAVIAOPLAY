@@ -60,7 +60,7 @@
 <item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acab4889168724c5f30ed554ad30f93499a74a5d</link></item>
 ######################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]10COLOR][/B]</title>
+<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cb60d4858914248393940215ef311e1aaf6e6f</link></item>
 ######################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
