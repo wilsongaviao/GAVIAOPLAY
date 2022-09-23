@@ -1,7 +1,6 @@
 
 ###################################################################################################################
 
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></title>
 <item><title>[B][COLOR yellow]######[COLOR white] Infiniti ( Completa 10 EPS) [COLOR lime] NEW [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3h5VpRcCeUk0alWx2nsv0D5CYy.jpg</thumbnail>
@@ -26,7 +25,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/m4Stmu3Xdbk0Dn7ypvS3iKmOORN.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR crimson]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></iteS
 ###################################################################################################################
 <item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]Dahmer - Um Canibal Americano [COLOR yellow]( Completa 10 EPS) [COLOR lime] NEW[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
@@ -34,11 +32,9 @@
 <fanart>https://www.themoviedb.org/t/p/original/5AzjmGoqRNGytd8bOKoDcWxhjV2.jpg</fanart>
 <info>[B][COLOR yellow]A história de um dos serial killers mais notórios dos Estados Unidos, contada em grande parte pelas pessoas ao redor de Jeffrey Dahmer, e exemplificando a incompetência da polícia que permitiu com que o assassino continuasse num rastro de crimes por anos. 
 [COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama / Policial[/COLOR][/B]</info></item>
-</item>
 ###################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR yellow]######[COLOR white]Chicago Justice [COLOR yellow] 720p [COLOR lime] COMPLETA  13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+
+<item><title>[B][COLOR yellow]######[COLOR white]Chicago Justice [COLOR yellow] 720p [COLOR lime] COMPLETA  13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>
 <fanart></fanart>
@@ -76,6 +72,8 @@
 <item><title>[B][COLOR white]EP - [COLOR yellow]13/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a67caff59cac644f934c8922ce30fc8b43868a82</link></item>
 ###################################################################################################################
+
+
 <item><title>[B][COLOR yellow]######[COLOR white]A Tempestade do Século [COLOR yellow] 720p [COLOR lime] COMPLETA 3 EPS [/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D2C1D253A4F135A2DC79E6AACFF608AE3EDD476</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKvoUWrH9kh5jUCECrswLPRSrfi.jpg</thumbnail>
@@ -84,6 +82,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Clássico / Drama / Fantasia / Suspense / Terror[/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white]11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS[/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7FAAA7BBF7F63C60F997057961B666E64C580A</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4M1NAKPpBFuLkvIXEWlhzebfe38.jpg</thumbnail>
@@ -100,6 +99,8 @@
 [COLOR white][B] Gênero:  [COLOR lime]	Drama / Terror[/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
+
 <item><title>[B][COLOR crimson]######[COLOR white] O Cavalo Amarelo[COLOR yellow] 1080p [COLOR lime] COMPLETA  2 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc640cd537937be57260333831625fa9109aead</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2wu80dxUAHVmksi33rST1AbkWE.jpg</thumbnail>
@@ -108,6 +109,8 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Policial / Suspense [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
+
 <item><title>[B][COLOR yellow]######[COLOR white] A Rebelião dos Barbaros[COLOR yellow] 720p [COLOR lime] COMPLETA 4 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9149A26BF93EECA3F0C3806ADA9B0FDE96286F9</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fCgOHBmODou6gz5AOYJwvRMvKpA.jpg</thumbnail>
@@ -116,6 +119,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Documentário / Drama / Histórico [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] BARBAROS [COLOR yellow] 720p[COLOR lime] COMPLETA 6 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa19c9f014775e02c50842ebc1b0872057e41b55</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</thumbnail>
@@ -123,7 +127,8 @@
 <info>[B]Sinopse:[COLOR yellow]Em 9 D.C., os destinos de três pessoas se cruzam na Batalha da Floresta de Teutoburgo, quando os guerreiros germânicos impedem o avanço do Império Romano.
 [COLOR white][B] Gênero:  [COLOR lime] Ação, Aventura, Drama, Histórico [/COLOR][/B]</info>
 </item>
-###################################################################################################################
+#################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] No Corredor da Morte [COLOR yellow] 1080p [COLOR lime] COMPLETA  4 EPS  [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f87fe1dfc40e9d53c1eb41c795f1e459bf4f8f0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zsF3iHQbG22nMYdsvHnKyoTtEd9.jpg</thumbnail>
@@ -132,6 +137,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white]Nevenka - Quebrando o Silêncio[COLOR yellow] 1080p  [COLOR lime] COMPLETA  3 Episodeos [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7785e3d7e94fd37668d4f66ebf1417960046bf6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j80amTos07kMVbNyF4msh3EhDcy.jpg</thumbnail>
@@ -140,6 +146,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Documentário / Policial [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] O Falsificador Mórmon [COLOR yellow] 1080p  [COLOR lime] Completa  3 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:030e420fe052d05d4516290cabbfdb7606af2f21</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pmoi9rbtAmcqQOLFN1LbsAHIjyO.jpg</thumbnail>
@@ -148,6 +155,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Documentário / Histórico / Policial [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item<title>[B][COLOR crimson]######[COLOR white] 2091 [COLOR yellow] 720p [COLOR lime] Completa  12 Episodeos [COLOR crimson]######[/COLOR][/B]</title>
 <link>ignoreme</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
@@ -156,6 +164,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Drama / Ficção [/COLOR][/B]</info>
 </item>
 #############################################################################################################################
+
 <item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C164F829149C0F065B3A93A6993916D711A5C08C</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
@@ -217,6 +226,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU7RpPTiyK03dzTPssg9mlZ05gr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k12IME0nzbEsRTvO6tUMvWZMC8Z.jpg</fanart></item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] A ODISSÉIA[COLOR yellow] 720p [COLOR lime] COMPLETA 2 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A51CBCCD686EAE432A121EDC1D661BECD6891419</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg</thumbnail>
@@ -225,6 +235,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Clássico / Drama / Fantasia / Histórico [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] ALCATRAZ [COLOR yellow] 720p [COLOR lime] COMPLETA 16 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e5688ecd457c8690e595859d96137351f77f40c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/efO8ahdZZntsZcX7ybmUMP1Figu.jpg</thumbnail>
@@ -233,6 +244,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação, Policial, Drama, Mistério, Suspense[/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] ASCENSÃO: IMPÉRIO OTOMANO [COLOR yellow] 720p / 1080p [COLOR lime] COMPLETA  6 EPS  [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09c72df214cc918d9833652eb9a313dce8b8d9a2$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3e47f2baa2abe08f09ff84e5838d22ccb3c9d20$nome=[B] 1 [COLOR yellow]1080p[/COLOR][/B]</link>
@@ -242,6 +254,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] COSMOS - UMA ODISSÉIA DO ESPAÇO-TEMPO [COLOR yellow] 720p [COLOR lime] COMPLETA 13 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FB1337EE885B244163DAE25BB82F29039F5419</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/47f0rqHHwWVJnEHL1JOR8SHznBZ.jpg</thumbnail>
@@ -250,6 +263,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] CONSTANTINE [COLOR yellow] 720p / 1080p[COLOR lime] COMPLETA 13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1136580F7FE6E481E4AF4B483519DD338CC130C0$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4EC77C93FA4584AC8E49299C16881353EC4B3445$nome=[B] LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
@@ -259,6 +273,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Fantasia / Policial / Suspense / Terror [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] FIRE CHASERS [COLOR yellow] 720p [COLOR lime] COMPLETA 4 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6B7E7B8F3B13DE1FFE85D9A0C701BE41640E2B5</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dgdrKsKNBtjpkeSL5jLjZLr8aPV.jpg</thumbnail>
@@ -267,6 +282,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Documentario [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] FLASH GORDON [COLOR yellow] 720p [COLOR lime] COMPLETA 16 EPS  [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e62036f802eab5caf71a78eb286a6c20ee9208</link>
 <thumbnail>https://www.themoviedb.org/t/p/w130_and_h195_bestv2/r8hNPZMfo0SdYjXzr3tzNSMMafc.jpg</thumbnail>
@@ -275,6 +291,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / ficção / Fantasia [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] MOBY DICK [COLOR yellow] 720p [COLOR lime] COMPLETA 4 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1A85CF235BAF70A8E70B5B89B9DB63B3DC6F931</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bsEsjQpnlMHnnSA7XNfxceyhYbk.jpg</thumbnail>
@@ -283,6 +300,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] SECTION ZÉRO [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS  [COLOR yellow######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aacccf43c82a1269673be17c2ef0d66b5341f81</link>
 <thumbnail>https://abutretorrents.com/capas/section-zero-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -291,6 +309,7 @@
 [COLOR white][B] Gênero:  [COLOR lime] Aventura / Drama / Ficção / Policial / Suspense[/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] PACÍFICO - O OUTRO LADO DA GUERRA [COLOR yellow] 720p [COLOR lime] COMPLETA 10 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEB826D2A8AEA40735EDDF78080A2766FF3ABC61</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
@@ -299,6 +318,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Aventura / Drama / Guerra / Histórico [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] PROJETO COELHO BRANCO [COLOR yellow] 720p [COLOR lime] COMPLETA 10 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C16016740F244A64EB2CDBC41FC9AFC6042A811B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txLaCiFjR22danltfowUOgnTPjM.jpg</thumbnail>
@@ -306,6 +326,7 @@
 <info>[B]Sinopse:[COLOR yellow]Kari Byron, Tory Belleci e Grant Imahara são investigadores que se unem para desvendar estranhos eventos. De avanços tecnológicos a guerras mundiais, o grupo encara casos estranhos e desafiadores em busca de respostas. [COLOR white][B] Gênero:  [COLOR lime]Documentário / Ficção [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] PROVA DE FOGO [COLOR yellow] 720p [COLOR lime] COMPLETA 2 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9536e294208a27f5b65fd84719815b8c21f6943a </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uShOoDmKPCcza5EYObkWwnxVMSS.jpg</thumbnail>
@@ -314,6 +335,7 @@
 [COLOR white][B] Gênero:  [COLOR lime] Ação / Aventura / Drama / Romance [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] TEMPLÁRIOS [COLOR yellow] 720p [COLOR lime] COMPLETA 6 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20FD1C2005E8859977D7ED360DA817A62854AA03</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wLt89QzlRXEOjYyEq6a0kVWimCz.jpg</thumbnail>
@@ -322,6 +344,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Drama / Guerra / Histórico [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] TROIA A QUEDA DE UMA CIDADE [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS   [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BE16058F6540660F868E0270AF74847EA9195B4$nome=[B] 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0237c6b05db2480a12496f7dde164c97a1af550$nome=[B] 2 [COLOR yellow]720p[/COLOR][/B]</link>
@@ -330,6 +353,7 @@
 <info>[B]Sinopse:[COLOR yellow][/COLOR]Em busca da mulher prometida por Afrodite, o pastor Páris descobre sua verdadeira identidade e se apaixona por Helena de Esparta, desencadeando a Guerra de Troia.[/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] TOQUE DE RECOLHER [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADC4BB05D9A58AD2626438AF3FA9238F22F7120B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vqYapg2WJw6dga93967lACbOS6Y.jpg</thumbnail>
@@ -338,6 +362,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Ficção / Policial / Suspense [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR crimson]######[COLOR white] UM LUGAR CONGELADO [COLOR yellow] 720p [COLOR lime] COMPLETA 7 EPS [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18EA3302EEF2CBE1D415B29B25429CE22B1D1103</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rwsYRI2aU3VPD1ZBFWtr8f8rS8M.jpg</thumbnail>
@@ -346,6 +371,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info>
 </item>
 ###################################################################################################################
+
 <item><title>[B][COLOR yellow]######[COLOR white] BAND OF BROTHERS [COLOR yellow] 720p  [COLOR lime] COMPLETA  10 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23B3F21FCDD23B58CCB39133864407D347FDB047$nome=[B] LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19de7bd285b11aa7c8f93779dd13b17bab330d9$nome=[B] LINK 2 [COLOR yellow]720p[/COLOR][/B]</link>
