@@ -1,10 +1,10 @@
 ##############################################################################################################
 <item><title>[B][COLOR white]A Very English Scandal  ( Completa 05 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=Biografia / Drama / Policial</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7d5aae937095bebbc81eefaafd77b265da38f50</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQU99bLRjTegRSGScLDVqpcx5QV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9WAuABB8CJfEBfsu24PJL0tWzlx.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A chocante história verídica do primeiro político britânico a ser julgado por conspiração para assassinar. Jeremy Thorpe (Hugh Grant), o líder do partido Liberal, tem um segredo que está desesperado para esconder. Seu ex-amante Norman Scott (Ben Whishaw) está colocando a brilhante carreira política de Thorpe em risco, então Thorpe trama e engana até perceber que só há uma maneira de silenciar Scott para sempre.[COLOR yellow] LEGENDAS EMBUTIDAS....
-[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama / Policial [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]A Bíblia  ( Completa 05 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6740CA2C1B309DB99A0EFD6100C5E145479EBAA0</link>
