@@ -9,6 +9,27 @@
 <info>[B][COLOR yellow]CANAIS DE TV DISPONIBILIZADOS POR AMIGOS E COLABORADOES DO ADDON, NAO NOS RESPONSABILIZAMOS PELO SERVIÇO POIS ESSE E TOTALMENTE GRATIS E A DISPONIOBILIZAÇÃO ESTA NA RESPONSABILIDADE DO  DESENVOLVEDORES DAS LISTAS,NOSSO ADDON APENAS  DIVULGA O SERVIÇO  DO AMIGOS E COLABORADORES , EM TROCA DOS  LINKS,[/COLOR][/B]</info>
 </channels>
 </channel>
+###############################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CANAIS DE TV[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CATEGORIA%20CANAL%20DE%20TV.txt</externallink>
+<thumbnail>https://i.postimg.cc/8P7VkFjX/CANAIS-DE-TV.jpg</thumbnail>
+<fanart>https://i.postimg.cc/85G1jTqJ/fanartcanaisdetv.jpg</fanart>
+<info>[B][COLOR yellow]CANAIS DE TV DISPONIBILIZADOS POR AMIGOS E COLABORADOES DO ADDON, NAO NOS RESPONSABILIZAMOS PELO SERVIÇO POIS ESSE E TOTALMENTE GRATIS E A DISPONIOBILIZAÇÃO ESTA NA RESPONSABILIDADE DO  DESENVOLVEDORES DAS LISTAS,NOSSO ADDON APENAS  DIVULGA O SERVIÇO  DO AMIGOS E COLABORADORES , EM TROCA DOS  LINKS,[/COLOR][/B]</info>
+</channels>
+</channel>
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PLUTO%20TV.txt</externallink>
+<thumbnail>https://www.tvpop.com.br/wp-content/uploads/2021/01/pluto-tv.jpg.webp</thumbnail>
+<fanart>https://cdn.pocket-lint.com/r/s/970x/assets/images/159245-homepage-news-feature-what-is-pluto-tv-the-free-streaming-tv-service-explained-image1-au53fmjn6s-jpg.webp?v1</fanart>
+<info>Sinopse: [COLOR yellow][B]Pluto TV é um serviço de streaming que oferece uma grande variedade de canais originais, séries e filmes sob demanda dos principais canais de televisão, ...etç.
+[COLOR white][B] Gênero:  [COLOR lime]FILMES SERIES, TV...... [/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
