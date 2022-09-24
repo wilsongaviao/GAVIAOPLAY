@@ -22,7 +22,7 @@
 ###################################################################################################################
 <channels>
 <channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PLUTO TV [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/PLUTO%20TV.txt</externallink>
 <thumbnail>https://www.tvpop.com.br/wp-content/uploads/2021/01/pluto-tv.jpg.webp</thumbnail>
 <fanart>https://cdn.pocket-lint.com/r/s/970x/assets/images/159245-homepage-news-feature-what-is-pluto-tv-the-free-streaming-tv-service-explained-image1-au53fmjn6s-jpg.webp?v1</fanart>
