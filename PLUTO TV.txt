@@ -1,6 +1,6 @@
 ##############################################################################################################
 <item><title>[B][COLOR white] PLUTO TV[/COLOR][/B]</title>
-<link>https://i.mjh.nz/PlutoTV/br.xml.gz</link>
+<link>https://pastebin.com/raw/KH2Jqbmx</link>
 <thumbnail>https://www.tvpop.com.br/wp-content/uploads/2021/01/pluto-tv.jpg.webp</thumbnail>
 <fanart>https://cdn.pocket-lint.com/r/s/970x/assets/images/159245-homepage-news-feature-what-is-pluto-tv-the-free-streaming-tv-service-explained-image1-au53fmjn6s-jpg.webp?v1</fanart>
 <info>Sinopse: [COLOR yellow][B]Pluto TV é um serviço de streaming que oferece uma grande variedade de canais originais, séries e filmes sob demanda dos principais canais de televisão, ...etç.</info>[/COLOR]</item>
