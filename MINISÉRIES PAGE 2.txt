@@ -1,7 +1,318 @@
+##############################################################################################################
+<item><title>[B][COLOR white]A Very English Scandal  ( Completa 05 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=Biografia / Drama / Policial</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQU99bLRjTegRSGScLDVqpcx5QV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9WAuABB8CJfEBfsu24PJL0tWzlx.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A chocante história verídica do primeiro político britânico a ser julgado por conspiração para assassinar. Jeremy Thorpe (Hugh Grant), o líder do partido Liberal, tem um segredo que está desesperado para esconder. Seu ex-amante Norman Scott (Ben Whishaw) está colocando a brilhante carreira política de Thorpe em risco, então Thorpe trama e engana até perceber que só há uma maneira de silenciar Scott para sempre.[COLOR yellow] LEGENDAS EMBUTIDAS....
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Bíblia  ( Completa 05 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6740CA2C1B309DB99A0EFD6100C5E145479EBAA0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqGupIDrTHosdGTm5N0V4qMrZyf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qDDnuOJxq3jd91PHlea8XWFmfzt.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A minissérie acompanha tudo desde a Gênesis até o Apocalipse, em cinco partes de duas horas cada. Cada uma das partes contém de duas a três histórias bíblicas, contadas através de imagens e computação gráfica. Histórias como A Arca de Noé, Êxodus, e o nascimento, morte e ressurreição de Jesus estão incluídas.
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Epico / Gospel / Religioso [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Anjos na América  ( Completa 06 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4FFB13823302F14D18A7D592E05F22754919C19</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rrV0kCmzcP8oB00gemSZDns90rb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zLDMhse2igsIS2BlzX2VIKQT7j5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Em 1985, Ronald Reagen ocupava a Casa Branca. A AIDS aterroriza a América e o preconceito destrói as suas vítimas. É neste cenário que se desenvolve a história escrita Tony Kushner, baseado em seu livro ganhador do prêmio Pullitzer. A série é vencedora de 5 Globos de Ouro. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Fantasia / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Espião ( Completa 06 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f34249f311e147294d0a1c756abfc6d17d5738</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/otbqJfY4nKUzAr36b9XawBwRR6Y.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Funcionário de uma loja de departamento, Eli Cohen é recrutado pela Mossad para uma arriscada missão de espionagem na Síria nos anos 60. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Histórico [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Gap Year  ( Completa 08 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49cd637ca93a98fc809985da77e7b9c1ef819350</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y9Ku8Zr2GjROhoCkbva8LMV853p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vsLYCXEFM3RVgh9x5gxsHOLs4AP.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O caminho de um grupo diverso de mochileiros se colide em uma viagem à Ásia. Um feriado desorientador e potencialmente desastroso se transforma em uma aventura inesquecível de autodescoberta. 
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama[/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Os Miseráveis  ( Completa 06 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94E0D5166DA54F766DF3070888402EFF58042438</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vD5gUfFYEuYXwfOVJQjLIQTGs0s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyN1hL0T7bda47EpAtvCsCZfYX2.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Minissérie em seis episódios que adapta a obra clássica de Victor Hugo, "Os Miseráveis". Na França do século 19, o ex-prisioneiro Jean Valjean (Dominic West), perseguido ao longo de décadas pelo impiedoso policial Javert (David Oyelowo) por ter violado sua liberdade condicional, busca redenção pelo seu passado e decide acolher a filha da prostituta Fantine (Lily Collins). 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Histórico / Romance [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Washington  ( Completa 03 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ynDi8x0n5c2DL1z6FkA7m0ebk3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eC5qpVzB0fI5xXw05uHx3Bg5SzN.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A história de como um jovem soldado sem pai, cheio de ambição pessoal, se torna um líder de homens dispostos a sacrificar tudo pela causa comum. Como um sujeito britânico outrora leal se levanta para combater um império em uma campanha de liberdade ou morte para criar uma nova nação. E então como, no auge de seu poder, o general vitorioso renuncia voluntariamente, tornando-se o que o rei George III chamaria de "o maior homem do mundo".
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01/02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7bd87841e4bbbee84a530a4018e9d97140e1fb3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ynDi8x0n5c2DL1z6FkA7m0ebk3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eC5qpVzB0fI5xXw05uHx3Bg5SzN.jpg</fanart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7327a610b80c7c3c5e10335855682017a114e1fe</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ynDi8x0n5c2DL1z6FkA7m0ebk3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eC5qpVzB0fI5xXw05uHx3Bg5SzN.jpg</fanart></item>
+##############################################################################################################
+<item><title>[B][COLOR white]A Verdade Sobre o Caso Harry Quebert ( Completa 02 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2ece1bc92307446f08239a138ba4bf3f23e2062</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wLwUlmCLwk1cvuOl5nQMOfICznt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cAnkYWeh7oWQaKiLiiqoYIKSkmT.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um corpo é encontrado enterrado na propriedade de Harry Quebert (Patrick Dempsey), e esse reconhecido escritor se vê, inesperadamente, como o principal suspeito do assassinato de uma jovem garota. Enquanto ele se envolve cada vez mais no desenrolar desse caso, que a princípio está relacionado com o desaparecimento de uma adolescente anos atrás, o escritor Marcus Goldman (Ben Schnetzer) vê nesses últimos acontecimentos uma solução para seu bloqueio criativo. 
+[COLOR white][B] Gênero:  [COLOR lime]https://www.themoviedb.org/t/p/original/cAnkYWeh7oWQaKiLiiqoYIKSkmT.jpg [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Sobrevivi a R. Kelly ( Completa 05 EPS ) [COLOR yellow] ( 720p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8230e597985a3bc183ce29e8c228b809eef4261c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/q1wwIp3kpQ8kczjmN3YKfZC8YU8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5QA57nUIO8nTM5JzTcieaOqKY38.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]O documentário traz informações sobre as acusações de abuso sexual e pedofilia das quais o cantor e produtor norte-americano R. Kelly é alvo. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentário / Policial / Music [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Morte e Rouxinóis ( Completa 03 EPS )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:869a3da434bf2996c82a5109a0166f7c00ef30a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kRPsa4ntdUyFmcbygGJlIIJjBMF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4mXiOtPWNuzG0JQXBCAhtFv1R3T.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um conto de amor, traição, decepções e vingança situado na zona rural de Fermanagh em 1885. No dia de seu aniversário de 25 anos, Beth Winters decide fugir com o encantador Liam Ward, deixando pra trás sua vida limitada e seu relacionamento complexo com seu padrasto religioso Billy. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Drácula ( Completa 03 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c2b50d80495398b3c8a3c5aac66adb8e7b1ed2$nome=[COLOR lime] 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:711db47fa3729712a64e73b0a8093288aec2a8e8$nome=[COLOR lime] 1080P[/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oU0QZRhdnDbaxnjRZJ23yTlOmuN.jpg</fannart>
+<info>[B]Sinopse: Na Transilvânia de 1897, o Conde Drácula (Claes Bang) apavora uma cidade da Inglaterra vitoriana com seus sangrentos crimes contra a humanidade. Intrigante e mortal, a misteriosa figura do vampiro atrai tanto vítimas como inimigos, capturando a atenção de todos os cidadãos a sua volta.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Terror [/COLOR][/B]</info
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Em Defesa de Jacob ( Completa 08 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMnsPAjyMzSfrSF75Q5Gc65k8Ry.jpg</fannart>
+<info>[B]Sinopse: Andy Barber (Chris Evans) é um promotor de justiça que recebe a difícil missão de solucionar o assassinato de um jovem de 14 anos. Para piorar, o caso ganha uma reviravolta inesperada quando Jacob (Jaeden Martell), o filho de Barber, é apontado como um dos principais suspeitos do crime. 
+[COLOR white][B] Gênero:  [COLOR lime]Policial / Drama / Mistério / Suspense [/COLOR][/B]</info></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01 >>>> 03 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6951ead169fa9c02965a5516c6aed284f5072d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMnsPAjyMzSfrSF75Q5Gc65k8Ry.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5976e9e704ad3b6385e3a3a270e99eda007d4e11</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMnsPAjyMzSfrSF75Q5Gc65k8Ry.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4bea186c8dc5b5794c3e040d69a02aaee30e1b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMnsPAjyMzSfrSF75Q5Gc65k8Ry.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc9c265dbbf0212c11821d14133f7bf059d35cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMnsPAjyMzSfrSF75Q5Gc65k8Ry.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]07  08[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c64495c673911beac8fe7099b24f32cc8ee3424</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kMnsPAjyMzSfrSF75Q5Gc65k8Ry.jpg</fannart></item>
+
+################################################# ##################################################################
+<item><title>[B][COLOR yellow]######[COLOR white]The Third Day ( Completa 06 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf5997ec2457688740263ccde49d55ed62c18aa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oAPrSud6tD9db5BshZx0yWd8Mqz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jIGB53Yto6xOFrFJoOjGKQ9V0ak.jpg</fannart>
+<info>[B]Sinopse: Depois de ser atraído para uma ilha misteriosa ao largo da costa britânica, Sam (Jude Law) é jogado no mundo incomum de seus habitantes secretos. Isolado do continente, os rituais da ilha começam a dominá-lo e ele é confrontado por um trauma de seu passado. À medida que a linha entre realidade e fantasia se confunde, Sam se vê imerso em uma busca emocional que o coloca em desacordo com os moradores locais e começa a ameaçar seu modo de vida. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério [/COLOR][/B]</info
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] The Liberator ( Completa 10 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3922fd2c6bf3a6f13fd7eff7d4846904d328a62</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uU23hb1c3LRqszBmBftLc2cMhbx.jpg</fannart>
+<info>[B]Sinopse: A série vai narrar a fascinante história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau. - Série de animação original Netflix. - Baseado no livro "The Liberator: One World War II Soldier’s 500-Day Odyssey", escrito por Alex Kershaw. - The Liberator será o primeiro projeto produzido em uma nova tecnologia de animação híbrida chamada Trioscope, que combina CGI
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Animação / Drama / Guerra [/COLOR][/B]</info
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] A Princesa Espanhola ( Completa 2 temporadas ) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart>
+<info>[B]Sinopse: Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances "A Princesa Leal" e "A Maldição do Rei", de Philippa Gregory.
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Epico [/COLOR][/B]</info>
+#################################################################################################################
+<item><title>[B][COLOR yellow]1ª Temporada[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C4658AC49CFAF2431C7E96E60AA8AEF10EEA910</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR yellow]2ª Temporada[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart>
+<info>[B]Sinopse: A nova temporada começa com Catherine e Henry prosperando em uma Camelot de sua própria criação: acomodados no trono, com a alegria de um filho recém-nascido e uma aliança crescente com a Espanha graças ao pai de Catherine. Mas a tragédia familiar e a traição política ameaçam seu final feliz, e Catherine corre para reparar o dano antes que ele destrua seu futuro. </item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2514cb26d0059c4f937431f7071f313e730092a9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8cece93f9a7e6f82b0ded9c2a9967eefc2a74c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af00027c3a88b4bd3efcfc19210636bcea7559d1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e045bd00ce6214f61e41d2cea19bfeb189cf76a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart></item>
+#################################################################################################################
+<item><title>[B][COLOR white]EP - [COLOR yellow]05/06[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5da54ddbaf1252aca374d18e7c2bf286002c01</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Ec0jIkctpiyKuywPSRj4Pd2jEl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qpHM7WBBDOrCdm7r9BxVWTuk53L.jpg</fannart></item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Night Stalker - Tortura e Terror ( Completa 04 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HRGUMY3DVHYEHC3YFZGD44O6MW3OYCPF</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yZDQzuevDk98OGyfmXi3R9iqGg1.jpg</fannart>
+<info>[B]Sinopse: No sufocante verão de 1985, uma onda de calor recorde atingiu Los Angeles, junto com uma série de assassinatos e agressões sexuais que a princípio pareceram desconectadas. As vítimas eram homens, mulheres e crianças. Eles tinham idades entre seis e 82 anos. Eles vinham de diferentes bairros, origens raciais e níveis socioeconômicos. Nunca antes na história do crime um único assassino foi responsável por uma série de crimes tão horríveis. Correndo contra o relógio para parar esse monstro noturno, estavam um jovem detetive chamado Gil Carrillo, do Departamento do Condado de Los Angeles, e o lendário investigador de homicídios Frank Salerno. Enquanto trabalhavam incansavelmente para resolver o caso, a mídia perseguia seus rastros e o pânico tomou conta da Califórnia. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentário / Mistério / Policial [/COLOR][/B]</info>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] O Paraíso e a Serpente ( Completa 08 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b4d4f1594f939f19d41d8173f45b7c662fb093</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vbaen62LtRtEmrQjE7EkZ1pnQyI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jEQcjVEfX0tBWIVvt2gxGT2jLq1.jpg</fannart>
+<info>[B]Sinopse: Charles Sobrhaj (Tahar Rahim) é um dos criminosos mais detestáveis do século XX. Ele foi o principal suspeito dos assassinatos não resolvidos de até 20 jovens viajantes na Índia, Tailândia e 'Hippie Trail' do Nepal em 1975 e 1976. Psicopata, vigarista, ladrão e mestre do disfarce, tendo escapado repetidamente do alcance das autoridades em todo o mundo. Em 1976, o serial killer Sobhraj era o homem mais procurado da Interpol e tinha mandados de prisão em três continentes diferentes. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Policial / Suspense [/COLOR][/B]</info>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Devs ( Completa 05 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg</fannart>
+<info>[B]Sinopse:Lily Chan (Sonoya Mizuno) é uma engenheira de computação que inicia uma investigação da divisão secreta da companhia em que trabalha. Ela acredita que a empresa está por trás do assassinato de seu namorado. O principal alvo da averiguação é Forest (Nick Offerman), o CEO da corporação que é obcecado pela tal divisão secreta. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Ficção / Mistério / Suspense [/COLOR][/B]</info>
+<item><title>[B][COLOR yellow]######[COLOR white] ( Completa 10 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3XfR8wJve5E7hzMvNtUrOgUDJAg.jpg</fannart>
+<info>[B]Sinopse: 
+[COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info>
+
+<item><title>[B][COLOR white]EP - [COLOR yellow]01[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e2a70931602fbd95b33a88e853c6b392533190</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3XfR8wJve5E7hzMvNtUrOgUDJAg.jpg</fannart></item>
+
+<item><title>[B][COLOR white]EP - [COLOR yellow]02[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:817c8a874390f0561fb24286503b3b360ef2e4fb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3XfR8wJve5E7hzMvNtUrOgUDJAg.jpg</fannart></item>
+
+<item><title>[B][COLOR white]EP - [COLOR yellow]03[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27acb916fb399a61bf1087befbe8d79d274f981a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3XfR8wJve5E7hzMvNtUrOgUDJAg.jpg</fannart></item>
+
+<item><title>[B][COLOR white]EP - [COLOR yellow]04[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b28cbbac31dfddcbb08904713641eae6f741d55</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3XfR8wJve5E7hzMvNtUrOgUDJAg.jpg</fannart></item>
+
+<item><title>[B][COLOR white]EP - [COLOR yellow]05[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c55d5bd2eb8f1814c0aa7597633633bb2b5fea5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3XfR8wJve5E7hzMvNtUrOgUDJAg.jpg</fannart></item>
+
 
 ###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Escola AlRawabi para Meninas ( Completa 10 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KYW77M4AEUWCDWRTWCLGP7HYBSABFCPO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fP4tqF73imWZ6ZKyk6VDigQZV2p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fVUPu1hRoOf2ZlDnwFm0vYPbwLE.jpg</fannart>
+<info>[B]Sinopse: Nesta prestigiosa escola só para meninas, um grupo bola planos arriscados para se vingar dos bullyings.  
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Vingança Sabor Cereja  ( Completa 08 EPS) 720p [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OXYBFZTMKDHKNJKOAKCXNAESMQI6C4BP</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Uiczm9MGJmTUyhO0Dh1tENr39G.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mdPiSmQgydmdgZtFwAI4lr60yQY.jpg</fannart>
+<info>[B]Sinopse: Lisa Nova é uma aspirante a diretora de cinema, no mundo ensolarado e úmido de 1990, em Los Angeles. Ela embarca em uma jornada das ruas de Beverly Hills às florestas do Brasil - numa vingança sobrenatural. 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Desaparecido para Sempre  ( Completa 05 EPS) 720p[COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OLHEAXQGJXKE5EIK2ERHM3XN4VOSJWQA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qpKmeIGC6bHTwnh6IC796m3Jiuw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rtWAgl3DBOguSuAoQMn6d7jK0vL.jpg</fannart>
+<info>[B]Sinopse: Guillaume Lucchesi, na casa dos trinta, viu morrer as duas pessoas que mais amava: Sônia, seu primeiro amor, e Fred, seu irmão. Dez anos depois, Judith, cujo amor fez sua vida valer a pena ser vivida novamente, de repente desaparece durante o funeral de sua mãe. Para encontrá-la, Guillaume terá que enfrentar todas as verdades que foram escondidas dele por sua família e amigos, bem como aquelas que há muito decidiu ignorar. Para melhor, mas principalmente para pior. Gone For Good (Desaparecido para Sempre), é a nova série da Netflix inspirada em um livro de Harlan Coben. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Mistério / Policial [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Missa da Meia-Noite ( Completa 07 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8194d74e702debeff8089c1ff494ae022345794</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4XbQb5YoWK9oMrlQdKwtZ1ccpC8.jpg</fannart>
+<info>[B]Sinopse: Quando um misterioso e carismático padre chega na pequena e isolada ilhota de Crockett Island, as divisões já existentes são amplificadas por eventos e aparentes milagres inexplicáveis, renovando um fervor religioso em seus habitantes mas será que esses milagres vêm com um preço? 
+[COLOR white][B] Gênero:  [COLOR lime]Drama / Mistério / Terror [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] A Mais Pura Verdade ( Completa 07 EPS) 720p[COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GIYPIKK2MSR257HIPKBBV3F5NJUTT5NQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yGpmZYJ8fb543B3tIKjzcRHgJsX.jpg</fannart>
+<info>[B]Sinopse: Numa temporada de shows do humorista na Filadélfia, Kid corre risco de destruir seu legado artístico após uma noite de consequências imprevisíveis na companhia de Carlton. 
+[COLOR white][B] Gênero:  [COLOR lime]	Drama / Policial / Suspense [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Os Parques Nacionais Mais Fascinantes do Mundo ( Completa 05 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4KUSQF4P6HYFXSDMECU27XRW3M2SGAG7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jDsKHRBhqVPDgFeE7GSpDuP3U1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/59ajV5dGQ1pgnb0PLRZvYFnRmxV.jpg</fannart>
+<info>[B]Sinopse: Narrada pelo ex-presidente Barack Obama, esta série documental destaca alguns dos parques nacionais mais espetaculares do planeta. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentário[/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Conversando com um Serial Killer - O Palhaço Assassino ( Completa 04 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6WEIHR4ZWGWNIRZD43FDJXKATGCG3BU</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hC9eC9TdSFav6OZM0PffiwzlNn2.jpg</fannart>
+<info>[B]Sinopse: A série documental irá explorar o caso de John Wayne Gacy, mais conhecido como o palhaço assassino. Traçando um histórico cronológico em paralelo com o perfil de John Wayne a produção teve acesso a mais de 60 horas de conversas com o assassino que, até então, nunca haviam sido disponibilizadas para o público. Durante os anos 1970, Gacy assassinou 33 homens e os enterrou em um espaço pequeno em sua casa localizada no subúrbio de Chicago. Nas conversas recuperadas para a série, o assassino revisita os assassinatos que cometeu, seu julgamento e também o estado mental após a resolução de tudo. Além disso, os episódios buscam explicar como a cultura da década de 70 permitiu que Gacy permanecesse impune e irrastreável por anos até ser preso. 
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Documentário / Policial [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Santa Evita ( Completa 07 EPS) 720p[COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q4H2N3AV325CF726HIAJTVL4GXHPLVSN</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jc9rB1qmw2aCsekYrCpsq31opko.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/esg1tiBP3yxvviYtxznnGV6tI8o.jpg</fannart>
+<info>[B]Sinopse: A história de Eva Perón após sua morte. Evita morreu, mas seu corpo ficou três anos esperando a construção de um monumento que nunca foi construído. Em 1955, os militares derrubaram o presidente Perón e esconderam o corpo por 19 anos. Figura política fundamental, seu cadáver influenciou todo um país por mais de duas décadas, tornando-se parte da mitologia argentina.
+[COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Compulsion ( Completa 04 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MPUUEKA5VRAML442YOWPBVIBLPGWRRML</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdUvSiw0t6G86FRAP2CGYh0ReD6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4TnLTeNWOfc6yWkPuqrMGAUjwIA.jpg</fannart>
+<info>[B]Sinopse: Depois de sobreviver a uma tragédia, a paramédica Jenny Challoner luta contra o PTSD. Escondendo seu sofrimento do marido Chris, da amiga Alison e da filha Rosie, a vida de Jenny fica fora de controle.
+[COLOR white][B] Gênero:  [COLOR lime]Drama [/COLOR][/B]</info>
+</item>
+###################################################################################################################
+<item><title>[B][COLOR yellow]######[COLOR white] Ed Kemper: A Mente de um Monstro( Completa 3 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:935c3121a9f317d2cdc682cd02818ab0711a115c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gbF4s113mRByPqGf87KjYtb6srS.jpg</fannart>
+<info>[B]Sinopse: Ed Kemper parece um gigante gentil que ajuda jovens. Mas por trás de seu sorriso charmoso, há um monstro pervertido. Gravações revelam as fantasias sombrias de um dos assassinos em série mais famosa dos Estados Unidos. 
+[COLOR white][B] Gênero:  [COLOR lime]Documentário / Policial [/COLOR][/B]</info>
+</item>
+###################################################################################################################
 
-<item><title>[B][COLOR yellow]######[COLOR white] Infiniti ( Completa 10 EPS) [COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] Infiniti ( Completa 03 EPS) 720p[COLOR lime] NEW  [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3h5VpRcCeUk0alWx2nsv0D5CYy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m4Stmu3Xdbk0Dn7ypvS3iKmOORN.jpg</fanart>
@@ -26,7 +337,7 @@
 </item>
 
 ###################################################################################################################
-<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]Dahmer - Um Canibal Americano [COLOR yellow]( Completa 10 EPS) [COLOR lime] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
+<item><title>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] Dahmer - Um Canibal Americano [COLOR yellow]( Completa 10 EPS) [COLOR lime] NEW [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</title>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?urimagnet:?xt=urn:btih:THG6TJVU4DZLCQNLEXRTI23HGKBI5AXB</link>
 <fanart>https://www.themoviedb.org/t/p/original/5AzjmGoqRNGytd8bOKoDcWxhjV2.jpg</fanart>
@@ -34,7 +345,7 @@
 [COLOR white][B] Gênero:  [COLOR lime]Biografia / Drama / Policial[/COLOR][/B]</info></item>
 ###################################################################################################################
 
-<item><title>[B][COLOR yellow]######[COLOR white]Chicago Justice [COLOR yellow] 720p [COLOR lime] COMPLETA  13 EPS [COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] Chicago Justice [COLOR yellow] 720p [COLOR lime] COMPLETA  13 EPS [COLOR yellow]######[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOVTYM1OvxysWRV6uvBBm8pUKcM.jpg</thumbnail>
 <fanart></fanart>
@@ -60,7 +371,7 @@
 <item><title>[B][COLOR white]EP - [COLOR yellow]09[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acab4889168724c5f30ed554ad30f93499a74a5d</link></item>
 ######################################################################################################################
-<item><title>[B][COLOR white]EP - [COLOR yellow]10[/COLOR][/B]</title>
+<item><title>[B][COLOR white]EP - [COLOR yellow]10COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cb60d4858914248393940215ef311e1aaf6e6f</link></item>
 ######################################################################################################################
 <item><title>[B][COLOR white]EP - [COLOR yellow]11[/COLOR][/B]</title>
@@ -74,7 +385,7 @@
 ###################################################################################################################
 
 
-<item><title>[B][COLOR yellow]######[COLOR white]A Tempestade do Século [COLOR yellow] 720p [COLOR lime] COMPLETA 3 EPS [/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] A Tempestade do Século [COLOR yellow] 720p [COLOR lime] COMPLETA 3 EPS [/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D2C1D253A4F135A2DC79E6AACFF608AE3EDD476</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKvoUWrH9kh5jUCECrswLPRSrfi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zt4aWX2SVMXKGoCZ5lHC2mNP1Uv.jpg</fanart>
@@ -83,7 +394,7 @@
 </item>
 ###################################################################################################################
 
-<item><title>[B][COLOR yellow]######[COLOR white]11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS[/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow]######[COLOR white] 11.22.63 [COLOR yellow] 720p [COLOR lime] COMPLETA 8 EPS[/COLOR] NEW[COLOR yellow]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A7FAAA7BBF7F63C60F997057961B666E64C580A</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4M1NAKPpBFuLkvIXEWlhzebfe38.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fp1YvQnhOvPUnXW8mLfeCz5bwdp.jpg</fanart>
@@ -138,7 +449,7 @@
 </item>
 ###################################################################################################################
 
-<item><title>[B][COLOR crimson]######[COLOR white]Nevenka - Quebrando o Silêncio[COLOR yellow] 1080p  [COLOR lime] COMPLETA  3 Episodeos [COLOR crimson]######[/COLOR][/B]</title>
+<item><title>[B][COLOR crimson]######[COLOR white] Nevenka - Quebrando o Silêncio[COLOR yellow] 1080p  [COLOR lime] COMPLETA  3 Episodeos [COLOR crimson]######[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7785e3d7e94fd37668d4f66ebf1417960046bf6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j80amTos07kMVbNyF4msh3EhDcy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/16OnTsKLBnF7dDqQl0YIrWM6h5R.jpg</fanart>
