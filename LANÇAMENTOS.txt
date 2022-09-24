@@ -26,20 +26,7 @@
 <fanart>https://www.themoviedb.org/t/p/original/mZWesQkqzH35Jsgp5N8CHUFCjy4.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Uma mulher é recrutada por uma vizinha para ajudar a encontrar sua filha sequestrada. Lou (Allison Janney) leva uma vida tranquila, acreditando ter abandonado seu passado perigoso. Até que uma mulher desesperada (Jurnee Smollett) implora a ajuda dela para salvar a filha sequestrada. Em meio a uma grande tempestade, as duas se arriscam em uma missão de resgate que coloca seus limites à prova e revela terríveis segredos do passado. O filme é estrelado pela vencedora do Oscar Allison Janney e a indicada ao Emmy Jurnee Smollett, com Logan Marshall-Green e Ridley Asha Bateman. Direção de Anna Foerster, roteiro de Maggie Cohn e Jack Stanley e produção de JJ Abrams, Hannah Minghella e Jon Cohen, da Bad Robot. 
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Policial [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Pokémon - As Crônicas de Arceus[COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b11340e141855cef027173d57a7c86646e1820d9</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hQrtZVUcPx3R0PWgYIFuJHvy6RK.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uhaAy3dOCRKwqFUZpTjL5I7ZUz3.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Ao investigarem a lenda do mítico Pokémon Arceus, Ash, Goh e Dawn descobrem uma conspiração da Equipe Galáctica que ameaça o mundo
-[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Fantasia [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Jujutsu Kaisen 0 [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caca57ec89df69bbfdf81b86bbb1fd1d5e752f72</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rcEDPOOOUTLFxLLQJggfLffbofe.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]A história acompanha Itadori Yuji, um colegial com habilidades físicas surpreendentes que acaba envolvido em uma trama onde humanos com poderes únicos, os feiticeiros, lutam contra as temidas maldições espirituais. 
-[COLOR white][B] Gênero:  [COLOR lime]	Ação / Animação / Anime / Fantasia [/COLOR][/B]</info></item>
+
 ##############################################################################################################
 <item><title>[B][COLOR white]O Perfumista [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4N5ELCPXOPACX7QOJZE6KPZPGXVDMDFY</link>
@@ -75,13 +62,6 @@
 <fanart>https://www.themoviedb.org/t/p/original/gOoO9yuFoFAprHNP0ojo9dhxWFm.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]O único foco de Honor é entrar em Harvard. Disposta a fazer o que for preciso, Honor inventa um plano para derrubar seus três principais concorrentes, até que as coisas mudam quando ela inesperadamente se apaixona por sua maior competição. 
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Drifting Home [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3aca7eb250fa3cd6fe79664feef6b5c9e1e80914</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iNf1wC8cK6e8zgNyuMUqWFT7Din.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7id7oE3gqZuO0piWN20Ev7V90wl.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B] Kousuke e Natsume são amigos desde a infância, mas com o passar do tempo, a relação entre os dois alunos da sexta série parece tensa, pois eles continuam se evitando. Um dia, durante as férias de verão, eles visitam um conjunto habitacional que está programado para ser demolido. Tendo crescido lá, o lugar guarda muitas memórias, mas durante o jogo, eles de repente se envolvem em um fenômeno misterioso. Quando recuperam a consciência, eles vêem um oceano inteiro à sua frente enquanto o complexo habitacional se transforma em um mar misterioso com Kousuke, Natsume e outros nele. Eles serão capazes de retornar ao seu mundo anterior? Uma jornada de despedida de verão começa ...
-[COLOR white][B] Gênero:  [COLOR lime]Animação / Anime / Aventura / Drama [/COLOR][/B]</info></item>
 ##############################################################################################################
 <item><title>[B][COLOR white]Justiceiras [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PO2GEFMRKXPQRLE24R6XDLYEBRQROBAI</link>
