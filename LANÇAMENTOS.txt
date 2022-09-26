@@ -6,6 +6,13 @@
 <info>Sinopse: [COLOR yellow][B]Pureza é um filme sobre uma mulher muito simples do interior do Brasil, que se vê obrigada a se lançar no mundo em uma perigosa jornada para tentar encontrar seu filho, vítima do trabalho escravo contemporâneo em uma fazenda nas profundezas da Amazônia.
 [COLOR white][B] Gênero:  [COLOR lime] [/COLOR][/B]</info></item>
 ##############################################################################################################
+<item><title>[B][COLOR white]Trem-Bala [COLOR yellow] ( 1080p )[COLOR crimson]NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRFHGDXAZPCLM2TMCV4LLLIEOFXRBX7Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/glkQZXAA0QbF5BPDJKRzBNOORMl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pdD47rPAYKVdPasoyhSAFPIFIWo.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si.
+[COLOR white][B] Gênero:  [COLOR lime] Ação / Suspense[/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] [COLOR yellow]O Homem do Jazz [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:238c87cf2dbc99bdd5efb65da69e8f6594b2a416</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/juvKmySdoCFmjuPeokOtEK3jGHx.jpg</thumbnail>
