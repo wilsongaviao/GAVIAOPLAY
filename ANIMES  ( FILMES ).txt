@@ -1,4 +1,18 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Curtas dos Minions Volume 1[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc56a21b0d405cdae56b190ab9b0cf351e8a55e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e04iBCX3582bPRsYUb82texxZIY.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Esta coletânea de curtas da franquia Meu Malvado Favorito inclui mini-filmes como Rodas de Treino, Filhotinho e Amarelo é o Novo Preto. 
+[COLOR white][B] Gênero:[COLOR lime]Animação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Pokémon - As Crônicas de Arceus[COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b11340e141855cef027173d57a7c86646e1820d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hQrtZVUcPx3R0PWgYIFuJHvy6RK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uhaAy3dOCRKwqFUZpTjL5I7ZUz3.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Ao investigarem a lenda do mítico Pokémon Arceus, Ash, Goh e Dawn descobrem uma conspiração da Equipe Galáctica que ameaça o mundo
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Fantasia [/COLOR][/B]</info></item
+##############################################################################################################
 <item><title>[B][COLOR white]Drifting Home [COLOR yellow] [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iNf1wC8cK6e8zgNyuMUqWFT7Din.jpg</thumbnail>
