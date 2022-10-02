@@ -1,4 +1,67 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Alienoid[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F99A87BD8E870F575B3214D541A25208B5B464</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qHXTUUJ3Rsxw67Ns75u6RdGNaMJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vqc2YTZCIE4nYvJPb6C9KkbdZ3h.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A porta do tempo se abre entre o espadachim que quer apoderar-se da lendária espada divina no final da Dinastia Goryeo e aqueles que perseguem um prisioneiro alienígena preso em um corpo humano em 2022.
+[COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura / Fantasia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Sistema K.E.OP/S  [COLOR yellow] ( 720p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23EF6A6CABC7B9D7500F598C582F0DC863A82BF7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIOoD5Bx8ui7I7uM5D1ZRs68Ilx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fgDPKsZetkRu9XeYdAfiBpTAPi0.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um roteirista está sendo perseguido por um grupo sinistro, então decide se unir a um velho amigo em busca da verdade. Mas essa jornada só vai trazer caos e violência.[COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Mistério [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Vesper [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faa2b0b52f7674eff5ba36aa9f200a2916ea7c9c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iFn5mPtLqjOk6uBRuzYu2quVm7r.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois do colapso do ecossistema terrestre, uma garota de 13 anos lutando para sobreviver com o seu pai paralisado, encontra uma misteriosa mulher com um segredo que força Vesper a usar sua inteligência, força e suas habilidades de biohacking na batalha pela possibilidade de um futuro.
+[COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Phantoms [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:679F3A6B043E7006993B935DDB2F281C8DE5DD32</link>
+<thumbnail>https://abutretorrents.com/imagens/the-phantoms-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/9DCWKupDWMBAsuF1FEHmgwokddG.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um jovem casal na cidade tem seu mundo virado de cabeça para baixo quando Lindsay começa a sofrer de pesadelos, alucinações e outras ocorrências peculiares. Enquanto Dan faz o possível para ajudar, uma verdade inesperada se revela. O Grande Despertar está aqui.
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Wheres Rose [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9cTOkOWATBoQvtHY6SAJhkiNciF.jpg</thumbnail>
+<fanart>https://londonhorrorsociety.co.uk/wp-content/uploads/2021/10/wheres-rose-2.png</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando uma garotinha é encontrada depois de desaparecida, apenas seu irmão mais velho reconhece a força do mal que retornou em seu lugar. Eric Daniels (Simpkins) é o astro do time de futebol americano da faculdade e todos o admiram na cidade em que vive admiram. Quando sua irmã mais nova desaparece, ele faz de tudo para encontrá-la, com sucesso. No entanto, Eric é o único a desconfiar que Rose não é a mesma que já foi um dia, então ele passa a investigar o que realmente aconteceu com ela. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense / terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Slayer Chronicles - Volume 1 [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F721B0FC93BA33C4B46AA8B90A44555F9CEC644F</link>
+<thumbnail>https://abutretorrents.com/imagens/the-slayer-chronicles-volume-1-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d0a1fa9ad02ca9650d5b93547eaf0e8d05afb9ecc653b09b115aab5bf4e9d50d._RI_.png</fanart>
+<info>Sinopse: [COLOR yellow][B] Raven Cross recebe um curso intensivo sobre o sobrenatural quando descobre que é uma caçadora de vampiros e membro de um coven de trabalhadores da luz encarregados de proteger o véu. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Tom [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5ED148CA299556EE141759009F8888BF2E7DC32</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mYfGeHFDXO3dosBhJZtrdtYmip.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/--SzLgSkieU/maxresdefault.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma pequena cidade com segredos é aterrorizada por uma entidade demoníaca. À medida que a loucura reina, as perguntas são respondidas.
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Wolves of War [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A10CFC530F704408FB0D897DA8E7737A79F3716F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rfKvX0oB3YyJfYEtUe2TazaQdRq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/65QLeu4WFVm9B1PQYtpj5g4IYO8.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]No final da Segunda Guerra Mundial, um oficial britânico lidera uma tropa de aliados em território inimigo na Baviera em uma última missão impossível para extrair um americano refém dos nazistas.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Guerra / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Wayward [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D618DA817B28413B635C47C76CC195CECFE5D33</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FoonJPdi7dx6vrIA2hL6fGkG5k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FoonJPdi7dx6vrIA2hL6fGkG5k.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de um encontro fofo em um bar, a viagem de Dawn e Micah para Portland se transforma em um pesadelo quando eles são caçados por um infame serial killer conhecido como Mechanic Maniac. 
+[COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white] Órfã 2 - A Origem[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0092bae1ff835443d8d5e7ca7030ee5494ee3f29</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg</thumbnail>
