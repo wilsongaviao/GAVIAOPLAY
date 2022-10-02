@@ -1,9 +1,4 @@
-###################################################################################################################
-<item><title>[B][COLOR white]GREATEST HITS GOLDEN OLDIES - 60S & 70S & 80s e 90s [/COLOR][/B]</title>
-<link>https://www.mediafire.com/file/qwq1i01xjzeluod/POP_ROCK_HITS.mp3/file</link>
-<thumbnail>https://i.ytimg.com/vi/2y5DHRHLOHo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7cE-bfqqFWhPosBcEmxlR24q1_w</thumbnail>
-<fanart>https://i.postimg.cc/FHL4gGZy/RADIOGOLDEN-OLDIES.jpg</fanart>
-<info>[B]Sinopse:[COLOR yellow]14 HORAS PRA VC OUVIR GRANDES SUCESSOS DA DECADA DE 6O , 70 ,80 e 90 , TER BOAS RECORDAÇÕESE RELEMBRAR O PASSADO ATRAVES DOS SUCESSOS DESSA COLETANEA[/COLOR][/B]</info></item>
+
 ###################################################################################################################
 <item><title>[B][COLOR white]LOVE FLASHBACK VOL 5 [/COLOR][/B]</title>
 <thumbnail>https://i.postimg.cc/W4DXfP0M/love-colection5.jpg</thumbnail>
