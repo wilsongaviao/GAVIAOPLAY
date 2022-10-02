@@ -1,4 +1,9 @@
-
+###################################################################################################################
+<item><title>[B][COLOR white]THE BEST OF POP ROCK HITS [COLOR crimson] NEW[/COLOR][/B]</title>
+<link>https://ia601400.us.archive.org/13/items/pop-rock-hits_202210/POP%20ROCK%20HITS.mp3?cnt=0</link>
+<thumbnail>https://i.postimg.cc/k4WPpbNN/he-best-ofpop-rock-hits.jpg</thumbnail>
+<fanart>https://i.postimg.cc/mgDKPNyD/fanart-the-best-of-pop-rock-hits-JPG.jpg</fanart>
+<info>[B]Sinopse:[COLOR yellow]14 HORAS PRA VC OUVIR GRANDES SUCESSOS DA DECADA DE 6O , 70 ,80 e 90 RELEMBRAR O PASSADO ATRAVES DOS SUCESSOS DESSA COLETANEA, UMA VERDADEIRA VIAGEM NO TEMPO ATRAVÉS DAS MUSICAS[/COLOR][/B]</info></item>
 ###################################################################################################################
 <item><title>[B][COLOR white]LOVE FLASHBACK VOL 5 [/COLOR][/B]</title>
 <thumbnail>https://i.postimg.cc/W4DXfP0M/love-colection5.jpg</thumbnail>
