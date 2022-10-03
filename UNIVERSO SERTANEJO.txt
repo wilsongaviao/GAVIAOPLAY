@@ -1,3 +1,33 @@
+<item><title>[B][COLOR white]UNIVERSO SERTANEJO 1[/COLOR][/B]</title>
+<link>https://ia801508.us.archive.org/24/items/universo-sertanejo/Universo%20Sertanejo.ia.mp4?cnt=0</link>
+<thumbnail>https://i.postimg.cc/qRQf1BLj/universo-sertanejo.jpg</thumbnail>
+<fanart>https://i.postimg.cc/YqvcxHmz/Untitled-1.jpg</fanart>
+<info>[B][COLOR yellow]PRIMEIRO VOLUME DESSA COLETÂNEA DE MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS,UMA COLETANEA PARA RECORDAR OS BOMNS MOMENTOS VIVIDOS PELO CORAÇÃO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]UNIVERSO SERTANEJO 2[/COLOR][/B]</title>
+<link>https://ia801504.us.archive.org/8/items/universo-sertanejo-2/Universo%20Sertanejo2.ia.mp4?cnt=0</link>
+<thumbnail>https://i.postimg.cc/8cn2Vyxv/universo-sertanejo2.jpg</thumbnail>
+<fanart>https://i.postimg.cc/YqvcxHmz/Untitled-1.jpg</fanart>
+<info>[B][COLOR yellow]SEGUNDO VOLUME DESSA COLETÂNEA DE MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS,UMA COLETANEA PARA RECORDAR OS BOMNS MOMENTOS VIVIDOS PELO CORAÇÃO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]UNIVERSO SERTANEJO 3[/COLOR][/B]</title>
+<link>https://ia801406.us.archive.org/33/items/universo-sertanejo-3/Universo%20Sertanejo3.ia.mp4?cnt=0</link>
+<thumbnail>https://i.postimg.cc/0jNTFgXx/universo-sertanejo3.jpg</thumbnail>
+<fanart>https://i.postimg.cc/YqvcxHmz/Untitled-1.jpg</fanart>
+<info>[B][COLOR yellow]TERÇEIRO VOLUME DESSA COLETÂNEA DE MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS,UMA COLETANEA PARA RECORDAR OS BOMNS MOMENTOS VIVIDOS PELO CORAÇÃO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]UNIVERSO SERTANEJO 4[/COLOR][/B]</title>
+<link>https://ia801400.us.archive.org/9/items/universo-sertanejo-4/Universo%20Sertanejo%204.ia.mp4?cnt=0</link>
+<thumbnail>https://i.postimg.cc/bvjK8SVm/universo-sertanejo4.png</thumbnail>
+<fanart>https://i.postimg.cc/YqvcxHmz/Untitled-1.jpg</fanart>
+<info>[B][COLOR yellow]QUARTO VOLUME DESSA COLETÂNEA DE MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS,UMA COLETANEA PARA RECORDAR OS BOMNS MOMENTOS VIVIDOS PELO CORAÇÃO[/COLOR][/B]</info></item>
+###################################################################################################################
+<item><title>[B][COLOR white]UNIVERSO SERTANEJO 5[/COLOR][/B]</title>
+<link>https://ia601507.us.archive.org/32/items/universo-sertanejo-5/Universo%20Sertanejo%205.ia.mp4?cnt=0</link>
+<thumbnail>https://i.postimg.cc/zDtZWB3f/Universo-Sertanejo5.jpg</thumbnail>
+<fanart>https://i.postimg.cc/YqvcxHmz/Untitled-1.jpg</fanart>
+<info>[B][COLOR yellow]QUINTO VOLUME DESSA COLETÂNEA DE MUSICAS SERTANEJAS QUE FIZERAM SUCESSOS,UMA COLETANEA PARA RECORDAR OS BOMNS MOMENTOS VIVIDOS PELO CORAÇÃO[/COLOR][/B]</info></item>
+###################################################################################################################
 <item><title>[B][COLOR white]TOP SERTANEJO 2021[/COLOR][/B]</title>
 <link>https://ia801405.us.archive.org/15/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4</link>
 <thumbnail>https://i.postimg.cc/pThrQRHQ/TOPSERTANEJO2021.jpg</thumbnail>
