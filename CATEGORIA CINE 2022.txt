@@ -18,14 +18,3 @@
 <info>[B][COLOR yellow]PARA QUEM GOSTA DO SOM ORIGINAL,TODOS OS FILMES INTERNACIONAIS LANÇADOS  E SEM DUBLAGEM ORIGINAL, COM LEGENDAS ESTARAO AQUI,ALGUMA OUTRA INDICAÇÃO FAVOR ENTRAR EM CONTATO[/COLOR][/B]</info>
 </channels>
 </channel>
-###################################################################################################################
-<channels>
-<channel>
-<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] CINE 2022  ( C A M ) [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/Gpr83cPx/CNE-2022-CAM.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/CINE%202022(CAM)</externallink>
-<fanart>https://i.postimg.cc/63JHp4j1/FANART-CINE-2022-CAM.jpg</fanart>
-<info>[B][COLOR yellow]FILMES GRAVADOS POR CAMERA DENTRO DO CINEMA, FILMES INTERNACIONAIS E NACIONAIS LANÇADOS  E AINDA NAO DISPONIVEIS EM QUALIDADE ORIGINAL, COM LEGENDAS OU DUBLADOS,ESTARÃO AQUI,ALGUMA OUTRA INDICAÇÃO FAVOR ENTRAR EM CONTATO[/COLOR][/B]</info>
-</channels>
-</channel>
-###################################################################################################################
