@@ -1,4 +1,39 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Vendhu Thanindhathu Kaadu [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36A5BE48C42E4CB9E53C7D09930388BF3C2F07B0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7z2D25a4h4hs8PHrTia8pPkHijE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1L0BG4iYnVEpBvG5RjiiMkld2r5.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Muthu, um jovem de casta baixa, vive nas ruas de Mumbai. Sua busca o leva a uma série de eventos inesperados, onde ele se envolve nas atividades clandestinas dos gângsteres tâmeis de Mumbai. Será que ele vai chegar ao topo? [COLOR lime] DUBLAGEM NÃO OFICIAL.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Policial [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Pearl: Uma História de Origem 'X' [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E5B8A696C4A494997221FB8D82696786116160B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a6SnT3uD5kCrCNkNwng8FmXJXZf.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Presa na fazenda isolada de sua família, Pearl deve cuidar de seu pai doente sob o olhar amargo e autoritário de sua mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, as ambições, tentações e repressões de Pearl colidem, na impressionante história de origem inspirada em technicolor do icônico vilão de X.
+[COLOR white][B] Gênero:  [COLOR lime]Terror</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Clerks III  [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28C40DDF3A8E9E2E8EE3A1A324B5C00AD99144BB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ucTBE4H89ZGwIhMaAbRbBo0cxkj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pi73CGTO9UXnKQOJ1LTw9NIQUYw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Depois de sobreviver por pouco a um ataque cardíaco, Randal pede a seu velho amigo Dante para ajudá-lo a fazer um filme imortalizando seus dias de juventude na pequena loja de conveniência que começou tudo. 
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Mona Lisa and the Blood Moon  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9E2E35FB6BC538DB40D443D00AD3007D346D8887</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4hAbfpBqd8benyV0N2nYE2qU46M.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w2C8I7zANeiOLvTIrvnKPiedvma.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Uma garota com habilidades estranhas e perigosas escapa de um asilo mental e se junta ao caos da civilização moderna, nas ruas hedonistas do French Quarter. 
+[COLOR white][B] Gênero:  [COLOR lime]Fantasia / Mistério / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]The Kiwi [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85B58CEF82AED528704E6D8BC8A2692679BE491E</link>
+<thumbnail>https://abutretorrents.com/imagens/the-kiwi-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/the-kiwi-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um perdedor de 30 anos luta para conquistar o amor de uma garota derrotando seu namorado babaca jogador de golfe profissional. 
+[COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Alienoid[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F99A87BD8E870F575B3214D541A25208B5B464</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qHXTUUJ3Rsxw67Ns75u6RdGNaMJ.jpg</thumbnail>
