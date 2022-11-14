@@ -1,4 +1,11 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Adão Negro - CAM [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PJBF3IE6SUHUDEG7BW4NSVADGLNRHMJO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qBx97wytqlyPqXATHqRgIVFxJRU.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Fantasia / Ficção [/COLOR][/B]</info></item>
+##############################################################################################################
 <item><title>[B][COLOR white]Pantera Negra - Wakanda Para Sempre  [COLOR yellow] ( CAM )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RALAZGJBFCSOVE45QGI2NNBHHN3MDF3A$nome=[B] LINK 1 [COLOR yellow]CAM[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0FFC254C8964A60A5DBF6EB7E2CCBF6BC7CC2B2$nome=[B] LINK 2 [COLOR yellow]CAM[/COLOR][/B]</link>
