@@ -1,3 +1,15 @@
+
+###################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TRAVESSIA [/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/GAVIAOPLAYER/main/TRAVESSIA.txt</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/jANJGWIKavzyREXUMCHiXFzitDO.jpg</fanart>
+<info>[B][COLOR yellow]Brisa é uma maranhense que tem sua imagem ligada a uma deep fake. Ela começa a ser perseguida por populares e precisa fugir para o Rio de Janeiro. Brisa também parte para o sudeste em busca do marido, Ari, que a abandona junto com o filho no Maranhão. De caráter duvidoso, o rapaz se apaixona e vai atrás da rica Chiara. No Rio de Janeiro, a moça pretende recomeçar a sua vida. Ela quer provar sua inocência e reaver a guarda do filho, que ficou no Nordeste com sua sogra, Núbia. Para tentar se desvincular do crime, a mocinha conta com a ajuda de Otto. Trata-se de um hacker habilidoso que pretende acabar com o crime.
+[COLOR white][B] Gênero:  [COLOR lime]Comédia / Drama / Nacional / Romance [/COLOR][/B]</info>
+</channels>
+</channel>
 ###################################################################################################################
 <channels>
 <channel>
