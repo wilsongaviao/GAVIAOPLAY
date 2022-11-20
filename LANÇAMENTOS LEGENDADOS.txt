@@ -1,96 +1,159 @@
+
 ##############################################################################################################
-<item><title>[B][COLOR white]Vendhu Thanindhathu Kaadu [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Detective Knight: Rogue [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CDBB7070BD737388D85D1B9BB7C090E0014FF60</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zNE4oUkZnpbCpFiJbbaX4YJOPmE.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Enquanto Los Angeles se prepara para o Halloween, ladrões armados usando máscaras feriram gravemente o parceiro do detetive James Knight em um tiroteio após um assalto. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Suspense [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Detective vs. Sleuths [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9FA94C49969AB257569B73ECD3CB55CB4450F3B</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkrReqcJHVr0yNF2hOnPqPRcRP4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/70DKGgzTwyC7fr3FGM6JSHGqmPm.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quando Hong Kong é abalada por vários assassinatos horríveis, a polícia forma uma força-tarefa para investigar. Jun, que já foi um detetive brilhante que sofreu um colapso mental, começa sua própria investigação. Eventualmente, a polícia descobre que as vítimas de assassinato são todas suspeitas de casos arquivados sendo eliminados por uma figura conhecida como “O Detetive”. Agora, Jun e um detetive da força-tarefa estão em uma corrida contra o tempo para derrotar o brutal assassino em seu próprio jogo. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Mistério / Policial [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Bosch & Rockit [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10EA580C29B10556843E4E3C1AACBC9F122D77FE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z6Ay2MUXLo3vLhp1KB0aY6hix8A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hyGHYdlqup8yCFfxCu0jiMMlC14.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B] Enquanto Rockit luta para entender por que sua mãe não volta para casa, ele embarca em férias mágicas com seu pai, Bosch, apenas para descobrir que eles estão realmente fugindo da lei. Rockit encontra uma alma gêmea e depois um amor adolescente com Ash Ash, mas é o oceano que lhe dá a segurança e a calma que ele anseia de seus pais. Em última análise, Rockit é um menino criado e mantido pela natureza. 
+[COLOR white][B] Gênero:  [COLOR lime]DramaLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Duas Bruxas  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B821FBF31EDC5E7B6387A4D6257ED6735CE661D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uL9fFTdNmUUlKIJfHJclN5X3bxH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wUwFMnbFxuDfcRSGGT7QQIGDRrH.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A passagem do legado maligno entre uma avó bruxa para sua neta e as terríveis consequências para as pessoas que cruzarem seus caminhos.
+[COLOR white][B] Gênero:  [COLOR lime]Terror][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]O Sistema [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E180059AD23619924B264CBA64015F0AE5C8298</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2uRMlptbfEpXVU4uj6wDljHAzFD.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Após uma apreensão de drogas, um ex-fuzileiro naval é recrutado pelas autoridades para se esconder em uma prisão notoriamente perigosa. Depois de descobrir um ringue de luta subterrâneo, ele deve lutar para permanecer vivo e derrubar o sistema corrupto
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Policial [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Prisioneiros da Fé [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22293ACB37FE3E6F12C496AC847AAED4731FDE57</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b0RVk84hfXYOFGw7w1RIjPuCW39.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsntWD1xRFtCMlmnUuccVIOTOva.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Embora em cadeias, eles viviam livres por causa da fé. Esta é a comovente história de Georgi, Fyodor e Bekir, três cristãos russos que milagrosamente se encontraram na mesma prisão. O diretor do campo de concentração não entende como tamanho erro pôde acontecer. Conheça suas lutas, alegrias e tristezas. E veja como Deus fortalece a fé em meio a uma perseguição e escárnio por parte dos opositores. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]suspense][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]V/H/S/99 [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4E8B37C185B4052F18069969194071B9DCD682D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xXtbbkiNEiZsC92Si7TObR56Vom.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]V/H/S/99 remonta aos últimos dias analógicos do punk rock do VHS, enquanto dá um salto gigante para o novo milênio infernal. Em V/H/S/99, o vídeo caseiro de um adolescente sedento leva a uma série de revelações horríveis. 
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Terror Train [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE6887D55254145803E0C741281E97B0049AA125</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeDVKkeCk9U75a0TZ4mezylXy3j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fsFcHuCD9Phb4Y5stMnwY9NyDQw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Alana e um grupo de universitários embarcam em um trem festivo para uma festa temática de Halloween, mas sua diversão se transforma em medo quando um misterioso assaltante começa a matar os passageiros um por um. 
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hounded [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91441509118B682AEF758C796639D54024D17605</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdVz9dUv2YvNQil4svLAiUTuY28.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/BgBXBqAukHxt6WKb7Iw49LW0DW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um assalto a uma casa imponente toma um rumo maligno uma noite, quando uma gangue de jovens ladrões é capturada pelos donos da casa e depois caçada em toda a propriedade para o entretenimento do proprietário. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Vendhu Thanindhathu Kaadu [COLOR yellow] ( C A M )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36A5BE48C42E4CB9E53C7D09930388BF3C2F07B0</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7z2D25a4h4hs8PHrTia8pPkHijE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1L0BG4iYnVEpBvG5RjiiMkld2r5.jpg</fanart>
-<info>Sinopse: [COLOR yellow][B]Muthu, um jovem de casta baixa, vive nas ruas de Mumbai. Sua busca o leva a uma série de eventos inesperados, onde ele se envolve nas atividades clandestinas dos gângsteres tâmeis de Mumbai. Será que ele vai chegar ao topo? [COLOR lime] DUBLAGEM NÃO OFICIAL.
+<info>Sinopse: [COLOR yellow][B]Muthu, um jovem de casta baixa, vive nas ruas de Mumbai. Sua busca o leva a uma série de eventos inesperados, onde ele se envolve nas atividades clandestinas dos gângsteres tâmeis de Mumbai. Será que ele vai chegar ao topo?
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Drama / Policial [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Pearl: Uma História de Origem 'X' [COLOR yellow]()[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Pearl: Uma História de Origem 'X' [COLOR yellow]( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E5B8A696C4A494997221FB8D82696786116160B</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/a6SnT3uD5kCrCNkNwng8FmXJXZf.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Presa na fazenda isolada de sua família, Pearl deve cuidar de seu pai doente sob o olhar amargo e autoritário de sua mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, as ambições, tentações e repressões de Pearl colidem, na impressionante história de origem inspirada em technicolor do icônico vilão de X.
 [COLOR white][B] Gênero:  [COLOR lime]Terror</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Clerks III  [COLOR yellow] ( C A M )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Clerks III  [COLOR yellow] ( C A M )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28C40DDF3A8E9E2E8EE3A1A324B5C00AD99144BB</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ucTBE4H89ZGwIhMaAbRbBo0cxkj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pi73CGTO9UXnKQOJ1LTw9NIQUYw.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Depois de sobreviver por pouco a um ataque cardíaco, Randal pede a seu velho amigo Dante para ajudá-lo a fazer um filme imortalizando seus dias de juventude na pequena loja de conveniência que começou tudo. 
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Mona Lisa and the Blood Moon  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Mona Lisa and the Blood Moon  [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9E2E35FB6BC538DB40D443D00AD3007D346D8887</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4hAbfpBqd8benyV0N2nYE2qU46M.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/w2C8I7zANeiOLvTIrvnKPiedvma.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Uma garota com habilidades estranhas e perigosas escapa de um asilo mental e se junta ao caos da civilização moderna, nas ruas hedonistas do French Quarter. 
 [COLOR white][B] Gênero:  [COLOR lime]Fantasia / Mistério / Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]The Kiwi [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Kiwi [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85B58CEF82AED528704E6D8BC8A2692679BE491E</link>
 <thumbnail>https://abutretorrents.com/imagens/the-kiwi-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/the-kiwi-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Um perdedor de 30 anos luta para conquistar o amor de uma garota derrotando seu namorado babaca jogador de golfe profissional. 
 [COLOR white][B] Gênero:  [COLOR lime]Comedia [/COLOR][/B]</info></item>
-##############################################################################################################
-<item><title>[B][COLOR white]Alienoid[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Alienoid[COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F99A87BD8E870F575B3214D541A25208B5B464</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qHXTUUJ3Rsxw67Ns75u6RdGNaMJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vqc2YTZCIE4nYvJPb6C9KkbdZ3h.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]A porta do tempo se abre entre o espadachim que quer apoderar-se da lendária espada divina no final da Dinastia Goryeo e aqueles que perseguem um prisioneiro alienígena preso em um corpo humano em 2022.
 [COLOR white][B] Gênero:  [COLOR lime]	Ação / Aventura / Fantasia [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]O Sistema K.E.OP/S  [COLOR yellow] ( 720p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]O Sistema K.E.OP/S  [COLOR yellow] ( 720p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23EF6A6CABC7B9D7500F598C582F0DC863A82BF7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIOoD5Bx8ui7I7uM5D1ZRs68Ilx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fgDPKsZetkRu9XeYdAfiBpTAPi0.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Um roteirista está sendo perseguido por um grupo sinistro, então decide se unir a um velho amigo em busca da verdade. Mas essa jornada só vai trazer caos e violência.[COLOR lime] DUBLAGEM NAO OFICIAL
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Comédia / Mistério [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Vesper [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Vesper [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faa2b0b52f7674eff5ba36aa9f200a2916ea7c9c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iFn5mPtLqjOk6uBRuzYu2quVm7r.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Depois do colapso do ecossistema terrestre, uma garota de 13 anos lutando para sobreviver com o seu pai paralisado, encontra uma misteriosa mulher com um segredo que força Vesper a usar sua inteligência, força e suas habilidades de biohacking na batalha pela possibilidade de um futuro.
 [COLOR white][B] Gênero:  [COLOR lime]Aventura / Drama / Ficção [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]The Phantoms [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Phantoms [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:679F3A6B043E7006993B935DDB2F281C8DE5DD32</link>
 <thumbnail>https://abutretorrents.com/imagens/the-phantoms-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/9DCWKupDWMBAsuF1FEHmgwokddG.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Um jovem casal na cidade tem seu mundo virado de cabeça para baixo quando Lindsay começa a sofrer de pesadelos, alucinações e outras ocorrências peculiares. Enquanto Dan faz o possível para ajudar, uma verdade inesperada se revela. O Grande Despertar está aqui.
 [COLOR white][B] Gênero:  [COLOR lime]Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Wheres Rose [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<item><title>[B][COLOR white]Wheres Rose [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3ABA4939DB10DFA9B4C8083335BEC9420B8ED4A</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9cTOkOWATBoQvtHY6SAJhkiNciF.jpg</thumbnail>
 <fanart>https://londonhorrorsociety.co.uk/wp-content/uploads/2021/10/wheres-rose-2.png</fanart>
 <info>Sinopse: [COLOR yellow][B]Quando uma garotinha é encontrada depois de desaparecida, apenas seu irmão mais velho reconhece a força do mal que retornou em seu lugar. Eric Daniels (Simpkins) é o astro do time de futebol americano da faculdade e todos o admiram na cidade em que vive admiram. Quando sua irmã mais nova desaparece, ele faz de tudo para encontrá-la, com sucesso. No entanto, Eric é o único a desconfiar que Rose não é a mesma que já foi um dia, então ele passa a investigar o que realmente aconteceu com ela. 
 [COLOR white][B] Gênero:  [COLOR lime]Suspense / terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]The Slayer Chronicles - Volume 1 [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]The Slayer Chronicles - Volume 1 [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F721B0FC93BA33C4B46AA8B90A44555F9CEC644F</link>
 <thumbnail>https://abutretorrents.com/imagens/the-slayer-chronicles-volume-1-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d0a1fa9ad02ca9650d5b93547eaf0e8d05afb9ecc653b09b115aab5bf4e9d50d._RI_.png</fanart>
 <info>Sinopse: [COLOR yellow][B] Raven Cross recebe um curso intensivo sobre o sobrenatural quando descobre que é uma caçadora de vampiros e membro de um coven de trabalhadores da luz encarregados de proteger o véu. 
 [COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Tom [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Tom [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5ED148CA299556EE141759009F8888BF2E7DC32</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mYfGeHFDXO3dosBhJZtrdtYmip.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/--SzLgSkieU/maxresdefault.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]Uma pequena cidade com segredos é aterrorizada por uma entidade demoníaca. À medida que a loucura reina, as perguntas são respondidas.
 [COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Wolves of War [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Wolves of War [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A10CFC530F704408FB0D897DA8E7737A79F3716F</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rfKvX0oB3YyJfYEtUe2TazaQdRq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/65QLeu4WFVm9B1PQYtpj5g4IYO8.jpg</fanart>
 <info>Sinopse: [COLOR yellow][B]No final da Segunda Guerra Mundial, um oficial britânico lidera uma tropa de aliados em território inimigo na Baviera em uma última missão impossível para extrair um americano refém dos nazistas.
 [COLOR white][B] Gênero:  [COLOR lime]Ação / Guerra / Suspense [/COLOR][/B]</info></item>
 ##############################################################################################################
-<item><title>[B][COLOR white]Wayward [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<item><title>[B][COLOR white]Wayward [COLOR yellow] ( 1080p )[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D618DA817B28413B635C47C76CC195CECFE5D33</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FoonJPdi7dx6vrIA2hL6fGkG5k.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FoonJPdi7dx6vrIA2hL6fGkG5k.jpg</fanart>
