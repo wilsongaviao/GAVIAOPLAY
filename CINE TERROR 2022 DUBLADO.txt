@@ -1,3 +1,23 @@
+<item><title>[B][COLOR white] V/H/S/99[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AAD1C519E42A547A6B1D2C510FC52412A58B27A8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xXtbbkiNEiZsC92Si7TObR56Vom.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]V/H/S/99 remonta aos últimos dias analógicos do punk rock do VHS, enquanto dá um salto gigante para o novo milênio infernal. Em V/H/S/99, o vídeo caseiro de um adolescente sedento leva a uma série de revelações horríveis. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Terror Train [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C57578C0C3CCCDB3C615E15071A1A0ACBC239D78</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeDVKkeCk9U75a0TZ4mezylXy3j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fsFcHuCD9Phb4Y5stMnwY9NyDQw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Alana e um grupo de universitários embarcam em um trem festivo para uma festa temática de Halloween, mas sua diversão se transforma em medo quando um misterioso assaltante começa a matar os passageiros um por um. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hounded [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B8B90F006B785DF59966771109062DD6DFEFBA9F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdVz9dUv2YvNQil4svLAiUTuY28.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/BgBXBqAukHxt6WKb7Iw49LW0DW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um assalto a uma casa imponente toma um rumo maligno uma noite, quando uma gangue de jovens ladrões é capturada pelos donos da casa e depois caçada em toda a propriedade para o entretenimento do proprietário. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Terror [/COLOR][/B]</info></item
 ##############################################################################################################
 <item><title>[B][COLOR white]O Telefone do Sr. Harrigan [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46ae50e165363069258cdaa14ee5cf581d420831</link>
