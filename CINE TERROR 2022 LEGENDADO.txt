@@ -1,4 +1,33 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Duas Bruxas  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B821FBF31EDC5E7B6387A4D6257ED6735CE661D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uL9fFTdNmUUlKIJfHJclN5X3bxH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wUwFMnbFxuDfcRSGGT7QQIGDRrH.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A passagem do legado maligno entre uma avó bruxa para sua neta e as terríveis consequências para as pessoas que cruzarem seus caminhos.
+[COLOR white][B] Gênero:  [COLOR lime]Terror][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white] V/H/S/99[COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4E8B37C185B4052F18069969194071B9DCD682D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xXtbbkiNEiZsC92Si7TObR56Vom.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]V/H/S/99 remonta aos últimos dias analógicos do punk rock do VHS, enquanto dá um salto gigante para o novo milênio infernal. Em V/H/S/99, o vídeo caseiro de um adolescente sedento leva a uma série de revelações horríveis. [COLOR lime] DUBLAGEM NAO OFICIAL
+[COLOR white][B] Gênero:  [COLOR lime]Terror [/COLOR]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Terror Train [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE6887D55254145803E0C741281E97B0049AA125</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeDVKkeCk9U75a0TZ4mezylXy3j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fsFcHuCD9Phb4Y5stMnwY9NyDQw.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Alana e um grupo de universitários embarcam em um trem festivo para uma festa temática de Halloween, mas sua diversão se transforma em medo quando um misterioso assaltante começa a matar os passageiros um por um. 
+[COLOR white][B] Gênero:  [COLOR lime]Mistério / Terror [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Hounded [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91441509118B682AEF758C796639D54024D17605</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdVz9dUv2YvNQil4svLAiUTuY28.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/BgBXBqAukHxt6WKb7Iw49LW0DW.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Um assalto a uma casa imponente toma um rumo maligno uma noite, quando uma gangue de jovens ladrões é capturada pelos donos da casa e depois caçada em toda a propriedade para o entretenimento do proprietário. 
+[COLOR white][B] Gênero:  [COLOR lime]Ação / Terror [/COLOR][/B]</info></item
+##############################################################################################################
+##############################################################################################################
 <item><title>[B][COLOR white]Tom [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5ED148CA299556EE141759009F8888BF2E7DC32</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mYfGeHFDXO3dosBhJZtrdtYmip.jpg</thumbnail>
