@@ -1,4 +1,19 @@
 ##############################################################################################################
+<item><title>[B][COLOR white]Desencantada [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c61f5b89a5948da8711a0c7f2069ed64d4cea8f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mchDEPh1fkID8nq8IONAGQeiPJg.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]Quinze anos se passaram desde que Giselle e Robert se casaram, mas Giselle está desiludida com a vida na cidade. Frustrada por não encontrar seu final "felizes para sempre", ela recorre à magia de Andalásia e transforma, sem querer, toda a cidade num verdadeiro conto de fadas, colocando a felicidade de sua família em risco. Agora Giselle corre contra o tempo para desfazer o feitiço e descobrir o que realmente significa ter um final feliz, para ela e sua família.
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+<item><title>[B][COLOR white]Scooby-Doo! Gostosuras ou Travessuras  [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ECMVPMQY6ABMOQJP5O4TN4F2EHSVMSA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tkd1zT65LEFieZlIltNxcUnzGNr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zoL7dO6Uw8wOtkhfrwryevQudSK.jpg</fanart>
+<info>Sinopse: [COLOR yellow][B]A Mystery Inc. desvendou o caso para o topo de todos os casos! Eles rastrearam Coco Diablo, o chefe de um notório sindicato do crime de fantasia. Com Coco e seu gatinho na prisão, a Mystery Inc. pensa que eles podem finalmente desfrutar de uma pausa. Errado! De repente, fantasmas ameaçadores doppelgänger da tripulação do Scooby e inimigos clássicos favoritos aparecem em Coolsville para ameaçar o Halloween. Agora cabe ? s crianças intrometidas desmascarar o mais recente canalha e salvar o Halloween! 
+[COLOR white][B] Gênero:  [COLOR lime]Animação / Aventura / Comédia [/COLOR][/B]</info></item>
+##############################################################################################################
+##############################################################################################################
 <item><title>[B][COLOR white]O Lendário Cão Guerreiro [COLOR yellow] ( 1080p )[COLOR crimson] NEW[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PIT6XU2F35IADTAKMTYU2VE4UCP2OA43</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg</thumbnail>
